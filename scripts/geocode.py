@@ -1,7 +1,7 @@
 import json, sys, os, subprocess, urllib.parse, re, unicodedata
 D=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
 CACHE=os.path.join(D,'geocode.json')
-cache=json.load(open(CACHE)) if os.path.exists(CACHE) else {}
+cache=json.load(open(CACHE,encoding='utf-8')) if os.path.exists(CACHE) else {}
 MANUAL={
  'Nouméa|988':(-22.2758,166.4580),'Papeete|987':(-17.5350,-149.5696),'Saint-Pierre|975':(46.7792,-56.1773),
  'Marigot|978':(18.0675,-63.0825),'Gustavia|977':(17.8962,-62.8498),'Mata-Utu|986':(-13.2825,-176.1764),
@@ -46,10 +46,10 @@ def main():
     pairs=set()
     for a in sys.argv[1:]:
         if a.endswith('.json'):
-            for it in json.load(open(a)):
+            for it in json.load(open(a,encoding='utf-8')):
                 pairs.add((it.get('city','').strip(), str(it.get('dept','') or '').strip()))
         else:
-            for line in open(a):
+            for line in open(a,encoding='utf-8'):
                 line=line.strip()
                 if not line or line.startswith('#'): continue
                 c,_,d=line.partition('|'); pairs.add((c.strip(),d.strip()))
@@ -58,7 +58,7 @@ def main():
         if not city: continue
         r=geocode(city,dept)
         if r is None: miss.append((city,dept))
-    json.dump(cache,open(CACHE,'w'),ensure_ascii=False,indent=0)
+    json.dump(cache,open(CACHE,'w',encoding='utf-8',newline='\n'),ensure_ascii=False,indent=0)
     print('cached',len(cache),'missing',len(miss)); 
     for m in miss: print('  MISSING', m)
 main()

@@ -6,6 +6,9 @@ Usage: python3 -I build.py [--local] [--sample]
   --sample  build from data/sample_*.json only
 """
 import json, os, re, sys, glob, unicodedata, hashlib, datetime, subprocess, urllib.parse
+for _s in (sys.stdout, sys.stderr):  # never crash on a console that cannot show a character (Windows cp1252)
+    try: _s.reconfigure(errors='replace')
+    except Exception: pass
 
 S = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repository root
 D = os.path.join(S, 'data')
@@ -71,8 +74,8 @@ def to_int(v):
 
 # ---------- geocoding ----------
 CACHE_PATH = os.path.join(D, 'geocode.json')
-cache = json.load(open(CACHE_PATH)) if os.path.exists(CACHE_PATH) else {}
-MANUAL = json.load(open(os.path.join(D, 'geocode_manual.json'))) if os.path.exists(os.path.join(D, 'geocode_manual.json')) else {}
+cache = json.load(open(CACHE_PATH, encoding='utf-8')) if os.path.exists(CACHE_PATH) else {}
+MANUAL = json.load(open(os.path.join(D, 'geocode_manual.json'), encoding='utf-8')) if os.path.exists(os.path.join(D, 'geocode_manual.json')) else {}
 
 def api(city, dept):
     params = {'nom': city, 'fields': 'nom,code,codeDepartement,centre,population', 'boost': 'population', 'limit': '5'}
@@ -93,7 +96,7 @@ def api(city, dept):
 GAZ = {}
 for f in glob.glob(os.path.join(S, 'dl', 'geo', 'depts', '*.json')):
     try:
-        for c in json.load(open(f)):
+        for c in json.load(open(f, encoding='utf-8')):
             if 'centre' not in c: continue
             GAZ.setdefault(norm(c['nom']), []).append({'lat': c['centre']['coordinates'][1], 'lon': c['centre']['coordinates'][0], 'nom': c['nom'], 'dept': c['codeDepartement'], 'pop': c.get('population') or 0})
     except Exception:
@@ -143,7 +146,7 @@ inc_raw = load('incidents_*.json') + load('sample_incidents*.json')
 st_raw = load('stats*.json') + load('sample_stats*.json')
 
 # ---------- overrides ----------
-OVR = json.load(open(os.path.join(D, 'overrides.json'))) if os.path.exists(os.path.join(D, 'overrides.json')) else []
+OVR = json.load(open(os.path.join(D, 'overrides.json'), encoding='utf-8')) if os.path.exists(os.path.join(D, 'overrides.json')) else []
 def apply_overrides(kind, it):
     for o in OVR:
         if o.get('kind') != kind or o.get('stage') == 'merged': continue
@@ -508,7 +511,7 @@ if PAGES:  # local sprites and photos; Reddit previews stay remote (they cannot 
 for it in ev_list + merged:
     for m in it.get('media', []): m.pop('remote', None)
 os.makedirs(DIST, exist_ok=True)
-json.dump(sorted(media_files.keys()), open(os.path.join(DIST, 'media_files.json'), 'w'))
+json.dump(sorted(media_files.keys()), open(os.path.join(DIST, 'media_files.json'), 'w', encoding='utf-8', newline='\n'))
 
 # ---------- geocode + finalize ----------
 missing = set()
@@ -530,7 +533,7 @@ def finalize(it, kind):
 
 for e in ev_list: finalize(e, 'e')
 for x in merged: finalize(x, 'i')
-json.dump(cache, open(CACHE_PATH, 'w'), ensure_ascii=False, indent=0)
+json.dump(cache, open(CACHE_PATH, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 
 cities = {}
 for it in ev_list + merged:
@@ -547,8 +550,8 @@ while d <= DAY1:
 
 data = {'days': days, 'keydays': KEYDAYS, 'defaultDay': '2026-10-17', 'events': ev_list, 'incidents': merged, 'stats': st_list, 'national': national, 'cities': cities,
         'built': datetime.date.today().isoformat()}
-json.dump(data, open(os.path.join(D, 'merged.json'), 'w'), ensure_ascii=False, indent=0)
-topo = open(os.path.join(D, 'france.topo.json')).read()
+json.dump(data, open(os.path.join(D, 'merged.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
+topo = open(os.path.join(D, 'france.topo.json'), encoding='utf-8').read()
 tpl = open(os.path.join(S, 'app', 'template.html'), encoding='utf-8').read()
 out = tpl.replace('__TOPO__', topo).replace('__DATA__', json.dumps(data, ensure_ascii=False, separators=(',', ':'))).replace('__EMBED__', 'true' if (STANDALONE or PAGES) else 'false')
 if LOCAL:
@@ -557,7 +560,7 @@ if LOCAL:
 os.makedirs(DIST, exist_ok=True)
 name = ('index' if PAGES else ('automne-2026-standalone' if STANDALONE else 'automne-2026')) + ('-local' if LOCAL else '') + '.html'
 outpath = os.path.join(S, 'index.html') if (PAGES and not LOCAL) else os.path.join(DIST, name)
-open(outpath, 'w', encoding='utf-8').write(out)
+open(outpath, 'w', encoding='utf-8', newline='\n').write(out)
 nm = sum(len(it.get('media', [])) for it in ev_list + merged); nc = sum(1 for it in ev_list + merged if it.get('media'))
 print(f'events {len(ev_list)} (from {len(ev_raw)} raw) | incidents {len(merged)} (from {len(inc_raw)} raw) | stats {len(st_list)} | cities {len(cities)} | media {nm} on {nc} cards, {len(media_files)} files | output {len(out)/1e6:.2f} MB -> {name}')
 if missing: print('MISSING GEOCODES:', sorted(missing))

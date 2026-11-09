@@ -36,7 +36,7 @@ Carte interactive, jour par jour, des mobilisations et des faits de violences po
 ## Administrer les données en local
 
 ```bash
-python3 scripts/admin.py        # ouvre http://127.0.0.1:8765/
+python3 scripts/admin.py        # ouvre http://127.0.0.1:8765/  (sous Windows : py scripts\admin.py)
 ```
 
 L’outil (bibliothèque standard de Python uniquement, aucune installation) permet de rechercher, créer, modifier et supprimer les événements, les signalements (y compris changer leur catégorie), les chiffres officiels et les médias attachés aux cartes, puis de **reconstruire la page** et, si on le souhaite, de **committer et pousser** le dépôt.
@@ -53,7 +53,7 @@ python3 -I scripts/build.py --standalone     # version à fichier unique, vignet
 python3 -I scripts/build.py                  # version pour l’artefact hébergé, lecteurs externes bloqués (dist/)
 ```
 
-Le script fusionne les fichiers `data/*.json`, applique `data/overrides.json`, géocode les villes, télécharge les vignettes, assemble les planches et injecte le tout dans `app/template.html`. Pour corriger une carte, modifier le fichier source concerné ou ajouter une règle dans `overrides.json`, puis reconstruire.
+Le script fusionne les fichiers `data/*.json`, applique `data/overrides.json`, géocode les villes, télécharge les vignettes, assemble les planches et injecte le tout dans `app/template.html`. Tous les fichiers sont lus et écrits en UTF-8, quel que soit le système. Pour corriger une carte, modifier le fichier source concerné ou ajouter une règle dans `overrides.json`, puis reconstruire.
 
 ## Méthode et limites
 

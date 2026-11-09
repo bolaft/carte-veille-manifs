@@ -30,15 +30,25 @@ def norm(s):
     s = unicodedata.normalize('NFKD', str(s or '')).encode('ascii', 'ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+', ' ', s).strip()
 
-def load(name, default):
+WARNINGS = []  # problems found while reading the data files, shown in the interface
+def load(name, default, lenient=False):
     p = os.path.join(DATA, name)
     if not os.path.exists(p): return default
-    with open(p, encoding='utf-8') as fh: return json.load(fh)
+    with open(p, 'rb') as fh: raw = fh.read()
+    try: text = raw.decode('utf-8')
+    except UnicodeDecodeError:  # file written in the Windows code page by an older build.py
+        WARNINGS.append(f'{name} n’est pas encodé en UTF-8 : reconstruisez la page pour le régénérer.')
+        text = raw.decode('cp1252', errors='replace')
+    try: return json.loads(text)
+    except ValueError as e:
+        if not lenient: raise RuntimeError(f'{name} est illisible ({e}) ; corrigez ou restaurez ce fichier avant de modifier les données.')
+        fix = 'reconstruisez la page pour le régénérer' if name == 'merged.json' else 'corrigez ou restaurez ce fichier (git checkout), les modifications le concernant sont refusées'
+        WARNINGS.append(f'{name} est illisible ({e}) : {fix}.'); return default
 
 def save(name, obj):
     p = os.path.join(DATA, name)
     tmp = p + '.tmp'
-    with open(tmp, 'w', encoding='utf-8') as fh: json.dump(obj, fh, ensure_ascii=False, indent=1)
+    with open(tmp, 'w', encoding='utf-8', newline='\n') as fh: json.dump(obj, fh, ensure_ascii=False, indent=1)
     os.replace(tmp, p)
 
 def now(): return datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
@@ -80,17 +90,18 @@ def manual_index(kind, rec):
 
 def set_dirty(flag=True):
     p = os.path.join(DATA, '.admin_dirty')
-    if flag: open(p, 'w').write(now())
+    if flag: open(p, 'w', encoding='utf-8').write(now())
     elif os.path.exists(p): os.remove(p)
 
 def state():
-    merged = load('merged.json', {'events': [], 'incidents': [], 'stats': [], 'built': ''})
-    ovr = load('overrides.json', [])
+    del WARNINGS[:]
+    merged = load('merged.json', {'events': [], 'incidents': [], 'stats': [], 'built': ''}, lenient=True)
+    ovr = load('overrides.json', [], lenient=True)
     admin_rules = [dict(o, _index=i) for i, o in enumerate(ovr) if o.get('stage') == 'merged']
     return {'events': merged.get('events', []), 'incidents': merged.get('incidents', []), 'stats': merged.get('stats', []),
             'built': merged.get('built', ''), 'rules': admin_rules,
-            'manual': {k: load(v, []) for k, v in MANUAL.items()},
-            'dirty': os.path.exists(os.path.join(DATA, '.admin_dirty'))}
+            'manual': {k: load(v, [], lenient=True) for k, v in MANUAL.items()},  # reading is lenient, writing (op_*) refuses a corrupt file
+            'dirty': os.path.exists(os.path.join(DATA, '.admin_dirty')), 'warnings': list(WARNINGS)}
 
 # ---------- operations ----------
 def op_create(kind, record):
@@ -133,7 +144,8 @@ def op_undo(index):
     return {'ok': False, 'error': 'règle introuvable'}
 
 def op_rebuild():
-    r = subprocess.run([sys.executable, '-I', os.path.join(ROOT, 'scripts', 'build.py'), '--pages'], cwd=ROOT, capture_output=True, text=True, timeout=3600)
+    # -X utf8: the build reads and writes UTF-8 whatever the system code page (Windows)
+    r = subprocess.run([sys.executable, '-I', '-X', 'utf8', os.path.join(ROOT, 'scripts', 'build.py'), '--pages'], cwd=ROOT, capture_output=True, encoding='utf-8', errors='replace', timeout=3600)
     ok = r.returncode == 0
     if ok: set_dirty(False)
     return {'ok': ok, 'output': (r.stdout + r.stderr)[-4000:]}
@@ -143,7 +155,7 @@ def op_commit(message):
     cmds = [['git', 'add', '-A'], ['git', 'commit', '-m', msg], ['git', 'push']]
     out = []
     for c in cmds:
-        r = subprocess.run(c, cwd=ROOT, capture_output=True, text=True, timeout=600)
+        r = subprocess.run(c, cwd=ROOT, capture_output=True, encoding='utf-8', errors='replace', timeout=600)
         out.append('$ ' + ' '.join(c) + '\n' + r.stdout + r.stderr)
         if r.returncode != 0 and c[1] != 'commit': return {'ok': False, 'output': '\n'.join(out)[-4000:]}
     return {'ok': True, 'output': '\n'.join(out)[-4000:]}
@@ -157,7 +169,9 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path = urlparse(self.path).path
         if path == '/': b = HTML.encode('utf-8'); self.send_response(200); self.send_header('Content-Type', 'text/html; charset=utf-8'); self.send_header('Content-Length', str(len(b))); self.end_headers(); self.wfile.write(b)
-        elif path == '/api/state': self._json(state())
+        elif path == '/api/state':
+            try: self._json(state())
+            except Exception as e: self._json({'ok': False, 'error': str(e)}, 500)
         else: self.send_response(404); self.end_headers()
     def do_POST(self):
         path = urlparse(self.path).path
@@ -211,7 +225,7 @@ td.t{max-width:560px} td .sub{color:var(--fg2);font-size:12px}
 .pending{color:var(--warn);font-size:12px}
 </style></head><body>
 <header><h1>Administration · Carte de veille</h1>
- <span id="built" class="hint"></span><span id="dirty" class="badge"></span>
+ <span id="built" class="hint"></span><span id="dirty" class="badge"></span><span id="warn" class="pending" style="display:none"></span>
  <span style="flex:1"></span>
  <button id="rebuild" class="primary">Reconstruire la page</button>
  <button id="commit">Commit &amp; push</button>
@@ -230,8 +244,8 @@ const CATS={lbd:'LBD',grenade:'Grenade',coups:'Coups','véhicule':'Véhicule',ga
 const TYPES={manifestation:'Manifestation',rassemblement:'Rassemblement','grève':'Grève',blocage:'Blocage',occupation:'Occupation','émeute':'Émeute',autre:'Autre'};
 const METRICS=['interpellations','gardes_a_vue','poursuites','deferrements','comparutions_immediates','condamnations','detentions_provisoires','incarcerations','peines_emprisonnement','mandats_de_depot','classements_sans_suite','alternatives_poursuites','assignations_a_residence','interdictions_de_manifester','enquetes_igpn_iggn','blesses_forces_ordre','blesses_manifestants','blesses_eleves','blesses_personnels','deces','mineurs_part_gav','couvre_feux_villes','munitions_lacrymo','munitions_desencerclement','munitions_assourdissantes','munitions_lbd','autre'];
 const fam=x=>x.cat==='extrême-droite'?'fr':x.cat==='répression'?'rep':x.cat==='propagande'?'prop':'police';
-async function api(path,body){const r=await fetch('/api/'+path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});return r.json();}
-async function refresh(){S=await api('state');$('#built').textContent=S.built?`Dernière construction : ${S.built}`:'';const n=S.rules.length+Object.values(S.manual).reduce((a,b)=>a+b.filter(x=>x._admin).length,0);$('#dirty').textContent=S.dirty?`modifications non reconstruites`:'à jour';$('#dirty').className='badge'+(S.dirty?' warn':'');render();}
+async function api(path,body){const r=await fetch('/api/'+path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});const j=await r.json();if(!r.ok){log('Erreur : '+(j.error||r.status));throw new Error(j.error||r.status);}return j;}
+async function refresh(){S=await api('state');$('#built').textContent=S.built?`Dernière construction : ${S.built}`:'';const n=S.rules.length+Object.values(S.manual).reduce((a,b)=>a+b.filter(x=>x._admin).length,0);$('#dirty').textContent=S.dirty?`modifications non reconstruites`:'à jour';$('#dirty').className='badge'+(S.dirty?' warn':'');const w=S.warnings||[];$('#warn').textContent=w.join(' ');$('#warn').style.display=w.length?'':'none';render();}
 function log(t){const l=$('#log');l.style.display='block';l.textContent=t;l.scrollTop=l.scrollHeight;}
 function setFilter(){const f=$('#f1');const cur=f.value;const opts=tab==='incident'?[['','Toutes catégories'],...Object.entries(CATS)]:tab==='event'?[['','Tous types'],...Object.entries(TYPES)]:tab==='stat'?[['','Toutes métriques'],...METRICS.map(m=>[m,m])]:[['','']];f.innerHTML=opts.map(([k,v])=>`<option value="${esc(k)}">${esc(v)}</option>`).join('');if([...f.options].some(o=>o.value===cur))f.value=cur;f.style.display=tab==='media'||tab==='rules'?'none':'';}
 function rows(){const q=$('#q').value.trim().toLowerCase(),f=$('#f1').value,d=$('#fdate').value;const hit=x=>(!q||[x.city,x.title,x.summary,x.date,x.quote,x.authority,x.metric].join(' ').toLowerCase().includes(q))&&(!d||x.date===d);

@@ -3,7 +3,7 @@ import os
 S=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repository root
 D=S+'/data/'
 TZ=zoneinfo.ZoneInfo('Europe/Paris')
-m=json.load(open(D+'merged.json'))
+m=json.load(open(D+'merged.json',encoding='utf-8'))
 def norm(s):
     s=unicodedata.normalize('NFKD', str(s or '')).encode('ascii','ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+',' ',s).strip()
@@ -188,5 +188,5 @@ for a in out:
     k=(a['kind'],a['date'],a['city'],a['title_prefix'])
     if per[k]>=4: continue
     per[k]+=1; a.pop('_score'); final.append(a)
-json.dump(final, open(D+'media_reddit.json','w'), ensure_ascii=False, indent=0)
+json.dump(final, open(D+'media_reddit.json','w',encoding='utf-8',newline='\n'), ensure_ascii=False, indent=0)
 print('attachments', len(final), dict(stats), '| cards', len(per))

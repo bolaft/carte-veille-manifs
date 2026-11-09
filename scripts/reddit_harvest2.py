@@ -8,10 +8,10 @@ KEEP=('id','title','created_utc','score','num_comments','is_video','domain','url
 def harvest(sub, out):
     seen=set(); after=start; n=0
     if os.path.exists(out):
-        for line in open(out):
+        for line in open(out,encoding='utf-8'):
             try: p=json.loads(line); seen.add(p['id']); after=max(after, int(p['created_utc'])+1)
             except Exception: pass
-    with open(out,'a') as f:
+    with open(out,'a',encoding='utf-8') as f:
         fails=0
         while after < end:
             url=f'https://arctic-shift.photon-reddit.com/api/posts/search?subreddit={sub}&after={after}&before={end}&limit=100&sort=asc'
