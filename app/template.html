@@ -1,0 +1,756 @@
+<title>Automne 2026 en carte</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one-screen atlas. Header band; map (with the official-figures counter pinned top-left and overseas insets along the bottom edge) beside a scrolling card column; day-by-day timeline footer. */
+:root {
+  --bg: #eef0ec;        /* cool paper, slight green-grey bias */
+  --bg-2: #ffffff;      /* panels, cards */
+  --bg-3: #e3e6e0;      /* chips, hover */
+  --fg: #16191b;
+  --fg-2: #535b61;
+  --line: #cfd4cc;
+  --land: #dfe3dc;
+  --land-line: #ffffff;
+  --inset-frame: #b9c0b7;
+  --manif: #0f7f8c;     /* teal: demonstrations */
+  --greve: #3f8a3d;     /* green: strikes */
+  --bloc: #c9841a;      /* amber: blockades and occupations */
+  --emeute: #4b5563;    /* slate: riots */
+  --police: #d1261b;    /* vermilion: police misconduct */
+  --fr: #5c3a21;        /* brown: far-right */
+  --rep: #5b3fb0;       /* violet: judicial and administrative repression */
+  --prop: #c2347a;      /* magenta: propaganda, fake news */
+  --accent: #1e3a8a;    /* ink blue: UI accent */
+  --accent-soft: #dfe6ff;
+  --shadow: 0 2px 10px rgba(20, 28, 24, 0.12);
+  --font-display: "Bricolage Grotesque", "Archivo Narrow", "Arial Narrow", sans-serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131618; --bg-2: #1b1f23; --bg-3: #262c31; --fg: #e9ebec; --fg-2: #9aa4ab; --line: #2c3338;
+    --land: #262c31; --land-line: #131618; --inset-frame: #3b444b;
+    --manif: #3fb6c1; --greve: #6fc26c; --bloc: #e8a53b; --emeute: #a3adb6; --police: #ff5a4b; --fr: #c08d5f; --rep: #a894ee; --prop: #f075b4;
+    --accent: #9db0ff; --accent-soft: #273054; --shadow: 0 2px 12px rgba(0,0,0,0.45);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #131618; --bg-2: #1b1f23; --bg-3: #262c31; --fg: #e9ebec; --fg-2: #9aa4ab; --line: #2c3338;
+  --land: #262c31; --land-line: #131618; --inset-frame: #3b444b;
+  --manif: #3fb6c1; --greve: #6fc26c; --bloc: #e8a53b; --emeute: #a3adb6; --police: #ff5a4b; --fr: #c08d5f; --rep: #a894ee; --prop: #f075b4;
+  --accent: #9db0ff; --accent-soft: #273054; --shadow: 0 2px 12px rgba(0,0,0,0.45);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 14px; line-height: 1.45; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+a { color: var(--accent); }
+button { font: inherit; color: inherit; }
+.app { display: flex; flex-direction: column; height: 100%; min-height: 100%; }
+.top { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  padding-block: 12px 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); border-bottom: 1px solid var(--line); background: var(--bg); }
+.brand { min-width: 0; }
+.brand h1 { font-family: var(--font-display); font-weight: 800; font-size: clamp(22px, 2.6vw, 30px); line-height: 1; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.brand p { margin: 4px 0 0; color: var(--fg-2); font-size: 13px; max-width: 70ch; }
+.daybox { text-align: right; min-width: 0; }
+.daybox .dow { font-size: 11px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--fg-2); }
+.daybox .date { font-family: var(--font-display); font-weight: 700; font-size: clamp(20px, 2.4vw, 28px); line-height: 1.05; white-space: nowrap; }
+.daybox .nat { font-size: 12px; color: var(--fg-2); margin-top: 2px; }
+.layout { flex: 1 1 auto; display: grid; grid-template-columns: minmax(0, 1fr) 400px; min-height: 0; }
+.mapwrap { position: relative; min-width: 0; min-height: 0; background: var(--bg); overflow: hidden; padding-left: max(0px, env(safe-area-inset-left, 0px)); }
+#map { display: block; width: 100%; height: 100%; }
+.land { fill: var(--land); stroke: var(--land-line); stroke-width: 0.6; }
+.border { fill: none; stroke: var(--land-line); stroke-width: 0.9; }
+.inset-frame { fill: var(--bg-2); stroke: var(--inset-frame); stroke-width: 0.8; }
+.inset-label { font-family: var(--font-body); font-size: 10px; fill: var(--fg-2); letter-spacing: 0.06em; text-transform: uppercase; }
+.city-label { font-family: var(--font-body); font-size: 10px; fill: var(--fg-2); pointer-events: none; opacity: 0.8; }
+circle.ev { stroke: var(--bg-2); stroke-width: 0.8; cursor: pointer; transition: opacity .25s; }
+path.inc { stroke: var(--bg-2); stroke-width: 0.9; cursor: pointer; transition: opacity .25s; }
+.sel-ring { fill: none; stroke: var(--accent); stroke-width: 2; pointer-events: none; }
+@media (prefers-reduced-motion: no-preference) {
+  .sel-ring { animation: ring 1.6s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes ring { 0% { transform: scale(0.7); opacity: 1; } 100% { transform: scale(1.8); opacity: 0; } }
+}
+.counter { position: absolute; top: 12px; left: 12px; width: 340px; max-width: calc(100% - 24px); background: var(--bg-2); border: 1px solid var(--line); box-shadow: var(--shadow); padding: 10px 12px 8px; z-index: 3; }
+.counter h2 { font-family: var(--font-display); font-weight: 700; font-size: 15px; margin: 0; line-height: 1.1; }
+.counter .asof { font-size: 11px; color: var(--fg-2); margin: 2px 0 6px; }
+.counter .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px 10px; }
+.tile { min-width: 0; border-top: 1px solid var(--line); padding-top: 3px; }
+.tile .k { font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--fg-2); line-height: 1.15; }
+.tile .v { font-family: var(--font-mono); font-weight: 600; font-size: 18px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.tile .v.none { color: var(--fg-2); font-weight: 500; }
+.tile .m { font-size: 10.5px; color: var(--fg-2); line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tile .m2 { font-size: 10px; color: var(--fg); line-height: 1.2; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.tile .m a { color: var(--fg-2); text-decoration: none; border-bottom: 1px dotted var(--fg-2); }
+.counter .foot { font-size: 10px; color: var(--fg-2); margin-top: 6px; line-height: 1.25; }
+.counter .toggle { position: absolute; top: 8px; right: 8px; border: 1px solid var(--line); background: var(--bg-3); border-radius: 3px; padding: 1px 6px; font-size: 11px; cursor: pointer; }
+.counter.collapsed .grid, .counter.collapsed .foot { display: none; }
+.legend { position: absolute; right: 10px; top: 10px; background: color-mix(in srgb, var(--bg-2) 88%, transparent); border: 1px solid var(--line); padding: 6px 10px; font-size: 11px; color: var(--fg-2); z-index: 2; display: grid; grid-template-columns: auto; gap: 2px 12px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; transition: opacity .25s; }
+.legend span.absent { opacity: 0.3; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
+.legend i.tri { width: 0; height: 0; border-radius: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-bottom: 11px solid var(--police); }
+.legend i.sq { border-radius: 1px; background: var(--fr); }
+.legend i.dia, .chip i.dia { border-radius: 1px; background: var(--rep); transform: rotate(45deg); width: 9px; height: 9px; }
+.legend i.x, .chip i.x { border-radius: 50%; background: var(--prop); }
+.tooltip { position: absolute; pointer-events: none; background: var(--bg-2); color: var(--fg); border: 1px solid var(--line); box-shadow: var(--shadow); padding: 6px 9px; font-size: 12px; max-width: 260px; z-index: 5; display: none; line-height: 1.35; }
+.tooltip b { font-weight: 600; }
+.tooltip .t { color: var(--fg-2); font-size: 11px; }
+.panel { display: flex; flex-direction: column; min-height: 0; min-width: 0; border-left: 1px solid var(--line); background: var(--bg-2); padding-right: max(0px, env(safe-area-inset-right, 0px)); }
+.panel-head { padding: 10px 14px 8px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 8px; }
+.panel-head .summary { font-size: 12.5px; color: var(--fg-2); }
+.panel-head .summary b { color: var(--fg); font-weight: 600; }
+.row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chip { border: 1px solid var(--line); background: var(--bg-2); border-radius: 999px; padding: 2px 9px; font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; line-height: 1.4; }
+.chip i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.chip i.tri { width: 0; height: 0; border-radius: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 9px solid var(--police); }
+.chip i.sq { border-radius: 1px; }
+.chip[aria-pressed="false"] { opacity: 0.45; text-decoration: line-through; }
+.chip.city { background: var(--accent-soft); border-color: var(--accent); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; }
+.seg button { border: 0; background: var(--bg-2); padding: 3px 10px; font-size: 12px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.search { flex: 1 1 140px; min-width: 0; border: 1px solid var(--line); border-radius: 4px; padding: 4px 8px; font: inherit; font-size: 12.5px; background: var(--bg-2); color: var(--fg); }
+.cards { overflow-y: auto; padding: 10px 14px 24px; display: flex; flex-direction: column; gap: 10px; min-height: 0; }
+.card { border: 1px solid var(--line); border-left-width: 4px; padding: 8px 10px 8px 12px; background: var(--bg-2); }
+.card.inc { border-left-color: var(--police); }
+.card.fr { border-left-color: var(--fr); }
+.card.rep { border-left-color: var(--rep); }
+.card.prop { border-left-color: var(--prop); }
+.card.stmt { border-left-style: double; border-left-width: 6px; }
+.card .meta .stmt-tag { background: var(--bg-3); border-radius: 3px; padding: 0 5px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--fg); }
+.card.ev { border-left-color: var(--manif); }
+.card.ev[data-type="grève"] { border-left-color: var(--greve); }
+.card.ev[data-type="blocage"], .card.ev[data-type="occupation"] { border-left-color: var(--bloc); }
+.card.ev[data-type="émeute"] { border-left-color: var(--emeute); }
+.card.hl { outline: 2px solid var(--accent); outline-offset: 1px; }
+.card .meta { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; font-size: 11px; color: var(--fg-2); margin-bottom: 2px; }
+.card .meta .city { font-weight: 600; color: var(--fg); font-size: 12px; cursor: pointer; }
+.card .meta .tag { text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
+.card h3 { font-family: var(--font-display); font-weight: 700; font-size: 15px; margin: 0 0 4px; line-height: 1.2; text-wrap: balance; }
+.card p { margin: 0 0 4px; font-size: 13px; }
+.card p.clamp { display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; overflow: hidden; }
+.card .readmore { border: 0; background: none; color: var(--accent); padding: 0; font-size: 12px; cursor: pointer; text-decoration: underline; margin-bottom: 4px; }
+.card .nums { font-family: var(--font-mono); font-size: 12px; font-variant-numeric: tabular-nums; color: var(--fg-2); margin-bottom: 3px; }
+.card .nums b { color: var(--fg); font-weight: 600; }
+.card .inv { font-size: 12px; color: var(--fg-2); border-top: 1px dashed var(--line); margin-top: 4px; padding-top: 4px; }
+.card .inv b { color: var(--fg); font-weight: 600; }
+.card .src { font-size: 11.5px; color: var(--fg-2); margin-top: 4px; }
+.card .src a { margin-right: 6px; }
+.card .src { overflow-wrap: anywhere; }
+.card .head { cursor: pointer; position: relative; padding-right: 20px; }
+.card .chev { position: absolute; right: 0; top: 2px; font-size: 12px; color: var(--fg-2); transition: transform .2s; }
+.card:not(.collapsed) .chev { transform: rotate(180deg); }
+.card.collapsed .body { display: none; }
+.card:not(.collapsed) .thumbs { display: none; }
+.card .thumbs { display: flex; gap: 4px; margin-top: 6px; }
+.card .excerpt { font-size: 12.5px; color: var(--fg-2); margin-top: 3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card:not(.collapsed) .excerpt { display: none; }
+.card .thumbs img, .card .thumbs .ph-s { width: 72px; height: 40px; object-fit: cover; border-radius: 2px; background: var(--bg-3); display: inline-flex; align-items: center; justify-content: center; font-size: 11px; color: var(--fg-2); }
+.card .thumbs .n { font-size: 11px; color: var(--fg-2); align-self: center; }
+.media { display: flex; flex-direction: column; gap: 10px; margin: 6px 0 8px; }
+.mi { margin: 0; }
+.frame { display: block; position: relative; width: 100%; aspect-ratio: 16 / 9; max-width: 100%; background: var(--bg-3); border: 0; padding: 0; border-radius: 3px; overflow: hidden; cursor: pointer; color: inherit; text-decoration: none; }
+.frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.frame .ph { position: absolute; inset: 0; }
+.sp { width: 100%; height: 100%; background-repeat: no-repeat; }
+.card .thumbs .sp { width: 72px; height: 40px; border-radius: 2px; }
+.frame .ph { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; color: var(--fg-2); font-size: 12px; padding: 8px; text-align: center; }
+.frame .pb { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 48px; height: 48px; border-radius: 50%; background: rgba(0,0,0,0.62); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 20px; padding-left: 4px; pointer-events: none; }
+.frame .ext { position: absolute; right: 6px; bottom: 6px; background: rgba(0,0,0,0.62); color: #fff; font-size: 11px; padding: 2px 6px; border-radius: 3px; }
+.frame.playing iframe, .frame.playing video { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; background: #000; }
+.mi figcaption { font-size: 12px; color: var(--fg); margin-top: 4px; line-height: 1.35; }
+.mi .cred { color: var(--fg-2); }
+.card .mnote { font-size: 11px; color: var(--fg-2); margin: 0 0 6px; }
+.chip.opt[aria-pressed="false"] { opacity: 1; text-decoration: none; color: var(--fg-2); }
+.chip.opt[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+circle.dot { fill: #fff; stroke: none; pointer-events: none; }
+.more { align-self: center; border: 1px solid var(--line); background: var(--bg-3); padding: 6px 14px; border-radius: 4px; cursor: pointer; }
+.empty { color: var(--fg-2); font-size: 13px; padding: 12px 0; }
+.timeline { border-top: 1px solid var(--line); background: var(--bg-2); padding-block: 8px 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-bottom: calc(10px + env(safe-area-inset-bottom, 0px)); display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 6px 14px; align-items: center; }
+.controls { display: flex; gap: 4px; align-items: center; }
+.controls button { border: 1px solid var(--line); background: var(--bg-2); width: 34px; height: 30px; border-radius: 4px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+.controls button:hover { background: var(--bg-3); }
+.controls button.play { width: 44px; background: var(--accent); color: #fff; border-color: var(--accent); }
+.controls svg { width: 14px; height: 14px; fill: currentColor; }
+.tl { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+#hist { width: 100%; height: 64px; display: block; }
+.hist-bar { cursor: pointer; }
+.hist-bar.cur rect { stroke: var(--accent); stroke-width: 1.5; }
+.hist-lab { font-size: 10px; fill: var(--fg-2); }
+#hist { height: 74px; }
+.hist-lab.key { fill: var(--fg); font-weight: 600; }
+.hist-axis { stroke: var(--line); }
+input[type=range] { width: 100%; margin: 0; accent-color: var(--accent); }
+.keydays { display: flex; flex-wrap: wrap; gap: 4px; font-size: 11px; color: var(--fg-2); }
+.keydays button { border: 0; background: transparent; padding: 0 4px; cursor: pointer; color: var(--accent); text-decoration: underline; font-size: 11px; }
+.keydays button.cur { font-weight: 700; color: var(--fg); text-decoration: none; }
+button:focus-visible, .chip:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.about { font-size: 11px; color: var(--fg-2); }
+.about details summary { cursor: pointer; }
+@media (max-width: 900px) {
+  html, body { height: auto; }
+  .app { height: auto; min-height: 100%; }
+  .layout { flex: none; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto auto; }
+  .mapwrap { overflow: visible; height: auto; }
+  #map { height: auto; width: 100%; }
+  .counter { position: static; width: auto; max-width: none; border-left: 0; border-right: 0; box-shadow: none; }
+  .counter .grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+  .counter.compact .tile:nth-child(n+7) { display: none; }
+  .panel { border-left: 0; border-top: 1px solid var(--line); }
+  .cards { max-height: 72vh; }
+  .legend { position: static; margin: 6px 12px 8px; background: var(--bg-2); grid-template-columns: auto auto; }
+  .daybox { text-align: left; }
+  .timeline { position: sticky; bottom: 0; z-index: 4; grid-template-columns: 1fr; box-shadow: 0 -2px 10px rgba(0,0,0,0.08); }
+  .keydays { display: none; }
+}
+</style>
+
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <h1>Automne 2026 en carte</h1>
+      <p>Mobilisations, grèves, blocages et faits de violences policières recensés dans la presse, de la grève du lycée du Nord à Mayotte (31 août) à l’acte IV du 7 novembre. Chaque carte cite sa source.</p>
+    </div>
+    <div class="daybox">
+      <div class="dow" id="dow">—</div>
+      <div class="date" id="date">—</div>
+      <div class="nat" id="nat"></div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <section class="mapwrap" id="mapwrap">
+      <aside class="counter" id="counter" aria-live="polite">
+        <button class="toggle" id="ctoggle" aria-expanded="true">réduire</button>
+        <h2>Chiffres officiels</h2>
+        <div class="asof" id="asof">Intérieur · Justice · au —</div>
+        <div class="grid" id="cgrid"></div>
+        <div class="foot">Bilans officiels publiés à la date affichée. « ≥ » : somme de bilans distincts (Justice : bilan du mouvement lycéen arrêté au 13 oct., puis bilan « depuis le 17 oct. » ; Intérieur : bilans quotidiens après le 7 oct.). Survolez un chiffre pour lire les citations.</div>
+      </aside>
+      <svg id="map" role="img" aria-label="Carte de France, Hexagone et outre-mer, des mobilisations et des violences policières"></svg>
+      <div class="legend" id="legend">
+        <span data-k="manif"><i style="background:var(--manif)"></i>Manifestation, rassemblement</span>
+        <span data-k="greve"><i style="background:var(--greve)"></i>Grève</span>
+        <span data-k="bloc"><i style="background:var(--bloc)"></i>Blocage, occupation</span>
+        <span data-k="emeute"><i style="background:var(--emeute)"></i>Émeute, pillage</span>
+        <span data-k="police"><i class="tri"></i>Violences policières signalées</span>
+        <span data-k="fr"><i class="sq"></i>Extrême droite</span>
+        <span data-k="rep"><i class="dia"></i>Répression judiciaire et administrative</span>
+        <span data-k="prop"><i class="x"></i>Propagande, fake news</span>
+      </div>
+      <div class="tooltip" id="tooltip"></div>
+    </section>
+
+    <aside class="panel">
+      <div class="panel-head">
+        <div class="row">
+          <div class="seg" role="group" aria-label="Période affichée">
+            <button id="mode-day" aria-pressed="true">Jour par jour</button>
+            <button id="mode-cumul" aria-pressed="false">Depuis le 31 août</button>
+          </div>
+          <input class="search" id="q" type="search" placeholder="Filtrer par ville…" aria-label="Filtrer par ville">
+        </div>
+        <div class="row" id="filters">
+          <button class="chip" data-f="manif" aria-pressed="true"><i style="background:var(--manif)"></i>Manifestations</button>
+          <button class="chip" data-f="greve" aria-pressed="true"><i style="background:var(--greve)"></i>Grèves</button>
+          <button class="chip" data-f="bloc" aria-pressed="true"><i style="background:var(--bloc)"></i>Blocages</button>
+          <button class="chip" data-f="emeute" aria-pressed="true"><i style="background:var(--emeute)"></i>Émeutes</button>
+          <button class="chip" data-f="police" aria-pressed="true"><i class="tri"></i>Violences policières</button>
+          <button class="chip" data-f="fr" aria-pressed="true"><i class="sq" style="background:var(--fr)"></i>Extrême droite</button>
+          <button class="chip" data-f="rep" aria-pressed="true"><i class="dia"></i>Répression judiciaire &amp; administrative</button>
+          <button class="chip" data-f="prop" aria-pressed="true"><i class="x"></i>Propagande, fake news</button>
+          <button class="chip opt" id="mediaonly" aria-pressed="false" title="N’afficher que les cartes illustrées">▶ Avec vidéos ou photos</button>
+          <button class="chip opt" id="expandall" aria-pressed="false">Tout déplier</button>
+        </div>
+        <div class="summary" id="summary"></div>
+        <div class="about"><details><summary>Méthode et limites</summary>
+          <p>Recensement construit à partir de la presse écrite nationale (Le Monde, Libération, L’Humanité, Le Figaro, Mediapart, franceinfo, Le Parisien…), régionale (France 3, Ici, Ouest-France, Sud Ouest, La Dépêche, Le Progrès, DNA, La Voix du Nord…), ultramarine (La 1ère, Mayotte Hebdo…) et indépendante (StreetPress, Bon Pote, Blast, Bondy Blog, Politis, Rue89…), complété par les chronologies de Wikipédia dont seules les sources de presse sont citées. Les cartes « violences policières » recensent des faits signalés par la presse ou faisant l’objet d’une enquête ; elles ne préjugent pas des conclusions judiciaires. Les cartes « extrême droite » distinguent ce qui est établi (interpellations, poursuites) de ce qui est allégué (passivité ou coordination policière). Les cartes « répression judiciaire et administrative » recensent les interdictions, couvre-feux, mesures individuelles, consignes de poursuites et dispositifs de surveillance, sans violence physique ; les cartes « propagande, fake news » recensent des affirmations fausses ou trompeuses et leur démenti ; les déclarations d’organisations internationales, d’autorités indépendantes et d’ONG sont classées selon leur objet et signalées par une mention « Déclaration ». Les effectifs sont ceux annoncés par les préfectures et par les organisateurs ; une ville sans chiffre connu apparaît avec un petit cercle. Les bilans officiels du compteur sont ceux publiés par les ministères de l’Intérieur et de la Justice, les parquets ou la préfecture de police, à la date affichée ; lorsque plusieurs bilans officiels se succèdent sans se recouvrir (bilan judiciaire du mouvement lycéen arrêté au 13 octobre, bilan « depuis le 17 octobre », bilans quotidiens de l’Intérieur), le compteur les additionne et le signale par « ≥ ». Un jour sans action recensée ne signifie pas qu’il ne s’est rien passé. Les vidéos sont celles publiées par des médias sur YouTube ou Dailymotion (lecture sur place dans la version autonome, ouverture dans un nouvel onglet dans la version hébergée, qui n’autorise pas les lecteurs intégrés) ; les photos proviennent de Wikimedia Commons sous licence libre, avec le crédit de leur auteur ; les clips qui n’existent que sur les réseaux sociaux sont donnés en lien ; les vidéos publiées sur r/France sont rattachées à la ville et au jour qu’elles montrent, avec un lien vers la publication d’origine (la version autonome tente de les lire sur place, sans le son, et affiche sinon la publication Reddit). Données arrêtées au <span id="built"></span>.</p>
+        </details></div>
+      </div>
+      <div class="cards" id="cards"></div>
+    </aside>
+  </div>
+
+  <footer class="timeline">
+    <div class="controls">
+      <button id="prev" aria-label="Jour précédent"><svg viewBox="0 0 16 16"><path d="M10 2 4 8l6 6V2z"/></svg></button>
+      <button id="play" class="play" aria-label="Lire la chronologie"><svg viewBox="0 0 16 16"><path id="playicon" d="M4 2l10 6-10 6z"/></svg></button>
+      <button id="next" aria-label="Jour suivant"><svg viewBox="0 0 16 16"><path d="M6 2l6 6-6 6V2z"/></svg></button>
+    </div>
+    <div class="tl">
+      <svg id="hist" viewBox="0 0 1000 76" preserveAspectRatio="none" aria-hidden="true"></svg>
+      <input type="range" id="slider" min="0" max="0" value="0" step="1" aria-label="Jour sélectionné">
+      <div class="keydays" id="keydays"></div>
+    </div>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script>
+const TOPO = __TOPO__;
+const DATA = __DATA__;
+</script>
+<script>
+(function () {
+  'use strict';
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const nf = new Intl.NumberFormat('fr-FR');
+  const MONTHS_S = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'];
+  const MONTHS_L = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
+  const DOWS = ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi'];
+  const parseISO = (s) => { const [y, m, d] = s.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d)); };
+  const fmtShort = (s) => { const d = parseISO(s); return `${d.getUTCDate() === 1 ? '1er' : d.getUTCDate()} ${MONTHS_S[d.getUTCMonth()]}`; };
+  const fmtDow = (s) => DOWS[parseISO(s).getUTCDay()];
+  const fmtLong = (s) => { const d = parseISO(s); return `${d.getUTCDate() === 1 ? '1er' : d.getUTCDate()} ${MONTHS_L[d.getUTCMonth()]} ${d.getUTCFullYear()}`; };
+  const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+  const norm = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+  const TYPE_LABEL = { manifestation: 'Manifestation', rassemblement: 'Rassemblement', 'grève': 'Grève', blocage: 'Blocage', occupation: 'Occupation', 'émeute': 'Émeute', autre: 'Action' };
+  const TYPE_VAR = { manifestation: 'manif', rassemblement: 'manif', 'grève': 'greve', blocage: 'bloc', occupation: 'bloc', 'émeute': 'emeute', autre: 'manif' };
+  const TYPE_FILTER = { manifestation: 'manif', rassemblement: 'manif', autre: 'manif', 'grève': 'greve', blocage: 'bloc', occupation: 'bloc', 'émeute': 'emeute' };
+  const CAT_LABEL = { lbd: 'Tir de LBD', grenade: 'Grenade', coups: 'Coups', 'véhicule': 'Véhicule', gaz: 'Gaz lacrymogène', 'garde-à-vue': 'Garde à vue', interpellation: 'Interpellation', 'entrave-presse': 'Presse entravée', 'nasse-dispersion': 'Nasse, dispersion', 'extrême-droite': 'Extrême droite', 'décès': 'Décès', 'répression': 'Répression judiciaire et administrative', 'propagande': 'Propagande, fake news', autre: 'Signalement' };
+  const FAMILY = (x) => x.cat === 'extrême-droite' ? 'fr' : (x.cat === 'répression' ? 'rep' : (x.cat === 'propagande' ? 'prop' : 'police'));
+  const FAM_COLOR = { fr: 'var(--fr)', rep: 'var(--rep)', prop: 'var(--prop)', police: 'var(--police)' };
+  const FAM_LABEL = { fr: 'Extrême droite', rep: 'Répression judiciaire et administrative', prop: 'Propagande, fake news', police: 'Violences policières' };
+  const TERR_SHORT = { '971': 'Guadeloupe', '972': 'Martinique', '973': 'Guyane', '974': 'Réunion', '976': 'Mayotte', '988': 'N.-Calédonie', '987': 'Polynésie', '975': 'St-Pierre-et-M.', '978': 'St-Martin', '977': 'St-Barthélemy', '986': 'Wallis-et-F.' };
+  const TERR_NAME = { metro: 'Hexagone', '971': 'Guadeloupe', '972': 'Martinique', '973': 'Guyane', '974': 'La Réunion', '976': 'Mayotte', '988': 'Nouvelle-Calédonie', '987': 'Polynésie française', '975': 'Saint-Pierre-et-Miquelon', '978': 'Saint-Martin', '977': 'Saint-Barthélemy', '986': 'Wallis-et-Futuna' };
+  const COUNTERS = [
+    { keys: ['interpellations'], label: 'Interpellations' },
+    { keys: ['gardes_a_vue'], label: 'Gardes à vue', sub: 'mineurs_part_gav' },
+    { keys: ['poursuites'], label: 'Poursuites engagées' },
+  ];
+
+  const days = DATA.days;
+  const dayIdx = new Map(days.map((d, i) => [d, i]));
+  const state = { di: days.length - 1, mode: 'day', city: null, filters: { manif: true, greve: true, bloc: true, emeute: true, police: true, fr: true, rep: true, prop: true }, q: '', playing: false, limit: 120, timer: null, hl: null, open: new Set(), expandAll: false, mediaOnly: false, autoplayCk: null };
+  const EMBED = __EMBED__;
+  const hasMedia = (it) => !!(it.media && it.media.length);
+
+  // ---------- Map ----------
+  const W = 1000, H = 700;
+  const svg = d3.select('#map').attr('viewBox', `0 0 ${W} ${H}`);
+  const gLand = svg.append('g'), gInsets = svg.append('g'), gLabels = svg.append('g'), gEv = svg.append('g'), gInc = svg.append('g'), gDot = svg.append('g'), gSel = svg.append('g');
+  const metroFC = topojson.feature(TOPO, TOPO.objects.metro);
+  const dromFC = topojson.feature(TOPO, TOPO.objects.drom);
+  const comFC = topojson.feature(TOPO, TOPO.objects.com);
+  const metroMesh = topojson.mesh(TOPO, TOPO.objects.metro, (a, b) => a !== b);
+  const PROJ = {};
+  const dataTerrs = new Set([...DATA.events, ...DATA.incidents].map((x) => x.terr));
+  const insetTerrs = ['971', '972', '973', '974', '976', '988', '987', '975', '978', '986', '977'].filter((t) => ['971', '972', '973', '974', '976'].includes(t) || dataTerrs.has(t));
+  const BIG = ['Paris|75', 'Marseille|13', 'Lyon|69', 'Toulouse|31', 'Bordeaux|33', 'Lille|59', 'Nantes|44', 'Strasbourg|67', 'Rennes|35', 'Montpellier|34', 'Nice|06', 'Brest|29', 'Clermont-Ferrand|63', 'Nancy|54', 'Rouen|76', 'Limoges|87', 'Dijon|21', 'Grenoble|38'];
+
+  function layoutMap() {
+    const narrow = $('#mapwrap').clientWidth < 700;
+    state.k = narrow ? 2.3 : 1;
+    gLand.selectAll('*').remove(); gInsets.selectAll('*').remove(); gLabels.selectAll('*').remove();
+    const nIn = insetTerrs.length;
+    let H, box, gap, cols, x0, y0, topBox;
+    if (narrow) {
+      box = 176; gap = 10; cols = Math.min(5, nIn); const rows = Math.ceil(nIn / cols);
+      H = 560 + rows * (box + gap) + 8;
+      x0 = (W - (cols * (box + gap) - gap)) / 2; y0 = H - rows * (box + gap) - 8 + gap;
+      topBox = [[8, 8], [W - 8, y0 - 16]];
+    } else {
+      H = 700; gap = 6; cols = Math.max(nIn, 1); const rows = 1;
+      box = Math.min(104, Math.floor((W - 8 - 380 - (cols - 1) * gap) / cols));
+      x0 = W - 8 - cols * (box + gap) + gap; y0 = H - rows * (box + gap) - 8 + gap;
+      topBox = [[380, 8], [W - 8, y0 - 10]];
+    }
+    svg.attr('viewBox', `0 0 ${W} ${H}`);
+    $('#map').style.aspectRatio = narrow ? `${W} / ${H}` : '';
+    PROJ.metro = d3.geoConicConformal().parallels([44, 49]).rotate([-3, 0]).fitExtent(topBox, metroFC);
+    const path = d3.geoPath(PROJ.metro);
+    gLand.append('g').selectAll('path').data(metroFC.features).join('path').attr('class', 'land').attr('d', path);
+    gLand.append('path').attr('class', 'border').attr('d', path(metroMesh));
+    insetTerrs.forEach((t, i) => {
+      const feat = [...dromFC.features, ...comFC.features].find((f) => f.properties.code === t);
+      if (!feat) return;
+      const x = x0 + (i % cols) * (box + gap), y = y0 + Math.floor(i / cols) * (box + gap);
+      const g = gInsets.append('g');
+      g.append('rect').attr('class', 'inset-frame').attr('x', x).attr('y', y).attr('width', box).attr('height', box);
+      const p = d3.geoMercator().fitExtent([[x + 10, y + 18], [x + box - 10, y + box - 8]], feat);
+      PROJ[t] = p;
+      g.append('path').attr('class', 'land').attr('d', d3.geoPath(p)(feat));
+      g.append('text').attr('class', 'inset-label').attr('x', x + 5).attr('y', y + 6 + 6 * state.k).attr('font-size', (box < 95 ? 8.5 : 10) * state.k).text(box < 95 ? TERR_SHORT[t] : TERR_NAME[t]);
+    });
+    for (const it of [...DATA.events, ...DATA.incidents]) {
+      const p = PROJ[it.terr];
+      if (p && it.lat != null && it.lon != null) { const xy = p([it.lon, it.lat]); it.x = xy[0]; it.y = xy[1]; } else { it.x = null; it.y = null; }
+    }
+    const lab = [];
+    for (const k of BIG) { const c = DATA.cities[k]; if (c && PROJ[c.terr]) { const xy = PROJ[c.terr]([c.lon, c.lat]); lab.push({ name: k.split('|')[0], x: xy[0], y: xy[1] }); } }
+    gLabels.selectAll('text').data(lab).join('text').attr('class', 'city-label').attr('font-size', 10 * state.k).attr('x', (d) => d.x + 5 * state.k).attr('y', (d) => d.y - 5 * state.k).text((d) => d.name);
+  }
+
+  const radius = (e) => { const p = e.pg != null && e.po != null ? Math.max(e.pg, e.po) : (e.pg != null ? e.pg : e.po); return (p == null ? 3.2 : Math.min(26, 3 + 1.25 * Math.sqrt(p / 1000))) * (state.k || 1); };
+  const symTri = () => d3.symbol(d3.symbolTriangle).size(110 * (state.k || 1) ** 2)();
+  const symBig = () => d3.symbol(d3.symbolTriangle).size(260 * (state.k || 1) ** 2)();
+  const symDia = () => d3.symbol(d3.symbolDiamond).size(100 * (state.k || 1) ** 2)();
+  const symX = () => d3.symbol(d3.symbolCross).size(100 * (state.k || 1) ** 2)();
+  const symSq = () => d3.symbol(d3.symbolSquare).size(92 * (state.k || 1) ** 2)();
+  const cur = () => days[state.di];
+  const inRange = (d) => state.mode === 'day' ? d === cur() : d <= cur();
+  const cityOk = (it) => (!state.city || it.ck === state.city) && (!state.q || norm(it.city).includes(norm(state.q))) && (!state.mediaOnly || hasMedia(it));
+  const evOn = (e) => state.filters[TYPE_FILTER[e.type] || 'manif'];
+  const incOn = (x) => state.filters[FAMILY(x)];
+  const visEvents = () => DATA.events.filter((e) => inRange(e.date) && evOn(e) && cityOk(e));
+  const visIncidents = () => DATA.incidents.filter((x) => inRange(x.date) && incOn(x) && cityOk(x));
+
+  function renderMap() {
+    const c = cur();
+    const evs = visEvents().filter((e) => e.x != null).sort((a, b) => radius(b) - radius(a));
+    const op = (d) => state.mode === 'day' || d === c ? 0.85 : 0.22;
+    gEv.selectAll('circle.ev').data(evs, (e) => e.id).join('circle').attr('class', 'ev')
+      .attr('cx', (e) => e.x).attr('cy', (e) => e.y).attr('r', radius)
+      .attr('fill', (e) => `var(--${TYPE_VAR[e.type] || 'manif'})`).attr('opacity', (e) => op(e.date))
+      .on('mousemove', (ev, e) => tip(ev, e, 'ev')).on('mouseleave', hideTip).on('click', (ev, e) => selectCity(e.ck))
+      .order();
+    const incs = visIncidents().filter((x) => x.x != null);
+    gInc.selectAll('path.inc').data(incs, (x) => x.id).join('path').attr('class', 'inc')
+      .attr('d', (x) => x.cat === 'extrême-droite' ? symSq() : (x.cat === 'décès' ? symBig() : (x.cat === 'répression' ? symDia() : (x.cat === 'propagande' ? symX() : symTri()))))
+      .attr('stroke', (x) => x.cat === 'décès' ? 'var(--fg)' : null)
+      .attr('transform', (x) => `translate(${x.x},${x.y})`)
+      .attr('fill', (x) => FAM_COLOR[FAMILY(x)])
+      .attr('opacity', (x) => state.mode === 'day' || x.date === c ? 0.95 : 0.55)
+      .on('mousemove', (ev, x) => tip(ev, x, 'inc')).on('mouseleave', hideTip).on('click', (ev, x) => selectCity(x.ck));
+    const present = new Set([...evs.map((e) => TYPE_FILTER[e.type] || 'manif'), ...incs.map((x) => FAMILY(x))]);
+    document.querySelectorAll('#legend span[data-k]').forEach((el) => el.classList.toggle('absent', !present.has(el.dataset.k)));
+    const dots = [...evs, ...incs].filter((it) => hasMedia(it) && (state.mode === 'day' || it.date === c));
+    gDot.selectAll('circle.dot').data(dots, (d) => d.id).join('circle').attr('class', 'dot').attr('cx', (d) => d.x).attr('cy', (d) => d.y).attr('r', 1.5 * (state.k || 1));
+    // selection ring
+    gSel.selectAll('*').remove();
+    const target = state.hl || state.city;
+    if (target) {
+      const it = [...evs, ...incs].find((x) => x.ck === target);
+      if (it) gSel.append('circle').attr('class', 'sel-ring').attr('cx', it.x).attr('cy', it.y).attr('r', 14 * (state.k || 1)).attr('stroke-width', 2 * (state.k || 1));
+    }
+  }
+  function tip(ev, it, kind) {
+    const t = $('#tooltip'), r = $('#mapwrap').getBoundingClientRect();
+    let html = `<b>${esc(it.city)}</b> <span class="t">· ${esc(fmtShort(it.date))}</span><br>`;
+    if (kind === 'ev') {
+      html += esc(it.title);
+      const n = partLine(it); if (n) html += `<br><span class="t">${n}</span>`;
+    } else { html += `<span style="color:${FAM_COLOR[FAMILY(it)]};font-weight:600">${esc(CAT_LABEL[it.cat] || 'Signalement')}</span> · ${esc(it.title)}`; }
+    t.innerHTML = html; t.style.display = 'block';
+    const x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+    t.style.left = Math.min(x, r.width - 270) + 'px'; t.style.top = Math.min(y, r.height - 90) + 'px';
+  }
+  function hideTip() { $('#tooltip').style.display = 'none'; }
+  function partLine(e) {
+    const parts = [];
+    if (e.po != null) parts.push(`${nf.format(e.po)} selon les autorités`);
+    if (e.pg != null) parts.push(`${nf.format(e.pg)} selon les organisateurs`);
+    if (!parts.length && e.pnote) parts.push(esc(e.pnote));
+    return parts.join(' · ');
+  }
+
+  // ---------- Counter ----------
+  const SERIES = { lyceen: 'bilan « mouvement lycéen »', oct17: 'bilan « depuis le 17 oct. »' };
+  const nat = (s) => !s.city;
+  function cumulLatest(metric, d, series) {
+    let best = null;
+    for (const s of DATA.stats) if (s.metric === metric && s.scope === 'cumul' && nat(s) && s.series === series && s.date <= d && !s.nc && s.official) { if (!best || s.date > best.date || (s.date === best.date && s.value > best.value)) best = s; }
+    return best;
+  }
+  function jourAfter(metric, d, after) {
+    const m = new Map();
+    for (const s of DATA.stats) if (s.metric === metric && s.scope === 'jour' && nat(s) && s.date > after && s.date <= d && !s.nc && s.official) { const p = m.get(s.date); if (!p || s.value > p.value) m.set(s.date, s); }
+    return [...m.values()].sort((a, b) => a.date.localeCompare(b.date));
+  }
+  function anyLatest(metric, d, official) {
+    let best = null;
+    for (const s of DATA.stats) if (s.metric === metric && nat(s) && s.date <= d && s.official === official) { if (!best || s.date > best.date || (s.date === best.date && s.value > best.value)) best = s; }
+    return best;
+  }
+  const srcLink = (s) => s && s.src ? `<a href="${esc(s.src)}" target="_blank" rel="noopener" title="${esc(s.quote || '')}">${esc(s.outlet || 'source')}</a>` : '';
+  function tileData(c, d) {
+    const out = { value: null, sum: false, nc: null, parts: [], latest: null, m2: '', titleQ: [] };
+    if (c.mode === 'estimate') {
+      // 1. national official figure (any scope); 2. sum of city-level official figures; 3. national estimate; 4. sum of city-level estimates
+      const pick = (official, national) => {
+        let best = null;
+        for (const k of c.keys) for (const s of DATA.stats) if (s.metric === k && s.date <= d && !s.nc && s.official === official && (national ? !s.city : !!s.city)) { if (!best || s.date > best.date || (s.date === best.date && s.value > best.value)) best = s; }
+        return best;
+      };
+      const cityParts = (official) => {
+        const byCity = new Map();
+        for (const k of c.keys) for (const s of DATA.stats) if (s.metric === k && s.date <= d && !s.nc && s.official === official && s.city) { const p = byCity.get(s.city); if (!p || s.date > p.date || (s.date === p.date && s.value > p.value)) byCity.set(s.city, s); }
+        return [...byCity.values()];
+      };
+      let best = pick(true, true);
+      if (best) { out.value = best.value; out.latest = best; out.parts.push(best); out.titleQ.push(`${fmtShort(best.date)} : ${best.quote}`); out.m2 = (best.scope === 'jour' ? `journée du ${fmtShort(best.date)} · ` : '') + best.authority.split(' (')[0].slice(0, 60); return out; }
+      let cp = cityParts(true);
+      if (cp.length) { out.value = cp.reduce((x, s) => x + s.value, 0); out.sum = true; out.latest = cp.sort((a, b) => b.date.localeCompare(a.date))[0]; out.parts = cp; out.m2 = 'bilans locaux officiels : ' + cp.map((s) => `${s.city} ${nf.format(s.value)}`).join(', '); out.titleQ = cp.map((s) => `${s.city}, ${fmtShort(s.date)} : ${s.quote}`); return out; }
+      best = pick(false, true);
+      if (best) { out.value = best.value; out.latest = best; out.parts.push(best); out.approx = true; out.m2 = `estimation · ${best.authority.split(' (')[0].slice(0, 50)}${best.scope === 'jour' ? ` · journée du ${fmtShort(best.date)}` : ''}`; out.titleQ.push(`${fmtShort(best.date)} : ${best.quote}`); return out; }
+      cp = cityParts(false);
+      if (cp.length) { out.value = cp.reduce((x, s) => x + s.value, 0); out.approx = true; out.latest = cp.sort((a, b) => b.date.localeCompare(a.date))[0]; out.parts = cp; out.m2 = 'estimations locales : ' + cp.map((s) => `${s.city} ${nf.format(s.value)} (${s.authority.split(' (')[0].slice(0, 40)})`).join(', '); out.titleQ = cp.map((s) => `${s.city}, ${fmtShort(s.date)} : ${s.quote}`); }
+      return out;
+    }
+    if (c.mode === 'any') {
+      for (const k of c.keys) {
+        const s = anyLatest(k, d, true);
+        if (s && !s.nc) { out.value = (out.value || 0) + s.value; out.parts.push(s); if (!out.latest || s.date > out.latest.date) out.latest = s; }
+        else if (s && s.nc) out.nc = s;
+        const u = anyLatest(k, d, false); if (u) out.m2 = `${u.quote.slice(0, 90)}`;
+      }
+      return out;
+    }
+    for (const k of c.keys) {
+      const a = cumulLatest(k, d, 'lyceen'), b = cumulLatest(k, d, 'oct17');
+      let after = '';
+      if (a) { out.parts.push({ s: a, lab: `${nf.format(a.value)} (${SERIES.lyceen}, au ${fmtShort(a.date)})` }); after = a.date; }
+      if (b) { out.parts.push({ s: b, lab: `${nf.format(b.value)} (${SERIES.oct17}, au ${fmtShort(b.date)})` }); if (b.date > after) after = b.date; }
+      const js = jourAfter(k, d, after);
+      if (js.length) { const tot = js.reduce((x, s) => x + s.value, 0); out.parts.push({ s: js[js.length - 1], lab: `${nf.format(tot)} sur ${js.length === 1 ? 'la journée du ' : 'les journées des '}${js.map((s) => fmtShort(s.date)).join(', ')}`, jours: js }); }
+      for (const s of DATA.stats) if (s.metric === k && s.nc && nat(s) && s.date <= d) out.nc = s;
+    }
+    if (out.parts.length) {
+      out.value = out.parts.reduce((x, p) => x + (p.jours ? p.jours.reduce((y, s) => y + s.value, 0) : p.s.value), 0);
+      out.sum = out.parts.length > 1;
+      out.latest = out.parts.map((p) => p.s).sort((x, y) => y.date.localeCompare(x.date))[0];
+      out.m2 = out.sum ? out.parts.map((p) => p.lab).join(' + ') : '';
+      out.titleQ = out.parts.flatMap((p) => p.jours ? p.jours.map((s) => `${fmtShort(s.date)} : ${s.quote}`) : [`${fmtShort(p.s.date)} : ${p.s.quote}`]);
+    }
+    return out;
+  }
+  function renderCounter() {
+    const d = cur();
+    let latest = null;
+    const tiles = COUNTERS.map((c) => {
+      if (c.mode === 'estimate') { const n = DATA.stats.filter((s) => c.keys.includes(s.metric) && s.date <= d && !s.nc).length; if (n < 2) return ''; }  // a munition figure is shown only once several data points exist
+      const t = tileData(c, d);
+      if (t.latest && (!latest || t.latest.date > latest)) latest = t.latest.date;
+      let v, cls = '';
+      if (t.value != null) v = `${t.sum ? '≥ ' : (c.approx || t.approx ? '≈ ' : '')}${nf.format(t.value)}`;
+      else if (t.nc) { v = 'n.c.'; cls = ' none'; }
+      else { v = '—'; cls = ' none'; }
+      let m = '';
+      if (t.latest) m = `au ${esc(fmtShort(t.latest.date))}${t.latest.src ? ' · ' + srcLink(t.latest) : ''}`;
+      else if (t.nc) m = `aucun décompte publié${t.nc.src ? ' · ' + srcLink(t.nc) : ''}`;
+      let m2 = t.m2 ? esc(t.m2) : '';
+      if (c.sub) {
+        const a = cumulLatest(c.sub, d, 'lyceen'), b = cumulLatest(c.sub, d, 'oct17');
+        const bits = []; if (a) bits.push(`${a.value} % de mineurs (${SERIES.lyceen})`); if (b) bits.push(`${b.value} % (${SERIES.oct17})`);
+        if (bits.length) m2 = (m2 ? m2 + ' · ' : '') + esc(bits.join(' · '));
+      }
+      const title = esc(t.titleQ.join('\n') || (t.nc ? t.nc.quote : ''));
+      return `<div class="tile" title="${title}"><div class="k">${esc(c.label)}</div><div class="v${cls}">${v}</div><div class="m">${m || '&nbsp;'}</div>${m2 ? `<div class="m2" title="${m2}">${m2}</div>` : ''}</div>`;
+    });
+    $('#cgrid').innerHTML = tiles.join('');
+    $('#asof').textContent = latest ? `Intérieur · Justice · dernier bilan au ${fmtShort(latest)}` : 'Intérieur · Justice · aucun bilan publié à cette date';
+  }
+
+  // ---------- Panel ----------
+  function sourcesHtml(srcs) {
+    if (!srcs || !srcs.length) return '<div class="src">Source : non retrouvée</div>';
+    return '<div class="src">Sources : ' + srcs.map((s) => `<a href="${esc(s.u)}" target="_blank" rel="noopener" title="${esc(s.t || '')}">${esc(s.o || 'lien')}${s.d ? ` (${esc(fmtShort(s.d))})` : ''}</a>`).join(' ') + '</div>';
+  }
+  const para = (s) => s && s.length > 520 ? `<p class="clamp">${esc(s)}</p><button class="readmore" type="button">Lire la suite</button>` : `<p>${esc(s)}</p>`;
+  const isVideo = (m) => m.type === 'youtube' || m.type === 'dailymotion' || m.type === 'reddit';
+  const spriteStyle = (s) => `background-image:url('${esc(s.f)}');background-size:${s.cols * 100}% ${s.rows * 100}%;background-position:${s.cols > 1 ? s.c / (s.cols - 1) * 100 : 0}% ${s.rows > 1 ? s.r / (s.rows - 1) * 100 : 0}%`;
+  const thumbEl = (m) => m.sprite ? `<div class="sp" style="${spriteStyle(m.sprite)}"></div>` : (m.thumb ? `<img src="${esc(m.thumb)}" alt="" loading="lazy" onerror="this.remove()">` : '');
+  function mediaHtml(it) {
+    if (!hasMedia(it)) return '';
+    const items = it.media.map((m, i) => {
+      const thumb = `<div class="ph">${esc(m.type === 'reddit' ? 'r/France · vidéo' : (m.outlet || m.title || 'lien'))}</div>${thumbEl(m)}`;
+      let frame;
+      if (isVideo(m)) {
+        const lab = m.type === 'youtube' ? 'YouTube' : (m.type === 'dailymotion' ? 'Dailymotion' : 'Reddit');
+        frame = EMBED ? `<button type="button" class="frame play" data-i="${i}" aria-label="Lire la vidéo (${lab})">${thumb}<span class="pb">▶</span><span class="ext">${lab}</span></button>`
+                      : `<a class="frame" href="${esc(m.url)}" target="_blank" rel="noopener" aria-label="Voir la vidéo sur ${lab}">${thumb}<span class="pb">▶</span><span class="ext">Voir sur ${lab} ↗</span></a>`;
+      } else if (m.type === 'image') {
+        frame = `<a class="frame" href="${esc(m.page || m.url)}" target="_blank" rel="noopener">${thumb}<span class="ext">Commons ↗</span></a>`;
+      } else {
+        frame = `<a class="frame" href="${esc(m.url)}" target="_blank" rel="noopener">${thumb}<span class="pb">▶</span><span class="ext">${esc(m.outlet || 'voir')} ↗</span></a>`;
+      }
+      const cred = m.type === 'image' ? m.credit : (m.type === 'reddit' ? `${m.outlet || 'r/France'}${m.score ? ` · ${nf.format(m.score)} votes` : ''}` : (m.outlet || ''));
+      return `<figure class="mi">${frame}<figcaption>${esc(m.caption || m.title)}${cred ? ` <span class="cred">· ${esc(cred)}</span>` : ''}</figcaption></figure>`;
+    }).join('');
+    return `<div class="media">${items}</div>`;
+  }
+  function thumbsHtml(it) {
+    if (!hasMedia(it)) return '';
+    const s = it.media.slice(0, 3).map((m) => thumbEl(m) || `<span class="ph-s">${isVideo(m) || m.type === 'link' ? '▶' : '🖼'}</span>`).join('');
+    return `<div class="thumbs">${s}${it.media.length > 3 ? `<span class="n">+${it.media.length - 3}</span>` : ''}</div>`;
+  }
+  const isOpen = (it) => state.expandAll || state.open.has(it.id);
+  function evCard(e) {
+    const nums = partLine(e) || e.arrests != null ? `<div class="nums">${partLine(e)}${e.arrests != null ? `${partLine(e) ? ' · ' : ''}<b>${nf.format(e.arrests)}</b> interpellation${e.arrests > 1 ? 's' : ''}` : ''}</div>` : '';
+    return `<article class="card ev${isOpen(e) ? '' : ' collapsed'}" data-type="${esc(e.type)}" data-ck="${esc(e.ck)}" data-id="${esc(e.id)}">
+      <div class="head"><span class="chev">▾</span><div class="meta"><span class="city" data-ck="${esc(e.ck)}">${esc(e.city)}</span><span>${esc(TERR_NAME[e.terr] === 'Hexagone' ? (e.dept ? 'dép. ' + e.dept : '') : TERR_NAME[e.terr])}</span><span class="tag">${esc(TYPE_LABEL[e.type] || e.type)}</span><span>${esc(fmtShort(e.date))}</span></div>
+      <h3>${esc(e.title)}</h3>${nums}<div class="excerpt">${esc(e.summary)}</div>${thumbsHtml(e)}</div>
+      <div class="body">${mediaHtml(e)}${para(e.summary)}${sourcesHtml(e.src)}</div></article>`;
+  }
+  function incCard(x) {
+    const fam = FAMILY(x); const cls = fam === 'police' ? 'inc' : fam;
+    const tag = fam === 'police' ? 'Violences policières · ' + (CAT_LABEL[x.cat] || '') : FAM_LABEL[fam];
+    return `<article class="card ${cls}${x.stmt ? ' stmt' : ''}${isOpen(x) ? '' : ' collapsed'}" data-ck="${esc(x.ck)}" data-id="${esc(x.id)}">
+      <div class="head"><span class="chev">▾</span><div class="meta"><span class="city" data-ck="${esc(x.ck)}">${esc(x.city)}</span><span>${esc(TERR_NAME[x.terr] === 'Hexagone' ? (x.dept ? 'dép. ' + x.dept : '') : TERR_NAME[x.terr])}</span><span class="tag" style="color:${FAM_COLOR[fam]}">${esc(tag)}</span>${x.stmt ? `<span class="stmt-tag">Déclaration · ${esc(x.stmt.org)}</span>` : ''}<span>${esc(fmtShort(x.date))}</span></div>
+      <h3>${esc(x.title)}</h3><div class="excerpt">${esc(x.summary)}</div>${thumbsHtml(x)}</div>
+      <div class="body">${mediaHtml(x)}${para(x.summary)}
+      ${x.victim ? `<div class="nums">Victime : ${esc(x.victim)}</div>` : ''}
+      ${x.inv ? `<div class="inv"><b>Suites :</b> ${esc(x.inv)}${x.sd ? ` <span>(au ${esc(fmtShort(x.sd))})</span>` : ''}</div>` : ''}
+      ${sourcesHtml(x.src)}</div></article>`;
+  }
+  // ---- inline players (standalone build only)
+  function stopPlayers() {
+    document.querySelectorAll('.frame.playing').forEach((w) => { w.outerHTML = w.dataset.orig; });
+  }
+  function startPlayer(btn, m) {
+    if (!EMBED || !isVideo(m)) return;
+    stopPlayers();
+    const w = document.createElement('div'); w.className = 'frame playing'; w.dataset.orig = btn.outerHTML;
+    if (m.type === 'reddit') {
+      const path = (m.url || '').replace(/^https:\/\/www\.reddit\.com/, '');
+      const embed = () => { w.innerHTML = `<iframe src="https://www.redditmedia.com${esc(path)}?ref_source=embed&ref=share&embed=true&showmedia=true&theme=dark" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="${esc(m.title || 'vidéo Reddit')}"></iframe>`; };
+      if (m.vid) {
+        const v = document.createElement('video'); v.muted = true; v.autoplay = true; v.loop = true; v.playsInline = true; v.controls = true; v.setAttribute('playsinline', '');
+        ['DASH_720.mp4', 'DASH_480.mp4', 'DASH_360.mp4', 'DASH_240.mp4'].forEach((f) => { const s = document.createElement('source'); s.src = `https://v.redd.it/${m.vid}/${f}`; s.type = 'video/mp4'; v.appendChild(s); });
+        v.lastElementChild.addEventListener('error', embed);
+        w.appendChild(v); v.play().catch(() => {});
+      } else embed();
+    } else {
+      const src = m.type === 'youtube' ? `https://www.youtube-nocookie.com/embed/${encodeURIComponent(m.id)}?autoplay=1&mute=1&rel=0&start=${m.start || 0}` : `https://www.dailymotion.com/embed/video/${encodeURIComponent(m.id)}?autoplay=1&mute=1`;
+      w.innerHTML = `<iframe src="${src}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="${esc(m.title || 'vidéo')}"></iframe>`;
+    }
+    btn.replaceWith(w);
+  }
+  const byId = new Map([...DATA.events, ...DATA.incidents].map((it) => [it.id, it]));
+  function openCard(el, autoplay) {
+    const it = byId.get(el.dataset.id); if (!it) return;
+    state.open.add(it.id); el.classList.remove('collapsed');
+    if (autoplay && EMBED && hasMedia(it)) { const i = it.media.findIndex(isVideo); const btn = i >= 0 && el.querySelector(`.frame.play[data-i="${i}"]`); if (btn) startPlayer(btn, it.media[i]); }
+  }
+  function closeCard(el) { state.open.delete(el.dataset.id); el.querySelectorAll('.frame.playing').forEach((w) => { w.outerHTML = w.dataset.orig; }); el.classList.add('collapsed'); }
+  $('#cards').addEventListener('click', (ev) => {
+    const city = ev.target.closest('.city'); if (city) { ev.stopPropagation(); selectCity(city.dataset.ck); return; }
+    const rm = ev.target.closest('.readmore'); if (rm) { const p = rm.previousElementSibling; const open = p.classList.toggle('clamp'); rm.textContent = open ? 'Lire la suite' : 'Réduire'; return; }
+    const play = ev.target.closest('.frame.play'); if (play) { const card = play.closest('.card'); const it = byId.get(card.dataset.id); if (it) startPlayer(play, it.media[+play.dataset.i]); return; }
+    const head = ev.target.closest('.head'); if (head) { const card = head.closest('.card'); if (card.classList.contains('collapsed')) openCard(card, true); else closeCard(card); }
+  });
+  function renderPanel() {
+    const c = cur();
+    const evs = visEvents(), incs = visIncidents();
+    const nat = DATA.national[c];
+    const cities = new Set(evs.filter((e) => e.ck !== 'France|').map((e) => e.ck));
+    const nSt = incs.filter((x) => x.stmt).length, inc0 = incs.filter((x) => !x.stmt);
+    const nPol = inc0.filter((x) => FAMILY(x) === 'police').length, nRep = inc0.filter((x) => FAMILY(x) === 'rep').length, nFr = inc0.filter((x) => FAMILY(x) === 'fr').length, nPr = inc0.filter((x) => FAMILY(x) === 'prop').length;
+    const incTxt = [`<b>${nPol}</b> signalement${nPol > 1 ? 's' : ''} de violences policières`, nRep ? `<b>${nRep}</b> mesure${nRep > 1 ? 's' : ''} de répression` : '', nFr ? `<b>${nFr}</b> extrême droite` : '', nPr ? `<b>${nPr}</b> fake news` : '', nSt ? `<b>${nSt}</b> déclaration${nSt > 1 ? 's' : ''}` : ''].filter(Boolean).join(' · ');
+    let sum = state.mode === 'day' ? `<b>${cities.size}</b> ville${cities.size > 1 ? 's' : ''} avec une action recensée · ${incTxt}` : `Du 31 août au ${fmtShort(c)} : <b>${evs.length}</b> actions recensées dans <b>${cities.size}</b> villes · ${incTxt}`;
+    if (state.city) sum = `<span class="chip city" id="clearcity">${esc(state.city.split('|')[0])} ✕</span> ` + sum;
+    $('#summary').innerHTML = sum;
+    $('#nat').textContent = nat ? [nat.po != null ? `${nf.format(nat.po)} manifestants selon l’Intérieur` : '', nat.pg != null ? `${nf.format(nat.pg)} selon les organisateurs` : ''].filter(Boolean).join(' · ') : '';
+    const incsS = [...incs].sort((a, b) => b.date.localeCompare(a.date) || a.city.localeCompare(b.city));
+    const evsS = [...evs].sort((a, b) => b.date.localeCompare(a.date) || (b.ck === 'France|') - (a.ck === 'France|') || (Math.max(b.po || 0, b.pg || 0) - Math.max(a.po || 0, a.pg || 0)) || a.city.localeCompare(b.city));
+    let items;
+    if (state.mode === 'day') items = [...incsS.map((x) => ['i', x]), ...evsS.map((e) => ['e', e])];
+    else { items = [...incsS.map((x) => ['i', x]), ...evsS.map((e) => ['e', e])].sort((a, b) => b[1].date.localeCompare(a[1].date) || (a[0] === 'i' ? -1 : 1)); }
+    const shown = items.slice(0, state.limit);
+    let html = shown.map(([k, it]) => k === 'i' ? incCard(it) : evCard(it)).join('');
+    if (!items.length) html = `<div class="empty">Aucune action ni signalement recensé ${state.mode === 'day' ? 'ce jour-là' : 'sur cette période'}${state.city ? ' pour cette ville' : ''}${state.q ? ' pour ce filtre' : ''}.</div>`;
+    if (items.length > shown.length) html += `<button class="more" id="more">Afficher ${Math.min(120, items.length - shown.length)} de plus (${items.length - shown.length} restants)</button>`;
+    $('#cards').innerHTML = html;
+    if (state.mode === 'day') $('#cards').scrollTop = 0;
+    const m = $('#more'); if (m) m.onclick = () => { state.limit += 120; renderPanel(); };
+    const cc = $('#clearcity'); if (cc) cc.onclick = () => selectCity(null);
+    $('#cards').querySelectorAll('.card').forEach((el) => {
+      el.addEventListener('mouseenter', () => { state.hl = el.dataset.ck; renderMap(); });
+      el.addEventListener('mouseleave', () => { state.hl = null; renderMap(); });
+    });
+    if (state.autoplayCk) { const first = $('#cards').querySelector(`.card[data-ck="${CSS.escape(state.autoplayCk)}"]`); if (first) openCard(first, true); state.autoplayCk = null; }
+  }
+  function selectCity(ck) {
+    state.city = (ck && ck !== 'France|' && state.city !== ck) ? ck : null;
+    state.limit = 120;
+    if (state.city) { [...DATA.events, ...DATA.incidents].filter((it) => it.ck === state.city && inRange(it.date)).forEach((it) => state.open.add(it.id)); state.autoplayCk = state.city; }
+    render();
+  }
+
+  // ---------- Timeline ----------
+  const KEY = DATA.keydays || {};
+  function buildHist() {
+    const n = days.length, bw = 1000 / n;
+    const evN = days.map((d) => DATA.events.filter((e) => e.date === d && e.ck !== 'France|').length);
+    const inN = days.map((d) => DATA.incidents.filter((x) => x.date === d).length);
+    const max = Math.max(1, ...evN.map((v, i) => v + inN[i]));
+    const y = (v) => 50 - 44 * v / max;
+    const h = d3.select('#hist');
+    h.selectAll('*').remove();
+    h.append('line').attr('class', 'hist-axis').attr('x1', 0).attr('x2', 1000).attr('y1', 50.5).attr('y2', 50.5);
+    const g = h.selectAll('g.hist-bar').data(days).join('g').attr('class', 'hist-bar').on('click', (ev, d) => setDay(dayIdx.get(d)));
+    g.append('rect').attr('x', (d, i) => i * bw + 0.5).attr('width', Math.max(1, bw - 1)).attr('y', 0).attr('height', 50).attr('fill', 'transparent');
+    g.append('rect').attr('x', (d, i) => i * bw + 0.5).attr('width', Math.max(1, bw - 1)).attr('y', (d, i) => y(evN[i])).attr('height', (d, i) => 50 - y(evN[i])).attr('fill', 'var(--manif)').attr('opacity', 0.75);
+    g.append('rect').attr('x', (d, i) => i * bw + 0.5).attr('width', Math.max(1, bw - 1)).attr('y', (d, i) => y(evN[i] + inN[i])).attr('height', (d, i) => y(evN[i]) - y(evN[i] + inN[i])).attr('fill', 'var(--police)').attr('opacity', 0.9);
+    let lastX = -100, lastRow = 0;
+    days.forEach((d, i) => {
+      const dt = parseISO(d); const isKey = KEY[d]; const first = dt.getUTCDate() === 1;
+      if (!isKey && !first) return;
+      if (first && !isKey && days.some((k, j) => KEY[k] && Math.abs(j - i) <= 2)) return;
+      const x = i * bw + bw / 2;
+      const row = (x - lastX < 56) ? 1 - lastRow : 0;
+      lastX = x; lastRow = row;
+      h.append('text').attr('class', 'hist-lab' + (isKey ? ' key' : '')).attr('x', x).attr('y', 62 + row * 11)
+        .attr('text-anchor', i < 2 ? 'start' : (i > n - 3 ? 'end' : 'middle')).text(first ? `1er ${MONTHS_S[dt.getUTCMonth()]}` : fmtShort(d).replace(' ', '\u202f'));
+    });
+    const kd = $('#keydays');
+    kd.innerHTML = 'Journées clés : ' + Object.keys(KEY).sort().map((d) => `<button data-d="${d}" title="${esc(KEY[d])}">${esc(fmtShort(d))}</button>`).join('');
+    kd.querySelectorAll('button').forEach((b) => b.onclick = () => setDay(dayIdx.get(b.dataset.d)));
+    const s = $('#slider'); s.max = n - 1; s.value = state.di;
+  }
+  function renderTimeline() {
+    d3.select('#hist').selectAll('g.hist-bar').classed('cur', (d) => d === cur());
+    $('#slider').value = state.di; $('#slider').setAttribute('aria-valuetext', fmtLong(cur()));
+    $('#keydays').querySelectorAll('button').forEach((b) => b.classList.toggle('cur', b.dataset.d === cur()));
+    $('#dow').textContent = cap(fmtDow(cur())) + (KEY[cur()] ? ' · ' + KEY[cur()] : '');
+    $('#date').textContent = fmtLong(cur());
+  }
+  function setDay(i) {
+    if (i == null || i < 0 || i >= days.length) return;
+    state.di = i; state.limit = 120; state.open = new Set();
+    try { history.replaceState(null, '', '#' + days[i]); } catch (e) { /* ignore */ }
+    render();
+  }
+  function play(on) {
+    state.playing = on;
+    $('#playicon').setAttribute('d', on ? 'M3 2h4v12H3zM9 2h4v12H9z' : 'M4 2l10 6-10 6z');
+    $('#play').setAttribute('aria-label', on ? 'Pause' : 'Lire la chronologie');
+    clearInterval(state.timer);
+    if (on) { if (state.di >= days.length - 1) setDay(0); state.timer = setInterval(() => { if (state.di >= days.length - 1) play(false); else setDay(state.di + 1); }, 650); }
+  }
+
+  function render() { renderMap(); renderCounter(); renderPanel(); renderTimeline(); }
+
+  // ---------- Wiring ----------
+  $('#prev').onclick = () => setDay(state.di - 1);
+  $('#next').onclick = () => setDay(state.di + 1);
+  $('#play').onclick = () => play(!state.playing);
+  $('#slider').oninput = (e) => setDay(+e.target.value);
+  $('#mode-day').onclick = () => { state.mode = 'day'; $('#mode-day').setAttribute('aria-pressed', 'true'); $('#mode-cumul').setAttribute('aria-pressed', 'false'); state.limit = 120; render(); };
+  $('#mode-cumul').onclick = () => { state.mode = 'cumul'; $('#mode-day').setAttribute('aria-pressed', 'false'); $('#mode-cumul').setAttribute('aria-pressed', 'true'); state.limit = 120; render(); };
+  $('#filters').querySelectorAll('.chip').forEach((b) => b.onclick = () => { const f = b.dataset.f; state.filters[f] = !state.filters[f]; b.setAttribute('aria-pressed', String(state.filters[f])); render(); });
+  $('#q').oninput = (e) => { state.q = e.target.value.trim(); state.limit = 120; render(); };
+  $('#mediaonly').onclick = () => { state.mediaOnly = !state.mediaOnly; $('#mediaonly').setAttribute('aria-pressed', String(state.mediaOnly)); state.limit = 120; render(); };
+  $('#expandall').onclick = () => { state.expandAll = !state.expandAll; $('#expandall').setAttribute('aria-pressed', String(state.expandAll)); $('#expandall').textContent = state.expandAll ? 'Tout replier' : 'Tout déplier'; if (!state.expandAll) state.open = new Set(); renderPanel(); };
+  const narrowScreen = () => window.innerWidth < 900;
+  if (narrowScreen()) { $('#counter').classList.add('compact'); $('#ctoggle').textContent = 'tout afficher'; }
+  $('#ctoggle').onclick = () => { const c = $('#counter'); if (narrowScreen() && !c.classList.contains('collapsed')) { c.classList.toggle('compact'); $('#ctoggle').textContent = c.classList.contains('compact') ? 'tout afficher' : 'réduire'; return; } c.classList.toggle('collapsed'); const col = c.classList.contains('collapsed'); $('#ctoggle').textContent = col ? 'déplier' : 'réduire'; $('#ctoggle').setAttribute('aria-expanded', String(!col)); };
+  document.addEventListener('keydown', (e) => { if (e.target.tagName === 'INPUT') return; if (e.key === 'ArrowLeft') setDay(state.di - 1); else if (e.key === 'ArrowRight') setDay(state.di + 1); else if (e.key === ' ') { e.preventDefault(); play(!state.playing); } });
+  let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => { layoutMap(); renderMap(); }, 150); });
+  window.addEventListener('hashchange', () => { const m = location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/); if (m && dayIdx.has(m[1])) { state.di = dayIdx.get(m[1]); render(); } });
+
+  const m0 = location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/);
+  if (m0 && dayIdx.has(m0[1])) state.di = dayIdx.get(m0[1]); else if (DATA.defaultDay && dayIdx.has(DATA.defaultDay)) state.di = dayIdx.get(DATA.defaultDay);
+  const b = $('#built'); if (b) b.textContent = DATA.built ? fmtLong(DATA.built) : '';
+  layoutMap(); buildHist(); render();
+})();
+</script>

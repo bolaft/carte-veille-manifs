@@ -1,0 +1,778 @@
+[
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-29",
+   "city": "Paris",
+   "title_prefix": "« Aucune complaisance"
+  },
+  "set": {
+   "city": "France",
+   "dept": ""
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-12",
+   "city": "Aubagne"
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-09-29",
+   "city": "Saint-Denis",
+   "title_prefix": "Vidéos tronquées"
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "France",
+   "title_prefix": "Vidéos d'infox"
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-21",
+   "city": "Paris",
+   "title_prefix": "Les syndicats quittent"
+  },
+  "drop": true
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-10-10",
+   "metric": "interpellations",
+   "value": 6800
+  },
+  "drop": true
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-10-18",
+   "metric": "interpellations",
+   "value": 1200
+  },
+  "drop": true
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-10-18",
+   "metric": "blesses_forces_ordre",
+   "value": 150
+  },
+  "drop": true
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-10-14",
+   "metric": "gardes_a_vue",
+   "value": 8000
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-07",
+   "city": "Marseille",
+   "title_prefix": "Un élève de 17 ans"
+  },
+  "set": {
+   "_mk": "marseille-1007"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-07",
+   "city": "Marseille",
+   "title_prefix": "Un lycéen frappé"
+  },
+  "set": {
+   "_mk": "marseille-1007"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Coup de genou"
+  },
+  "set": {
+   "_mk": "paris-1008-genou"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Mulhouse"
+  },
+  "set": {
+   "_mk": "mulhouse-1017"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Nancy"
+  },
+  "set": {
+   "_mk": "nancy-1008"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-09-29",
+   "city": "Alençon"
+  },
+  "set": {
+   "date": "2026-10-01",
+   "_mk": "alencon-aina"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-01",
+   "city": "Alençon"
+  },
+  "set": {
+   "_mk": "alencon-aina"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-05",
+   "city": "Metz",
+   "title_prefix": "Une lycéenne de 14 ans"
+  },
+  "set": {
+   "date": "2026-10-01",
+   "_mk": "metz-1001"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-01",
+   "city": "Metz",
+   "title_prefix": "Metz : enquête"
+  },
+  "set": {
+   "_mk": "metz-1001"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Rouen",
+   "title_prefix": "Quatre street medics"
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-05",
+   "city": "Metz",
+   "title_prefix": "Une collégienne"
+  },
+  "set": {
+   "date": "2026-10-01",
+   "_mk": "metz-1001"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Strasbourg",
+   "title_prefix": "Un jeune touché au visage"
+  },
+  "set": {
+   "_mk": "strasbourg-1006-lbd"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Strasbourg",
+   "title_prefix": "Un jeune manifestant touché"
+  },
+  "set": {
+   "_mk": "strasbourg-1006-lbd"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Cécile"
+  },
+  "set": {
+   "_mk": "paris-1008-cecile"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Une femme de 31 ans"
+  },
+  "set": {
+   "_mk": "paris-1008-cecile"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Un jeune homme de 19 ans"
+  },
+  "set": {
+   "_mk": "paris-1008-ahmed"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Un policier enfonce"
+  },
+  "set": {
+   "_mk": "paris-1008-ahmed"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-08",
+   "city": "Paris",
+   "title_prefix": "Ahmed"
+  },
+  "set": {
+   "_mk": "paris-1008-ahmed"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Clermont-Ferrand"
+  },
+  "set": {
+   "_mk": "clermont-1017-lbd"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Dijon"
+  },
+  "set": {
+   "_mk": "dijon-1017"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Marseille",
+   "title_prefix": "Oliv"
+  },
+  "set": {
+   "_mk": "marseille-1017-oliv"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Liam"
+  },
+  "set": {
+   "_mk": "paris-1017-liam"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Mort d'un manifestant"
+  },
+  "set": {
+   "category": "décès"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Antoine, street medic"
+  },
+  "set": {
+   "_mk": "paris-1017-medic"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Un street medic frappé"
+  },
+  "set": {
+   "_mk": "paris-1017-medic"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Journalistes mis en joue"
+  },
+  "set": {
+   "_mk": "paris-1017-presse"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Des journalistes de plusieurs"
+  },
+  "set": {
+   "_mk": "paris-1017-presse"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Lyon",
+   "title_prefix": "Rassemblement hors périmètre"
+  },
+  "set": {
+   "_mk": "lyon-1024-passant"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Lyon",
+   "title_prefix": "Un habitant de 43 ans"
+  },
+  "set": {
+   "_mk": "lyon-1024-passant"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Reims",
+   "title_prefix": "Un manifestant grièvement blessé au tibia"
+  },
+  "set": {
+   "_mk": "reims-1024-gm2l"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Reims",
+   "title_prefix": "Plusieurs blessés"
+  },
+  "set": {
+   "_mk": "reims-1024-gm2l"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-13",
+   "city": "Lyon"
+  },
+  "set": {
+   "_mk": "lyon-1013-banderole"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-04",
+   "city": "Belfort"
+  },
+  "set": {
+   "date": "2026-10-02"
+  }
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-06",
+   "metric": "interpellations",
+   "value": 154
+  },
+  "set": {
+   "scope": "jour"
+  }
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-06",
+   "metric": "blesses_forces_ordre",
+   "value": 16
+  },
+  "set": {
+   "scope": "jour"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-05",
+   "city": "Nanterre",
+   "title_prefix": "Le préfet des Hauts-de-Seine"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Angoulême",
+   "title_prefix": "La préfecture demande"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-10",
+   "city": "France",
+   "title_prefix": "« Bismillah"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-15",
+   "city": "France",
+   "title_prefix": "Confiscations de pancartes"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Douze manifestants étrangers"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Paris",
+   "title_prefix": "Stanislas"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-24",
+   "city": "Marseille",
+   "title_prefix": "Les CRS saisissent"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-07",
+   "city": "Nancy",
+   "title_prefix": "Le tribunal administratif suspend"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-09-29",
+   "city": "Saint-Denis",
+   "title_prefix": "Mohamed, 16 ans, 48 heures"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-01",
+   "city": "Vitry-sur-Seine",
+   "title_prefix": "Un lycéen de 15 ans gardé"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-02",
+   "city": "Céret",
+   "title_prefix": "Elio"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Le Bourget",
+   "title_prefix": "Deux mineurs encerclés"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Strasbourg",
+   "title_prefix": "Ali M."
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-07",
+   "city": "France",
+   "title_prefix": "Gardes à vue massives"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-15",
+   "city": "Seine-Saint-Denis (commune non précisée)",
+   "title_prefix": "Une lycéenne de 17 ans"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Paris",
+   "title_prefix": "Après les 557 gardes à vue"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-18",
+   "city": "Bobigny",
+   "title_prefix": "Des mineurs enfermés"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-18",
+   "city": "Paris",
+   "title_prefix": "Commissariats saturés"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-20",
+   "city": "Bobigny",
+   "title_prefix": "Dix-sept mineurs"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Montreuil",
+   "title_prefix": "Un élève de sixième"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-06",
+   "city": "Strasbourg",
+   "title_prefix": "Laura, lycéenne"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-15",
+   "city": "Saint-Denis",
+   "title_prefix": "Des policiers de la BAC en civil entrent"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-05",
+   "city": "Strasbourg",
+   "title_prefix": "« Une rafle »"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-06",
+   "city": "Pau",
+   "title_prefix": "Deux lycéens interpellés et menottés"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-07",
+   "city": "France",
+   "title_prefix": "Acte IV"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-07",
+   "city": "Paris",
+   "title_prefix": "Deux porte-parole des Gilets jaunes"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-05",
+   "city": "Villeurbanne",
+   "title_prefix": "Face aux appels de l'ultradroite"
+  },
+  "set": {
+   "category": "répression"
+  }
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-10-13",
+   "metric": "munitions_assourdissantes",
+   "value": 40
+  },
+  "drop": true
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-17",
+   "city": "Limoges",
+   "title_prefix": "Des policiers accusés à tort"
+  },
+  "drop": true
+ }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "date": "2026-11-07",
+    "city": "France",
+    "dept": "",
+    "place": "",
+    "category": "interpellation",
+    "title": "Acte IV « pour la jeunesse et contre la vie chère » : 70 000 policiers et gendarmes, centres-villes interdits, près de 40 000 contrôles préventifs et 360 interpellations",
+    "summary": "Quatrième samedi consécutif de mobilisation, à l'appel de l'intersyndicale de la jeunesse (USL, Union étudiante, Fage, Unef) rejointe localement par la CGT, FO, la FSU, Solidaires et la CFDT, tandis que la coordination des Gilets jaunes appelait à un sit-in interdit place de la Concorde : 146 000 manifestants selon le ministère de l'Intérieur (dont 46 000 à Paris), 250 000 selon les organisateurs (75 000 à Paris). Le dispositif de 70 000 policiers et gendarmes, 25 blindés Centaure et 15 camions à eau a été reconduit, avec des périmètres d'interdiction dans la plupart des centres-villes (Lyon, Toulouse, Nantes, Rennes, Nancy, Montpellier, Bordeaux, Besançon, Marseille, Clermont-Ferrand…) et des arrêtés interdisant casques, lunettes et autres protections. Près de 40 000 contrôles préventifs ont été effectués sur les axes et dans les gares ; 232 personnes avaient été interpellées à 18 h et 360 à 19 h. Les cortèges déclarés se sont déroulés dans le calme ; gaz lacrymogènes et canons à eau ont été employés en fin de journée dans une douzaine de villes (Paris, Lyon, Toulouse, Nantes, Angers, Bordeaux, Rennes, Nancy, Besançon, Montpellier, Lille, Strasbourg, Chambéry, Dijon). Aucun bilan national des blessés n'a été publié.",
+    "victim": "",
+    "investigation": "Bilan provisoire du ministère de l'Intérieur (19 h) ; aucun bilan de blessés côté manifestants ; aucune enquête annoncée",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "France 24",
+        "title": "En direct : 250 000 manifestants en France selon l'intersyndicale de la jeunesse, 146 000 selon Beauvau",
+        "url": "https://www.france24.com/fr/france/20261107-en-direct-nouvelle-journ%C3%A9e-de-mobilisation-en-france-pour-faire-pression-sur-le-gouvernement",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+        "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+        "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Paris",
+    "dept": "75",
+    "place": "place de la Nation",
+    "category": "nasse-dispersion",
+    "title": "Fin de cortège place de la Nation : charges et gaz lacrymogènes sur la place, le duplex de France 24 interrompu par les gaz",
+    "summary": "À l'arrivée du cortège intersyndical (46 000 personnes selon la préfecture de police, 75 000 selon l'intersyndicale de la jeunesse) place de la Nation vers 18 h, les forces de l'ordre et les CRS ont chargé et tiré des gaz lacrymogènes pour vider la place, sous les cris de « Cassez-vous ! » des manifestants. La préfecture de police affirme qu'« un groupe de 200 individus violents s'en est pris aux forces de l'ordre » au moment de l'interpellation d'un homme ayant allumé un feu de poubelle ; des vidéos de l'AFP montrent des jets de projectiles et de mortiers d'artifice. Les journalistes de France 24 Johan Bodin et James André ont été interrompus en duplex par des tirs de gaz vers 18 h 10. Bilan parisien : 69 interpellations à 20 h, 259 verbalisations et 8 147 contrôles selon franceinfo ; aucun bilan de blessés n'a été publié.",
+    "victim": "Manifestants et passants place de la Nation ; équipe de France 24 (Johan Bodin, James André)",
+    "investigation": "Aucune enquête connue ; la préfecture de police invoque une réponse à des jets de projectiles et de mortiers par « 200 individus violents »",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "\"Cassez-vous !\" : vives tensions entre les manifestants et les forces de l'ordre en fin de cortège sur la Place de la Nation",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/cassez-vous-vives-tensions-entre-les-manifestants-et-les-forces-de-l-ordre-en-fin-de-cortege-sur-la-place-de-la-nation-3446133.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 24",
+        "title": "En direct : 250 000 manifestants en France selon l'intersyndicale de la jeunesse, 146 000 selon Beauvau",
+        "url": "https://www.france24.com/fr/france/20261107-en-direct-nouvelle-journ%C3%A9e-de-mobilisation-en-france-pour-faire-pression-sur-le-gouvernement",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+        "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Paris",
+    "dept": "75",
+    "place": "Assemblée nationale / place de la Concorde",
+    "category": "interpellation",
+    "title": "Deux porte-parole des Gilets jaunes, Azelma Sigaux et Benjamin Ball, interpellés avant le sit-in interdit de la Concorde et placés en garde à vue",
+    "summary": "Vers 14 h, Benjamin Ball (coordination des Gilets jaunes, créateur du site 17octobregiletjaune.net) et Azelma Sigaux (porte-parole, autrice-illustratrice) ont été interpellés près de l'Assemblée nationale — « entourée de 50 à 60 CRS », raconte-t-elle — alors qu'ils se rendaient au sit-in interdit par la préfecture de police place de la Concorde, puis placés en garde à vue au commissariat du 17e arrondissement selon leur avocat David Libeskind. Les motifs de l'interpellation n'ont pas été communiqués dans l'immédiat ; la préfecture fait état d'une trentaine de contrôles d'identité sur place et une dizaine de personnes seulement ont tenu le sit-in sous forte présence policière. Le mouvement dénonce une volonté d'empêcher ses figures de manifester ; l'issue de la garde à vue n'était pas connue le 8 novembre.",
+    "victim": "Azelma Sigaux et Benjamin Ball, porte-parole de la coordination des Gilets jaunes",
+    "investigation": "Garde à vue au commissariat du 17e arrondissement (7 nov.) ; motifs non communiqués ; suites inconnues au 8 nov.",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "Deux porte-parole des gilets jaunes interpellés à Paris avant leur rassemblement interdit à la Concorde",
+        "url": "https://www.franceinfo.fr/societe/manifestations/deux-porte-parole-des-gilets-jaunes-interpelles-a-paris-avant-leur-rassemblement-interdit-a-la-concorde_8272388.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "Manifestation du 7 novembre à Paris : des Gilets jaunes interpellés à Concorde placés en garde à vue, \"46 000 manifestants\" entre République et Nation",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-7-novembre-a-paris-interpellation-de-gilets-jaunes-a-concorde-defile-dans-le-calme-entre-republique-et-nation-60-000-personnes-attendues-3446016.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "CNews",
+        "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes placés en garde à vue",
+        "url": "https://www.cnews.fr/france/2026-11-07/manifestations-du-7-novembre-deux-chefs-de-file-des-gilets-jaunes-places-en-garde",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 24",
+        "title": "En direct : 250 000 manifestants en France selon l'intersyndicale de la jeunesse, 146 000 selon Beauvau",
+        "url": "https://www.france24.com/fr/france/20261107-en-direct-nouvelle-journ%C3%A9e-de-mobilisation-en-france-pour-faire-pression-sur-le-gouvernement",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Toulouse",
+    "dept": "31",
+    "place": "allées Jean-Jaurès / boulevard de Bonrepos",
+    "category": "nasse-dispersion",
+    "title": "Cortège non autorisé coupé en deux et encerclé par les cars de CRS, charge boulevard Bonrepos, gaz et canons à eau ; la FSU dénonce des violences contre le service d'ordre",
+    "summary": "Malgré l'interdiction préfectorale des rassemblements dans l'hypercentre, environ 5 000 personnes (préfecture) se sont rassemblées allées Jean-Jaurès à partir de 14 h. Vers 15 h 30, les CRS ont tiré les premières grenades lacrymogènes au carrefour du boulevard de Bonrepos, coupé le cortège en deux et chargé une première fois ; une partie des manifestants, « cernés par les cars de CRS », a été encerclée et sommée trois fois de quitter les lieux avant d'être dispersée au gaz lacrymogène et aux canons à eau vers Marengo et Jolimont, où de nombreuses grenades ont encore été tirées. France 3 a constaté au moins une dizaine d'interpellations boulevard d'Arcole, dont des mineurs ; une vingtaine de camions de CRS et des blindés Centaure étaient déployés. L'intersyndicale a condamné la réponse préfectorale et la FSU 31 affirme que les policiers « ont pris pour cible et violenté le service d'ordre unitaire ».",
+    "victim": "Manifestants dont des mineurs ; service d'ordre intersyndical selon la FSU 31",
+    "investigation": "Aucune enquête connue ; la préfecture de la Haute-Garonne invoque l'interdiction de manifester dans l'hypercentre",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "France 3 Occitanie",
+        "title": "DIRECT. Manifestation du 7 novembre à Toulouse : malgré l'interdiction de la préfecture, les manifestants contre la vie chère maintiennent leur appel",
+        "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/direct-manifestation-du-7-novembre-a-toulouse-malgre-l-interdiction-de-la-prefecture-les-manifestants-contre-la-vie-chere-maintiennent-leur-appel-3445920.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "ICI Toulouse",
+        "title": "Mobilisation du 7 novembre à Toulouse : au moins 5.000 personnes ont manifesté sur les allées Jean Jaurès",
+        "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/mobilisation-du-7-novembre-a-toulouse-un-nouveau-rassemblement-non-autorise-prevu-sur-les-allees-jean-jaures-6845378",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+        "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Nantes",
+    "dept": "44",
+    "place": "place du Bouffay / cours Saint-Pierre / préfecture",
+    "category": "gaz",
+    "title": "Centre-ville interdit : gaz lacrymogènes et canon à eau sur plusieurs milliers de manifestants, 50 interpellations, amendes pour lunettes de piscine et protège-tibias, pancarte à jeter",
+    "summary": "Parti de la place du Bouffay vers 14 h en dépit de l'interdiction préfectorale du centre-ville, le cortège d'environ 5 000 personnes (jusqu'à 30 000 selon les syndicats) a été dispersé à plusieurs reprises au gaz lacrymogène (cours Saint-André, cours Saint-Pierre, miroir d'eau) et au canon à eau devant la préfecture dès 14 h 44. Les nombreux contrôles ont donné lieu à des verbalisations pour détention de bombes de peinture, de protège-tibias ou de lunettes de piscine, et des manifestants rapportent que des policiers leur ont fait jeter une pancarte en raison de son message. La préfecture de Loire-Atlantique comptait 25 interpellations à 16 h 55 et 50 à 19 h, dont 5 lors des contrôles préventifs pour armes ou équipements prohibés ; aucun blessé n'a été rendu public.",
+    "victim": "Manifestants nantais",
+    "investigation": "Aucune enquête connue",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "ICI Loire Océan",
+        "title": "Mobilisation du 7 novembre : plusieurs milliers de personnes à Nantes, dans le centre-ville interdit par la préfecture",
+        "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/mobilisation-du-7-novembre-plusieurs-milliers-de-personnes-a-nantes-dans-le-centre-ville-interdit-par-la-prefecture-4917672",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Pays de la Loire",
+        "title": "EN IMAGES. Mobilisations dans le calme, malgré quelques heurts, revivez les manifestations du samedi 7 novembre à Nantes et Angers",
+        "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/manifestations-du-7-novembre-suivez-la-nouvelle-journee-de-mobilisations-a-nantes-et-angers-3445959.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Nancy",
+    "dept": "54",
+    "place": "place Maginot / rue Saint-Jean",
+    "category": "nasse-dispersion",
+    "title": "Cortège non déclaré bloqué dès le départ place Maginot, gaz lacrymogènes rue Saint-Jean : deux blessés légers dont un gendarme, sept interpellations",
+    "summary": "Environ 700 à 1 000 personnes (lycéens, étudiants, gilets jaunes) se sont rassemblées place de la République à 13 h malgré l'arrêté du préfet Yves Séguy interdisant tout rassemblement non déclaré sur la commune ; dès le départ, le cortège a été bloqué place Maginot puis en haut de la rue Saint-Jean par un dispositif de 400 policiers et gendarmes protégeant le périmètre interdit autour de la place Stanislas. En fin d'après-midi, les forces de l'ordre ont tiré des gaz lacrymogènes face à des groupes très mobiles et à des tirs de mortiers, la rue Saint-Jean étant envahie de gaz ; le calme n'est revenu qu'à la nuit tombée. Bilan de la préfecture : 7 interpellations et 2 blessés légers, dont un gendarme. La veille, le tribunal administratif avait suspendu l'interdiction des équipements de protection visant les street medics.",
+    "victim": "Un manifestant et un gendarme légèrement blessés",
+    "investigation": "Aucune enquête connue",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "ICI Lorraine",
+        "title": "PHOTOS - Mobilisation du 7 novembre : un acte IV ce samedi à Nancy, 700 personnes rassemblées, tensions dans le centre",
+        "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/mobilisation-du-7-novembre-un-acte-iv-ce-samedi-a-nancy-4632793",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Grand Est",
+        "title": "Manifestations du 7 novembre : la colère ne retombe pas, la situation est tendue à Nancy",
+        "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-7-novembre-gilets-jaunes-etudiants-lyceens-la-colere-ne-retombe-pas-3445887.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Nancy",
+    "dept": "54",
+    "place": "tribunal administratif",
+    "category": "autre",
+    "title": "Le tribunal administratif suspend l'arrêté préfectoral qui interdisait expressément aux street medics casques, lunettes et masques",
+    "summary": "Par arrêté du 5 novembre, le préfet de Meurthe-et-Moselle avait interdit, le samedi 7 novembre de 7 h à 23 h 59, le port et le transport de casques, lunettes de ski ou de piscine, masques à gaz et protections articulaires aux abords des manifestations, en visant pour la première fois expressément les « street medics ». Saisi en référé par le Syndicat des avocats de France et plusieurs particuliers, le juge des référés du tribunal administratif de Nancy (ordonnance n° 2604074) a refusé de suspendre l'interdiction générale mais l'a suspendue en tant qu'elle s'appliquait aux secouristes volontaires, jugeant la mesure disproportionnée dès lors qu'il n'est « pas démontré que [leur] comportement aurait empêché les forces de l'ordre d'intervenir ». Des arrêtés comparables interdisant casques, gants et lunettes ont été pris pour le 7 novembre dans d'autres départements, notamment les Bouches-du-Rhône.",
+    "victim": "Secouristes volontaires (street medics) de Nancy",
+    "investigation": "Ordonnance de référé du tribunal administratif de Nancy n° 2604074 du 7 nov. 2026 : suspension partielle de l'arrêté préfectoral du 5 nov.",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "Tribunal administratif de Nancy",
+        "title": "Manifestation du 7 novembre 2026 : les équipements de protection individuelle autorisés pour les « street medics »",
+        "url": "https://nancy.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/manifestation-du-7-novembre-2026-les-equipements-de-protection-individuelle-autorises-pour-les-street-medics",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "ICI Lorraine",
+        "title": "PHOTOS - Mobilisation du 7 novembre : un acte IV ce samedi à Nancy, 700 personnes rassemblées, tensions dans le centre",
+        "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/mobilisation-du-7-novembre-un-acte-iv-ce-samedi-a-nancy-4632793",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Grand Est",
+        "title": "Manifestations du 7 novembre : la colère ne retombe pas, la situation est tendue à Nancy",
+        "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-7-novembre-gilets-jaunes-etudiants-lyceens-la-colere-ne-retombe-pas-3445887.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Bordeaux",
+    "dept": "33",
+    "place": "place de la Victoire",
+    "category": "gaz",
+    "title": "Place de la Victoire vidée aux grenades lacrymogènes après la dispersion, blindés Centaure, RAID et BRI déployés : quatre blessés dont trois civils, quinze interpellations",
+    "summary": "Après un cortège intersyndical CGT-FSU-FO « contre la vie chère » de 9 100 personnes (préfecture ; 40 000 selon les syndicats) parti de la place de la Bourse, les forces de l'ordre ont ordonné la dispersion place de la Victoire peu avant 16 h puis l'ont couverte de grenades lacrymogènes vers 16 h 30, avant des échauffourées cours de l'Argonne et cours de la Somme et des incendies sur les voies du tramway. La préfecture de la Gironde, qui avait interdit tout rassemblement dans le centre et autorisé la captation par drone, a mobilisé canon à eau, blindés Centaure, RAID, BRI et moyens aériens et affirme que des « individus violents » ont visé policiers et gendarmes avec projectiles et mortiers ; elle indique avoir identifié « plus de 600 individus présentant un risque de troubles à l'ordre public ». Bilan à 18 h 30 : 4 blessés dont 1 membre des forces de l'ordre, 15 interpellations.",
+    "victim": "Trois blessés parmi les manifestants ou passants (nature des blessures non précisée) et un membre des forces de l'ordre",
+    "investigation": "Aucune enquête connue ; communiqué de la préfecture de la Gironde du 7 nov. (point à 18 h 30)",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "Préfecture de la Gironde",
+        "title": "Manifestation du samedi 7 novembre à Bordeaux : point à 18h30",
+        "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Novembre-2026/Manifestation-du-samedi-7-novembre-a-Bordeaux-point-a-18h30",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Nouvelle-Aquitaine",
+        "title": "Manifestations du 7 novembre : la manifestation officielle terminée à Bordeaux, des débordements en marge du rassemblement observés depuis 16 heures",
+        "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/manifestations-du-7-novembre-debut-du-mouvement-a-bordeaux-et-a-bayonne-mobilisation-pacifique-a-pau-3446004.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "Bulletin Bordelais",
+        "title": "Manifestation du 7 novembre à Bordeaux : des affrontements et incendies en marge de la manifestation",
+        "url": "https://bulletinbordelais.eu/manifestation-du-7-novembre-a-bordeaux-des-affrontements-et-incendies-en-marge-de-la-manifestation/",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Besançon",
+    "dept": "25",
+    "place": "pont ferroviaire de Rivotte / pont de Bregille",
+    "category": "gaz",
+    "title": "Tirs de gaz lacrymogènes sur le pont ferroviaire de Rivotte et au pont de Bregille pour une manifestation interdite en centre-ville : 17 interpellations, six policiers blessés",
+    "summary": "Quelque 4 000 personnes (préfecture) ont défilé vers la place Leclerc à partir de 15 h malgré l'interdiction de circuler en centre-ville, le cortège étant bloqué à plusieurs ponts. Vers 17 h, des tirs de gaz lacrymogènes ont été constatés sur le pont ferroviaire de Rivotte, apparemment pour en faire descendre des manifestants, puis au pont de Bregille où la préfecture décrit « de nombreux tirs de mortiers et de pavés », et enfin au pont Battant à la tombée de la nuit. Bilan de la préfecture du Doubs : 17 interpellations, 14 verbalisations, 6 policiers blessés, un véhicule et une vitrine dégradés ; aucun blessé parmi les manifestants n'a été communiqué.",
+    "victim": "Manifestants bisontins (aucun blessé civil recensé officiellement) ; six policiers blessés",
+    "investigation": "Aucune enquête connue",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "ICI Besançon",
+        "title": "Mobilisation du 7 novembre : 4.000 personnes rassemblées à Besançon, 17 interpellations et six policiers blessés",
+        "url": "https://www.ici.fr/bourgogne-franche-comte/doubs-25/besancon/mobilisation-du-7-novembre-les-premiers-manifestants-arrivent-a-besancon-pres-d-un-millier-de-personnes-rassemblees-1084451",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "France 3 Bourgogne-Franche-Comté",
+        "title": "Manifestation contre la vie chère : 4 000 personnes mobilisées à Besançon, malgré un début dans le calme, une fin de journée sous tension",
+        "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/manifestation-contre-la-vie-chere-4-000-personnes-mobilisees-a-besancon-dans-le-calme-malgre-l-interdiction-de-circuler-en-centre-ville-3446073.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Rennes",
+    "dept": "35",
+    "place": "esplanade Charles-de-Gaulle",
+    "category": "nasse-dispersion",
+    "title": "Manifestation non déclarée de 5 500 personnes bloquée sur l'esplanade Charles-de-Gaulle, accès au centre barrés, gaz lacrymogènes vers la gare",
+    "summary": "Parti de la place de Bretagne vers 14 h 30, le cortège (5 500 personnes selon la préfecture, 10 000 selon Sud Solidaires), non déclaré et visé par un arrêté d'interdiction du centre-ville, s'est retrouvé bloqué sur l'esplanade Charles-de-Gaulle, les accès rue d'Isly, rue de Plélo et vers le cinéma Gaumont étant barrés et un camion à eau positionné dès 15 h 30. Les CRS ont empêché une partie du cortège de rejoindre la gare et ont fait usage de gaz lacrymogènes vers 17 h 15 pour repousser les derniers manifestants rue de Châtillon ; la préfecture fait état d'interpellations dès 14 h 21 de personnes transportant pierres et bouteilles d'excréments, de feux de poubelles et de jets de projectiles au sud des voies ferrées. Aucun blessé ni bilan chiffré d'interpellations n'a été communiqué.",
+    "victim": "Manifestants rennais",
+    "investigation": "Aucune enquête connue",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "Rennes Infos Autrement",
+        "title": "Une manifestation moins suivie dans un centre-ville verrouillé",
+        "url": "https://www.rennes-infos-autrement.fr/une-manifestation-moins-suivie-dans-un-centre-ville-verrouille/",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "ICI Armorique",
+        "title": "Mobilisation du 7 novembre : malgré l'interdiction, plusieurs milliers de personnes actuellement réunies à Rennes",
+        "url": "https://www.ici.fr/bretagne/ille-et-vilaine-35/rennes/mobilisation-du-7-novembre-malgre-l-interdiction-des-centaines-de-personnes-actuellement-reunies-a-rennes-4364051",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "city": "Angers",
+    "dept": "49",
+    "place": "boulevard Foch / le Mail",
+    "category": "gaz",
+    "title": "Cortège non autorisé de 3 300 à 10 000 personnes : grenades lacrymogènes boulevard Foch et dispersion massive au gaz sur le Mail",
+    "summary": "Parti du jardin du Mail à 14 h sans autorisation préfectorale, le cortège angevin (3 300 personnes selon les services de l'État, 5 000 à 10 000 selon d'autres décomptes), emmené par des groupes antifascistes, a été repoussé à coups de grenades lacrymogènes boulevard Foch, près de la rue Saint-Aubin, après la dégradation d'agences bancaires et d'un arrêt de tramway, puis dispersé vers 17 h 50 sur le Mail « arrosé de gaz lacrymogènes ». Au moins onze interpellations et un commerçant blessé sont rapportés ; aucun bilan de manifestants blessés n'a été publié.",
+    "victim": "Manifestants angevins",
+    "investigation": "Aucune enquête connue",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "France 3 Pays de la Loire",
+        "title": "EN IMAGES. Mobilisations dans le calme, malgré quelques heurts, revivez les manifestations du samedi 7 novembre à Nantes et Angers",
+        "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/manifestations-du-7-novembre-suivez-la-nouvelle-journee-de-mobilisations-a-nantes-et-angers-3445959.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "My Angers Info",
+        "title": "Angers : jusqu'à 5 000 manifestants, des revendications et des dégradations ce samedi",
+        "url": "https://my-angers.info/11/07/manifestation-a-angers-jusqua-5-000-personnes-pour-le-pouvoir-dachat-des-degradations-et-des-affrontements/200935",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "city": "Pau",
+    "dept": "64",
+    "place": "lycée Saint-John-Perse",
+    "category": "interpellation",
+    "title": "Deux lycéens interpellés et menottés dans l'enceinte du lycée Saint-John-Perse, avec l'aval du procureur, après des tirs de mortiers sur des policiers",
+    "summary": "Le vendredi 6 novembre au matin, deux élèves de seconde ont été interpellés à l'intérieur du lycée Saint-John-Perse puis en sont ressortis menottés, selon des témoins cités par ICI Béarn Bigorre ; un troisième mineur a été arrêté à son domicile. Identifiés par la vidéosurveillance, ils sont soupçonnés d'avoir blessé quatre policiers (deux ITT de deux et trois jours) par des tirs de mortiers d'artifice lors de la mobilisation lycéenne du 5 novembre devant l'établissement. Le procureur de Pau Rodolphe Jarry a confirmé avoir autorisé les interpellations et a ouvert le 7 novembre une information judiciaire contre quatre mineurs pour violences sur policiers avec arme et en réunion et association de malfaiteurs, requérant la détention provisoire d'un jeune de 16 ans et un contrôle judiciaire pour les trois autres. Solidaires étudiant·es Pau-Béarn et SUD éducation 64-40 dénoncent une « démonstration de force » policière dans un lycée, reprochent à la direction de l'avoir facilitée et appellent à manifester le 10 novembre contre la répression.",
+    "victim": "Trois lycéens mineurs de Saint-John-Perse (dont deux interpellés dans l'établissement) ; quatre mineurs en garde à vue",
+    "investigation": "Interpellations autorisées par le parquet de Pau ; information judiciaire ouverte le 7 nov. contre quatre mineurs ; détention provisoire requise pour l'un d'eux ; aucune enquête sur les conditions de l'interpellation",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "A Pau, deux lycéens interpellés dans l'enceinte de leur établissement après des tirs de mortiers sur des policiers",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-pau-deux-lyceens-interpelles-dans-l-enceinte-de-leur-etablissement-apres-des-tirs-de-mortiers-sur-des-policiers_8270945.html",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "ICI Béarn Bigorre",
+        "title": "Pau : des lycéens de St John Perse arrêtés dans l'établissement suite aux tirs de mortier sur les forces de l'ordre",
+        "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/pau/pau-des-lyceens-de-st-john-perse-arretes-dans-l-etablissement-suite-aux-tirs-de-mortier-sur-les-forces-de-l-ordre-8534968",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "La Semaine des Pyrénées",
+        "title": "Pau - Attaque au mortier devant le lycée Saint-John-Perse : quatre mineurs mis en cause, un placement en détention requis",
+        "url": "https://www.lasemainedespyrenees.fr/pau-attaque-au-mortier-devant-le-lycee-saint-john-perse-quatre-mineurs-mis-en-cause-un-placement-en-detention-requis",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "CNews",
+        "title": "Pau : une information judiciaire ouverte contre des mineurs après des violences sur des policiers",
+        "url": "https://www.cnews.fr/faits-divers/2026-11-07/pau-une-information-judiciaire-ouverte-contre-des-mineurs-apres-des",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "city": "France",
+    "dept": "",
+    "place": "",
+    "category": "autre",
+    "title": "Un collectif d'avocats annonce saisir la Cour de justice de la République contre Laurent Nuñez pour « complicité par instigation » des mutilations par grenades et LBD (au moins 18 blessés)",
+    "summary": "Le 6 novembre, au moins cinq avocats, dont Arié Alimi, soutenus par la Ligue des droits de l'homme, ont annoncé une plainte devant la Cour de justice de la République visant le ministre de l'Intérieur pour « violences ou tentative de meurtre par instigation, c'est-à-dire la complicité », mise en danger d'autrui et complicité de violences ayant entraîné des mutilations, au nom d'au moins 18 personnes blessées par grenades et LBD depuis la mobilisation lycéenne et le 17 octobre ; le dépôt est prévu sous deux à trois semaines, après recueil du consentement des victimes. Des plaintes individuelles devant la CJR avaient déjà été annoncées par Me Yassine Bouzrou (main arrachée à Saint-Étienne) et Me Anna Branellec (Tedy, Toulouse). Laurent Nuñez se dit « très serein », juge les armes intermédiaires « indispensables » et affirme qu'elles sont employées « dans un cadre légal et réglementaire ». Au 30 octobre, 83 enquêtes avaient été confiées à l'IGPN et à l'IGGN depuis le début du mouvement ; selon Me Pierre Brunisso (Maïssa, Mulhouse), aucune suspension administrative de policier n'a été prononcée.",
+    "victim": "Au moins 18 manifestants blessés (grenades, LBD)",
+    "investigation": "Plainte devant la CJR annoncée le 6 nov., dépôt prévu sous 15 jours à trois semaines",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
+        "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "France 24 / AFP",
+        "title": "Manifestants blessés : des avocats annoncent saisir la CJR contre Laurent Nuñez",
+        "url": "https://www.france24.com/fr/info-en-continu/20261106-manifestants-bless%C3%A9s-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nu%C3%B1ez",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Entrevue",
+        "title": "Mouvement lycéen : 83 enquêtes ouvertes sur des interventions policières depuis le début des manifestations",
+        "url": "https://entrevue.fr/societe/mouvement-lyceen-83-enquetes-ouvertes-sur-des-interventions-policieres/",
+        "date": "2026-10-30"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "TEMOIGNAGE. \"Personne ne mérite ça\" : rencontre avec Maïssa, 18 ans, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre",
+        "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/temoignage-personne-ne-merite-ca-rencontre-avec-maissa-18-ans-qui-a-perdu-un-il-a-la-suite-d-un-tir-de-grenade-le-17-octobre_8271551.html",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Strasbourg",
+    "dept": "67",
+    "place": "rue de Zurich",
+    "category": "interpellation",
+    "title": "« Une rafle » : 62 manifestants dont 16 mineurs encerclés rue de Zurich et emmenés dans un bus de la CTS réquisitionné ; la quasi-totalité relâchés sans poursuites",
+    "summary": "Peu avant 19 h, à la fin de la journée de grève du 5 novembre (plus de 25 000 manifestants), la police a encerclé rue de Zurich un groupe d'une soixantaine de personnes, dont une trentaine délogées « de force » d'un restaurant où elles s'étaient réfugiées des gaz lacrymogènes, les a fait asseoir au sol en rang puis transportées au commissariat central dans un bus de la Compagnie des transports strasbourgeois réquisitionné — sur réquisition judiciaire selon la CTS et France 3, par un OPJ présent sur place selon Pokaa. 62 personnes, dont 16 mineurs, ont été interpellées pour « participation à un attroupement » ; StrasTV et des témoins affirment qu'il ne s'agissait pas des personnes qui avaient affronté la police. Selon le communiqué du parquet du 7 novembre, seules deux personnes majeures restaient en garde à vue le 6 novembre (attroupement malgré sommations, visage dissimulé, rébellion, intrusion dans un local commercial), les autres n'ayant « fait l'objet d'aucune autre mesure ». La CGT-CTS dénonce une réquisition « indigne » et dépose un préavis de grève, la maire Catherine Trautmann n'a « ni été informée ni consultée », le député LFI Emmanuel Fernandes, présent, a condamné l'opération et Me Grégory Thuan dit Dieudonné évoque une possible « détention arbitraire » et des plaintes.",
+    "victim": "62 manifestants dont 16 mineurs",
+    "investigation": "Communiqué du parquet de Strasbourg (7 nov.) : deux majeurs poursuivis, aucune mesure pour les 60 autres ; plaintes envisagées par un avocat ; préavis de grève CGT-CTS",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "France 3 Alsace",
+        "title": "Manifestation du 5 novembre : un bus de la CTS réquisitionné pour transporter des manifestants interpellés à Strasbourg",
+        "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/manifestation-du-5-novembre-un-bus-de-la-cts-requisitionne-pour-interpeller-des-manifestants-a-strasbourg-3445110.html",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Rue89 Strasbourg",
+        "title": "\"Une rafle\" : une soixantaine de manifestants embarqués en bus par la police",
+        "url": "https://rue89strasbourg.com/rafle-manifestants-strasbourg-401658",
+        "date": "2026-11-05"
+      },
+      {
+        "outlet": "Pokaa",
+        "title": "Strasbourg : 48h après l'arrestation de 62 manifestant(e)s, des questions demeurent",
+        "url": "https://pokaa.fr/2026/11/07/strasbourg-48h-apres-larrestation-de-62-manifestantes-des-questions-demeurent/",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Paris",
+    "dept": "75",
+    "place": "place de la Nation",
+    "category": "entrave-presse",
+    "title": "Céline Martelet (Politis) et Cerise Sudry-Le Dû (Divergence Images) matraquées à la tête place de la Nation malgré leurs brassards presse ; plainte annoncée",
+    "summary": "Vers 19 h 05, à la fin de la manifestation intersyndicale, alors qu'elles s'étaient plaquées contre un mur pour laisser passer une charge « sans raison apparente » d'une unité d'une dizaine de policiers, la journaliste de Politis Céline Martelet, brassard presse fluo au bras et criant qu'elle était journaliste, a reçu deux coups de matraque à la tête (plaie saignante, prise en charge aux urgences, traumatisme crânien selon la rédaction) ; la photographe Cerise Sudry-Le Dû, casque et sac marqués « presse », a reçu deux coups sur le crâne et deux à l'épaule (hématomes). La Société des journalistes de Politis dénonce une « atteinte à la liberté d'informer » ; une plainte devait être déposée dès le 6 novembre. L'AFP a parallèlement dénoncé des coups de matraque et de LBD contre plusieurs de ses journalistes depuis le début du mouvement, et RSF recensait 58 cas de journalistes entravés avant le 5 novembre, dont 21 violences physiques imputées aux forces de l'ordre.",
+    "victim": "Céline Martelet, journaliste à Politis, et Cerise Sudry-Le Dû, photographe (Divergence Images)",
+    "investigation": "Plainte annoncée pour le 6 nov. par Politis ; aucune réaction connue de la préfecture de police",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "Politis",
+        "title": "Manifestation du 5 novembre : soutien à Céline Martelet et Cerise Sudry-le Dû, journalistes victimes de violences policières",
+        "url": "https://www.politis.fr/articles/2026/11/manifestation-du-5-novembre-soutien-a-celine-martelet-et-cerise-sudry-le-du-journalistes-victimes-de-violences-policieres/",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+        "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Lyon",
+    "dept": "69",
+    "place": "tête du cortège intersyndical",
+    "category": "entrave-presse",
+    "title": "Un photographe de l'AFP, brassard presse au bras, a le péroné fracturé lors d'une charge contre la tête du cortège",
+    "summary": "Lors de la journée de grève du 5 novembre à Lyon, un photographe de l'AFP portant son brassard presse a été frappé lors d'une charge policière contre la tête du cortège : deux coups à la jambe et trois sur son casque, avec une fracture du péroné selon l'agence et Lyon Capitale. La direction de l'AFP a dénoncé « les violences commises par les forces de l'ordre » contre plusieurs de ses journalistes (un rédacteur avait été touché à la cuisse par un tir de LBD à Lille le 17 octobre) et demandé que toutes les précautions soient prises pour protéger les journalistes. La préfecture du Rhône recense 40 blessés ce jour-là, dont 34 membres des forces de l'ordre et 6 manifestants, et 24 interpellations.",
+    "victim": "Photographe de l'AFP (nom non communiqué)",
+    "investigation": "Dénonciation publique par la direction de l'AFP ; aucune plainte ni enquête connue",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+        "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Lyon Capitale",
+        "title": "Un photographe blessé lors de la manifestation du 5 novembre : l'AFP dénonce les violences contre les journalistes",
+        "url": "https://www.lyoncapitale.fr/actualite/un-photographe-blesse-lors-de-la-manifestation-du-5-novembre-l-afp-denonce-les-violences-contre-les-journalistes",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Nantes",
+    "dept": "44",
+    "place": "place du Pilori",
+    "category": "véhicule",
+    "title": "Place du Pilori, un policier motocycliste percute une terrasse puis ses collègues gazent clients et passants ; la police nationale dément avoir « foncé pour semer la terreur »",
+    "summary": "Vers 15 h 30, place du Pilori, dans le centre-ville interdit aux manifestations, une vidéo montre un policier motocycliste déséquilibré se diriger vers la terrasse d'un bar-kebab et sembler percuter une ou plusieurs personnes, avant que la moto ne soit couchée au sol ; les policiers tirent ensuite plusieurs grenades lacrymogènes et une grenade de désencerclement vers les clients et passants, un témoin décrivant un gazage « littéralement à bout portant ». La police nationale de Loire-Atlantique a répliqué le 6 novembre sur Facebook que les motocyclistes, visés par des jets de pierres, de verres et de chaises depuis la terrasse, intervenaient pour dégager un collègue encerclé lors d'une interpellation, et qu'un individu qui a sauté sur un motard a été identifié par caméra-piéton et placé en garde à vue. Aucune enquête sur le comportement des policiers n'est annoncée et la préfecture n'a pas répondu.",
+    "victim": "Clients d'une terrasse et passants place du Pilori",
+    "investigation": "Aucune enquête connue ; démenti public de la police nationale (6 nov.) ; un homme en garde à vue pour avoir fait chuter le motard",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "ICI Loire Océan",
+        "title": "La police nationale dément avoir \"foncé sur une terrasse\" du centre-ville de Nantes le 5 novembre",
+        "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/la-police-nationale-dement-avoir-fonce-sur-une-terrasse-du-centre-ville-de-nantes-le-5-novembre-1310002",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Contre Attaque",
+        "title": "Nantes : une moto de police fonce sur une terrasse",
+        "url": "https://contre-attaque.net/2026/11/06/nantes-une-moto-de-police-fonce-sur-une-terrasse/",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Toulouse",
+    "dept": "31",
+    "place": "pont des Catalans",
+    "category": "lbd",
+    "title": "Un manifestant a la mâchoire fracturée par un tir de LBD près du sit-in du pont des Catalans ; appel à témoins",
+    "summary": "Entre 16 h 15 et 16 h 30, aux abords du sit-in du cortège intersyndical bloqué au pont des Catalans, un manifestant a eu la mâchoire fracturée par un tir de LBD venu, selon ses proches, du côté gauche du cortège, possiblement d'agents de la BAC ; un appel à témoins a été lancé pour réunir vidéos et témoignages. La préfecture de la Haute-Garonne reconnaît dans son bilan « un manifestant blessé à la mâchoire par un projectile », sans préciser l'arme, aux côtés de 18 membres des forces de l'ordre blessés et de 30 gardes à vue. La CGT affirme que « sans aucune raison, le préfet a fait gazer et charger la tête de manifestation » et que des membres du service d'ordre ont eu « le crâne ouvert à coups de bâtons ».",
+    "victim": "Manifestant (identité non communiquée), mâchoire fracturée",
+    "investigation": "Aucune plainte ni saisine de l'IGPN connue ; appel à témoins des proches",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "Le Journal Toulousain",
+        "title": "Manifestation à Toulouse : 30 interpellations et au moins 19 blessés",
+        "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/manifestation-a-toulouse-30-interpellations-et-au-moins-19-blesses-403453/",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Secours Rouge",
+        "title": "Toulouse : Appel à témoins après une blessure grave à la mâchoire causée par un tir de LBD lors de la manifestation du 5 novembre",
+        "url": "https://secoursrouge.org/toulouse-appel-a-temoins-apres-une-blessure-grave-a-la-machoire-causee-par-un-tir-de-lbd-lors-de-la-manifestation-du-5-novembre/",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "city": "Lyon",
+    "dept": "69",
+    "place": "mairie du 8e arrondissement",
+    "category": "extrême-droite",
+    "title": "Rassemblement nocturne cagoulé de la « jeunesse nationaliste contre l'extrême gauche » devant la mairie du 8e : Grégory Doucet saisit le procureur",
+    "summary": "Dans la soirée du vendredi 30 octobre, plusieurs personnes cagoulées ont déployé devant la mairie du 8e arrondissement une banderole hostile à La France insoumise et allumé des fumigènes ; la vidéo a été diffusée par un groupe se présentant comme la « jeunesse nationaliste contre l'extrême gauche », qui disait protester contre la venue annoncée le 5 novembre du député LFI Raphaël Arnault (la mairie du 8e avait annulé la réservation de salle « pour des raisons de sécurité »). Le maire de Lyon Grégory Doucet et le maire du 8e Olivier Berzane ont dénoncé des « méthodes d'intimidation » et saisi le procureur de la République au titre de l'article 40 du code de procédure pénale pour que les auteurs soient « identifiés et poursuivis » ; une source sécuritaire indique à l'AFP que le groupe est suivi par les services de l'État. La préfecture du Rhône avait déjà dénoncé deux défilés de militants d'ultradroite à Lyon pendant le mouvement.",
+    "victim": "",
+    "investigation": "Signalement au procureur (art. 40 CPP) par les maires de Lyon et du 8e (31 oct.) ; groupe suivi par les services de l'État selon une source sécuritaire ; aucune interpellation connue",
+    "status_date": "2026-10-31",
+    "sources": [
+      {
+        "outlet": "France 3 Auvergne-Rhône-Alpes",
+        "title": "Rassemblement d'ultradroite à Lyon : Grégory Doucet saisit le procureur",
+        "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/rassemblement-d-ultradroite-devant-la-mairie-du-8em-arrondissement-de-lyon-signale-a-la-justice-3442110.html",
+        "date": "2026-10-31"
+      },
+      {
+        "outlet": "Lyon Capitale",
+        "title": "Rassemblement d'ultradroite à Lyon : Grégory Doucet saisit la justice",
+        "url": "https://www.lyoncapitale.fr/actualite/lyon-gregory-doucet-saisit-la-justice-apres-un-rassemblement-dultradroite-devant-une-mairie-d-arrondissement",
+        "date": "2026-10-31"
+      },
+      {
+        "outlet": "LyonMag",
+        "title": "Rassemblement d'ultradroite devant la mairie du 8e à Lyon : Grégory Doucet et Olivier Berzane saisissent le procureur",
+        "url": "https://www.lyonmag.com/article/154654/rassemblement-d-ultradroite-devant-la-mairie-du-8e-a-lyon-gregory-doucet-et-olivier-berzane-saisissent-le-procureur",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "city": "Paris",
+    "dept": "75",
+    "place": "université Paris-Panthéon-Assas",
+    "category": "extrême-droite",
+    "title": "« Waffen Assas » : les bloqueurs de Panthéon-Assas attaqués les 9 et 13 octobre par des militants d'ultradroite (héritiers du GUD, Cocarde étudiante)",
+    "summary": "Le 9 octobre à l'aube, plusieurs dizaines de personnes hostiles au blocage de l'université Paris-Panthéon-Assas ont frappé les organisateurs rassemblés devant le campus depuis 5 h ; le 13 octobre, des bouteilles ont été lancées sur les étudiants et l'un d'eux, frappé d'un coup de poing par un jeune de La Cocarde étudiante selon L'Étudiant, a dû être soigné. Les attaques ont été revendiquées sous le nom « Waffen Assas », mouvance présentée par StreetPress comme héritière du GUD dissous en 2024. Les étudiants reprochent à la présidence de l'université de n'avoir publié aucun communiqué et certains craignent que leurs noms soient transmis à l'administration ; aucune enquête ni interpellation n'est connue.",
+    "victim": "Étudiants bloqueurs de Panthéon-Assas (au moins un blessé soigné)",
+    "investigation": "Aucune plainte, enquête ou interpellation connue",
+    "status_date": "2026-10-16",
+    "sources": [
+      {
+        "outlet": "L'Étudiant",
+        "title": "\"Ils sont venus se battre\" : des étudiants agressés par l'extrême droite sur certains campus bloqués",
+        "url": "https://www.letudiant.fr/lifestyle/j-ai-une-trace-de-semelle-sur-le-front-dans-certaines-facs-des-manifestants-agresses-par-l-extreme-droite.html",
+        "date": "2026-10-16"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "city": "Lille",
+    "dept": "59",
+    "place": "ESPOL, Université catholique de Lille",
+    "category": "extrême-droite",
+    "title": "Paul, 19 ans, étudiant à ESPOL, roué de coups de pied par des militants revendiqués de la Cocarde lilloise et de Génération Zemmour ; enquête pour violences en réunion",
+    "summary": "Le 14 octobre, Paul, 19 ans, étudiant à l'école ESPOL de l'Université catholique de Lille mobilisé dans le mouvement, a été attaqué par plusieurs militants « plus âgés, imposants physiquement » qui l'ont frappé à coups de pied dans la poitrine ; il garde une trace de semelle et de talon sur le front, le nez enflé, un œil rouge et des griffures. L'agression a été revendiquée par « La Cocarde lilloise » et « Génération Zemmour ». Le parquet de Lille a ouvert une enquête pour « violences en réunion » selon La Voix du Nord ; l'étudiant reproche à son université de laisser ces groupes tracter « impunément » sur le campus.",
+    "victim": "Paul, 19 ans, étudiant à ESPOL",
+    "investigation": "Enquête du parquet de Lille pour violences en réunion (La Voix du Nord, mi-octobre)",
+    "status_date": "2026-10-16",
+    "sources": [
+      {
+        "outlet": "L'Étudiant",
+        "title": "\"Ils sont venus se battre\" : des étudiants agressés par l'extrême droite sur certains campus bloqués",
+        "url": "https://www.letudiant.fr/lifestyle/j-ai-une-trace-de-semelle-sur-le-front-dans-certaines-facs-des-manifestants-agresses-par-l-extreme-droite.html",
+        "date": "2026-10-16"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1379 @@
+[
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 779,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (série rappelée par Ici le 8 novembre)",
+  "quote": "Série des interpellations par journée selon le ministère : « 448 le 5 novembre, 779 le 31 octobre, 1.300 le 24 octobre, 1.800 le 17 octobre » (chiffres consolidés différant des bilans provisoires publiés les soirs mêmes).",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Manifestations du 7 novembre : mobilisation en baisse, 360 interpellations selon le ministère de l'Intérieur",
+    "url": "https://www.ici.fr/infos/economie-social/manifestations-du-7-novembre-mobilisation-en-baisse-360-interpellations-selon-le-ministere-de-l-interieur-5284347",
+    "date": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "blesses_forces_ordre",
+  "value": 112,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan consolidé publié le 6 novembre)",
+  "quote": "« Cent douze policiers et gendarmes ont également été blessés (53 jeudi soir) ».",
+  "sources": [
+   {
+    "outlet": "La Libre",
+    "title": "France : 642 personnes interpellées et 112 policiers blessés lors des manifestations",
+    "url": "https://www.lalibre.be/international/europe/2026/11/06/france-642-personnes-interpellees-et-112-policiers-blesses-lors-des-manifestations-NUK7RXYG7FDTTMPB6LBX2EQRYU/",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Relève (Anadolu)",
+    "title": "70 000 policiers, 642 interpellations : en France, le dialogue social arrive en blindé",
+    "url": "https://lareleve.ma/210455/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "interpellations",
+  "value": 642,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan consolidé publié le 6 novembre)",
+  "quote": "« les forces de l'ordre ont procédé à 642 interpellations, selon Beauvau, qui en avait recensé 448 la veille » ; 575 000 manifestants dans 193 cortèges dont 65 000 à Paris.",
+  "sources": [
+   {
+    "outlet": "La Libre",
+    "title": "France : 642 personnes interpellées et 112 policiers blessés lors des manifestations",
+    "url": "https://www.lalibre.be/international/europe/2026/11/06/france-642-personnes-interpellees-et-112-policiers-blesses-lors-des-manifestations-NUK7RXYG7FDTTMPB6LBX2EQRYU/",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Libre (AFP)",
+    "title": "Manifestations samedi : « Le dispositif » de sécurité « reconduit » avec 70.000 policiers et gendarmes mobilisés",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/11/06/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70000-policiers-et-gendarmes-mobilises-7HXWMVJZH5FOJA7ESMRWA5HYFY/",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Relève (Anadolu)",
+    "title": "70 000 policiers, 642 interpellations : en France, le dialogue social arrive en blindé",
+    "url": "https://lareleve.ma/210455/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "blesses_forces_ordre",
+  "value": 4,
+  "scope": "ville",
+  "city": "Pau",
+  "authority": "Parquet de Pau (communiqué du 7 novembre)",
+  "quote": "Quatre policiers blessés par des tirs de mortiers « à hauteur d'homme » devant le lycée Saint-John-Perse le 5 novembre ; ITT « de deux et trois jours » pour deux d'entre eux.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Une information judiciaire a été ouverte à Pau contre des lycéens pour violences sur des policiers",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-information-judiciaire-a-ete-ouverte-a-pau-contre-des-lyceens-pour-violences-sur-des-policiers_8272136.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "La Semaine des Pyrénées",
+    "title": "Pau - Attaque au mortier devant le lycée Saint-John-Perse : quatre mineurs mis en cause, un placement en détention requis",
+    "url": "https://www.lasemainedespyrenees.fr/pau-attaque-au-mortier-devant-le-lycee-saint-john-perse-quatre-mineurs-mis-en-cause-un-placement-en-detention-requis",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "blesses_forces_ordre",
+  "value": 16,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Laurent Nuñez)",
+  "quote": "« 16 policiers blessés » lors des blocages de lycées (période non précisée).",
+  "sources": [
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocage des lycées du vendredi 6 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-06",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "upday (AFP)",
+    "title": "Blocages de lycées : 16 policiers blessés et 154 interpellations selon Laurent Nuñez",
+    "url": "https://www.upday.com/fr/blocages-de-lycees-16-policiers-blesses-et-154-interpellations-selon-laurent-nunez/d9e8jgx",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "interpellations",
+  "value": 154,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Laurent Nuñez)",
+  "quote": "« 154 interpellations » et « 16 policiers [et gendarmes] blessés » en lien avec les blocages de lycées (période de référence non précisée dans les sources consultées ; titre AFP/upday repris par Ma vigilance).",
+  "sources": [
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocage des lycées du vendredi 6 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-06",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "upday (AFP)",
+    "title": "Blocages de lycées : 16 policiers blessés et 154 interpellations selon Laurent Nuñez",
+    "url": "https://www.upday.com/fr/blocages-de-lycees-16-policiers-blesses-et-154-interpellations-selon-laurent-nunez/d9e8jgx",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "interpellations",
+  "value": 47,
+  "scope": "cumul",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "« 47 [interpellations] depuis lundi » dans le cadre du mouvement lycéen (préfecture du Rhône, 6 novembre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "L'entrée d'un lycée incendiée à Lyon, huit personnes interpellées",
+    "url": "https://www.franceinfo.fr/faits-divers/l-entree-d-un-lycee-incendiee-a-lyon-huit-personnes-interpellees_8270990.html",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "autre",
+  "value": 41,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Laurent Nuñez, conférence de presse du 6 novembre)",
+  "quote": "Lycées bloqués : « 41 établissements bloqués ce vendredi » matin, « deux fois moins que jeudi » (81).",
+  "sources": [
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocage des lycées du vendredi 6 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-06",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "upday (AFP)",
+    "title": "Blocages de lycées : 16 policiers blessés et 154 interpellations selon Laurent Nuñez",
+    "url": "https://www.upday.com/fr/blocages-de-lycees-16-policiers-blesses-et-154-interpellations-selon-laurent-nunez/d9e8jgx",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Yahoo Actualités",
+    "title": "Colère de lycéens : le ministre promet des sanctions quand les accès aux cours sont bloqués",
+    "url": "https://fr.news.yahoo.com/sport/col%C3%A8re-lyc%C3%A9ens-ministre-promet-sanctions-202023395.html",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "autre",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale (Édouard Geffray)",
+  "quote": "Lycées bloqués : « près de 0,5 % » des lycées ce matin, soit une vingtaine d'établissements sur 3 700 selon l'AFP (48 mardi) ; « Je rappelle que c'est illégal, (...) il y aura des sanctions » ; « Nos élèves ont besoin d'étudier ».",
+  "sources": [
+   {
+    "outlet": "Quartz France (AFP)",
+    "title": "Édouard Geffray promet des sanctions aux lycéens bloquant les classes",
+    "url": "https://fr.qz.com/edouard-geffray-promet-sanctions-lyceens-blocages-salles-classe-110626",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Lycées : le gouvernement promet des sanctions à ceux qui bloquent l'accès aux salles de classe",
+    "url": "https://www.ici.fr/infos/education/lycees-le-gouvernement-promet-des-sanctions-a-ceux-qui-bloquent-l-acces-aux-salles-de-classe-4990133",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Des sanctions pour des blocus à l'intérieur des lycées",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-sanctions-pour-des-blocus-a-l-interieur-des-lycees_8271008.html",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "autre",
+  "value": 70000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Laurent Nuñez)",
+  "quote": "Dispositif pour le samedi 7 novembre « reconduit en volume et en doctrine opérationnelle » : 70 000 policiers et gendarmes, 25 blindés Centaure, 15 engins lanceurs d'eau, drones et hélicoptères ; « Le risque est exactement le même que pour les samedis précédents » ; « S'il devait y avoir des casseurs et des pilleurs, (...) on les attendra de pied ferme ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 7 novembre : le dispositif de sécurité « reconduit » avec 70 000 policiers et gendarmes mobilisés",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Libre (AFP)",
+    "title": "Manifestations samedi : « Le dispositif » de sécurité « reconduit » avec 70.000 policiers et gendarmes mobilisés",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/11/06/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70000-policiers-et-gendarmes-mobilises-7HXWMVJZH5FOJA7ESMRWA5HYFY/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "blesses_forces_ordre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "DIPN du Rhône",
+  "quote": "Commandant de police « roué de coups » par une dizaine d'individus au lycée Lumière : 5 jours d'ITT selon la DIPN ; « lynché au sol » selon le ministre de l'Intérieur.",
+  "sources": [
+   {
+    "outlet": "Actu17",
+    "title": "Lyon : un commandant de police « lynché au sol » lors du blocus d'un lycée, trois interpellations",
+    "url": "https://actu17.fr/faits-divers/lyon-un-commandant-de-police-lynche-au-sol-lors-du-blocus-d-un-lycee-trois-interpellations.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Tonic Radio",
+    "title": "Un commandant de police blessé lors des blocages devant le lycée Lumière à Lyon",
+    "url": "https://www.tonicradio.fr/un-commandant-de-police-blesse-lors-des-blocages-devant-le-lycee-lumiere-a-lyon/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "interpellations",
+  "value": 10,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône / DIPN (décompte départemental relayé par Radio Scoop à 17 h)",
+  "quote": "Dix interpellations dans le Rhône pour jets de projectiles ou incendies lors des blocages lycéens ; « huit personnes ont été interpellées » autour de l'incendie du lycée Édouard-Herriot selon franceinfo ; trois interpellations après l'agression du commandant au lycée Lumière.",
+  "sources": [
+   {
+    "outlet": "La Clé publique",
+    "title": "Lyon : incendie au lycée Édouard-Herriot après un mois d'attaques",
+    "url": "https://laclepublique.fr/lyon-rhone/articles/2026/2026-11-06-incendie-lycee-herriot/",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "L'entrée d'un lycée incendiée à Lyon, huit personnes interpellées",
+    "url": "https://www.franceinfo.fr/faits-divers/l-entree-d-un-lycee-incendiee-a-lyon-huit-personnes-interpellees_8270990.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Actu17",
+    "title": "Lyon : un commandant de police « lynché au sol » lors du blocus d'un lycée, trois interpellations",
+    "url": "https://actu17.fr/faits-divers/lyon-un-commandant-de-police-lynche-au-sol-lors-du-blocus-d-un-lycee-trois-interpellations.html",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "gardes_a_vue",
+  "value": 4,
+  "scope": "ville",
+  "city": "Pau",
+  "authority": "Parquet de Pau / police nationale",
+  "quote": "« Quatre mineurs sont désormais en garde à vue » après les tirs de mortiers du 5 novembre devant le lycée Saint-John-Perse (deux lycéens interpellés dans l'enceinte de l'établissement le 6).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "À Pau, deux lycéens interpellés dans l'enceinte de leur établissement après des tirs de mortiers sur des policiers",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-pau-deux-lyceens-interpelles-dans-l-enceinte-de-leur-etablissement-apres-des-tirs-de-mortiers-sur-des-policiers_8270945.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Semaine des Pyrénées",
+    "title": "Pau - Attaque au mortier devant le lycée Saint-John-Perse : quatre mineurs mis en cause, un placement en détention requis",
+    "url": "https://www.lasemainedespyrenees.fr/pau-attaque-au-mortier-devant-le-lycee-saint-john-perse-quatre-mineurs-mis-en-cause-un-placement-en-detention-requis",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "metric": "interpellations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin",
+  "quote": "« Au total, cinq interpellations ont été réalisées dans la matinée » aux abords de sept lycées strasbourgeois (dont deux à Marc-Bloch pour attroupement après sommations, visage dissimulé et jets de projectiles).",
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Communiqué de presse – Blocages et troubles à l'ordre public aux abords de lycées strasbourgeois : point de situation du 06 novembre 2026",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63100/448654/file/Blocages+et+troubles+%C3%A0+l%E2%80%99ordre+public+aux+abords+de+lyc%C3%A9es+strasbourgeois+-+point+de+situation+du+06+novembre+2026.pdf",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Ici Alsace",
+    "title": "Mobilisation lycéenne à Strasbourg : sept établissements bloqués, une altercation éclate entre élèves et manifestants",
+    "url": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/mobilisation-lyceenne-a-strasbourg-sept-etablissement-bloques-une-altercation-eclate-entre-eleves-et-manifestants-8256750",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 146000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (comptage définitif)",
+  "quote": "Participation : « 146.000 » manifestants « dont 46.000 à Paris » pour « 141 actions » ; « La mobilisation de ce samedi 7 novembre marque un net recul du nombre de manifestants » ; 250 000 dont 75 000 à Paris selon l'intersyndicale de la jeunesse.",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Manifestations du 7 novembre : 146.000 personnes ont défilé en France samedi, 360 interpellations, selon le ministère de l'Intérieur",
+    "url": "https://www.europe1.fr/societe/manifestations-du-7-novembre-146000-personnes-ont-defile-en-france-samedi-360-interpellations-selon-le-ministere-de-linterieur-1216046",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Manifestations du 7 novembre : mobilisation en baisse, 360 interpellations selon le ministère de l'Intérieur",
+    "url": "https://www.ici.fr/infos/economie-social/manifestations-du-7-novembre-mobilisation-en-baisse-360-interpellations-selon-le-ministere-de-l-interieur-5284347",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Blick (AFP)",
+    "title": "France : les manifestations débouchent sur 360 interpellations",
+    "url": "https://www.blick.ch/fr/monde/france/france-les-manifestations-debouchent-sur-360-interpellations/tvmjjkx",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 7000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (entourage du ministre, point de 14 h)",
+  "quote": "« 7.000 personnes dans les cortèges » dans 68 actions à 14 h, contre 15 000 dans 65 actions le 31 octobre et 37 000 dans 108 actions le 24 ; mobilisation « en net recul ».",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Manifestations : 7.000 personnes dans les cortèges en France, une mobilisation en « net recul » selon l'entourage de Laurent Nuñez",
+    "url": "https://www.europe1.fr/societe/manifestations-7000-personnes-dans-les-corteges-en-france-une-mobilisation-en-net-recul-selon-lentourage-de-laurent-nunez-1215635",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Quartz France",
+    "title": "146 000 personnes ont manifesté en France le 7 novembre",
+    "url": "https://fr.qz.com/manifestants-france-ministere-interieur-intersyndicale-jeunesse-110726",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Sud Radio",
+    "title": "EN DIRECT - Mobilisation du 7 novembre : 146 000 manifestants en France, tensions en fin de cortège",
+    "url": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 40000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Contrôles préventifs : « près de 40 000 personnes ont fait l'objet de contrôles préventifs » sur les axes et dans les gares desservant les centres-villes, « comme demandé par le ministre ».",
+  "sources": [
+   {
+    "outlet": "Blick (AFP)",
+    "title": "France : les manifestations débouchent sur 360 interpellations",
+    "url": "https://www.blick.ch/fr/monde/france/france-les-manifestations-debouchent-sur-360-interpellations/tvmjjkx",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Manifestations du 7 novembre : 146.000 personnes ont défilé en France samedi, 360 interpellations, selon le ministère de l'Intérieur",
+    "url": "https://www.europe1.fr/societe/manifestations-du-7-novembre-146000-personnes-ont-defile-en-france-samedi-360-interpellations-selon-le-ministere-de-linterieur-1216046",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Manifestations du 7 novembre : mobilisation en baisse, 360 interpellations selon le ministère de l'Intérieur",
+    "url": "https://www.ici.fr/infos/economie-social/manifestations-du-7-novembre-mobilisation-en-baisse-360-interpellations-selon-le-ministere-de-l-interieur-5284347",
+    "date": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 18,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (point de 14 h)",
+  "quote": "18 interpellations à 14 h (27 à la même heure le samedi précédent) et plus de 15 600 contrôles préventifs.",
+  "sources": [
+   {
+    "outlet": "Sud Radio",
+    "title": "EN DIRECT - Mobilisation du 7 novembre : 146 000 manifestants en France, tensions en fin de cortège",
+    "url": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Manifestations du samedi 7 novembre 2026 : ce qui est annoncé",
+    "url": "https://mavigilance.fr/jour/2026-11-07",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 232,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan provisoire de 18 h)",
+  "quote": "« 232 interpellations » au bilan provisoire de 18 h ; « près de 40.000 personnes ont fait l'objet de contrôles préventifs » ; « Les grandes villes ont été émaillées de nombreux incidents ».",
+  "sources": [
+   {
+    "outlet": "La DH (AFP)",
+    "title": "Manifestations en France : 146.000 personnes ont défilé ce samedi, 232 interpellations",
+    "url": "https://www.dhnet.be/actu/monde/2026/11/07/manifestations-en-france-146000-personnes-ont-defile-ce-samedi-232-interpellations-PJUJ5EJH6VBORFKPLFQVHTZF5Q/",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Manifestations du 7 novembre : 146.000 personnes ont défilé en France samedi, 360 interpellations, selon le ministère de l'Intérieur",
+    "url": "https://www.europe1.fr/societe/manifestations-du-7-novembre-146000-personnes-ont-defile-en-france-samedi-360-interpellations-selon-le-ministere-de-linterieur-1216046",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Pandore Gendarmerie",
+    "title": "Manifestations du 7 novembre : 232 interpellations à 18 heures",
+    "url": "https://www.pandore-gendarmerie.org/manifestations-du-7-novembre-bilan-interpellations/",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Libnanews",
+    "title": "Manifestations du 7 novembre : bilan et suites",
+    "url": "https://libnanews.com/manifestations-du-7-novembre-le-bilan-de-linterieur/",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 360,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan provisoire de 19 h)",
+  "quote": "« 360 interpellations » à 19 h ; le ministère évoque des « groupes à risques » composés « dans chaque ville, de plusieurs centaines de militants radicaux et d'ultragauche », des « débordements » à Toulouse, Grenoble, Marseille, Nantes, Lyon, Bordeaux, Strasbourg et Dijon ; Laurent Nuñez « adresse son soutien le plus total aux membres des forces de sécurité intérieure blessés dans l'exercice de leur mission » ; aucun chiffre de blessés communiqué.",
+  "sources": [
+   {
+    "outlet": "Blick (AFP)",
+    "title": "France : les manifestations débouchent sur 360 interpellations",
+    "url": "https://www.blick.ch/fr/monde/france/france-les-manifestations-debouchent-sur-360-interpellations/tvmjjkx",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Manifestations du 7 novembre : mobilisation en baisse, 360 interpellations selon le ministère de l'Intérieur",
+    "url": "https://www.ici.fr/infos/economie-social/manifestations-du-7-novembre-mobilisation-en-baisse-360-interpellations-selon-le-ministere-de-l-interieur-5284347",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+    "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Entrevue",
+    "title": "Manifestations du 7 novembre : seulement 146 000 participants, 360 interpellations et une mobilisation qui s'essouffle",
+    "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/manifestations-du-7-novembre-seulement-146-000-participants-360/",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_forces_ordre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Angers",
+  "authority": "Préfecture de Maine-et-Loire",
+  "quote": "« deux policiers blessés » (huit blessés au total selon Ouest-France).",
+  "sources": [
+   {
+    "outlet": "Ici Anjou",
+    "title": "Mobilisation du 7 novembre : cinq commerces vandalisés, onze casseurs interpellés, six personnes blessées à Angers",
+    "url": "https://www.ici.fr/pays-de-la-loire/maine-et-loire-49/angers/mobilisation-du-7-novembre-cinq-commerces-vandalises-11-casseurs-interpelles-six-personnes-blessees-a-angers-5048340",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Près de 4 000 manifestants, huit blessés, onze interpellations, quatre agences bancaires et un commerce attaqués",
+    "url": "https://www.ouest-france.fr/societe/manifestation/pres-de-4-000-manifestants-huit-blesses-onze-interpellations-quatre-agences-bancaires-et-un-commerce-attaques-699318f4-dae6-11f1-a45f-49114163a350",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_manifestants",
+  "value": 6,
+  "scope": "ville",
+  "city": "Angers",
+  "authority": "Préfecture de Maine-et-Loire / SDIS",
+  "quote": "« six personnes prises en charge par les pompiers, dont trois mineurs » (bilan passé de 3 à 8 blessés au total selon Ouest-France, dont une commerçante).",
+  "sources": [
+   {
+    "outlet": "Ici Anjou",
+    "title": "Mobilisation du 7 novembre : cinq commerces vandalisés, onze casseurs interpellés, six personnes blessées à Angers",
+    "url": "https://www.ici.fr/pays-de-la-loire/maine-et-loire-49/angers/mobilisation-du-7-novembre-cinq-commerces-vandalises-11-casseurs-interpelles-six-personnes-blessees-a-angers-5048340",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Près de 4 000 manifestants, huit blessés, onze interpellations, quatre agences bancaires et un commerce attaqués",
+    "url": "https://www.ouest-france.fr/societe/manifestation/pres-de-4-000-manifestants-huit-blesses-onze-interpellations-quatre-agences-bancaires-et-un-commerce-attaques-699318f4-dae6-11f1-a45f-49114163a350",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "My Angers",
+    "title": "Le bilan des violences de la manifestation à Angers : commerçante blessée, banques saccagées et onze interpellations",
+    "url": "https://my-angers.info/11/07/le-bilan-des-violences-de-la-manifestation-a-angers-commercante-blessee-banques-saccagees-et-onze-interpellations/200940",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 11,
+  "scope": "ville",
+  "city": "Angers",
+  "authority": "Préfecture de Maine-et-Loire",
+  "quote": "« 11 interpellations » ; « un groupe de plus de 200 personnes, vêtues de noir, cagoulées, cachées sous des parapluies ou derrière des poubelles » ; cinq commerces attaqués dont quatre banques ; 3 300 manifestants.",
+  "sources": [
+   {
+    "outlet": "Ici Anjou",
+    "title": "Mobilisation du 7 novembre : cinq commerces vandalisés, onze casseurs interpellés, six personnes blessées à Angers",
+    "url": "https://www.ici.fr/pays-de-la-loire/maine-et-loire-49/angers/mobilisation-du-7-novembre-cinq-commerces-vandalises-11-casseurs-interpelles-six-personnes-blessees-a-angers-5048340",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Près de 4 000 manifestants, huit blessés, onze interpellations, quatre agences bancaires et un commerce attaqués",
+    "url": "https://www.ouest-france.fr/societe/manifestation/pres-de-4-000-manifestants-huit-blesses-onze-interpellations-quatre-agences-bancaires-et-un-commerce-attaques-699318f4-dae6-11f1-a45f-49114163a350",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Préfecture de Maine-et-Loire (X)",
+    "title": "Bilan de la manifestation du 7 novembre à Angers",
+    "url": "https://x.com/Prefet49/status/2119149518356705558",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 14,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Préfecture du Doubs",
+  "quote": "Verbalisations : « 14 verbalisations ».",
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestation contre la vie chère : 4 000 personnes mobilisées à Besançon, malgré un début dans le calme, une fin de journée sous tension",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/manifestation-contre-la-vie-chere-4-000-personnes-mobilisees-a-besancon-dans-le-calme-malgre-l-interdiction-de-circuler-en-centre-ville-3446073.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_forces_ordre",
+  "value": 6,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Préfecture du Doubs",
+  "quote": "« six policiers ont été blessés lors des interventions ».",
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestation contre la vie chère : 4 000 personnes mobilisées à Besançon, malgré un début dans le calme, une fin de journée sous tension",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/manifestation-contre-la-vie-chere-4-000-personnes-mobilisees-a-besancon-dans-le-calme-malgre-l-interdiction-de-circuler-en-centre-ville-3446073.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 17,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Préfecture du Doubs (communiqué du soir)",
+  "quote": "« 17 interpellations », « 14 verbalisations », « six policiers blessés » ; 4 000 manifestants vers 17 h ; mortiers et pavés contre les forces de l'ordre.",
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestation contre la vie chère : 4 000 personnes mobilisées à Besançon, malgré un début dans le calme, une fin de journée sous tension",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/manifestation-contre-la-vie-chere-4-000-personnes-mobilisees-a-besancon-dans-le-calme-malgre-l-interdiction-de-circuler-en-centre-ville-3446073.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 4,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde (bilan de 18 h 30)",
+  "quote": "Blessés : « 4 blessés dont un policier » lors des affrontements place de la Victoire et cours de l'Argonne.",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Manifestations du 7 novembre : la manifestation officielle terminée à Bordeaux, des débordements en marge du rassemblement observés depuis 16 heures",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/manifestations-du-7-novembre-debut-du-mouvement-a-bordeaux-et-a-bayonne-mobilisation-pacifique-a-pau-3446004.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "actu.fr Bordeaux",
+    "title": "Manifestation du 7 novembre à Bordeaux : blessés, incidents, interpellations… la préfecture dresse son bilan",
+    "url": "https://actu.fr/nouvelle-aquitaine/bordeaux_33063/manifestation-du-7-novembre-a-bordeaux-blesses-incidents-interpellations-la-prefecture-dresse-son-bilan_65030668.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 15,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde (bilan de 18 h 30)",
+  "quote": "« 15 interpellations », « 4 blessés dont un policier », « plus de 600 personnes identifiées comme présentant un risque de trouble à l'ordre public » ; 9 100 manifestants.",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Manifestations du 7 novembre : la manifestation officielle terminée à Bordeaux, des débordements en marge du rassemblement observés depuis 16 heures",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/manifestations-du-7-novembre-debut-du-mouvement-a-bordeaux-et-a-bayonne-mobilisation-pacifique-a-pau-3446004.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "actu.fr Bordeaux",
+    "title": "Manifestation du 7 novembre à Bordeaux : blessés, incidents, interpellations… la préfecture dresse son bilan",
+    "url": "https://actu.fr/nouvelle-aquitaine/bordeaux_33063/manifestation-du-7-novembre-a-bordeaux-blesses-incidents-interpellations-la-prefecture-dresse-son-bilan_65030668.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Titres Presse (Ici Drôme-Ardèche)",
+    "title": "Mobilisation contre la vie chère : environ 200 personnes manifestent à Valence",
+    "url": "https://www.titrespresse.com/28213282603/valence-mobilisation-vie",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Brest",
+  "authority": "Préfecture du Finistère",
+  "quote": "Deux personnes interpellées et sept personnes verbalisées place de la Liberté pour non-respect de l'arrêté d'interdiction ; manifestants « progressivement refoulés » hors du centre.",
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Manifestation du 7 novembre : malgré les interdictions, plusieurs milliers de personnes défilent dans une dizaine de villes bretonnes",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/manifestation-du-7-novembre-malgre-les-interdictions-plusieurs-milliers-de-personnes-defilent-dans-une-dizaine-de-villes-bretonnes-3446025.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 7,
+  "scope": "ville",
+  "city": "Caen",
+  "authority": "Préfecture du Calvados",
+  "quote": "Sept interpellations : « port de couteau », « participation à un attroupement », trois « dégradations par tags », « outrage et rébellion », « attouchements sexuels sur mineur, en marge de la manifestation » ; environ 3 000 personnes au plus fort ; 168 policiers et gendarmes.",
+  "sources": [
+   {
+    "outlet": "Tendance Ouest",
+    "title": "Caen. 3 000 personnes défilent dans le calme, sept interpellations pour port de couteau ou attouchements sexuels sur mineurs",
+    "url": "https://www.tendanceouest.com/actualite-444040-caen-3-000-personnes-defilent-dans-le-calme-sept-interpellations-pour-port-de-couteau-ou-attouchements-sexuels-sur-mineurs",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Préfecture du Calvados (X)",
+    "title": "Bilan de la manifestation du 7 novembre à Caen",
+    "url": "https://x.com/Prefet14/status/2119134856684925101",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Dijon",
+  "authority": "Préfecture de la Côte-d'Or",
+  "quote": "« Deux personnes interpellées » ; « jusqu'à 1 500 personnes ont participé à ce rassemblement non déclaré » ; aucun incident dans le centre-ville et le secteur de la gare.",
+  "sources": [
+   {
+    "outlet": "Dijon Actualités",
+    "title": "Manifestation contre la vie chère à Dijon : jusqu'à 1 500 participants selon la préfecture de Côte-d'Or, deux interpellations",
+    "url": "https://dijon-actualites.fr/2026/11/07/manifestation-contre-la-vie-chere-a-dijon-jusqua-1-500-participants-selon-la-prefecture-de-cote-dor-deux-interpellations/",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Dijon Actualités",
+    "title": "Manifestation contre la vie chère : le ministère de l'Intérieur exagère-t-il l'ampleur des incidents à Dijon ?",
+    "url": "https://dijon-actualites.fr/2026/11/08/manifestation-contre-la-vie-chere-le-ministere-de-linterieur-exagere-t-il-lampleur-des-incidents-a-dijon/",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Préfecture de la Côte-d'Or (X)",
+    "title": "Bilan de la manifestation du 7 novembre à Dijon",
+    "url": "https://x.com/Prefet21_BFC/status/2119139231289209114",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_forces_ordre",
+  "value": 4,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Préfecture de l'Isère",
+  "quote": "« deux policiers et deux gendarmes blessés », dont deux par des tirs de mortiers.",
+  "sources": [
+   {
+    "outlet": "Grenoble Mag",
+    "title": "Grenoble : 6 000 manifestants, 14 interpellations et quatre membres des forces de l'ordre blessés",
+    "url": "https://www.grenoblemag.com/article/3603/grenoble-6-000-manifestants-14-interpellations-et-quatre-membres-des-forces-de-l-ordre-blesses",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ici Isère",
+    "title": "Mobilisation du 7 novembre : plus de 6.000 manifestants à Grenoble, la foule dispersée par du gaz lacrymogène",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/mobilisation-du-7-novembre-plus-de-6-000-manifestants-a-grenoble-la-foule-dispersee-par-du-gaz-lacrymogene-8613766",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_manifestants",
+  "value": 2,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Préfecture de l'Isère",
+  "quote": "« un manifestant et une personne qualifiée de black bloc » soignés par les pompiers, blessures sans gravité.",
+  "sources": [
+   {
+    "outlet": "Grenoble Mag",
+    "title": "Grenoble : 6 000 manifestants, 14 interpellations et quatre membres des forces de l'ordre blessés",
+    "url": "https://www.grenoblemag.com/article/3603/grenoble-6-000-manifestants-14-interpellations-et-quatre-membres-des-forces-de-l-ordre-blesses",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ici Isère",
+    "title": "Mobilisation du 7 novembre : plus de 6.000 manifestants à Grenoble, la foule dispersée par du gaz lacrymogène",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/mobilisation-du-7-novembre-plus-de-6-000-manifestants-a-grenoble-la-foule-dispersee-par-du-gaz-lacrymogene-8613766",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 14,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Préfecture de l'Isère",
+  "quote": "« 14 interpellations » ; « deux cents individus violents, très mobiles, vêtus de noir » ; deux policiers et deux gendarmes blessés, un manifestant et un « black bloc » pris en charge par les pompiers.",
+  "sources": [
+   {
+    "outlet": "Grenoble Mag",
+    "title": "Grenoble : 6 000 manifestants, 14 interpellations et quatre membres des forces de l'ordre blessés",
+    "url": "https://www.grenoblemag.com/article/3603/grenoble-6-000-manifestants-14-interpellations-et-quatre-membres-des-forces-de-l-ordre-blesses",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Ici Isère",
+    "title": "Mobilisation du 7 novembre : plus de 6.000 manifestants à Grenoble, la foule dispersée par du gaz lacrymogène",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/mobilisation-du-7-novembre-plus-de-6-000-manifestants-a-grenoble-la-foule-dispersee-par-du-gaz-lacrymogene-8613766",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "deferrements",
+  "value": 1,
+  "scope": "ville",
+  "city": "La Courneuve",
+  "authority": "Parquet de Bobigny",
+  "quote": "L'auteur présumé (20 ans) des coups de couteau sur un lycéen de 16 ans devant le lycée Denis-Papin le 5 novembre est déféré le 7 novembre ; information judiciaire pour tentative d'homicide volontaire, détention provisoire requise.",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Élève de 16 ans poignardé lors d'un blocus lycéen : l'auteur présumé des coups de couteau déféré devant le parquet de Bobigny",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-saint-denis/eleve-de-16-ans-poignarde-lors-d-un-blocus-lyceen-l-auteur-presume-des-coups-de-couteau-defere-devant-le-parquet-de-bobigny-3446001.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Quartz France",
+    "title": "Le suspect du poignardage d'un lycéen à La Courneuve est déféré",
+    "url": "https://fr.qz.com/suspect-poignardage-lycee-courneuve-juge-instruction-110726",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "La Rochelle",
+  "authority": "Préfecture de la Charente-Maritime (via INF La Rochelle)",
+  "quote": "Une personne interpellée à l'issue du rassemblement ; 900 manifestants selon la préfecture.",
+  "sources": [
+   {
+    "outlet": "INF La Rochelle",
+    "title": "Manifestation du 7 novembre à La Rochelle : 1 500 à 2 000 manifestants, une mobilisation en baisse pour ce quatrième acte",
+    "url": "https://inf-info.fr/manifestation-du-7-novembre-a-la-rochelle-1-500-a-2-000-manifestants-une-mobilisation-en-baisse/",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Manifestations du 7 novembre. « J'ai envie qu'on continue jusqu'au bout » : à Poitiers et La Rochelle, des cortèges clairsemés mais pas découragés",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/vienne/poitiers/manifestations-du-7-novembre-j-ai-envie-qu-on-continue-jusqu-au-bout-en-poitiers-et-la-rochelle-des-corteges-clairsemes-mais-pas-decourages-3446031.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 47,
+  "scope": "ville",
+  "city": "Lille",
+  "authority": "Préfecture du Nord",
+  "quote": "« 47 personnes ont été interpellées » en marge du rassemblement ; « 10.000 manifestants et manifestantes ont défilé dans les rues de Lille ».",
+  "sources": [
+   {
+    "outlet": "Ici Nord",
+    "title": "EN IMAGES - Mobilisation du 7 novembre : 10.000 manifestants ont défilé à Lille dans le calme et en musique",
+    "url": "https://www.ici.fr/hauts-de-france/nord-59/mobilisation-du-7-novembre-le-cortege-lillois-s-elance-depuis-la-place-du-theatre-sebastopol-3612290",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "« La colère est immense, le gouvernement doit l'entendre » : de nouvelles manifestations à Lille et Amiens ce 7 novembre",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/la-colere-est-immense-le-gouvernement-doit-l-entendre-de-nouvelles-manifestations-a-lille-et-amiens-ce-7-novembre-pour-plus-de-justice-sociale-et-fiscale-3446112.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Préfecture du Nord (X)",
+    "title": "Bilan de la mobilisation du 7 novembre dans le Nord",
+    "url": "https://x.com/prefet59/status/2119171962379403772",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Limoges",
+  "authority": "Préfecture de la Haute-Vienne",
+  "quote": "« Deux manifestants ont été interpellés » ; « 450 personnes » selon la préfecture.",
+  "sources": [
+   {
+    "outlet": "Ici Limousin",
+    "title": "« Il n'y a pas grand monde » : à Limoges, les cortèges rétrécissent, entre 450 et 800 manifestants ce samedi",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/il-n-y-a-pas-grand-monde-a-limoges-les-corteges-retrecissent-entre-450-et-800-manifestants-ce-samedi-7535747",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 13,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "« 13 interpellations » ; « 3 300 participants au plus fort de la journée » ; « L'ensemble des groupes constitués a été dispersé » (18 h 19).",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Manifestation du 7 novembre à Lyon : mobilisation à la baisse, 3 300 participants, 13 interpellations et des tensions qui ont cessé en fin d'après-midi",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/direct-manifestation-du-7-novembre-a-lyon-aucun-cortege-declare-perimetre-d-interdiction-risque-de-menace-encore-eleve-3445845.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Radio Scoop",
+    "title": "Mobilisation du 7 novembre à Lyon : 3.300 manifestants recensés au plus fort de la journée, treize interpellations",
+    "url": "https://www.radioscoop.com/infos/maj-mobilisation-du-7-novembre-a-lyon-3-300-manifestants-recenses-au-plus-fort-de-la-journee-treize-interpellations_367239",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_forces_ordre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "« un policier ainsi qu'un gendarme ont été blessés ».",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du samedi 7 novembre. 5 personnes interpellées, deux policiers blessés à Montpellier",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-samedi-7-novembre-5-personnes-interpellees-deux-policiers-blesses-a-montpellier-3446202.html",
+    "date": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "« cinq personnes interpellées » ; « un policier ainsi qu'un gendarme ont été blessés » ; individus « répartis en plusieurs groupes, certains masqués », qui « se sont livrés à des dégradations, s'en sont pris aux forces de l'ordre » ; « jusqu'à 4 800 personnes ».",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du samedi 7 novembre. 5 personnes interpellées, deux policiers blessés à Montpellier",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-samedi-7-novembre-5-personnes-interpellees-deux-policiers-blesses-a-montpellier-3446202.html",
+    "date": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Nancy",
+  "authority": "Préfecture de Meurthe-et-Moselle",
+  "quote": "Blessés : « 2 personnes légèrement blessées, dont un gendarme ».",
+  "sources": [
+   {
+    "outlet": "Ici Sud Lorraine",
+    "title": "Mobilisation du 7 novembre : un acte IV ce samedi à Nancy",
+    "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/mobilisation-du-7-novembre-un-acte-iv-ce-samedi-a-nancy-4632793",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Préfecture de Meurthe-et-Moselle (X)",
+    "title": "Bilan de la manifestation du 7 novembre à Nancy",
+    "url": "https://x.com/Prefet54/status/2119132435640152393",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 7,
+  "scope": "ville",
+  "city": "Nancy",
+  "authority": "Préfecture de Meurthe-et-Moselle",
+  "quote": "« 7 personnes interpellées », « 2 personnes légèrement blessées, dont un gendarme » ; environ 700 manifestants (premier chiffre).",
+  "sources": [
+   {
+    "outlet": "Ici Sud Lorraine",
+    "title": "Mobilisation du 7 novembre : un acte IV ce samedi à Nancy",
+    "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/mobilisation-du-7-novembre-un-acte-iv-ce-samedi-a-nancy-4632793",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Préfecture de Meurthe-et-Moselle (X)",
+    "title": "Bilan de la manifestation du 7 novembre à Nancy",
+    "url": "https://x.com/Prefet54/status/2119132435640152393",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestations du 7 novembre : la colère ne retombe pas, la situation est tendue à Nancy",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-7-novembre-gilets-jaunes-etudiants-lyceens-la-colere-ne-retombe-pas-3445887.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 50,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Préfecture de Loire-Atlantique (bilan de 19 h)",
+  "quote": "« 50 interpellations » à 19 h (5 à 13 h 30 lors des contrôles préventifs pour port d'armes ou d'équipements prohibés, 25 à 16 h 55).",
+  "sources": [
+   {
+    "outlet": "Ici Loire Océan",
+    "title": "Mobilisation du 7 novembre : plusieurs milliers de personnes à Nantes, dans le centre-ville interdit par la préfecture",
+    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/mobilisation-du-7-novembre-plusieurs-milliers-de-personnes-a-nantes-dans-le-centre-ville-interdit-par-la-prefecture-4917672",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Pays de la Loire",
+    "title": "EN IMAGES. Mobilisations dans le calme, malgré quelques heurts, revivez les manifestations du samedi 7 novembre à Nantes et Angers",
+    "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/manifestations-du-7-novembre-suivez-la-nouvelle-journee-de-mobilisations-a-nantes-et-angers-3445959.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "DIRECT. Manifestations du 7 novembre en Loire-Atlantique : plusieurs rassemblements prévus à Nantes et Saint-Nazaire",
+    "url": "https://www.ouest-france.fr/societe/manifestation/direct-manifestations-du-7-novembre-en-loire-atlantique-plusieurs-rassemblements-prevus-a-nantes-et-saint-nazaire-3a73d4a9-5b1b-4f66-b2a1-938ac83e6ca7",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 50,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Préfecture des Alpes-Maritimes",
+  "quote": "« Les forces de l'ordre sont intervenues. 50 personnes ont été interpellées » après la tentative d'environ 200 personnes de rejoindre le secteur interdit de l'avenue Jean-Médecin ; « la manifestation s'est déroulée dans le calme, malgré des slogans et propos inacceptables à l'encontre des forces de police » ; 2 300 manifestants.",
+  "sources": [
+   {
+    "outlet": "Ici Azur",
+    "title": "Mobilisation du 7 novembre à Nice : 2300 à 5000 manifestants dans une ambiance festive avant des interpellations",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/mobilisation-du-7-novembre-a-nice-2300-a-5000-manifestants-dans-une-ambiance-musicale-et-militante-3041618",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestations à Nice et Toulon. Nombre de participants, revendications, interpellations : on vous dit tout sur cette nouvelle journée d'action du 7 novembre",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/acte-4-de-la-colere-sociale-a-quoi-doit-on-s-attendre-dans-les-rues-de-nice-ce-samedi-3445866.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Nice-Matin",
+    "title": "Acte IV de la mobilisation contre la vie chère : 50 interpellations après la manifestation à Nice",
+    "url": "https://www.nicematin.com/societe/greves/acte-iv-de-la-mobilisation-contre-la-vie-chere-50-interpellations-apres-la-manifestation-a-nice-10755208",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 259,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police (bilan de 20 h)",
+  "quote": "Verbalisations : « 259 personnes verbalisées » ; « 8 147 contrôles ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+    "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 7 novembre : 146 000 personnes ont défilé en France samedi selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse (direct)",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-7-novembre-suivez-avec-nous-cette-nouvelle-journee-de-manifestations_8272010.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 8147,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police (bilan de 20 h)",
+  "quote": "Contrôles : « 8 147 contrôles » (847 à 11 h dans les gares et la petite couronne).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+    "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 7 novembre à Paris : des Gilets jaunes interpellés à Concorde placés en garde à vue, « 46 000 manifestants » entre République et Nation",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-7-novembre-a-paris-interpellation-de-gilets-jaunes-a-concorde-defile-dans-le-calme-entre-republique-et-nation-60-000-personnes-attendues-3446016.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 30,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police",
+  "quote": "Concorde : « une trentaine d'individus sont présents sur la place », verbalisés (135 € pour non-respect de l'arrêté préfectoral) puis autorisés à se disperser ; deux porte-parole des Gilets jaunes placés en garde à vue au commissariat du 17e.",
+  "sources": [
+   {
+    "outlet": "Ici (AFP)",
+    "title": "Mobilisation du 7 novembre : à quoi faut-il s'attendre à Paris ?",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-7-novembre-a-quoi-faut-il-s-attendre-a-paris-2720540",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 7 novembre à Paris : des Gilets jaunes interpellés à Concorde placés en garde à vue, « 46 000 manifestants » entre République et Nation",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-7-novembre-a-paris-interpellation-de-gilets-jaunes-a-concorde-defile-dans-le-calme-entre-republique-et-nation-60-000-personnes-attendues-3446016.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "CNews",
+    "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes placés en garde à vue",
+    "url": "https://www.cnews.fr/france/2026-11-07/manifestations-du-7-novembre-deux-chefs-de-file-des-gilets-jaunes-places-en-garde",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 69,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police (bilan de 20 h)",
+  "quote": "« 69 interpellations, 259 verbalisations, 8 147 contrôles » dans l'agglomération parisienne à 20 h (15 interpellations et 5 813 contrôles en milieu d'après-midi).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
+    "url": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Gasbu (agrégateur)",
+    "title": "Gilets jaunes les 6 et 7 novembre 2026 en direct : blocages, routes, carburant, Paris",
+    "url": "https://gasbu.app/fr/direct/six-seven-6-7-novembre-2026",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "poursuites",
+  "value": 4,
+  "scope": "ville",
+  "city": "Pau",
+  "authority": "Parquet de Pau (procureur Rodolphe Jarry)",
+  "quote": "Information judiciaire ouverte le 7 novembre contre quatre mineurs (15 à 17 ans) pour « violences sur fonctionnaires de police avec arme et en réunion » et « association de malfaiteurs en vue de la préparation d'un délit puni de 10 ans d'emprisonnement » ; détention provisoire requise pour un mineur de 16 ans, contrôle judiciaire pour les trois autres.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Une information judiciaire a été ouverte à Pau contre des lycéens pour violences sur des policiers",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-information-judiciaire-a-ete-ouverte-a-pau-contre-des-lyceens-pour-violences-sur-des-policiers_8272136.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "La Semaine des Pyrénées",
+    "title": "Pau - Attaque au mortier devant le lycée Saint-John-Perse : quatre mineurs mis en cause, un placement en détention requis",
+    "url": "https://www.lasemainedespyrenees.fr/pau-attaque-au-mortier-devant-le-lycee-saint-john-perse-quatre-mineurs-mis-en-cause-un-placement-en-detention-requis",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Policiers blessés par des tirs de mortier devant un lycée à Pau : quatre mineurs mis en examen, une information judiciaire ouverte",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/policiers-blesses-par-des-tirs-de-mortier-devant-un-lycee-a-pau-quatre-mineurs-mis-en-examen-une-information-judiciaire-ouverte-3445929.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 9,
+  "scope": "ville",
+  "city": "Poitiers",
+  "authority": "Préfecture de la Vienne",
+  "quote": "« Neuf personnes ont été interpellées » (participation à un attroupement après sommations, entrave à la circulation, port d'arme et d'équipements de protection individuelle) ; « déambulation sauvage » ; rue Victor-Hugo « libérée vers 18h00 ».",
+  "sources": [
+   {
+    "outlet": "Ici Poitou",
+    "title": "Mobilisation du 7 novembre : 700 manifestants à Poitiers, 200 à Niort, le bilan de l'acte 4 dans le Poitou",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/mobilisation-du-7-novembre-suivez-la-journee-de-manifestations-dans-la-vienne-et-les-deux-sevres-3800771",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 7,
+  "scope": "ville",
+  "city": "Rouen",
+  "authority": "Préfecture de Seine-Maritime (bilan de 18 h 15)",
+  "quote": "« 7 personnes interpellées » parmi un groupe de 300 personnes « hostiles » ; 1 880 manifestants à Rouen, 65 au Havre.",
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "Manifestation du 7 novembre : un cortège plus clairsemé à Rouen mais 7 personnes « hostiles » interpellées par les forces de l'ordre",
+    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/manifestation-du-7-novembre-un-cortege-plus-clairseme-mais-7-personnes-hostiles-interpellees-par-les-forces-de-l-ordre-3446193.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Tendance Ouest",
+    "title": "Manifestations contre la vie chère : 1 880 personnes réunies à Rouen et 50 au Havre",
+    "url": "https://www.tendanceouest.com/actualite-444036-manifestations-contre-la-vie-chere-1-880-personnes-reunies-a-rouen-et-50-au-havre",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 10,
+  "scope": "ville",
+  "city": "Saint-Étienne",
+  "authority": "Préfecture de la Loire",
+  "quote": "Dix interpellations annoncées samedi soir par la préfecture de la Loire (onze selon un autre décompte) ; environ 600 manifestants.",
+  "sources": [
+   {
+    "outlet": "Ici Saint-Étienne Loire",
+    "title": "Mobilisation du 7 novembre : 600 personnes manifestent à Saint-Étienne, entraînées par la fanfare",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/loire-42/saint-etienne/mobilisation-du-7-novembre-manifestation-declaree-a-roanne-interdictions-des-rassemblements-a-saint-etienne-8164373",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 4,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin (communiqué du 7 novembre)",
+  "quote": "« Quatre personnes ont été interpellées, pour participation à un attroupement malgré sommations, port d'équipement de protection individuelle et pour outrage envers des personnes dépositaires de l'autorité publique. Aucun blessé n'est à déplorer ni chez les manifestants ni les forces de l'ordre » ; « 1 500 participants », « encore à 17h, 700 manifestants déambulaient ».",
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Communiqué de presse – Manifestation non déclarée à Strasbourg le samedi 7 novembre",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63101/448659/file/manifestation+non+d%C3%A9clar%C3%A9e+-+point+de+situation+07.11.pdf",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ici Alsace",
+    "title": "Mobilisation du 7 novembre en Alsace : au moins 1 500 personnes à Strasbourg, le mouvement s'essouffle dans le Haut-Rhin",
+    "url": "https://www.ici.fr/grand-est/alsace-cea/strasbourg/mobilisation-du-7-novembre-en-alsace-deux-appels-aux-rassemblements-prevus-l-un-a-strasbourg-l-autre-a-colmar-3870600",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "blesses_manifestants",
+  "value": 3,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne (via actu.fr / La Dépêche)",
+  "quote": "« trois manifestants blessés » (mouvement de foule près du jardin de l'Observatoire, gaz lacrymogènes).",
+  "sources": [
+   {
+    "outlet": "actu.fr Toulouse",
+    "title": "Rassemblement du 7 novembre à Toulouse : 24 personnes placées en garde à vue, trois manifestants blessés",
+    "url": "https://actu.fr/occitanie/toulouse_31555/rassemblement-du-7-novembre-a-toulouse-24-personnes-placees-en-garde-a-vue-trois-manifestants-blesses_65031012.html",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Gaz lacrymogènes, mouvements de foule et 24 gardes à vue : une manifestation sous tension à Toulouse",
+    "url": "https://www.ladepeche.fr/2026/11/07/gaz-lacrymogenes-mouvements-de-foule-et-24-gardes-a-vue-une-manifestation-sous-tension-a-toulouse-13641705.php",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "gardes_a_vue",
+  "value": 24,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne / parquet",
+  "quote": "« 24 personnes placées en garde à vue », dont cinq mineurs ; « trois manifestants blessés » ; 5 000 manifestants selon la préfecture.",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Gaz lacrymogènes, mouvements de foule et 24 gardes à vue : une manifestation sous tension à Toulouse",
+    "url": "https://www.ladepeche.fr/2026/11/07/gaz-lacrymogenes-mouvements-de-foule-et-24-gardes-a-vue-une-manifestation-sous-tension-a-toulouse-13641705.php",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "actu.fr Toulouse",
+    "title": "Rassemblement du 7 novembre à Toulouse : 24 personnes placées en garde à vue, trois manifestants blessés",
+    "url": "https://actu.fr/occitanie/toulouse_31555/rassemblement-du-7-novembre-a-toulouse-24-personnes-placees-en-garde-a-vue-trois-manifestants-blesses_65031012.html",
+    "date": "2026-11-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Valence",
+  "authority": "Police nationale / préfecture de la Drôme",
+  "quote": "« Deux mineurs ont été interpellés » pour participation à une manifestation non déclarée le visage dissimulé, « remis à leurs parents » ; environ 200 manifestants.",
+  "sources": [
+   {
+    "outlet": "Ici Drôme-Ardèche",
+    "title": "Mobilisation contre la vie chère : environ 200 personnes manifestent à Valence",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/valence/mobilisation-contre-la-vie-chere-environ-200-personnes-manifestent-a-valence-4692520",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Titres Presse (Ici Drôme-Ardèche)",
+    "title": "Mobilisation contre la vie chère : environ 200 personnes manifestent à Valence",
+    "url": "https://www.titrespresse.com/28213282603/valence-mobilisation-vie",
+    "date": "2026-11-07"
+   }
+  ]
+ }
+]

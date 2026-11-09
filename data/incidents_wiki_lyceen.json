@@ -1,0 +1,1228 @@
+[
+ {
+  "date": "2026-09-25",
+  "city": "Saint-Denis",
+  "dept": "93",
+  "place": "commissariat de Saint-Denis",
+  "category": "coups",
+  "title": "Deux lycéens de 15 et 16 ans giflés et frappés lors de blocus en Seine-Saint-Denis",
+  "summary": "Dès le 27 septembre, six avocats des barreaux de Paris et de Seine-Saint-Denis dénoncent des violences policières visant des lycéens interpellés lors des blocus en Seine-Saint-Denis et dans le Val-d'Oise. À Saint-Denis, un adolescent de 15 ans serait arrivé au commissariat le visage en sang et y aurait reçu plusieurs gifles ; un autre, âgé de 16 ans, affirme avoir reçu un coup de poing au foie lors de son arrestation puis une gifle au commissariat. Les faits se situent lors des blocus des 23-25 septembre (date exacte non précisée).",
+  "victim": "Deux lycéens de 15 et 16 ans (Saint-Denis)",
+  "investigation": "Plainte et saisine de l'IGPN annoncées par six avocats (27 sept.)",
+  "status_date": "2026-09-27",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "“Il a reçu plusieurs gifles à l'intérieur du commissariat” : des avocats dénoncent des “violences policières contre des lycéens” en Seine-Saint-Denis et dans le Val-d'Oise",
+    "url": "https://www.franceinfo.fr/societe/education/il-a-recu-plusieurs-gifles-a-l-interieur-du-commissariat-des-avocats-denoncent-des-violences-policieres-contre-des-lyceens-en-seine-saint-denis-et-dans-le-val-d-oise_8212271.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "city": "Saint-Ouen-l'Aumône",
+  "dept": "95",
+  "place": "lycée professionnel du Château-d'Épluches",
+  "category": "grenade",
+  "title": "Eden, 14 ans, grièvement blessé à la mâchoire par un tir de lance-grenades Cougar à bout portant",
+  "summary": "Lors du blocage du lycée professionnel du Château-d'Épluches, Eden, 14 ans, reçoit à bout portant dans la mâchoire un tir de lance-grenades de type « Cougar ». Le parquet de Pontoise affirme qu'il avait porté des coups à une policière ; ses professeurs décrivent un élève « pris à partie par plusieurs agents » et une « réaction disproportionnée des forces de l'ordre ». Selon Le Monde, trois policiers l'ont bousculé puis matraqué alors qu'il regardait son téléphone, avant de tirer vers son visage après qu'il a riposté d'un coup de pied. Le Monde date cette première blessure grave du 30 septembre.",
+  "victim": "Eden, 14 ans, lycéen",
+  "investigation": "Enquête IGPN ; autosaisine du Défenseur des droits ; le 6 octobre, le policier auteur du tir est mis en examen pour « violences par personne dépositaire de l'autorité publique suivie de mutilation ou d'infirmité permanente » et placé sous contrôle judiciaire (interdiction d'exercice, de contact avec le public et de port d'arme)",
+  "status_date": "2026-10-06",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Ce que l'on sait du lycéen blessé au visage après le tir d'un projectile par un policier lors d'un blocage dans le Val-d'Oise",
+    "url": "https://www.franceinfo.fr/economie/greve/ce-que-l-on-sait-du-lyceen-blesse-au-visage-apres-le-tir-d-un-projectile-par-un-policier-lors-d-un-blocage-dans-le-val-d-oise_8214740.html",
+    "date": "2026-09-30"
+   },
+   {
+    "outlet": "Ici Paris Île-de-France",
+    "title": "Blocage des lycées : l'IGPN saisie de trois enquêtes en Île-de-France",
+    "url": "https://www.ici.fr/ile-de-france/blocage-des-lycees-l-igpn-saisie-de-trois-enquetes-en-ile-de-france-7847890",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "Le Figaro",
+    "title": "Jeune blessé lors du blocus des lycées : le Défenseur des droits se saisit, une enquête ouverte",
+    "url": "https://www.lefigaro.fr/faits-divers/jeune-blesse-lors-du-blocus-des-lycees-le-defenseur-des-droits-se-saisit-une-enquete-ouverte-20261002",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Main arrachée, mâchoire fracturée : dix enquêtes de l'IGPN ouvertes en lien avec les blocages des lycées, annonce le gouvernement",
+    "url": "https://www.liberation.fr/societe/police-justice/main-arrachee-machoire-scellee-six-enquetes-de-ligpn-ouvertes-en-lien-avec-les-blocages-des-lycees-20261005_CWHVJREBDNCURM7RCF3FKCZSXE/",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "“Ils mutilent un élève, repartent, et nous, derrière, comment fait-on ?” À Saint-Ouen-l'Aumône, le traumatisme perdure après la blessure grave d'un adolescent par un tir policier",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/09/ils-mutilent-un-eleve-repartent-et-nous-derriere-comment-fait-on-a-saint-ouen-l-aumone-le-traumatisme-perdure-apres-la-grave-blessure-d-un-adolescent-par-un-tir-policier_6790494_3224.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Mouvement des lycées : ce qu'on sait des blessés, du côté des manifestants et de celui des forces de l'ordre",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/05/mouvement-des-lycees-ce-qu-on-sait-des-blesses-du-cote-des-manifestants-et-de-celui-des-forces-de-l-ordre_6788583_3224.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "city": "Saint-Denis",
+  "dept": "93",
+  "place": "lycée Paul-Éluard",
+  "category": "entrave-presse",
+  "title": "Deux journalistes de BFM TV pris à partie devant le lycée Paul-Éluard",
+  "summary": "Selon RSF, deux journalistes de BFM TV sont pris à partie devant le lycée Paul-Éluard de Saint-Denis le 29 septembre ; l'organisation, qui recense douze journalistes agressés (six par des manifestants ou des tiers, six par les forces de l'ordre), ne précise pas dans le texte l'origine de cette agression.",
+  "victim": "Deux journalistes de BFM TV",
+  "investigation": "Signalement RSF (9 oct.) ; auteurs non précisés",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "city": "Saint-Denis",
+  "dept": "93",
+  "place": "lycée Paul-Éluard",
+  "category": "extrême-droite",
+  "title": "Vidéos tronquées et attaques racistes d'extrême droite contre le maire Bally Bagayoko",
+  "summary": "Le 29 septembre, des comptes d'extrême droite et des médias du même courant comme Frontières accusent, à partir de vidéos tronquées, le maire de Saint-Denis Bally Bagayoko de « participer aux débordements » et d'avoir allumé un feu de poubelle lors d'une manifestation aux abords d'un lycée de sa ville ; il reçoit de nombreux commentaires racistes sur X. Les vidéos complètes dévoilées par L'Humanité et Libération montrent au contraire qu'il éloignait la poubelle des grilles et aidait les pompiers à éteindre le feu.",
+  "victim": "Bally Bagayoko, maire de Saint-Denis",
+  "investigation": "Aucune procédure mentionnée ; démenti par les vidéos complètes",
+  "status_date": "2026-09-29",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Blocages des lycées : Bally Bagayoko, maire LFI de Saint-Denis visé par des attaques racistes, dément avoir allumé un feu de poubelle",
+    "url": "https://www.lemonde.fr/politique/article/2026/09/29/blocages-des-lycees-le-maire-lfi-bally-bagayoko-vise-par-des-attaques-racistes-dement-avoir-allume-un-feu-de-poubelle_6785601_823448.html",
+    "date": "2026-09-29"
+   },
+   {
+    "outlet": "L'Humanité",
+    "title": "Bally Bagayoko brûle une poubelle ? L'Huma était sur place",
+    "url": "https://www.humanite.fr/politique/bally-bagayoko/bally-bagayoko-brule-une-poubelle-lhuma-etait-sur-place",
+    "date": ""
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "city": "Tours",
+  "dept": "37",
+  "place": "lycée Balzac",
+  "category": "lbd",
+  "title": "Maël, 16 ans, perd l'usage de son œil droit lors du blocus du lycée Balzac (tir de LBD)",
+  "summary": "Lors du blocus du lycée Balzac le 30 septembre, Maël, lycéen de 16 ans, est grièvement blessé au visage et perd l'usage de son œil droit ; selon la procureure, ses lésions sont compatibles avec l'impact d'un projectile de type LBD. Le 13 octobre, à l'issue de l'enquête de l'IGPN, l'un des deux policiers ayant utilisé leur LBD est mis en examen pour violences aggravées ; le lendemain, son avocate affirme que son tir, conforme à la doctrine, a atteint un autre manifestant et non Maël.",
+  "victim": "Maël, 16 ans, lycéen",
+  "investigation": "Enquête IGPN ; information judiciaire ouverte le 13 octobre ; un policier mis en examen pour violences aggravées et placé sous contrôle judiciaire avec interdiction de détenir et d'utiliser un LBD, l'autre placé sous le statut de témoin assisté",
+  "status_date": "2026-10-14",
+  "sources": [
+   {
+    "outlet": "La Nouvelle République",
+    "title": "Lycéen blessé mercredi 30 septembre 2026 à Tours : “Maël a perdu l'usage de son œil”",
+    "url": "https://www.lanouvellerepublique.fr/tours/malheureusement-mael-a-perdu-l-usage-de-son-oeil-confirment-plusieurs-sources-au-sujet-du-lyceen-blesse-mardi-a-tours-1790956993",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "L'adolescent blessé au visage à Tours lors d'un blocage de lycée a perdu l'usage d'un œil",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-jeune-homme-blesse-a-tours-lors-d-un-blocage-de-lycee-a-perdu-l-usage-d-un-il_8220382.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Ici Touraine",
+    "title": "Lycéen éborgné en marge d'un blocus à Tours : un policier mis en examen, soupçonné d'être l'auteur du tir de LBD",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/lyceen-blesse-a-l-oeil-en-marge-d-un-blocus-a-tours-le-policier-auteur-d-un-des-tirs-de-lbd-mis-en-examen-1170710",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "France 3 Centre-Val de Loire",
+    "title": "“Soulagement” d'un côté, “écœurement” de l'autre : ce que l'on sait de la mise en examen d'un policier dans l'affaire du lycéen éborgné",
+    "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre-loire/tours/soulagement-d-un-cote-ec-urement-de-l-autre-ce-que-l-on-sait-de-la-mise-en-examen-d-un-policier-dans-l-affaire-du-lyceen-eborgne-3433338.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "Ici Touraine",
+    "title": "Tir de LBD à Tours : le policier soupçonné d'avoir éborgné Maël affirme avoir touché un autre manifestant",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/tir-de-lbd-a-tours-le-policier-soupconne-d-avoir-eborgne-mael-affirme-avoir-touche-un-autre-manifestant-9383007",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "France 3 Centre-Val de Loire",
+    "title": "Lycéen éborgné : l'avocate du policier mis en examen affirme qu'il n'a pas blessé Maël avec son LBD",
+    "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre-loire/tours/lyceen-eborgne-l-avocate-du-policier-mis-en-examen-affirme-qu-il-n-a-pas-blesse-mael-avec-son-lbd-3433647.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "city": "Alençon",
+  "dept": "61",
+  "place": "lycée Leclerc-Navarre",
+  "category": "coups",
+  "title": "Aïna, 14 ans, serrée au cou par un policier lors de son interpellation devant le lycée Leclerc-Navarre",
+  "summary": "Le 1er octobre, devant le lycée Leclerc-Navarre d'Alençon, Aïna, lycéenne de 14 ans, est étranglée par un policier lors de son interpellation : « J'ai cru que j'allais y rester », confie-t-elle à Ici Normandie.",
+  "victim": "Aïna, 14 ans, lycéenne",
+  "investigation": "Aucune suite judiciaire mentionnée dans le texte",
+  "status_date": "2026-10-01",
+  "sources": [
+   {
+    "outlet": "Ici Normandie (Calvados - Orne)",
+    "title": "“J'ai cru que j'allais y rester”, confie Aïna, 14 ans, qu'un policier a serrée au cou pour la maîtriser à Alençon",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-normandie-calvados-orne/j-ai-cru-que-j-allais-y-rester-confie-aina-14-ans-qu-un-policier-a-serree-au-cou-pour-la-maitriser-a-alencon-6751573",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "city": "Argenteuil",
+  "dept": "95",
+  "place": "la Dalle",
+  "category": "lbd",
+  "title": "Un lycéen de 16 ans grièvement blessé à l'œil par un tir de LBD à Argenteuil",
+  "summary": "En marge d'une manifestation lycéenne sur la Dalle d'Argenteuil, un lycéen de 16 ans est grièvement blessé à l'œil. Selon le parquet de Pontoise, deux policiers ont fait usage de leur LBD en « riposte » à des tirs de mortiers d'artifice, et la description du blessé correspond à l'une des deux personnes visées.",
+  "victim": "Lycéen de 16 ans",
+  "investigation": "Enquête pour violences avec arme par personne dépositaire de l'autorité publique confiée à l'IGPN (parquet de Pontoise)",
+  "status_date": "2026-10-06",
+  "sources": [
+   {
+    "outlet": "Ici Paris Île-de-France",
+    "title": "Blocage des lycées : l'IGPN saisie de trois enquêtes en Île-de-France",
+    "url": "https://www.ici.fr/ile-de-france/blocage-des-lycees-l-igpn-saisie-de-trois-enquetes-en-ile-de-france-7847890",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Ce que l'on sait des enquêtes confiées à l'IGPN depuis le début de la mobilisation lycéenne",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-que-l-on-sait-des-enquetes-confiees-a-l-igpn-depuis-le-debut-de-la-mobilisation-lyceenne_8224513.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "",
+  "category": "entrave-presse",
+  "title": "Un correspondant de M6 blessé au front et sa caméra détruite à Marseille",
+  "summary": "Selon RSF, un correspondant de M6 est blessé au front et sa caméra détruite à Marseille le 1er octobre, jour des blocus et violences les plus importants dans la ville ; l'origine de l'agression (manifestants, tiers ou forces de l'ordre) n'est pas précisée dans le texte.",
+  "victim": "Correspondant de M6",
+  "investigation": "Signalement RSF (9 oct.) ; auteurs non précisés",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "city": "Metz",
+  "dept": "57",
+  "place": "",
+  "category": "autre",
+  "title": "Metz : enquête pour agression sexuelle après l'interpellation d'une lycéenne de 14 ans maintenue au sol",
+  "summary": "Une vidéo montre un policier maintenant au sol une lycéenne de 14 ans lors de son interpellation à Metz et lui caressant les cheveux et la poitrine. Le parquet ouvre une enquête, confiée à l'IGPN, afin d'établir l'existence ou non d'une agression sexuelle sur mineur.",
+  "victim": "Lycéenne de 14 ans",
+  "investigation": "Enquête du parquet de Metz confiée à l'IGPN (soupçons d'agression sexuelle sur mineur)",
+  "status_date": "2026-10-06",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Une enquête ouverte à Metz sur des soupçons d'agression sexuelle par un policier, lors de l'interpellation d'une jeune fille pendant le mouvement lycéen",
+    "url": "https://www.franceinfo.fr/faits-divers/info-franceinfo-une-enquete-ouverte-a-metz-en-marge-du-mouvement-lyceen-apres-l-interpellation-d-une-jeune-fille-par-un-policier-soupconne-d-agression-sexuelle_8224870.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Mouvement lycéen : l'IGPN saisie après l'interpellation d'une jeune fille à Metz",
+    "url": "https://www.tf1info.fr/justice-faits-divers/mouvement-lyceen-l-igpn-saisie-apres-l-interpellation-d-une-jeune-fille-a-metz-2468314.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "city": "Troyes",
+  "dept": "10",
+  "place": "lycée Marie-de-Champagne",
+  "category": "véhicule",
+  "title": "Une voiture de police banalisée roule à vive allure parmi des lycéens en diffusant du gaz lacrymogène",
+  "summary": "Près du lycée Marie-de-Champagne, une voiture de police banalisée est filmée roulant à vive allure au milieu de lycéens rassemblés, tandis que ses occupants diffusent du gaz lacrymogène par les fenêtres. Selon la préfecture, le véhicule était visé par des jets de projectiles au moment où les policiers le regagnaient et le gaz a servi à le dégager (« séquence isolée »).",
+  "victim": "Lycéens rassemblés près du lycée Marie-de-Champagne",
+  "investigation": "Aucune enquête mentionnée ; explication de la préfecture de l'Aube",
+  "status_date": "2026-10-02",
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Vidéo d'une voiture de police diffusant du gaz lacrymogène sur des lycéens : une “séquence isolée de son contexte” selon la préfecture",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/aube/troyes/video-d-une-voiture-de-police-diffusant-du-gaz-lacrymogene-sur-des-lyceens-une-sequence-isolee-de-son-contexte-selon-la-prefecture-3427224.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Canal 32",
+    "title": "Mobilisation à Marie-de-Champagne à Troyes : ce que dit la préfecture après la diffusion d'une vidéo de policiers",
+    "url": "https://www.canal32.fr/mobilisation-a-marie-de-champagne-a-troyes-ce-que-dit-la-prefecture-apres-la-diffusion-dune-video-de-policiers",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Aubervilliers",
+  "dept": "93",
+  "place": "fast-food",
+  "category": "autre",
+  "title": "Un homme en civil présenté comme un policier frappe la vitrine d'un fast-food où des lycéens s'étaient réfugiés",
+  "summary": "Le 2 octobre, à Aubervilliers, le journaliste Rémy Buisine filme un homme en civil, présenté comme un policier et accompagné de forces de l'ordre équipées pour le maintien de l'ordre, frapper à neuf reprises avec une matraque la vitrine d'un fast-food où des lycéens s'étaient réfugiés après une charge, sans parvenir à la briser.",
+  "victim": "Lycéens réfugiés dans un fast-food",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-10",
+  "sources": [
+   {
+    "outlet": "Libération",
+    "title": "Mouvement lycéen : un policier en civil a-t-il tenté de casser la vitrine d'un Chicken Street à Aubervilliers ?",
+    "url": "https://www.liberation.fr/checknews/mouvement-lyceen-un-policier-en-civil-a-t-il-tente-de-casser-la-vitrine-dun-chicken-street-a-aubervilliers-20261010_ONQPSAXRUJARJIB2ARU5B43KJA/",
+    "date": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Belfort",
+  "dept": "90",
+  "place": "la Savoureuse",
+  "category": "coups",
+  "title": "Un commandant de police en civil accusé d'avoir tenté de noyer un lycéen de 17 ans lors de son interpellation",
+  "summary": "Le 2 octobre, un commandant de police en civil est filmé interpellant un lycéen de 17 ans ; des internautes et l'avocat du lycéen l'accusent d'avoir essayé de le noyer dans la Savoureuse, avant d'être lui-même roué de coups par un groupe de jeunes. Le lycéen, mis en examen avec un camarade pour violences aggravées contre le policier et placé en détention provisoire, porte plainte pour tentative de meurtre ; le 8 octobre, trois autres mineurs sont mis en examen pour l'agression du policier (cinq au total).",
+  "victim": "Lycéen de 17 ans",
+  "investigation": "Plainte pour tentative de meurtre ; affaire dépaysée au parquet de Vesoul, qui ouvre le 7 octobre une enquête pour ce chef confiée à l'IGPN ; en parallèle, cinq mineurs mis en examen pour l'agression du policier (parquet de Belfort, 8 oct.)",
+  "status_date": "2026-10-08",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "INFO BFMTV. “Il le noyait pour le tuer” : ce que contient la plainte du lycéen interpellé avant l'agression d'un policier à Belfort",
+    "url": "https://www.bfmtv.com/police-justice/info-bfmtv-il-le-noyait-pour-le-tuer-ce-que-contient-la-plainte-du-lyceen-interpelle-avant-l-agression-d-un-policier-a-belfort_AN-202610040438.html",
+    "date": "2026-10-04"
+   },
+   {
+    "outlet": "L'Humanité",
+    "title": "À Belfort, une enquête ouverte pour “tentative de meurtre” contre le policier accusé d'avoir plongé un lycéen dans un ruisseau",
+    "url": "https://www.humanite.fr/societe/manifestation-lyceens/a-belfort-le-policier-tabasse-et-accuse-de-tentative-de-meurtre-est-soutenu-par-nunez-alors-que-les-deux-lyceens-sont-mis-en-examen",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Trois nouvelles mises en examen après l'agression d'un policier à Belfort, en marge de la mobilisation des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-trois-mineurs-soupconnes-d-avoir-participe-a-l-agression-d-un-policier-a-belfort-ont-ete-mis-en-examen_8228911.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "L'Est républicain",
+    "title": "Belfort. Policier molesté par des lycéens : l'avocat parisien de l'adolescent placé en détention s'explique",
+    "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/10/05/policier-moleste-par-des-lyceens-l-avocat-parisien-de-l-adolescent-place-en-detention-s-explique",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Besançon",
+  "dept": "25",
+  "place": "",
+  "category": "véhicule",
+  "title": "Un motard de la police nationale avance à quatre reprises contre un cycliste",
+  "summary": "Le 2 octobre, à Besançon, une journaliste indépendante filme un motard de la police nationale avançant à quatre reprises contre un cycliste pour le forcer à reculer, en marge de la mobilisation lycéenne.",
+  "victim": "Cycliste",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Mobilisation lycéenne : une répression le pied sur l'accélérateur",
+    "url": "https://www.streetpress.com/1791536511-mobilisation-lyceenne-repression-pied-accelerateur-police-violences-voiture-blocus/",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "France",
+  "dept": "",
+  "place": "commissariats (notamment Seine-Saint-Denis)",
+  "category": "garde-à-vue",
+  "title": "Violences, insultes racistes et sexistes, fouilles à nu : témoignages de lycéens mineurs en garde à vue",
+  "summary": "Des lycéens mineurs témoignent d'interpellations violentes, de gifles, de coups de poing, de plaquages, d'injures sexistes et racistes (« Tu ne dis plus 'Allahu akbar' maintenant ? »), de menaces, d'interdiction d'accès aux toilettes et de fouilles corporelles en sous-vêtements ou à nu, parfois par des policiers de genre différent ; Mediapart publie dès le 2 octobre des récits de « 48 heures d'enfer ». Des avocats de la Conférence du stage du barreau de Paris dénoncent le 9 octobre violences, insultes et pressions sur des mineurs ; Raphaël Kempf cite un collégien de 12 ans retenu trois heures et des commissariats saturés en Seine-Saint-Denis où les mineurs n'auraient pas pu accéder à leurs droits. Le recours massif aux gardes à vue (près de 8 000 au 14 octobre, 85 % de mineurs) est jugé injustifié par plusieurs avocats.",
+  "victim": "Lycéens mineurs placés en garde à vue",
+  "investigation": "Dénonciations par des avocats (Conférence du stage, SAF, Association des avocats pénalistes) ; pas d'enquête mentionnée",
+  "status_date": "2026-10-13",
+  "sources": [
+   {
+    "outlet": "Mediapart",
+    "title": "“48 heures d'enfer” : à leur sortie de garde à vue, des lycéens traumatisés",
+    "url": "https://www.mediapart.fr/journal/france/021026/48-heures-d-enfer-leur-sortie-de-garde-vue-des-lyceens-traumatises",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "“Insultes et pressions” : des avocats dénoncent les conditions des gardes à vue de mineurs dans le cadre du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/insultes-et-pressions-des-avocats-denoncent-les-conditions-des-gardes-a-vue-de-mineurs-dans-le-cadre-du-mouvement-des-lyceens_8230291.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Basta!",
+    "title": "Mouvement lycéen : plus de 6500 interpellations et des centaines d'adolescents traumatisés par leurs gardes à vue",
+    "url": "https://basta.media/Mouvement-lyceen-6500-interpellations-adolescents-traumatises-garde-a-vue",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "radiofrance.fr",
+    "title": "Insultes, brimades, propos racistes et sexistes : les conditions de garde à vue des lycéens mises en cause",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/insultes-brimades-propos-racistes-et-sexistes-les-conditions-de-garde-a-vue-des-lyceens-mises-en-cause-7684810",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "radiofrance.fr",
+    "title": "“Je n'étais pas prêt pour ça” : Achille, 17 ans, raconte ses 26 heures en garde à vue en marge du mouvement lycéen",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/achille-lyceen-de-17-ans-place-en-garde-a-vue-8378066",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "Sud Ouest",
+    "title": "Colère des lycéens : des avocats dénoncent insultes, humiliations et violences subies par les mineurs placés en garde à vue",
+    "url": "https://www.sudouest.fr/economie/social/mouvement-des-lyceens-des-avocats-denoncent-insultes-humiliations-et-violences-subies-par-les-mineurs-places-en-garde-a-vue-30955518.php",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "Mediapart",
+    "title": "“Tu ne dis plus ‘Allahu akbar’ maintenant ?” : des lycéens dénoncent violences et injures racistes lors de leur interpellation",
+    "url": "https://www.mediapart.fr/journal/france/091026/tu-ne-dis-plus-allahu-akbar-maintenant-des-lyceens-denoncent-violences-et-injures-racistes-lors-de-leur-in",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Café pédagogique",
+    "title": "Mobilisation lycéenne : une répression policière disproportionnée pour “humilier, faire peur, dissuader”",
+    "url": "https://www.cafepedagogique.net/2026/10/05/mobilisation-lyceenne-une-repression-policiere-disproportionnee-pour-humilier-faire-peur-dissuader/",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Club des juristes",
+    "title": "Mobilisation lycéenne : les avocats dénoncent des GAV pour “terroriser”",
+    "url": "https://www.leclubdesjuristes.com/en-bref/mobilisation-lyceenne-les-avocats-denoncent-des-gav-pour-terroriser-17685/",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Comment expliquer le nombre important de gardes à vue depuis le début de la mobilisation lycéenne ?",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-expliquer-le-nombre-important-de-gardes-a-vue-depuis-le-debut-de-la-mobilisation-lyceenne_8235619.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Le Blanc-Mesnil",
+  "dept": "93",
+  "place": "",
+  "category": "véhicule",
+  "title": "Un lycéen percuté par un policier municipal à moto sur un trottoir",
+  "summary": "Le 2 octobre, au Blanc-Mesnil, un lycéen est percuté par un policier municipal circulant à moto sur un trottoir aux abords de son établissement.",
+  "victim": "Lycéen",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Mobilisation lycéenne : une répression le pied sur l'accélérateur",
+    "url": "https://www.streetpress.com/1791536511-mobilisation-lyceenne-repression-pied-accelerateur-police-violences-voiture-blocus/",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "lycée Georges-Clemenceau",
+  "category": "entrave-presse",
+  "title": "Le journaliste Valentin Levetti percuté par un policier en civil à moto lors du blocus du lycée Clemenceau",
+  "summary": "Le 2 octobre, le journaliste Valentin Levetti, fondateur de Stup.Media, est percuté au tibia par un policier en civil à moto alors qu'il s'apprête à filmer l'interpellation d'un manifestant ; selon lui et un témoin, le policier lui a lancé « toi, tu dégages » avant de démarrer dans sa direction. Le journaliste indique que l'agent ne portait ni brassard ni RIO et que son casque arborait le logo du Punisher et une croix pattée.",
+  "victim": "Valentin Levetti, journaliste (Stup.Media)",
+  "investigation": "Plainte déposée le 8 octobre pour violences volontaires aggravées (qualité de dépositaire de l'autorité publique, moto comme arme par destination)",
+  "status_date": "2026-10-08",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "“Toi, tu dégages” : un journaliste percuté par un policier alors qu'il filmait la manifestation lycéenne",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/toi-tu-degages-un-journaliste-percute-par-un-policier-alors-qu-il-filmait-la-manifestation-lyceenne-3429087.html",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Percuté par un motard de la police à Montpellier : le journaliste dépose une plainte pour violences volontaires",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/percute-par-un-motard-de-la-police-a-montpellier-le-journaliste-depose-une-plainte-pour-violences-volontaires-3430311.html",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Port-de-Bouc",
+  "dept": "13",
+  "place": "",
+  "category": "véhicule",
+  "title": "Un véhicule de la police municipale filmé manœuvrant à vive allure derrière des adolescents",
+  "summary": "Le 2 octobre, à Port-de-Bouc, un véhicule de la police municipale est filmé manœuvrant à vive allure derrière des adolescents mobilisés, l'une des vidéos recensées par StreetPress sur l'usage de véhicules contre des lycéens.",
+  "victim": "Adolescents mobilisés",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Mobilisation lycéenne : une répression le pied sur l'accélérateur",
+    "url": "https://www.streetpress.com/1791536511-mobilisation-lyceenne-repression-pied-accelerateur-police-violences-voiture-blocus/",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "Reims",
+  "dept": "51",
+  "place": "centre-ville (arrêt de bus)",
+  "category": "autre",
+  "title": "Un policier de la BAC en civil et masqué filmé lançant une grenade lacrymogène vers des manifestants",
+  "summary": "Le député européen Anthony Smith (LFI) diffuse une vidéo montrant un homme en civil au visage partiellement masqué lancer un projectile vers un groupe de manifestants, puis s'éloigner avec deux autres hommes en se voyant filmé ; il dénonce une « pure provocation policière ». Le 4 octobre, le procureur de Reims confirme qu'il s'agit d'un policier de la BAC lançant une grenade (lacrymogène selon la préfecture) face à des émeutiers jetant des pierres et tirant des mortiers, et estime qu'il n'y a « aucun sujet » ; un juriste rappelle qu'un policier en civil doit être identifiable lorsqu'il participe au maintien de l'ordre.",
+  "victim": "Manifestants",
+  "investigation": "Pas d'enquête : le procureur de Reims juge l'action régulière (4 oct.)",
+  "status_date": "2026-10-04",
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "L'homme interpellé par le député LFI Anthony Smith était bien policier, confirme le procureur",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/marne/reims/l-homme-interpelle-par-le-depute-anthony-smith-etait-bien-policier-confirme-le-procureur-3427749.html",
+    "date": "2026-10-04"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Provocation policière ? Que faisait vraiment ce policier en civil à Reims ?",
+    "url": "https://www.franceinfo.fr/vrai-ou-fake/provocation-policiere-que-faisait-vraiment-ce-policier-en-civil-a-reims_8231656.html",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "Entrevue",
+    "title": "Mobilisation des lycéens : habillé comme casseur, un adulte lance un projectile et fuit la caméra. La rumeur d'un policier en civil enfle",
+    "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/mobilisation-des-lyceens-habille-comme-casseur-un-adulte-lance-un-projectile-et-fuit-la-camera-la-rumeur-dun-policier-en-civil-enfle/",
+    "date": "2026-10-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-04",
+  "city": "Belfort",
+  "dept": "90",
+  "place": "lycée Raoul-Follereau",
+  "category": "véhicule",
+  "title": "Une voiture banalisée de la BAC braque pour couper la route à des manifestants près du lycée Raoul-Follereau",
+  "summary": "Une vidéo diffusée le 4 octobre montre une voiture banalisée de la Brigade anti-criminalité, lancée à la poursuite de manifestants près du lycée Raoul-Follereau, braquer brusquement pour leur couper la route et manquer de peu de les plaquer contre un bâtiment (date des faits non précisée).",
+  "victim": "Manifestants lycéens",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-09",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Mobilisation lycéenne : une répression le pied sur l'accélérateur",
+    "url": "https://www.streetpress.com/1791536511-mobilisation-lyceenne-repression-pied-accelerateur-police-violences-voiture-blocus/",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Bourgoin-Jallieu",
+  "dept": "38",
+  "place": "parc",
+  "category": "véhicule",
+  "title": "Une voiture de police banalisée fonce à plusieurs reprises vers des lycéens dans un parc",
+  "summary": "Le 5 octobre, dans un parc de Bourgoin-Jallieu, un reporter d'Ici Isère filme une voiture de police banalisée, gyrophare éteint et conduite par un policier casqué, foncer à plusieurs reprises vers des lycéens en roulant sur les allées et les pelouses. SOS Racisme et la LDH dénoncent cette action ; la police assure que la voiture est « restée loin des lycéens, sans aucune volonté de les percuter » et venait soutenir un équipage à pied en difficulté.",
+  "victim": "Lycéens",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-07",
+  "sources": [
+   {
+    "outlet": "Ici Isère",
+    "title": "VIDÉO - Bourgoin-Jallieu : les images d'une voiture de police fonçant au milieu de lycéens posent question",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/bourgoin-jallieu/images-voiture-police-banalisee-foncant-au-milieu-lyceens-posent-question-9878783",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Créteil",
+  "dept": "94",
+  "place": "parc (voie piétonne)",
+  "category": "véhicule",
+  "title": "Des motos de la BRAV-M circulent à vive allure sur une voie piétonne d'un parc",
+  "summary": "Le 5 octobre, à Créteil, des motos de la BRAV-M circulent à vive allure sur une voie piétonne d'un parc fréquenté par des lycéens mobilisés ; en 2019, le préfet Lallement avait assuré que les motos de cette unité ne servaient qu'au transport des agents.",
+  "victim": "Lycéens mobilisés",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Mobilisation lycéenne : une répression le pied sur l'accélérateur",
+    "url": "https://www.streetpress.com/1791536511-mobilisation-lyceenne-repression-pied-accelerateur-police-violences-voiture-blocus/",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Dunkerque",
+  "dept": "59",
+  "place": "",
+  "category": "véhicule",
+  "title": "Un 4×4 de la police nationale fonce à plusieurs reprises vers des lycéens puis roule sur un trottoir",
+  "summary": "Le 5 octobre, des vidéos montrent un 4×4 de la police nationale, habituellement employé sur les plages dans des opérations visant les migrants, foncer à plusieurs reprises vers des lycéens érigeant une barricade, puis s'engager sur un trottoir au milieu de la foule ; France Télévisions confirme l'authenticité des images. Selon La Voix du Nord, l'intervention répondait à des jets de pavés. Laurent Nuñez évoque le 7 octobre un « fait exceptionnel » ayant donné lieu à un rappel à l'ordre ; le 9 octobre, une adolescente de 14 ans porte plainte, affirmant avoir été heurtée lors d'une marche arrière.",
+  "victim": "Lycéens ; une adolescente de 14 ans heurtée",
+  "investigation": "Enquête du parquet de Dunkerque pour mise en danger d'autrui ; enquête administrative de la préfecture du Nord ; enquête disciplinaire ; plainte d'une adolescente de 14 ans (9 oct.)",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Dunkerque : ce que l'on sait d'un 4 × 4 de la police qui a foncé vers des jeunes manifestants",
+    "url": "https://www.lemonde.fr/campus/video/2026/10/08/dunkerque-ce-que-l-on-sait-d-un-4-x-4-de-la-police-qui-a-fonce-vers-des-jeunes-manifestants_6790235_4401467.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Politis",
+    "title": "Des voitures de police foncent sur des lycéens et ça ne fait pas la une",
+    "url": "https://www.politis.fr/articles/2026/10/sur-le-gril-des-voitures-de-police-foncent-sur-des-lyceens-et-ca-ne-fait-pas-la-une/",
+    "date": "2026-10-12"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "À Dunkerque, une voiture de police accélère au milieu de lycéens lors d'un blocus",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-dunkerque-une-voiture-de-police-accelere-au-milieu-de-lyceens-lors-d-un-blocus_8228371.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "La Voix du Nord",
+    "title": "À Dunkerque, la vidéo d'une Jeep de la police fonçant en direction d'émeutiers fait polémique",
+    "url": "https://www.lavoixdunord.fr/1744208/article/2026-10-07/dunkerque-la-video-d-une-jeep-de-la-police-foncant-en-direction-d-emeutiers-fait",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation des lycéens : une adolescente de 14 ans porte plainte après avoir été percutée par une voiture de la police à Dunkerque lundi",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-une-adolescente-de-14-ans-porte-plainte-apres-avoir-ete-percutee-par-une-voiture-de-la-police-a-dunkerque-lundi_8230696.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Mobilisation lycéenne : une voiture de la police nationale a-t-elle foncé sur un groupe de manifestants à Dunkerque ?",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/dunkerque/mobilisation-lyceenne-une-voiture-de-la-police-nationale-a-t-elle-fonce-sur-un-groupe-de-manifestants-a-dunkerque-3429327.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Lens",
+  "dept": "62",
+  "place": "lycée Auguste-Béhal",
+  "category": "grenade",
+  "title": "Evan, 15 ans, perd la main gauche dans l'explosion d'une grenade assourdissante près du lycée Auguste-Béhal",
+  "summary": "Le 5 octobre, Evan, élève de 15 ans du lycée Auguste-Béhal, est grièvement blessé par l'explosion d'une grenade assourdissante à proximité de l'établissement ; il perd sa main gauche et est hospitalisé à Lille. Le parquet de Béthune juge le tir conforme et affirme, après une vidéo identifiée le 7 octobre, que l'adolescent avait ramassé la grenade ; son avocate conteste formellement et nie toute participation à des violences, la famille expliquant qu'il ramassait des débris pour prouver à sa mère qu'il n'avait pas séché les cours. L'usage des grenades assourdissantes est suspendu le 7 octobre pour les mobilisations lycéennes, avant d'être de nouveau autorisé le 16 octobre en cas de « violences urbaines extrêmement graves ».",
+  "victim": "Evan, 15 ans, lycéen",
+  "investigation": "Enquête (IGPN) ; parquet de Béthune : tir conforme (9 oct.) ; nouvelle plainte des proches pour « violences volontaires ayant entraîné une infirmité permanente » (14 oct.)",
+  "status_date": "2026-10-14",
+  "sources": [
+   {
+    "outlet": "Sud Ouest",
+    "title": "VIDEO. Main d'un lycéen arrachée par une grenade à Lens : que s'est-il passé ? Enquête, réactions…. ce que l'on sait",
+    "url": "https://www.sudouest.fr/faits-divers/video-main-d-un-lyceen-arrachee-par-une-grenade-a-lens-que-s-est-il-passe-enquete-reactions-ce-que-l-on-sait-30930767.php",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "20 Minutes",
+    "title": "Colère des lycéens : Un adolescent gravement blessé, avec une main arrachée, à Lens",
+    "url": "https://www.20minutes.fr/societe/4251598-20261005-blocus-lycees-adolescent-gravement-blesse-main-arrachee-lens",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Main arrachée, mâchoire fracturée : dix enquêtes de l'IGPN ouvertes en lien avec les blocages des lycées, annonce le gouvernement",
+    "url": "https://www.liberation.fr/societe/police-justice/main-arrachee-machoire-scellee-six-enquetes-de-ligpn-ouvertes-en-lien-avec-les-blocages-des-lycees-20261005_CWHVJREBDNCURM7RCF3FKCZSXE/",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Le lycéen amputé d'une main à Lens “dément avoir ramassé la grenade” et “nie toute participation à des violences”, affirme son avocate",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/10/le-lyceen-ampute-d-une-main-a-lens-dement-avoir-ramasse-la-grenade-et-nie-toute-participation-a-des-violences-affirme-son-avocate_6791026_3224.html",
+    "date": "2026-10-11"
+   },
+   {
+    "outlet": "La Croix",
+    "title": "Lycéen amputé d'une main à Lens : le tir de grenade était “conforme” selon le parquet",
+    "url": "https://www.la-croix.com/societe/lyceen-ampute-d-une-main-a-lens-le-tir-de-grenade-etait-conforme-selon-le-parquet-20261010",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Le lycéen amputé d'une main à Lens “conteste formellement” avoir ramassé la grenade assourdissante",
+    "url": "https://www.tf1info.fr/societe/mouvement-lyceen-evan-le-lyceen-ampute-d-une-main-a-lens-dement-avoir-ramasse-la-grenade-assourdissante-comme-l-affirme-le-procureur-2469229.html",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "Ici Nord",
+    "title": "Le lycéen qui a eu la main arrachée à Lens s'est penché vers la grenade, tombée au sol, selon une vidéo",
+    "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/lens/le-lyceen-qui-a-eu-la-main-arrachee-a-lens-s-est-penche-vers-la-grenade-tombee-au-sol-selon-une-video-1346098",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "INFO FRANCEINFO. Adolescent amputé d'une main à Lens : une vidéo montre la victime se pencher vers la grenade assourdissante",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-adolescent-ampute-d-une-main-a-lens-une-video-montre-la-victime-se-pencher-vers-la-grenade-assourdissante_8227006.html",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "Ici Nord",
+    "title": "Main arrachée à Lens : le lycéen a bien ramassé la grenade, selon les premiers éléments de l'enquête",
+    "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/lens/main-arrachee-a-lens-le-lyceen-a-bien-ramasse-la-grenade-selon-les-premiers-elements-de-l-enquete-4458356",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Main d'un lycéen arrachée à Lens : ce que révèlent les premiers éléments de l'enquête",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/main-d-un-lyceen-arrachee-a-lens-ce-que-revelent-les-premiers-elements-de-l-enquete-3430902.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "RTL",
+    "title": "Il rêvait de devenir menuisier : la famille de l'adolescent amputé après l'explosion d'une grenade à Lens veut “connaître la vérité”",
+    "url": "https://www.rtl.fr/actu/justice-faits-divers/il-revait-de-devenir-menuisier-la-famille-d-evan-15-ans-ampute-apres-l-explosion-d-une-grenade-a-lens-veut-connaitre-la-verite-7900685201",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "L'Internaute",
+    "title": "Le lycéen à la main arrachée à Lens voulait devenir menuisier, sa famille est “bouleversée”",
+    "url": "https://www.linternaute.com/actualite/faits-divers/11308849-le-lyceen-a-la-main-arrachee-a-lens-voulait-devenir-menuisier-sa-famille-est-bouleversee/",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "La Montagne",
+    "title": "Main arrachée par une grenade en marge d'un blocus lycéen : Evan nie avoir ramassé l'engin explosif, selon son avocate",
+    "url": "https://www.lamontagne.fr/lens-62300/faits-divers/main-arrachee-par-une-grenade-a-lens-en-marge-dun-blocus-lyceen-evan-nie-avoir-ramasse-lengin-explosif-selon-son-avocate_15061611/",
+    "date": "2026-10-11"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "INFO FRANCEINFO. L'utilisation des grenades assourdissantes suspendue dans les mobilisations lycéennes le temps de l'enquête sur le drame de Lens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-utilisation-des-grenades-assourdissantes-suspendues-dans-les-mobilisations-lyceennes_8226376.html",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Manifestations du 17 octobre 2026 : “Tous les types d'armes intermédiaires”, comme les grenades ou les LBD, “pourront être utilisés” en cas de violences, affirme Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/faits-divers/police/manifestations-du-17-octobre-tous-les-types-d-armes-intermediaires-comme-les-grenades-ou-les-lbd-pourront-etre-utilises-en-cas-de-violences-affirme-laurent-nunez_8239792.html",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Nanterre",
+  "dept": "92",
+  "place": "préfecture des Hauts-de-Seine",
+  "category": "autre",
+  "title": "Le préfet des Hauts-de-Seine convoque trois familles de lycéens interpellés et publie des photos de la réunion",
+  "summary": "Le 5 octobre, le préfet des Hauts-de-Seine Alexandre Brugère, accompagné du procureur de la République et d'un cadre de l'Éducation nationale, convoque trois familles de lycéens arrêtés lors des débordements ; des photos des parents, de dos, sont publiées sur le compte officiel de la préfecture. La préfecture revendique une mise en garde ferme, tandis que partis et syndicats dénoncent une « mise en scène » et une opération de communication. Le Syndicat des avocats de France s'inquiète par ailleurs que des préfets aient écrit aux parents d'élèves interpellés.",
+  "victim": "Trois familles de lycéens interpellés",
+  "investigation": "Aucune procédure ; polémique politique et syndicale",
+  "status_date": "2026-10-05",
+  "sources": [
+   {
+    "outlet": "Le HuffPost",
+    "title": "Le préfet Alexandre Brugère convoque des parents de lycéens, la gauche parle de “mise en scène pitoyable”",
+    "url": "https://www.huffingtonpost.fr/politique/article/le-prefet-alexandre-brugere-convoque-des-parents-de-lyceens-la-gauche-parle-de-mise-en-scene-pitoyable_335533.html",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Le Parisien",
+    "title": "“On dépasse les bornes” : le préfet des Hauts-de-Seine critiqué après avoir convoqué des parents de mineurs soupçonnés de violences",
+    "url": "https://www.leparisien.fr/hauts-de-seine-92/on-depasse-les-bornes-le-prefet-des-hauts-de-seine-critique-apres-avoir-convoque-des-parents-de-mineurs-soupconnes-de-violences-05-10-2026-TJCDSYW5MZFFHCLJMFRRESANOU.php",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Le syndicat des avocats de France critique un “maintien de l'ordre qui ne privilégie pas une désescalade” de la mobilisation des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-syndicat-des-avocats-de-france-critique-un-maintien-de-l-ordre-qui-ne-privilegie-pas-une-desescalade-de-la-mobilisation-des-lyceens_8223502.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "France",
+  "dept": "",
+  "place": "réseaux sociaux (X, Facebook, Instagram, TikTok)",
+  "category": "extrême-droite",
+  "title": "Vidéos d'infox hors contexte diffusées par des comptes étrangers et d'extrême droite pour faire croire à des violences de masse",
+  "summary": "RFI signale le 6 octobre que des vidéos qui n'ont pas été filmées pendant le mouvement lycéen, ni parfois en France, sont sorties de leur contexte et diffusées sur X, Facebook, Instagram et TikTok pour faire croire à des violences de masse et diviser l'opinion. RFI remonte ces vidéos à des comptes israéliens, britanniques, russes et américains habitués à cibler la France, et à plusieurs comptes européens d'extrême droite pour une vidéo xénophobe ; la VIGINUM n'avait constaté le 28 septembre aucune amplification artificielle étrangère.",
+  "victim": "Mouvement lycéen (désinformation)",
+  "investigation": "Signalement RFI ; aucune procédure mentionnée",
+  "status_date": "2026-10-06",
+  "sources": [
+   {
+    "outlet": "rfi.fr",
+    "title": "Mobilisation lycéenne en France: comment la désinformation alimente les tensions",
+    "url": "https://www.rfi.fr/fr/france/20261006-mobilisation-lyc%C3%A9enne-en-france-comment-la-d%C3%A9sinformation-alimente-les-tensions",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Le blocus des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+    "date": "2026-09-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "Paris",
+  "dept": "75",
+  "place": "boulevard Voltaire",
+  "category": "gaz",
+  "title": "Le maire de Saint-Denis Bally Bagayoko touché par du gaz lacrymogène dans le cortège parisien",
+  "summary": "Lors de la manifestation nationale du 6 octobre, le maire LFI de Saint-Denis Bally Bagayoko est touché par du gaz lacrymogène dans le cortège parisien ; il appelle Emmanuel Macron et Laurent Nuñez à la désescalade et à l'ouverture immédiate de négociations avec les organisations lycéennes.",
+  "victim": "Bally Bagayoko, maire de Saint-Denis",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-06",
+  "sources": [
+   {
+    "outlet": "RTL",
+    "title": "“Nous risquons d'avoir un drame” : la colère du maire de Saint-Denis Bally Bagayoko, touché par du gaz lacrymogène lors de la manifestation des lycéens à Paris",
+    "url": "https://www.rtl.fr/actu/politique/nous-risquons-d-avoir-un-drame-la-colere-du-maire-de-saint-denis-bally-bagayoko-touche-par-du-gaz-lacrymogene-lors-de-la-manifestation-des-lyceens-a-paris-7900681604",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "Paris",
+  "dept": "75",
+  "place": "",
+  "category": "entrave-presse",
+  "title": "Un journaliste de L'Humanité saisi à la gorge par un CRS lors de la manifestation parisienne",
+  "summary": "Selon Reporters sans frontières, un journaliste de L'Humanité, clairement identifiable, est saisi à la gorge par un CRS à Paris le 6 octobre ; RSF recense au 9 octobre au moins douze journalistes agressés ou intimidés, dont six par les forces de l'ordre, et estime que ces violences contreviennent au schéma national du maintien de l'ordre.",
+  "victim": "Journaliste de L'Humanité",
+  "investigation": "Signalement RSF ; appel à identifier les auteurs (9 oct.)",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "",
+  "category": "coups",
+  "title": "Un lycéen frappé à la tête par un CRS avec sa matraque devant son lycée",
+  "summary": "Le 7 octobre, à Marseille, un lycéen mineur est frappé à la tête par un CRS avec sa matraque devant son lycée ; « il n'y a aucune justification », selon les témoignages recueillis par France 3.",
+  "victim": "Lycéen mineur",
+  "investigation": "Aucune suite judiciaire mentionnée dans le texte",
+  "status_date": "2026-10-10",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "“Il n'y a aucune justification” : le mineur frappé à la tête par un CRS devant son lycée à Marseille porte plainte",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/il-n-y-a-aucune-justification-le-mineur-frappe-a-la-tete-par-un-crs-devant-son-lycee-a-marseille-porte-plainte-3430689.html",
+    "date": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "city": "Martigues",
+  "dept": "13",
+  "place": "",
+  "category": "lbd",
+  "title": "Une lycéenne de 17 ans blessée à l'œil et au nez par un projectile lors d'un blocus à Martigues",
+  "summary": "Lors d'un blocus à Martigues, une lycéenne de 17 ans est frappée au visage par un projectile et hospitalisée, touchée à l'œil et au nez. L'affaire fait partie des six enquêtes confiées à l'IGPN pour des blessures liées à des tirs de LBD (date des faits non précisée, antérieure au 7 octobre).",
+  "victim": "Lycéenne de 17 ans",
+  "investigation": "Enquête IGPN (l'une des six enquêtes pour blessures liées à des tirs de LBD)",
+  "status_date": "2026-10-07",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Mouvement lycéen : six enquêtes ouvertes par l'IGPN pour des blessures après des tirs de LBD",
+    "url": "https://actu.orange.fr/france/mouvement-lyceen-six-enquetes-ouvertes-par-l-igpn-pour-des-blessures-apres-des-tirs-de-lbd-magic-CNT000002soL3v.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "city": "Nancy",
+  "dept": "54",
+  "place": "",
+  "category": "lbd",
+  "title": "Un policier filmé par la LDH effectuant un tir tendu sur une foule de lycéens ; les observateurs repoussés",
+  "summary": "Le 8 octobre, à Nancy, un policier est filmé par la Ligue des droits de l'homme en train d'effectuer un tir tendu (LBD selon le texte, lance-grenades selon L'Est républicain) sur la foule majoritairement composée de lycéens ; les observateurs de la LDH sont ensuite violemment repoussés par un autre policier.",
+  "victim": "Lycéens manifestants ; observateurs de la LDH",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-14",
+  "sources": [
+   {
+    "outlet": "L'Est républicain",
+    "title": "Nancy. Manif lycéenne : un policier filmé en train d'effectuer un tir tendu avec un lance-grenade",
+    "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/10/14/manif-lyceenne-un-policier-filme-en-train-d-effectuer-un-tir-tendu-avec-un-lance-grenade",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la Bastille",
+  "category": "coups",
+  "title": "Coup de genou au visage d'un manifestant par un policier place de la Bastille",
+  "summary": "Lors du rassemblement de la place de la Bastille le 8 octobre, une vidéo semble montrer un policier donner un coup de genou au visage d'un manifestant. Le parquet de Paris ouvre une enquête confiée à l'IGPN, la cinquième confiée par ce parquet à l'IGPN dans le cadre du mouvement.",
+  "victim": "Manifestant",
+  "investigation": "Enquête du parquet de Paris confiée à l'IGPN (9 oct.)",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Ici Paris Île-de-France",
+    "title": "Mobilisation des lycéens : une enquête confiée à l'IGPN, après le coup de genou d'un policier sur un manifestant à Paris",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-des-lyceens-enquete-ouverte-et-igpn-saisie-pour-un-coup-de-genou-d-un-policier-a-un-manifestant-6477033",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : 24 enquêtes ouvertes par l'IGPN, la police des polices, depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la Bastille",
+  "category": "autre",
+  "title": "Un jeune homme de 19 ans porte plainte pour agression sexuelle après un coup de matraque entre les fesses",
+  "summary": "Lors du rassemblement de la place de la Bastille le 8 octobre, une vidéo montre un policier enfoncer sa matraque entre les fesses d'un jeune homme de 19 ans, qui annonce porter plainte pour agression sexuelle.",
+  "victim": "Jeune homme de 19 ans",
+  "investigation": "Plainte pour agression sexuelle contre un policier (annoncée le 12 oct.)",
+  "status_date": "2026-10-12",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Mobilisation des lycéens : une nouvelle plainte pour agression sexuelle contre un policier",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/mobilisation-des-lyceens-une-nouvelle-plainte-pour-agression-sexuelle-contre-un-policier-3432033.html",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la Bastille",
+  "category": "entrave-presse",
+  "title": "Le photographe Patrick Wack touché à l'oreille par un tir de LBD à bout portant place de la Bastille",
+  "summary": "Selon RSF, le photographe Patrick Wack, clairement identifiable comme journaliste, est touché à l'oreille par un tir de LBD à bout portant place de la Bastille le 8 octobre ; RSF appelle les autorités à identifier les auteurs des violences contre les journalistes.",
+  "victim": "Patrick Wack, photographe",
+  "investigation": "Signalement RSF (9 oct.)",
+  "status_date": "2026-10-09",
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "city": "France",
+  "dept": "",
+  "place": "Snapchat",
+  "category": "autre",
+  "title": "« Bismillah, c'est les ténèbres » : des policiers présumés infiltrés sur Snapchat pour identifier les lycéens",
+  "summary": "Des lycéens affirment avoir reçu sur Snapchat des messages d'inconnus cherchant à connaître leur identité et les lieux des blocus, qu'ils attribuent à des policiers en civil. L'une de ces captures d'écran, signée d'un prénom à consonance africaine et contenant l'expression « Bismillah, c'est les ténèbres », est moquée pour ses stéréotypes racistes et devient un mème et un slogan du mouvement.",
+  "victim": "Lycéens organisant les blocus",
+  "investigation": "Aucune enquête mentionnée ; infiltration attribuée à des policiers, non confirmée",
+  "status_date": "2026-10-12",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "“Bismillah c'est les ténèbres” : comment de présumés policiers infiltrés sur Snapchat ont offert son slogan au mouvement lycéen",
+    "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/bismillah-c-est-les-tenebres-comment-de-presumes-policiers-infiltres-sur-snapchat-ont-offert-son-slogan-au-mouvement-lyceen_8212706.html",
+    "date": "2026-10-12"
+   },
+   {
+    "outlet": "Le HuffPost",
+    "title": "“Bismillah c'est les ténèbres”, le mème né de l'infiltration raciste attribuée à des policiers sur Snapchat",
+    "url": "https://www.huffingtonpost.fr/france/video/bismillah-c-est-les-tenebres-l-infiltration-raciste-de-policiers-parmi-les-lyceens-est-devenue-un-meme_337493.html",
+    "date": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "city": "Aubagne",
+  "dept": "13",
+  "place": "collège (non nommé)",
+  "category": "extrême-droite",
+  "title": "Fusillade dans un collège d'Aubagne : le principal et une enseignante blessés (mouvance d'extrême droite, sans lien avec le mouvement)",
+  "summary": "Le 12 octobre, des tirs dans un collège d'Aubagne blessent le principal et une enseignante, entraînant le report de la rencontre prévue entre le ministre de l'Éducation nationale et les organisations lycéennes. Selon Mediapart, l'incident n'est pas lié au mouvement lycéen mais à une mouvance d'extrême droite fascinée par les tueries de masse, ciblée par l'antiterrorisme.",
+  "victim": "Le principal et une enseignante du collège",
+  "investigation": "Enquête antiterroriste (Mediapart, 13 oct.)",
+  "status_date": "2026-10-13",
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Des lycées perturbés, Macron appelle au calme",
+    "url": "https://actu.orange.fr/france/des-lycees-perturbes-macron-appelle-au-calme-CNT000002sD2M9.html",
+    "date": "2026-10-12"
+   },
+   {
+    "outlet": "Mediapart",
+    "title": "Fusillade d'Aubagne : l'antiterrorisme cible une mouvance fascinée par les tueries de masse",
+    "url": "https://www.mediapart.fr/journal/fil-dactualites/131026/fusillade-d-aubagne-l-antiterrorisme-cible-une-mouvance-fascinee-par-les-tueries-de-masse",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "",
+  "category": "autre",
+  "title": "Banderole syndicale confisquée par la police lors de la manifestation lycéenne de Lyon",
+  "summary": "Le 13 octobre, lors de la manifestation lycéenne de Lyon, la police confisque une banderole syndicale, ce qui entraîne une polémique ; selon la version policière rapportée par France 3, « elle n'a pas été confisquée ».",
+  "victim": "Organisation syndicale (banderole)",
+  "investigation": "Aucune procédure ; polémique",
+  "status_date": "2026-10-14",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Polémique autour d'une banderole syndicale à Lyon : “elle n'a pas été confisquée, il y avait une crainte forte d'un incident”, se défend la préfecture",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/polemique-autour-d-une-banderole-syndicale-a-lyon-elle-n-a-pas-ete-confisquee-il-y-avait-une-crainte-forte-d-un-incident-se-defend-la-prefecture-3433218.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place Vauban",
+  "category": "grenade",
+  "title": "Grenades assourdissantes GL-304 place Vauban : un policier semble grièvement blessé par l'explosion de l'une d'elles",
+  "summary": "À la fin de la manifestation du 13 octobre, le média Contre Attaque relève deux vidéos montrant l'emploi de grenades assourdissantes GL-304 par la police place Vauban, dont l'une explose au centre d'une unité de policiers et semble en avoir grièvement blessé l'un d'eux malgré son équipement de protection ; Lecornu fait état de 40 policiers et gendarmes blessés ce jour-là.",
+  "victim": "Un policier (blessé par une grenade de la police)",
+  "investigation": "Aucune enquête mentionnée",
+  "status_date": "2026-10-15",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "Quand les policiers se blessent entre eux",
+    "url": "https://contre-attaque.net/2026/10/15/quand-les-policiers-se-blessent-entre-eux/",
+    "date": "2026-10-15"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Confiscations de pancartes par la police : le ministre reconnaît des saisies injustifiées",
+  "summary": "Au cours des manifestations, la police saisit des pancartes de manifestants selon des critères que ceux-ci ne comprennent pas toujours, alors que le droit n'autorise la confiscation que d'écrits injurieux, haineux ou appelant à la violence (avec procédure) ou d'objets pouvant servir d'armes. Lors d'une rencontre avec des lycéens à la mi-octobre, Laurent Nuñez rappelle ce cadre mais reconnaît que certaines saisies étaient injustifiées et prêtaient le flanc aux accusations de censure.",
+  "victim": "Manifestants (pancartes saisies)",
+  "investigation": "Reconnaissance par le ministre de l'Intérieur de saisies injustifiées (15-16 oct.) ; pas de procédure",
+  "status_date": "2026-10-16",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "Libération",
+    "title": "Mouvement lycéen : la police peut-elle faire le tri dans les pancartes des manifestants ?",
+    "url": "https://www.liberation.fr/checknews/mouvement-lyceen-la-police-peut-elle-faire-le-tri-dans-les-pancartes-des-manifestants-20261009_AN32PUGPDVDBZNO3BJBBUFSURI/",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Le Parisien",
+    "title": "Laurent Nuñez face à des lycéens mobilisés : “On est là pour vous protéger !”",
+    "url": "https://www.leparisien.fr/politique/laurent-nunez-face-aux-jeunes-mobilises-on-est-la-pour-vous-proteger-27ELLEXJBBDSXCFURCAZE4SWRE.php",
+    "date": "2026-10-15"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Laurent Nuñez reconnaît une “censure” de certaines pancartes des lycéens mobilisés",
+    "url": "https://www.liberation.fr/politique/laurent-nunez-reconnait-une-censure-de-certaines-pancartes-des-lyceens-mobilises-20261016_DRQMF72PINH4XFY2NV3CIJZKHM/",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "city": "Saint-Denis",
+  "dept": "93",
+  "place": "lycée Paul-Éluard",
+  "category": "interpellation",
+  "title": "Des policiers en civil interpellent un élève dans l'enceinte du lycée Paul-Éluard",
+  "summary": "Le 15 octobre, des membres du personnel du lycée Paul-Éluard dénoncent une intervention « violente » de policiers en civil venus interpeller un élève dans l'enceinte de l'établissement ; des vidéos montrent plusieurs personnels tenter de s'y opposer. Selon des personnels, le proviseur aurait convoqué l'élève dans son bureau avant de faire entrer les policiers. La préfecture de police indique être intervenue aux abords du lycée, où près de 300 élèves étaient rassemblés, et fait état de plusieurs infractions commises contre les policiers.",
+  "victim": "Un élève du lycée Paul-Éluard",
+  "investigation": "Aucune enquête mentionnée ; versions contradictoires des personnels et de la préfecture de police",
+  "status_date": "2026-10-15",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "À Saint-Denis, des membres du personnel du lycée Paul-Eluard dénoncent une intervention “violente” de la police dans l'établissement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-membres-du-personnel-du-lycee-paul-eluard-a-saint-denis-denoncent-une-intervention-violente-de-la-police-dans-l-etablissement_8238745.html",
+    "date": "2026-10-15"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "“Ils ont traumatisé ma femme et ma fille de 9 ans” : polémique après deux interpellations au domicile d'une lycéenne et au lycée Paul-Eluard",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-saint-denis/ils-ont-traumatise-ma-femme-et-ma-fille-de-9-ans-polemique-apres-deux-interpellations-au-domicile-d-une-lyceenne-et-au-lycee-paul-eluard-3434088.html",
+    "date": "2026-10-15"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation des lycéens : ce que l'on sait de l'intervention de la police au lycée Paul-Eluard de Saint-Denis",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-ce-que-l-on-sait-de-l-intervention-de-la-police-au-lycee-paul-eluard-de-saint-denis_8239189.html",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "city": "Seine-Saint-Denis (commune non précisée)",
+  "dept": "93",
+  "place": "domicile de l'élève",
+  "category": "garde-à-vue",
+  "title": "Une lycéenne de 17 ans interpellée à son domicile et placée en garde à vue",
+  "summary": "Le 15 octobre, l'interpellation à son domicile d'une lycéenne de 17 ans, placée en garde à vue, suscite la polémique en Seine-Saint-Denis ; son père affirme que les policiers ont « traumatisé » sa femme et sa fille de 9 ans.",
+  "victim": "Lycéenne de 17 ans et sa famille",
+  "investigation": "Garde à vue ; aucune enquête sur les conditions de l'interpellation mentionnée",
+  "status_date": "2026-10-15",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "“Ils ont traumatisé ma femme et ma fille de 9 ans” : polémique après deux interpellations au domicile d'une lycéenne et au lycée Paul-Eluard",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-saint-denis/ils-ont-traumatise-ma-femme-et-ma-fille-de-9-ans-polemique-apres-deux-interpellations-au-domicile-d-une-lyceenne-et-au-lycee-paul-eluard-3434088.html",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "city": "Paris",
+  "dept": "75",
+  "place": "ministère de l'Enseignement supérieur (concertation flash)",
+  "category": "extrême-droite",
+  "title": "Les syndicats quittent la concertation sur Parcoursup à cause de la présence de l'UNI, dont des membres ont été vus faisant des saluts nazis",
+  "summary": "Lors de la « concertation flash » sur Parcoursup du 21 octobre, l'USL, l'Union étudiante, l'UNEF et la FAGE contestent la présence d'un représentant de l'UNI, organisation qu'ils qualifient d'« antisémite » et de « fasciste » notamment parce que certains de ses membres ont été vus faisant des saluts nazis ; ils quittent la réunion avec la FSU et demandent à être reçus par le Premier ministre. L'UNI et la Cocarde étudiante, organisations d'extrême droite, se sont prononcées contre le mouvement lycéen.",
+  "victim": "Organisations lycéennes et étudiantes",
+  "investigation": "Aucune procédure mentionnée",
+  "status_date": "2026-10-21",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "“Concertation flash” sur Parcoursup : quatre organisations de lycéens et d'étudiants ont quitté la séance de négociation",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/22/quatre-organisations-de-lyceens-et-d-etudiants-ont-quitte-la-concertation-flash-sur-parcoursup_6798570_3224.html",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "L'Humanité",
+    "title": "L'UNI et la Cocarde : ces “syndicats” d'extrême droite contre la mobilisation lycéenne (Video)",
+    "url": "https://www.humanite.fr/politique/extreme-droite/luni-et-la-cocarde-ces-syndicats-dextreme-droite-contre-la-mobilisation-lyceenne",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "city": "Paris",
+  "dept": "75",
+  "place": "",
+  "category": "nasse-dispersion",
+  "title": "Deux cortèges lycéens non déclarés encadrés et immobilisés pendant une heure à Paris",
+  "summary": "Le 3 novembre, lors de la « journée noire », la préfecture de police fait état de deux cortèges non déclarés, aussitôt encadrés par les forces de l'ordre et immobilisés pendant environ une heure, avant que les manifestants ne repartent vers la Sorbonne et se dispersent dans le calme vers 16 h.",
+  "victim": "Lycéens et étudiants manifestants",
+  "investigation": "Aucune procédure mentionnée",
+  "status_date": "2026-11-03",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+    "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "city": "Rennes",
+  "dept": "35",
+  "place": "",
+  "category": "nasse-dispersion",
+  "title": "La police disperse à Rennes quelques centaines de lycéens défilant dans le calme malgré une interdiction",
+  "summary": "Le 3 novembre, en fin de matinée, la police disperse à Rennes quelques centaines de lycéens, accompagnés de syndicalistes et d'enseignants, qui défilaient dans le calme malgré l'interdiction de manifester.",
+  "victim": "Lycéens, syndicalistes et enseignants",
+  "investigation": "Dispersion sur le fondement d'une interdiction de manifester ; aucune procédure mentionnée",
+  "status_date": "2026-11-03",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+    "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+    "date": "2026-11-03"
+   }
+  ]
+ }
+]

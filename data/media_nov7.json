@@ -1,0 +1,888 @@
+[
+ {
+  "kind": "event",
+  "date": "2026-11-06",
+  "city": "France",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "W28b9fdRNzY",
+    "url": "https://www.youtube.com/watch?v=W28b9fdRNzY",
+    "title": "Mobilisation nationale : Vers une manifestation \"six-seven\" contre la vie chère ?",
+    "outlet": "franceinfo",
+    "caption": "franceinfo explique l'appel de la coordination des Gilets jaunes à un « six-seven populaire » les 6 et 7 novembre pour prolonger la mobilisation contre la vie chère.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbu4boq",
+    "url": "https://www.dailymotion.com/video/xbu4boq",
+    "title": "Les gilets jaunes appellent à un \"six-seven populaire\" contre la vie chère et le gouvernement, les 6 et 7 novembre",
+    "outlet": "BFMTV",
+    "caption": "BFMTV détaille l'appel des Gilets jaunes à reconduire grèves et blocages le vendredi 6 novembre avant l'acte IV du samedi."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbuaq7a",
+    "url": "https://www.dailymotion.com/video/xbuaq7a",
+    "title": "Manifestation du 7 novembre: \"Le dispositif\" de sécurité est \"reconduit\" avec 70.000 policiers et gendarmes mobilisés, annonce Laurent Nuñez",
+    "outlet": "BFMTV",
+    "caption": "Le 6 novembre, le ministre de l'Intérieur Laurent Nuñez annonce la reconduction du dispositif de 70 000 policiers et gendarmes pour le week-end."
+   },
+   {
+    "type": "youtube",
+    "id": "DeqrBKSuulw",
+    "url": "https://www.youtube.com/watch?v=DeqrBKSuulw",
+    "title": "EXTRAIT I Manifestations du 7 novembre: \"le dispositif\" de sécurité est \"reconduit\" (Nuñez)",
+    "outlet": "AFP",
+    "caption": "Extrait AFP de la déclaration de Laurent Nuñez : le dispositif de sécurité est « reconduit » pour la journée du 7 novembre.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-06",
+  "city": "Marseille",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "W4pb0SVbAoc",
+    "url": "https://www.youtube.com/watch?v=W4pb0SVbAoc",
+    "title": "Intervention des forces de l'ordre pour lever le blocage par les lycéens à Marseille",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "caption": "Au lendemain des manifestations massives du 5 novembre, les forces de l'ordre lèvent le blocage d'un lycée marseillais tenu par des lycéens, filmé par France 3 Provence-Alpes-Côte d'Azur.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "France",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "6rmiwxp8SoM",
+    "url": "https://www.youtube.com/watch?v=6rmiwxp8SoM",
+    "title": "7 novembre: 250.000 manifestants en France selon les syndicats, 146.000 pour les autorités",
+    "outlet": "BFMTV",
+    "caption": "BFMTV donne le bilan chiffré de l'acte IV : 250 000 manifestants selon l'intersyndicale de la jeunesse, 146 000 selon le ministère de l'Intérieur.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "o_cQ8ZkffK8",
+    "url": "https://www.youtube.com/watch?v=o_cQ8ZkffK8",
+    "title": "7-novembre : Des manifestants moins nombreux mais une colère toujours intacte",
+    "outlet": "franceinfo",
+    "caption": "Reportage de franceinfo sur ce quatrième samedi consécutif de mobilisation, en recul mais toujours déterminé, avec 146 000 manifestants recensés en France.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "hQUEc9mKJHo",
+    "url": "https://www.youtube.com/watch?v=hQUEc9mKJHo",
+    "title": "250 000 manifestants le 7 novembre : notre débrief de la journée de mobilisation",
+    "outlet": "L'Humanité",
+    "caption": "Les journalistes de L'Humanité débriefent la journée de mobilisation du 7 novembre, ville par ville, au soir de l'acte IV.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "r12APOrKa3Y",
+    "url": "https://www.youtube.com/watch?v=r12APOrKa3Y",
+    "title": "La mobilisation du 7 novembre a attiré moins de monde",
+    "outlet": "M6 Info",
+    "caption": "M6 Info résume une journée globalement calme dans une grande partie de la France, avec des tensions localisées en fin de cortèges.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Paris",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "FPfMlhQl3MU",
+    "url": "https://www.youtube.com/watch?v=FPfMlhQl3MU",
+    "title": "7 Novembre : acte IV de la mobilisation des colères sociales à Paris",
+    "outlet": "CLPRESS",
+    "caption": "Reportage complet de l'agence CLPRESS sur l'acte IV parisien, de la place de la République à la place de la Nation.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbum7ju",
+    "url": "https://www.dailymotion.com/video/xbum7ju",
+    "title": "Manifestation du 7 novembre place de la République, à Paris",
+    "outlet": "Le Parisien",
+    "caption": "Le Parisien filme le départ du cortège place de la République au son de l'Orchestre du Nouveau Monde, avant la descente du boulevard Voltaire."
+   },
+   {
+    "type": "youtube",
+    "id": "27wJJAtTDdE",
+    "url": "https://www.youtube.com/watch?v=27wJJAtTDdE",
+    "title": "IMAGES | Paris: tensions entre forces de l'ordre et manifestants en fin de cortège",
+    "outlet": "AFP",
+    "caption": "L'AFP filme les tensions de fin de cortège place de la Nation : gaz lacrymogènes face à des jets de projectiles et des tirs de mortiers d'artifice.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "vDM1fAT0Qhg",
+    "url": "https://www.youtube.com/watch?v=vDM1fAT0Qhg",
+    "title": "Manifestation du 7 novembre : le rassemblement parisien s'est déroulé dans le calme",
+    "outlet": "Europe 1",
+    "caption": "Europe 1 résume une manifestation parisienne de 46 000 personnes selon la préfecture (75 000 selon l'intersyndicale), calme jusqu'à la dispersion.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Lyon",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "IvfS9lP-R-w",
+    "url": "https://www.youtube.com/watch?v=IvfS9lP-R-w",
+    "title": "Lyon - Manifestation interdite sous tensions ce 7 novembre - Convergence des colères sociales",
+    "outlet": "CLPRESS",
+    "caption": "Reportage CLPRESS sur la manifestation non déclarée de Lyon (jusqu'à 3 300 personnes selon la préfecture), interdite dans le centre et émaillée de tensions.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbum5dm",
+    "url": "https://www.dailymotion.com/video/xbum5dm",
+    "title": "À Lyon, les forces de l'ordre font usage de gaz lacrymogène pour disperser une manifestation non déclarée",
+    "outlet": "BFMTV",
+    "caption": "BFMTV montre les forces de l'ordre disperser au gaz lacrymogène le rassemblement non déclaré de Lyon en début d'après-midi."
+   },
+   {
+    "type": "youtube",
+    "id": "8doiRpa4l3k",
+    "url": "https://www.youtube.com/watch?v=8doiRpa4l3k",
+    "title": "Manifestations du 7 novembre : les forces de l'ordre procèdent aux premières dispersions à Lyon",
+    "outlet": "CNEWS",
+    "caption": "Premières dispersions par les forces de l'ordre à Lyon, images CNEWS.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "uDIILgRUu0c",
+    "url": "https://www.youtube.com/watch?v=uDIILgRUu0c",
+    "title": "Des riverains nettoient des conteneurs brûlés et renversés à Lyon ce 7 novembre",
+    "outlet": "CLPRESS",
+    "caption": "Des riverains nettoient des conteneurs brûlés et renversés après les tensions de l'après-midi, filmés par CLPRESS.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Marseille",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "CpT2DXcIWJo",
+    "url": "https://www.youtube.com/watch?v=CpT2DXcIWJo",
+    "title": "Le drapeau français de retour dans la manif du 7 novembre",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "caption": "France 3 Provence-Alpes-Côte d'Azur suit le cortège marseillais de plus de 5 000 personnes parti des Réformés, où le drapeau français fait son retour.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbum16a",
+    "url": "https://www.dailymotion.com/video/xbum16a",
+    "title": "Un orchestre échauffe les manifestants sur la Canebière ce 7 novembre",
+    "outlet": "La Provence",
+    "caption": "Un orchestre échauffe les manifestants sur la Canebière avant le départ du cortège, images La Provence."
+   },
+   {
+    "type": "youtube",
+    "id": "PbYSUd6_czg",
+    "url": "https://www.youtube.com/watch?v=PbYSUd6_czg",
+    "title": "Manifestation du 7 novembre : pourquoi se mobilisent-ils avec leurs enfants ?",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "caption": "Des parents expliquent à France 3 pourquoi ils défilent avec leurs enfants dans les rues de Marseille.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbumyom",
+    "url": "https://www.dailymotion.com/video/xbumyom",
+    "title": "Les manifestants sont dispersés avec un canon à eau à Marseille",
+    "outlet": "La Provence",
+    "caption": "En fin de parcours, les manifestants sont dispersés au canon à eau dans le centre de Marseille, vidéo La Provence."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Aix-en-Provence",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbummwi",
+    "url": "https://www.dailymotion.com/video/xbummwi",
+    "title": "Une minute de silence lors de la manifestation à Aix",
+    "outlet": "La Provence",
+    "caption": "Une minute de silence observée pendant la manifestation d'Aix-en-Provence (environ 500 personnes selon la préfecture), filmée par La Provence."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Toulouse",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "zrMD77FAo2o",
+    "url": "https://www.youtube.com/watch?v=zrMD77FAo2o",
+    "title": "Manif du 7 novembre à Toulouse : 5 000 manifestants mobilisés malgré l'interdiction",
+    "outlet": "France 3 Occitanie",
+    "caption": "France 3 Occitanie : 5 000 manifestants selon la préfecture entre les allées Jean-Jaurès et la gare Matabiau, malgré l'interdiction de manifester dans l'hypercentre.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "WCskELSjyPw",
+    "url": "https://www.youtube.com/watch?v=WCskELSjyPw",
+    "title": "Manif du 7 novembre : pourquoi braver l'interdiction de manifester à Toulouse ?",
+    "outlet": "France 3 Occitanie",
+    "caption": "Des manifestants toulousains expliquent à France 3 pourquoi ils bravent l'interdiction préfectorale.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "KuD-9THYbiM",
+    "url": "https://www.youtube.com/watch?v=KuD-9THYbiM",
+    "title": "7 novembre : un rassemblement en centre-ville de Toulouse",
+    "outlet": "Actu Toulouse",
+    "caption": "Actu Toulouse filme le rassemblement non déclaré du centre-ville, 5 000 personnes selon la préfecture.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "3ZvPJPCTZOw",
+    "url": "https://www.youtube.com/watch?v=3ZvPJPCTZOw",
+    "title": "7 novembre à Toulouse : affrontements avec les CRS",
+    "outlet": "Actu Toulouse",
+    "caption": "Débordements et affrontements avec les CRS en marge du rassemblement toulousain, images Actu Toulouse.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Bordeaux",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "7mzmNoZRGqE",
+    "url": "https://www.youtube.com/watch?v=7mzmNoZRGqE",
+    "title": "Manifestation : Les images de la mobilisation du 7 novembre à Bordeaux",
+    "outlet": "Sud Ouest",
+    "caption": "Sud Ouest résume en images la mobilisation bordelaise (9 100 personnes selon la préfecture) partie de la place de la Bourse.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "IY_PJTQlRjY",
+    "url": "https://www.youtube.com/watch?v=IY_PJTQlRjY",
+    "title": "IMAGES | Bordeaux : heurts entre manifestants et forces de l'ordre",
+    "outlet": "AFP",
+    "caption": "L'AFP filme les heurts entre manifestants et forces de l'ordre en fin de cortège, autour de la place de la Victoire.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "5kle6Rbzd-4",
+    "url": "https://www.youtube.com/watch?v=5kle6Rbzd-4",
+    "title": "7 novembre à Bordeaux : la situation dégénère à la Victoire, en marge de la manifestation contre la vie chère",
+    "outlet": "Actu Bordeaux",
+    "caption": "Actu Bordeaux montre la situation qui dégénère place de la Victoire après la fin de la manifestation déclarée.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "8fI8e5FH-Og",
+    "url": "https://www.youtube.com/watch?v=8fI8e5FH-Og",
+    "title": "À Bordeaux, les forces de l'ordre prises à partie",
+    "outlet": "CNEWS",
+    "caption": "Les forces de l'ordre prises à partie par des individus masqués en marge du rassemblement, images CNEWS.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Lille",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "8b1Y2bz_cKQ",
+    "url": "https://www.youtube.com/watch?v=8b1Y2bz_cKQ",
+    "title": "Manifestation du 7 novembre : « C'est à nous d'imposer le débat public »",
+    "outlet": "France 3 Hauts-de-France",
+    "caption": "France 3 Hauts-de-France suit l'acte IV lillois (10 000 personnes selon la préfecture) parti du théâtre Sébastopol, hors de l'hypercentre interdit.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Nantes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "QQHRQSP7A8Q",
+    "url": "https://www.youtube.com/watch?v=QQHRQSP7A8Q",
+    "title": "Manifestation 7 novembre à Nantes",
+    "outlet": "Presse Océan",
+    "caption": "Presse Océan filme l'usage massif de gaz lacrymogènes pour disperser les manifestants dans le centre-ville interdit de Nantes.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbuleji",
+    "url": "https://www.dailymotion.com/video/xbuleji",
+    "title": "Quelques manifestants dans le centre-ville de Nantes malgré l'interdiction des rassemblements",
+    "outlet": "BFMTV",
+    "caption": "BFMTV montre les premiers manifestants dans le centre-ville de Nantes malgré l'interdiction préfectorale."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbul18u",
+    "url": "https://www.dailymotion.com/video/xbul18u",
+    "title": "Colère sociale: les rassemblements interdits dans le centre-ville de Nantes",
+    "outlet": "BFMTV",
+    "caption": "BFMTV rappelle l'interdiction des rassemblements dans le centre-ville de Nantes avant le départ du cortège de la place du Bouffay."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Rennes",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/manifestation-du-7-novembre-malgre-les-interdictions-plusieurs-milliers-de-personnes-defilent-dans-une-dizaine-de-villes-bretonnes-3446025.html",
+    "outlet": "France 3 Bretagne",
+    "title": "Manifestation du 7 novembre. Malgré les interdictions, plusieurs milliers de personnes défilent dans une dizaine de villes bretonnes",
+    "caption": "L'article de France 3 Bretagne embarque trois vidéos tournées à Rennes : la fanfare place de Bretagne, le face-à-face boulevard du Colombier et le cortège derrière la gare."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Montpellier",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbutloy",
+    "url": "https://www.dailymotion.com/video/xbutloy",
+    "title": "Manifestation du 7 novembre : des milliers de personnes défilent à Montpellier, un Acte IV sous tension",
+    "outlet": "Hérault Tribune",
+    "caption": "Hérault Tribune retrace la manifestation interdite partie de la place Albert-Ier et les échauffourées cours Gambetta et place de la Comédie."
+   },
+   {
+    "type": "youtube",
+    "id": "aIrglvEnq9I",
+    "url": "https://www.youtube.com/watch?v=aIrglvEnq9I",
+    "title": "Manifestation du 7 novembre : fin de journée sous haute tension sur la place de la Comédie",
+    "outlet": "CNEWS",
+    "caption": "Fin de journée sous haute tension place de la Comédie à Montpellier, images CNEWS.",
+    "start": 0
+   },
+   {
+    "type": "link",
+    "url": "https://x.com/iciherault/status/2119080207969624093",
+    "outlet": "ICI Hérault sur X",
+    "title": "#manif7novembre Environ 2000 personnes, pour la majorité des jeunes, manifestent ce samedi dans les rues de Montpellier",
+    "caption": "Vidéo d'ICI Hérault : environ 2 000 manifestants, surtout des jeunes, face aux accès de l'Écusson bloqués par la police et la gendarmerie."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Nice",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbuocam",
+    "url": "https://www.dailymotion.com/video/xbuocam",
+    "title": "Acte IV de la mobilisation contre la vie chère",
+    "outlet": "Nice-Matin",
+    "caption": "Nice-Matin filme le cortège niçois parti de la place Masséna vers le port par le boulevard Jean-Jaurès, encadré par plusieurs compagnies de CRS."
+   },
+   {
+    "type": "link",
+    "url": "https://x.com/iciazur/status/2119090395581678048",
+    "outlet": "ICI Azur sur X",
+    "title": "Des slogans très hostiles aux forces de l'ordre. Les manifestants martèlent ACAB à Nice",
+    "caption": "Vidéo d'ICI Azur : des manifestants scandent des slogans hostiles aux forces de l'ordre dans le cortège niçois."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Grenoble",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "L4buL_2lX1w",
+    "url": "https://www.youtube.com/watch?v=L4buL_2lX1w",
+    "title": "Mobilisation contre la vie chère et pour les revendications lycéennes et étudiantes à Grenoble.",
+    "outlet": "Place Gre'net",
+    "caption": "Place Gre'net suit l'acte IV grenoblois, de la gare à l'anneau de vitesse du parc Paul-Mistral (6 000 personnes selon la préfecture, 20 000 selon la CGT).",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "N-m1GPUJUHQ",
+    "url": "https://www.youtube.com/watch?v=N-m1GPUJUHQ",
+    "title": "Tirs de lacrymogènes à la fin de la manifestation du 7 novembre à Grenoble",
+    "outlet": "Place Gre'net",
+    "caption": "Tirs de lacrymogènes à l'anneau de vitesse en fin de manifestation, pendant le concert de l'Orchestre du nouveau monde, filmés par Place Gre'net.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Rouen",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/manifestation-du-7-novembre-un-cortege-plus-clairseme-mais-7-personnes-hostiles-interpellees-par-les-forces-de-l-ordre-3446193.html",
+    "outlet": "France 3 Normandie",
+    "title": "Manifestation du 7 novembre : un cortège plus clairsemé mais 7 personnes \"hostiles\" interpellées par les forces de l'ordre",
+    "caption": "L'article de France 3 Normandie contient une vidéo amateur des manifestants qualifiés d'« hostiles » par la préfecture déambulant rive gauche vers 17 h (1 880 manifestants, 7 interpellations)."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Nancy",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-7-novembre-gilets-jaunes-etudiants-lyceens-la-colere-ne-retombe-pas-3445887.html",
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestations du 7 novembre : la colère ne retombe pas, la situation est tendue à Nancy",
+    "caption": "La page de France 3 Grand Est montre en vidéo les forces de l'ordre positionnées entre les rues Saint-Jean, Saint-Georges et Saint-Dizier face au cortège non déclaré de près de 1 000 personnes."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Besançon",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "-CA_AQAoPug",
+    "url": "https://www.youtube.com/watch?v=-CA_AQAoPug",
+    "title": "Récap' de la mobilisation du 7 novembre à Besançon",
+    "outlet": "L'Est Républicain",
+    "caption": "Récapitulatif vidéo de L'Est Républicain : 4 000 manifestants selon la préfecture, centre-ville interdit et fin de journée sous tension avec 17 interpellations.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Clermont-Ferrand",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "zWyjfDZ2ddg",
+    "url": "https://www.youtube.com/watch?v=zWyjfDZ2ddg",
+    "title": "600 manifestants à Clermont-Ferrand",
+    "outlet": "La Montagne",
+    "caption": "La Montagne filme le cortège clermontois (600 à 750 manifestants) parti de la place Delille, avant les tensions aux abords de la place de Jaude.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Caen",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://x.com/ici_bnormandie/status/2119097388937679264",
+    "outlet": "ICI Normandie sur X",
+    "title": "Les manifestants dispersés à Caen rue saint Pierre",
+    "caption": "Vidéo d'ICI Normandie : les manifestants dispersés rue Saint-Pierre à Caen, où tout rassemblement était interdit par le préfet."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Tours",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "SsO2Ko-pYNg",
+    "url": "https://www.youtube.com/watch?v=SsO2Ko-pYNg",
+    "title": "VIDÉO. Contre la vie chère, antifasciste : un samedi au rythme des manifestations à Tours",
+    "outlet": "La Nouvelle République",
+    "caption": "La Nouvelle République revient en images sur la manifestation de l'acte IV (2 500 personnes selon la préfecture) et sur le rassemblement antifasciste place Jean-Jaurès à Tours.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Poitiers",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/mobilisation-du-7-novembre-suivez-la-journee-de-manifestations-dans-la-vienne-et-les-deux-sevres-3800771",
+    "outlet": "ICI Poitou",
+    "title": "VIDÉO - Mobilisation du 7 novembre : 700 manifestants à Poitiers, 200 à Niort, le bilan de l'acte 4 dans le Poitou",
+    "caption": "Vidéo d'ICI Poitou : 700 manifestants à Poitiers, du rond-point de la porte de Paris au sit-in devant la préfecture dispersé au gaz lacrymogène (9 interpellations)."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Perpignan",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "m7EjQ1cR2k8",
+    "url": "https://www.youtube.com/watch?v=m7EjQ1cR2k8",
+    "title": "Manifestation du 7 novembre à Perpignan",
+    "outlet": "L'Indépendant",
+    "caption": "L'Indépendant filme les quelque 300 manifestants partis de la place de Catalogne pour un tour des grands axes de Perpignan.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "eJfwXbHQNGU",
+    "url": "https://www.youtube.com/watch?v=eJfwXbHQNGU",
+    "title": "Manifestation du 7 novembre à Perpignan",
+    "outlet": "L'Indépendant",
+    "caption": "La police se positionne au croisement de la rue Vieilledent et du boulevard Briand pour empêcher le cortège d'entrer dans le centre, images L'Indépendant.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Amiens",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://x.com/icipicardie/status/2119070724107194682",
+    "outlet": "ICI Picardie sur X",
+    "title": "Plusieurs centaines de personnes sont mobilisées ce samedi en chantant lors de cette nouvelle journée de protestation à Amiens",
+    "caption": "Vidéo d'ICI Picardie : plusieurs centaines de personnes chantent au départ du cortège amiénois, qui se déroule dans le calme sur le parcours imposé par le préfet."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "Chambéry",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "Pwu0-abpqS8",
+    "url": "https://www.youtube.com/watch?v=Pwu0-abpqS8",
+    "title": "Manifestation du Samedi 7 novembre contre Macron, la vie chère et la montée du fascisme",
+    "outlet": "La Tvnet Citoyenne",
+    "caption": "Plus de 600 personnes défilent dans les rues de Chambéry contre la vie chère, filmées par le média citoyen local La Tvnet Citoyenne.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-07",
+  "city": "La Rochelle",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "3ObTI-6fY9M",
+    "url": "https://www.youtube.com/watch?v=3ObTI-6fY9M",
+    "title": "Manifestation centre ville de La Rochelle 7/11/2026",
+    "outlet": "C17INFOS Charente-Maritime",
+    "caption": "La chaîne d'information locale C17INFOS filme la manifestation du 7 novembre dans le centre-ville de La Rochelle, où les rassemblements étaient interdits.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "France",
+  "title_prefix": "Acte IV « pour la jeunesse et contre la vie chère »",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbuoiby",
+    "url": "https://www.dailymotion.com/video/xbuoiby",
+    "title": "Manifestations: le ministère de l'Intérieur indique 360 interpellations dans toute la France",
+    "outlet": "BFMTV",
+    "caption": "BFMTV relaie le bilan du ministère de l'Intérieur : 360 interpellations dans toute la France pour la journée du 7 novembre."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbupk1e",
+    "url": "https://www.dailymotion.com/video/xbupk1e",
+    "title": "Manifestations en France ce 7 novembre: \"Les grandes villes ont été émaillées de nombreux incidents\", détaille le ministère de l'Intérieur",
+    "outlet": "BFMTV",
+    "caption": "Le communiqué du ministère de l'Intérieur au soir du 7 novembre, lu par BFMTV : « les grandes villes ont été émaillées de nombreux incidents »."
+   },
+   {
+    "type": "youtube",
+    "id": "GJ9Bqx5eiOY",
+    "url": "https://www.youtube.com/watch?v=GJ9Bqx5eiOY",
+    "title": "Mobilisation du 7 novembre : les chiffres de la mobilisation à 14h",
+    "outlet": "CNEWS",
+    "caption": "CNEWS donne les premiers chiffres du ministère à 14 h : contrôles préventifs massifs et premières interpellations dans un pays quadrillé par 70 000 policiers et gendarmes.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "w2FZIr7ubSw",
+    "url": "https://www.youtube.com/watch?v=w2FZIr7ubSw",
+    "title": "Mobilisation du 7 novembre : le dispositif sécuritaire reconduit",
+    "outlet": "franceinfo",
+    "caption": "franceinfo détaille le dispositif de 70 000 policiers et gendarmes reconduit pour l'acte IV et les interdictions de centres-villes.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Paris",
+  "title_prefix": "Fin de cortège place de la Nation",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "9qN6qmsWotc",
+    "url": "https://www.youtube.com/watch?v=9qN6qmsWotc",
+    "title": "La manifestation se termine avec plusieurs charges policières au moment de la dispersion à Paris",
+    "outlet": "Brut",
+    "caption": "Brut filme plusieurs charges policières au moment de la dispersion place de la Nation.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "FX2VbPjb3vo",
+    "url": "https://www.youtube.com/watch?v=FX2VbPjb3vo",
+    "title": "Nombreuses charges de polices en fin de manifestation à Paris ce 7 novembre",
+    "outlet": "CLPRESS",
+    "caption": "Nombreuses charges de police en fin de manifestation place de la Nation, filmées par CLPRESS.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "Jew2l7_1grQ",
+    "url": "https://www.youtube.com/watch?v=Jew2l7_1grQ",
+    "title": "De nombreuses grenades utilisées par les forces de l'ordre à Paris le 7 novembre",
+    "outlet": "CLPRESS",
+    "caption": "CLPRESS montre l'usage de nombreuses grenades lacrymogènes par les forces de l'ordre lors de l'évacuation de la place de la Nation.",
+    "start": 0
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbuo6k2",
+    "url": "https://www.dailymotion.com/video/xbuo6k2",
+    "title": "Manifestation du 7 novembre : tensions à Nation en soirée",
+    "outlet": "Le Parisien",
+    "caption": "Le Parisien filme l'évacuation de la place de la Nation en soirée, par charges successives, plus de deux heures après la fin de la manifestation."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Paris",
+  "title_prefix": "Deux porte-parole des Gilets jaunes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "64ZC650Z6yE",
+    "url": "https://www.youtube.com/watch?v=64ZC650Z6yE",
+    "title": "Manifestation interdite Place de la Concorde de Gilets Jaunes à Paris ce 7 novembre",
+    "outlet": "CLPRESS",
+    "caption": "CLPRESS filme le sit-in interdit des Gilets jaunes place de la Concorde, encerclé par la police, et les interpellations qui l'ont précédé.",
+    "start": 0
+   },
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-7-novembre-a-paris-interpellation-de-gilets-jaunes-a-concorde-defile-dans-le-calme-entre-republique-et-nation-60-000-personnes-attendues-3446016.html",
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 7 novembre à Paris : des Gilets jaunes interpellés à Concorde placés en garde à vue",
+    "caption": "La page de France 3 Paris Île-de-France contient une vidéo de 24 secondes montrant Benjamin Ball et Azelma Sigaux évacués par la police lors du sit-in de la Concorde."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbunqqu",
+    "url": "https://www.dailymotion.com/video/xbunqqu",
+    "title": "7 novembre: deux leaders gilets jaunes ont été placés en garde à vue, leur avocat prend la parole sur BFMTV",
+    "outlet": "BFMTV",
+    "caption": "L'avocat des deux porte-parole des Gilets jaunes placés en garde à vue réagit sur BFMTV."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xbulyq2",
+    "url": "https://www.dailymotion.com/video/xbulyq2",
+    "title": "À Paris, la police procède à des contrôles et des verbalisations des participants au rassemblement à l'appel de la coordination des gilets jaunes sur la Place de la Concorde",
+    "outlet": "BFMTV",
+    "caption": "BFMTV montre les contrôles et verbalisations des participants au rassemblement interdit de la Concorde."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Toulouse",
+  "title_prefix": "Cortège non autorisé coupé en deux",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbutp6q",
+    "url": "https://www.dailymotion.com/video/xbutp6q",
+    "title": "7 novembre à Toulouse : affrontements avec les CRS",
+    "outlet": "Actu Toulouse",
+    "caption": "Actu Toulouse filme les affrontements avec les CRS lors de la dispersion du cortège non autorisé, gaz lacrymogènes à l'appui."
+   },
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/direct-manifestation-du-7-novembre-a-toulouse-malgre-l-interdiction-de-la-prefecture-les-manifestants-contre-la-vie-chere-maintiennent-leur-appel-3445920.html",
+    "outlet": "France 3 Occitanie",
+    "title": "DIRECT. Manifestation du 7 novembre à Toulouse : malgré l'interdiction de la préfecture, les manifestants contre la vie chère maintiennent leur appel",
+    "caption": "Le direct de France 3 Occitanie embarque une vidéo de la charge de dispersion boulevard Bonrepos et des images du cortège coupé en deux près de la gare Matabiau."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Nantes",
+  "title_prefix": "Centre-ville interdit : gaz lacrymogènes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "QQHRQSP7A8Q",
+    "url": "https://www.youtube.com/watch?v=QQHRQSP7A8Q",
+    "title": "Manifestation 7 novembre à Nantes",
+    "outlet": "Presse Océan",
+    "caption": "Presse Océan filme l'usage massif de gaz lacrymogènes pour disperser les manifestants dans le centre-ville interdit de Nantes.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Nancy",
+  "title_prefix": "Cortège non déclaré bloqué dès le départ",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-7-novembre-gilets-jaunes-etudiants-lyceens-la-colere-ne-retombe-pas-3445887.html",
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestations du 7 novembre : la colère ne retombe pas, la situation est tendue à Nancy",
+    "caption": "Vidéo de France 3 Grand Est : le barrage des forces de l'ordre entre les rues Saint-Jean, Saint-Georges et Saint-Dizier, où les premiers gaz lacrymogènes ont été tirés en fin d'après-midi."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Bordeaux",
+  "title_prefix": "Place de la Victoire vidée aux grenades lacrymogènes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "IY_PJTQlRjY",
+    "url": "https://www.youtube.com/watch?v=IY_PJTQlRjY",
+    "title": "IMAGES | Bordeaux : heurts entre manifestants et forces de l'ordre",
+    "outlet": "AFP",
+    "caption": "L'AFP filme les heurts entre manifestants et forces de l'ordre autour de la place de la Victoire après la fin de la manifestation déclarée.",
+    "start": 0
+   },
+   {
+    "type": "youtube",
+    "id": "5kle6Rbzd-4",
+    "url": "https://www.youtube.com/watch?v=5kle6Rbzd-4",
+    "title": "7 novembre à Bordeaux : la situation dégénère à la Victoire, en marge de la manifestation contre la vie chère",
+    "outlet": "Actu Bordeaux",
+    "caption": "Actu Bordeaux montre la place de la Victoire noyée sous les gaz lacrymogènes vers 16 h 30.",
+    "start": 0
+   },
+   {
+    "type": "link",
+    "url": "https://www.facebook.com/reel/1514290130532432",
+    "outlet": "Préfecture de la Gironde (Facebook)",
+    "title": "Vidéo de la préfecture de la Gironde publiée à 16 h 15",
+    "caption": "Vidéo publiée par la préfecture de la Gironde : des individus masqués jettent des projectiles sur les forces de l'ordre cours Pasteur, pendant les sommations."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Besançon",
+  "title_prefix": "Tirs de gaz lacrymogènes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "-CA_AQAoPug",
+    "url": "https://www.youtube.com/watch?v=-CA_AQAoPug",
+    "title": "Récap' de la mobilisation du 7 novembre à Besançon",
+    "outlet": "L'Est Républicain",
+    "caption": "Le récapitulatif de L'Est Républicain montre la fin de journée sous tension à Besançon : gaz lacrymogènes pour protéger l'accès au centre-ville interdit, 17 interpellations.",
+    "start": 0
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-07",
+  "city": "Rennes",
+  "title_prefix": "Manifestation non déclarée",
+  "media": [
+   {
+    "type": "link",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/manifestation-du-7-novembre-malgre-les-interdictions-plusieurs-milliers-de-personnes-defilent-dans-une-dizaine-de-villes-bretonnes-3446025.html",
+    "outlet": "France 3 Bretagne",
+    "title": "Manifestation du 7 novembre. Malgré les interdictions, plusieurs milliers de personnes défilent dans une dizaine de villes bretonnes",
+    "caption": "Vidéo de France 3 Bretagne : boulevard du Colombier, des manifestants masqués font face aux forces de l'ordre qui bloquent le cortège rennais."
+   }
+  ]
+ }
+]

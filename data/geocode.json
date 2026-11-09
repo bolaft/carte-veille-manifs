@@ -1,0 +1,1743 @@
+{
+"Acoua|976": {
+"lat": -12.7249,
+"lon": 45.0678,
+"nom": "Acoua",
+"dept": "976",
+"pop": 5192
+},
+"Aix-en-Provence|13": {
+"lat": 43.536,
+"lon": 5.3879,
+"nom": "Aix-en-Provence",
+"dept": "13",
+"pop": 149695
+},
+"Ajaccio|2A": {
+"lat": 41.9228,
+"lon": 8.7058,
+"nom": "Ajaccio",
+"dept": "2A",
+"pop": 76320
+},
+"Alençon|61": {
+"lat": 48.431,
+"lon": 0.0923,
+"nom": "Alençon",
+"dept": "61",
+"pop": 25490
+},
+"Amiens|80": {
+"lat": 49.8987,
+"lon": 2.2847,
+"nom": "Amiens",
+"dept": "80",
+"pop": 136449
+},
+"Angers|49": {
+"lat": 47.4819,
+"lon": -0.5629,
+"nom": "Angers",
+"dept": "49",
+"pop": 159022
+},
+"Annecy|74": {
+"lat": 45.9024,
+"lon": 6.1264,
+"nom": "Annecy",
+"dept": "74",
+"pop": 132117
+},
+"Argenteuil|95": {
+"lat": 48.9501,
+"lon": 2.2478,
+"nom": "Argenteuil",
+"dept": "95",
+"pop": 106130
+},
+"Aubagne|13": {
+"lat": 43.2904,
+"lon": 5.5643,
+"nom": "Aubagne",
+"dept": "13",
+"pop": 47529
+},
+"Aubervilliers|93": {
+"lat": 48.9128,
+"lon": 2.3886,
+"nom": "Aubervilliers",
+"dept": "93",
+"pop": 88365
+},
+"Avignon|84": {
+"lat": 43.9416,
+"lon": 4.8333,
+"nom": "Avignon",
+"dept": "84",
+"pop": 92188
+},
+"Baie-Mahault|971": {
+"lat": 16.2498,
+"lon": -61.5951,
+"nom": "Baie-Mahault",
+"dept": "971",
+"pop": 30924
+},
+"Basse-Terre|971": {
+"lat": 15.9992,
+"lon": -61.7294,
+"nom": "Basse-Terre",
+"dept": "971",
+"pop": 9417
+},
+"Bastia|2B": {
+"lat": 42.6861,
+"lon": 9.424,
+"nom": "Bastia",
+"dept": "2B",
+"pop": 46867
+},
+"Bayonne|64": {
+"lat": 43.4844,
+"lon": -1.4611,
+"nom": "Bayonne",
+"dept": "64",
+"pop": 54306
+},
+"Belfort|90": {
+"lat": 47.6458,
+"lon": 6.841,
+"nom": "Belfort",
+"dept": "90",
+"pop": 45912
+},
+"Besançon|25": {
+"lat": 47.2602,
+"lon": 6.0123,
+"nom": "Besançon",
+"dept": "25",
+"pop": 118489
+},
+"Bordeaux|33": {
+"lat": 44.8624,
+"lon": -0.5848,
+"nom": "Bordeaux",
+"dept": "33",
+"pop": 267991
+},
+"Bourges|18": {
+"lat": 47.078,
+"lon": 2.3983,
+"nom": "Bourges",
+"dept": "18",
+"pop": 64186
+},
+"Bourgoin-Jallieu|38": {
+"lat": 45.6025,
+"lon": 5.2747,
+"nom": "Bourgoin-Jallieu",
+"dept": "38",
+"pop": 30151
+},
+"Brest|29": {
+"lat": 48.4085,
+"lon": -4.4996,
+"nom": "Brest",
+"dept": "29",
+"pop": 142346
+},
+"Caen|14": {
+"lat": 49.1846,
+"lon": -0.3722,
+"nom": "Caen",
+"dept": "14",
+"pop": 109400
+},
+"Cahors|46": {
+"lat": 44.4565,
+"lon": 1.439,
+"nom": "Cahors",
+"dept": "46",
+"pop": 20050
+},
+"Carcassonne|11": {
+"lat": 43.2078,
+"lon": 2.3491,
+"nom": "Carcassonne",
+"dept": "11",
+"pop": 46080
+},
+"Cayenne|973": {
+"lat": 4.9464,
+"lon": -52.3319,
+"nom": "Cayenne",
+"dept": "973",
+"pop": 62675
+},
+"Chambéry|73": {
+"lat": 45.5822,
+"lon": 5.9064,
+"nom": "Chambéry",
+"dept": "73",
+"pop": 59964
+},
+"Chirongui|976": {
+"lat": -12.9179,
+"lon": 45.1428,
+"nom": "Chirongui",
+"dept": "976",
+"pop": 8920
+},
+"Châtellerault|86": {
+"lat": 46.8147,
+"lon": 0.5583,
+"nom": "Châtellerault",
+"dept": "86",
+"pop": 31003
+},
+"Clermont-Ferrand|63": {
+"lat": 45.787,
+"lon": 3.1127,
+"nom": "Clermont-Ferrand",
+"dept": "63",
+"pop": 146351
+},
+"Corbeil-Essonnes|91": {
+"lat": 48.5973,
+"lon": 2.4646,
+"nom": "Corbeil-Essonnes",
+"dept": "91",
+"pop": 54471
+},
+"Créteil|94": {
+"lat": 48.7845,
+"lon": 2.4523,
+"nom": "Créteil",
+"dept": "94",
+"pop": 93397
+},
+"Dijon|21": {
+"lat": 47.3319,
+"lon": 5.0322,
+"nom": "Dijon",
+"dept": "21",
+"pop": 161830
+},
+"Draguignan|83": {
+"lat": 43.5346,
+"lon": 6.4651,
+"nom": "Draguignan",
+"dept": "83",
+"pop": 40826
+},
+"Dunkerque|59": {
+"lat": 51.0183,
+"lon": 2.3431,
+"nom": "Dunkerque",
+"dept": "59",
+"pop": 86263
+},
+"Dzaoudzi|976": {
+"lat": -12.7761,
+"lon": 45.2769,
+"nom": "Dzaoudzi",
+"dept": "976",
+"pop": 17831
+},
+"Fort-de-France|972": {
+"lat": 14.6492,
+"lon": -61.0686,
+"nom": "Fort-de-France",
+"dept": "972",
+"pop": 75506
+},
+"Gradignan|33": {
+"lat": 44.7681,
+"lon": -0.6163,
+"nom": "Gradignan",
+"dept": "33",
+"pop": 26952
+},
+"Grenoble|38": {
+"lat": 45.1842,
+"lon": 5.7155,
+"nom": "Grenoble",
+"dept": "38",
+"pop": 156140
+},
+"Kourou|973": {
+"lat": 4.9085,
+"lon": -52.7767,
+"nom": "Kourou",
+"dept": "973",
+"pop": 24824
+},
+"La Rochelle|17": {
+"lat": 46.162,
+"lon": -1.1765,
+"nom": "La Rochelle",
+"dept": "17",
+"pop": 79851
+},
+"La Verrière|78": {
+"lat": 48.7545,
+"lon": 1.9505,
+"nom": "La Verrière",
+"dept": "78",
+"pop": 5994
+},
+"Le Blanc-Mesnil|93": {
+"lat": 48.9372,
+"lon": 2.4576,
+"nom": "Le Blanc-Mesnil",
+"dept": "93",
+"pop": 62376
+},
+"Le Havre|76": {
+"lat": 49.4958,
+"lon": 0.1312,
+"nom": "Le Havre",
+"dept": "76",
+"pop": 166687
+},
+"Le Kremlin-Bicêtre|94": {
+"lat": 48.8087,
+"lon": 2.356,
+"nom": "Le Kremlin-Bicêtre",
+"dept": "94",
+"pop": 24110
+},
+"Le Lamentin|972": {
+"lat": 14.6231,
+"lon": -60.9923,
+"nom": "Le Lamentin",
+"dept": "972",
+"pop": 39400
+},
+"Le Mans|72": {
+"lat": 47.9819,
+"lon": 0.1957,
+"nom": "Le Mans",
+"dept": "72",
+"pop": 146249
+},
+"Le Port|974": {
+"lat": -20.9459,
+"lon": 55.3038,
+"nom": "Le Port",
+"dept": "974",
+"pop": 33969
+},
+"Le Rheu|35": {
+"lat": 48.0971,
+"lon": -1.7882,
+"nom": "Le Rheu",
+"dept": "35",
+"pop": 9839
+},
+"Le Tampon|974": {
+"lat": -21.225,
+"lon": 55.5701,
+"nom": "Le Tampon",
+"dept": "974",
+"pop": 82579
+},
+"Lens|62": {
+"lat": 50.4395,
+"lon": 2.8191,
+"nom": "Lens",
+"dept": "62",
+"pop": 32920
+},
+"Les Abymes|971": {
+"lat": 16.2678,
+"lon": -61.4967,
+"nom": "Les Abymes",
+"dept": "971",
+"pop": 51055
+},
+"Lille|59": {
+"lat": 50.6311,
+"lon": 3.0468,
+"nom": "Lille",
+"dept": "59",
+"pop": 238246
+},
+"Limoges|87": {
+"lat": 45.8567,
+"lon": 1.226,
+"nom": "Limoges",
+"dept": "87",
+"pop": 129937
+},
+"Lorient|56": {
+"lat": 47.7494,
+"lon": -3.3799,
+"nom": "Lorient",
+"dept": "56",
+"pop": 58329
+},
+"Lormont|33": {
+"lat": 44.8749,
+"lon": -0.5176,
+"nom": "Lormont",
+"dept": "33",
+"pop": 25769
+},
+"Lyon|69": {
+"lat": 45.758,
+"lon": 4.8351,
+"nom": "Lyon",
+"dept": "69",
+"pop": 519127
+},
+"Mamoudzou|976": null,
+"Marseille|13": {
+"lat": 43.2803,
+"lon": 5.3806,
+"nom": "Marseille",
+"dept": "13",
+"pop": 886040
+},
+"Martigues|13": {
+"lat": 43.3839,
+"lon": 5.0451,
+"nom": "Martigues",
+"dept": "13",
+"pop": 48298
+},
+"Metz|57": {
+"lat": 49.1048,
+"lon": 6.1962,
+"nom": "Metz",
+"dept": "57",
+"pop": 122572
+},
+"Montpellier|34": {
+"lat": 43.61,
+"lon": 3.8742,
+"nom": "Montpellier",
+"dept": "34",
+"pop": 310240
+},
+"Mulhouse|68": {
+"lat": 47.7526,
+"lon": 7.3255,
+"nom": "Mulhouse",
+"dept": "68",
+"pop": 104978
+},
+"Nancy|54": {
+"lat": 48.6881,
+"lon": 6.1734,
+"nom": "Nancy",
+"dept": "54",
+"pop": 103671
+},
+"Nanterre|92": {
+"lat": 48.8974,
+"lon": 2.2018,
+"nom": "Nanterre",
+"dept": "92",
+"pop": 97783
+},
+"Nantes|44": {
+"lat": 47.2382,
+"lon": -1.5603,
+"nom": "Nantes",
+"dept": "44",
+"pop": 327734
+},
+"Nice|06": {
+"lat": 43.7032,
+"lon": 7.2528,
+"nom": "Nice",
+"dept": "06",
+"pop": 357737
+},
+"Niort|79": {
+"lat": 46.3274,
+"lon": -0.4613,
+"nom": "Niort",
+"dept": "79",
+"pop": 59854
+},
+"Nouméa|988": {
+"lat": -22.2758,
+"lon": 166.458,
+"nom": "Nouméa",
+"dept": "988",
+"manual": true
+},
+"Nîmes|30": {
+"lat": 43.8322,
+"lon": 4.3429,
+"nom": "Nîmes",
+"dept": "30",
+"pop": 151839
+},
+"Orléans|45": {
+"lat": 47.8734,
+"lon": 1.9122,
+"nom": "Orléans",
+"dept": "45",
+"pop": 116357
+},
+"Pamandzi|976": {
+"lat": -12.801,
+"lon": 45.2842,
+"nom": "Pamandzi",
+"dept": "976",
+"pop": 11442
+},
+"Papeete|987": {
+"lat": -17.535,
+"lon": -149.5696,
+"nom": "Papeete",
+"dept": "987",
+"manual": true
+},
+"Paris|75": {
+"lat": 48.8589,
+"lon": 2.347,
+"nom": "Paris",
+"dept": "75",
+"pop": 2103778
+},
+"Pau|64": {
+"lat": 43.3219,
+"lon": -0.3435,
+"nom": "Pau",
+"dept": "64",
+"pop": 80441
+},
+"Perpignan|66": {
+"lat": 42.699,
+"lon": 2.9045,
+"nom": "Perpignan",
+"dept": "66",
+"pop": 121616
+},
+"Pointe-à-Pitre|971": {
+"lat": 16.2351,
+"lon": -61.5379,
+"nom": "Pointe-à-Pitre",
+"dept": "971",
+"pop": 15040
+},
+"Poitiers|86": {
+"lat": 46.5846,
+"lon": 0.3715,
+"nom": "Poitiers",
+"dept": "86",
+"pop": 89916
+},
+"Port-de-Bouc|13": {
+"lat": 43.4207,
+"lon": 4.9993,
+"nom": "Port-de-Bouc",
+"dept": "13",
+"pop": 15802
+},
+"Quimper|29": {
+"lat": 47.9982,
+"lon": -4.0972,
+"nom": "Quimper",
+"dept": "29",
+"pop": 64385
+},
+"Quincy-sous-Sénart|91": {
+"lat": 48.6722,
+"lon": 2.5259,
+"nom": "Quincy-sous-Sénart",
+"dept": "91",
+"pop": 9477
+},
+"Reims|51": {
+"lat": 49.2535,
+"lon": 4.0551,
+"nom": "Reims",
+"dept": "51",
+"pop": 177674
+},
+"Rennes|35": {
+"lat": 48.1159,
+"lon": -1.6884,
+"nom": "Rennes",
+"dept": "35",
+"pop": 230890
+},
+"Rouen|76": {
+"lat": 49.4412,
+"lon": 1.0912,
+"nom": "Rouen",
+"dept": "76",
+"pop": 117662
+},
+"Saint-Chamond|42": {
+"lat": 45.4687,
+"lon": 4.5082,
+"nom": "Saint-Chamond",
+"dept": "42",
+"pop": 35646
+},
+"Saint-Denis|93": {
+"lat": 48.9378,
+"lon": 2.3657,
+"nom": "Saint-Denis",
+"dept": "93",
+"pop": 149077
+},
+"Saint-Denis|974": {
+"lat": -20.9434,
+"lon": 55.4444,
+"nom": "Saint-Denis",
+"dept": "974",
+"pop": 155634
+},
+"Saint-Laurent-du-Maroni|973": {
+"lat": 4.9478,
+"lon": -54.0105,
+"nom": "Saint-Laurent-du-Maroni",
+"dept": "973",
+"pop": 54429
+},
+"Saint-Nazaire|44": {
+"lat": 47.2768,
+"lon": -2.2392,
+"nom": "Saint-Nazaire",
+"dept": "44",
+"pop": 74568
+},
+"Saint-Ouen-l'Aumône|95": {
+"lat": 49.045,
+"lon": 2.1293,
+"nom": "Saint-Ouen-l'Aumône",
+"dept": "95",
+"pop": 25578
+},
+"Saint-Paul|974": {
+"lat": -21.0366,
+"lon": 55.3402,
+"nom": "Saint-Paul",
+"dept": "974",
+"pop": 108088
+},
+"Saint-Pierre|974": {
+"lat": -21.309,
+"lon": 55.5044,
+"nom": "Saint-Pierre",
+"dept": "974",
+"pop": 85038
+},
+"Saint-Pierre|975": {
+"lat": 46.7792,
+"lon": -56.1773,
+"nom": "Saint-Pierre",
+"dept": "975",
+"manual": true
+},
+"Saint-Raphaël|83": {
+"lat": 43.4582,
+"lon": 6.8483,
+"nom": "Saint-Raphaël",
+"dept": "83",
+"pop": 37113
+},
+"Saint-Étienne|42": {
+"lat": 45.4241,
+"lon": 4.3665,
+"nom": "Saint-Étienne",
+"dept": "42",
+"pop": 173136
+},
+"Strasbourg|67": {
+"lat": 48.5691,
+"lon": 7.7621,
+"nom": "Strasbourg",
+"dept": "67",
+"pop": 293771
+},
+"Toulon|83": {
+"lat": 43.1364,
+"lon": 5.9334,
+"nom": "Toulon",
+"dept": "83",
+"pop": 179116
+},
+"Toulouse|31": {
+"lat": 43.6007,
+"lon": 1.4328,
+"nom": "Toulouse",
+"dept": "31",
+"pop": 514819
+},
+"Tours|37": {
+"lat": 47.3943,
+"lon": 0.6949,
+"nom": "Tours",
+"dept": "37",
+"pop": 139259
+},
+"Trappes|78": {
+"lat": 48.7738,
+"lon": 1.9964,
+"nom": "Trappes",
+"dept": "78",
+"pop": 34689
+},
+"Troyes|10": {
+"lat": 48.2924,
+"lon": 4.0761,
+"nom": "Troyes",
+"dept": "10",
+"pop": 62088
+},
+"Valenciennes|59": {
+"lat": 50.362,
+"lon": 3.5142,
+"nom": "Valenciennes",
+"dept": "59",
+"pop": 43468
+},
+"Villeneuve-d'Ascq|59": {
+"lat": 50.6362,
+"lon": 3.1619,
+"nom": "Villeneuve-d'Ascq",
+"dept": "59",
+"pop": 62868
+},
+"Épinal|88": {
+"lat": 48.1637,
+"lon": 6.4867,
+"nom": "Épinal",
+"dept": "88",
+"pop": 32251
+},
+"Évry-Courcouronnes|91": {
+"lat": 48.6287,
+"lon": 2.4313,
+"nom": "Évry-Courcouronnes",
+"dept": "91",
+"pop": 66919
+},
+"Gonesse|95": {
+"lat": 48.9856,
+"lon": 2.4602,
+"nom": "Gonesse",
+"dept": "95",
+"pop": 27707
+},
+"La Courneuve|93": {
+"lat": 48.9341,
+"lon": 2.3986,
+"nom": "La Courneuve",
+"dept": "93",
+"pop": 47167
+},
+"Rosny-sous-Bois|93": {
+"lat": 48.8744,
+"lon": 2.4872,
+"nom": "Rosny-sous-Bois",
+"dept": "93",
+"pop": 47180
+},
+"Saint-Ouen-sur-Seine|93": {
+"lat": 48.9118,
+"lon": 2.3329,
+"nom": "Saint-Ouen-sur-Seine",
+"dept": "93",
+"pop": 53615
+},
+"Sarcelles|95": {
+"lat": 48.9925,
+"lon": 2.3858,
+"nom": "Sarcelles",
+"dept": "95",
+"pop": 59173
+},
+"Stains|93": {
+"lat": 48.9578,
+"lon": 2.3868,
+"nom": "Stains",
+"dept": "93",
+"pop": 41388
+},
+"Auchel|62": {
+"lat": 50.5108,
+"lon": 2.4656,
+"nom": "Auchel",
+"dept": "62",
+"pop": 10051
+},
+"Ingré|45": {
+"lat": 47.9218,
+"lon": 1.8161,
+"nom": "Ingré",
+"dept": "45",
+"pop": 10062
+},
+"La Ciotat|13": {
+"lat": 43.1882,
+"lon": 5.6175,
+"nom": "La Ciotat",
+"dept": "13",
+"pop": 38477
+},
+"Le Petit-Quevilly|76": {
+"lat": 49.4238,
+"lon": 1.0572,
+"nom": "Le Petit-Quevilly",
+"dept": "76",
+"pop": 22208
+},
+"Bergerac|24": {
+"lat": 44.8519,
+"lon": 0.4883,
+"nom": "Bergerac",
+"dept": "24",
+"pop": 27110
+},
+"Meaux|77": {
+"lat": 48.9573,
+"lon": 2.9035,
+"nom": "Meaux",
+"dept": "77",
+"pop": 56905
+},
+"Périgueux|24": {
+"lat": 45.1939,
+"lon": 0.7105,
+"nom": "Périgueux",
+"dept": "24",
+"pop": 29055
+},
+"Sarlat-la-Canéda|24": {
+"lat": 44.906,
+"lon": 1.1994,
+"nom": "Sarlat-la-Canéda",
+"dept": "24",
+"pop": 8763
+},
+"Bobigny|93": {
+"lat": 48.9073,
+"lon": 2.4432,
+"nom": "Bobigny",
+"dept": "93",
+"pop": 56927
+},
+"Cergy|95": {
+"lat": 49.0373,
+"lon": 2.0455,
+"nom": "Cergy",
+"dept": "95",
+"pop": 70906
+},
+"Mende|48": {
+"lat": 44.5349,
+"lon": 3.4909,
+"nom": "Mende",
+"dept": "48",
+"pop": 12464
+},
+"Jouy-en-Josas|78": {
+"lat": 48.7652,
+"lon": 2.161,
+"nom": "Jouy-en-Josas",
+"dept": "78",
+"pop": 7981
+},
+"Villeurbanne|69": {
+"lat": 45.7719,
+"lon": 4.8898,
+"nom": "Villeurbanne",
+"dept": "69",
+"pop": 163684
+},
+"Béziers|34": {
+"lat": 43.3481,
+"lon": 3.2342,
+"nom": "Béziers",
+"dept": "34",
+"pop": 81545
+},
+"Cherbourg-en-Cotentin|50": {
+"lat": 49.6277,
+"lon": -1.6356,
+"nom": "Cherbourg-en-Cotentin",
+"dept": "50",
+"pop": 78258
+},
+"Colmar|68": {
+"lat": 48.1115,
+"lon": 7.3924,
+"nom": "Colmar",
+"dept": "68",
+"pop": 66970
+},
+"Joué-lès-Tours|37": {
+"lat": 47.3374,
+"lon": 0.6544,
+"nom": "Joué-lès-Tours",
+"dept": "37",
+"pop": 38423
+},
+"La Possession|974": {
+"lat": -20.9965,
+"lon": 55.3918,
+"nom": "La Possession",
+"dept": "974",
+"pop": 36568
+},
+"Valence|26": {
+"lat": 44.9234,
+"lon": 4.9164,
+"nom": "Valence",
+"dept": "26",
+"pop": 64458
+},
+"Sevran|93": {
+"lat": 48.9378,
+"lon": 2.5311,
+"nom": "Sevran",
+"dept": "93",
+"pop": 52535
+},
+"Meudon|92": {
+"lat": 48.8028,
+"lon": 2.2288,
+"nom": "Meudon",
+"dept": "92",
+"pop": 46334
+},
+"Vénissieux|69": {
+"lat": 45.7012,
+"lon": 4.8805,
+"nom": "Vénissieux",
+"dept": "69",
+"pop": 65502
+},
+"Fontenay-sous-Bois|94": {
+"lat": 48.8503,
+"lon": 2.4736,
+"nom": "Fontenay-sous-Bois",
+"dept": "94",
+"pop": 53757
+},
+"Savigny-sur-Orge|91": {
+"lat": 48.6851,
+"lon": 2.3493,
+"nom": "Savigny-sur-Orge",
+"dept": "91",
+"pop": 37601
+},
+"Tournefeuille|31": {
+"lat": 43.5747,
+"lon": 1.3338,
+"nom": "Tournefeuille",
+"dept": "31",
+"pop": 30168
+},
+"Vitry-sur-Seine|94": {
+"lat": 48.7893,
+"lon": 2.3951,
+"nom": "Vitry-sur-Seine",
+"dept": "94",
+"pop": 93963
+},
+"Antony|92": {
+"lat": 48.7507,
+"lon": 2.2976,
+"nom": "Antony",
+"dept": "92",
+"pop": 64263
+},
+"Céret|66": {
+"lat": 42.473,
+"lon": 2.7565,
+"nom": "Céret",
+"dept": "66",
+"pop": 7521
+},
+"Fréjus|83": {
+"lat": 43.4553,
+"lon": 6.7848,
+"nom": "Fréjus",
+"dept": "83",
+"pop": 59719
+},
+"Montélimar|26": {
+"lat": 44.5545,
+"lon": 4.7454,
+"nom": "Montélimar",
+"dept": "26",
+"pop": 40595
+},
+"Angoulême|16": {
+"lat": 45.6458,
+"lon": 0.145,
+"nom": "Angoulême",
+"dept": "16",
+"pop": 41908
+},
+"Le Bourget|93": {
+"lat": 48.9378,
+"lon": 2.4287,
+"nom": "Le Bourget",
+"dept": "93",
+"pop": 15925
+},
+"Montreuil|93": {
+"lat": 48.8637,
+"lon": 2.4491,
+"nom": "Montreuil",
+"dept": "93",
+"pop": 111934
+},
+"Vannes|56": {
+"lat": 47.6577,
+"lon": -2.7485,
+"nom": "Vannes",
+"dept": "56",
+"pop": 55790
+},
+"La Roche-sur-Yon|85": {
+"lat": 46.6659,
+"lon": -1.4162,
+"nom": "La Roche-sur-Yon",
+"dept": "85",
+"pop": 54849
+},
+"Évreux|27": {
+"lat": 49.018,
+"lon": 1.1406,
+"nom": "Évreux",
+"dept": "27",
+"pop": 49360
+},
+"Dieppe|76": {
+"lat": 49.9199,
+"lon": 1.0838,
+"nom": "Dieppe",
+"dept": "76",
+"pop": 28496
+},
+"Calais|62": {
+"lat": 50.9523,
+"lon": 1.869,
+"nom": "Calais",
+"dept": "62",
+"pop": 67571
+},
+"Arras|62": {
+"lat": 50.2893,
+"lon": 2.7679,
+"nom": "Arras",
+"dept": "62",
+"pop": 42875
+},
+"Beauvais|60": {
+"lat": 49.4425,
+"lon": 2.0877,
+"nom": "Beauvais",
+"dept": "60",
+"pop": 55550
+},
+"Compiègne|60": {
+"lat": 49.4006,
+"lon": 2.8547,
+"nom": "Compiègne",
+"dept": "60",
+"pop": 40761
+},
+"Charleville-Mézières|08": {
+"lat": 49.7802,
+"lon": 4.7304,
+"nom": "Charleville-Mézières",
+"dept": "08",
+"pop": 45560
+},
+"Alès|30": {
+"lat": 44.125,
+"lon": 4.0905,
+"nom": "Alès",
+"dept": "30",
+"pop": 46125
+},
+"Guéret|23": {
+"lat": 46.1585,
+"lon": 1.8705,
+"nom": "Guéret",
+"dept": "23",
+"pop": 12955
+},
+"Saint-Lô|50": {
+"lat": 49.1123,
+"lon": -1.0812,
+"nom": "Saint-Lô",
+"dept": "50",
+"pop": 19471
+},
+"Laval|53": {
+"lat": 48.0578,
+"lon": -0.7692,
+"nom": "Laval",
+"dept": "53",
+"pop": 49400
+},
+"Blois|41": {
+"lat": 47.5813,
+"lon": 1.3049,
+"nom": "Blois",
+"dept": "41",
+"pop": 47219
+},
+"Châteauroux|36": {
+"lat": 46.8023,
+"lon": 1.6903,
+"nom": "Châteauroux",
+"dept": "36",
+"pop": 42963
+},
+"Douai|59": {
+"lat": 50.3785,
+"lon": 3.1004,
+"nom": "Douai",
+"dept": "59",
+"pop": 40250
+},
+"Boulogne-sur-Mer|62": {
+"lat": 50.7303,
+"lon": 1.6062,
+"nom": "Boulogne-sur-Mer",
+"dept": "62",
+"pop": 40539
+},
+"Cambrai|59": {
+"lat": 50.1722,
+"lon": 3.2413,
+"nom": "Cambrai",
+"dept": "59",
+"pop": 31134
+},
+"Maubeuge|59": {
+"lat": 50.2834,
+"lon": 3.9611,
+"nom": "Maubeuge",
+"dept": "59",
+"pop": 28767
+},
+"Cannes|06": {
+"lat": 43.5454,
+"lon": 7.0152,
+"nom": "Cannes",
+"dept": "06",
+"pop": 74350
+},
+"Brignoles|83": {
+"lat": 43.3878,
+"lon": 6.0759,
+"nom": "Brignoles",
+"dept": "83",
+"pop": 17850
+},
+"Mayotte|976": null,
+"Matoury|973": {
+"lat": 4.8281,
+"lon": -52.3498,
+"nom": "Matoury",
+"dept": "973",
+"pop": 36512
+},
+"Rémire-Montjoly|973": {
+"lat": 4.8897,
+"lon": -52.2809,
+"nom": "Remire-Montjoly",
+"dept": "973",
+"pop": 27723
+},
+"Sainte-Marie|974": {
+"lat": -20.9463,
+"lon": 55.5234,
+"nom": "Sainte-Marie",
+"dept": "974",
+"pop": 37093
+},
+"La Réunion|974": {
+"lat": 44.2843,
+"lon": 0.1163,
+"nom": "La Réunion",
+"dept": "47",
+"pop": 524
+},
+"Saint-Benoît|974": {
+"lat": -21.0887,
+"lon": 55.6313,
+"nom": "Saint-Benoît",
+"dept": "974",
+"pop": 38604
+},
+"Saint-André|974": {
+"lat": -20.9568,
+"lon": 55.6374,
+"nom": "Saint-André",
+"dept": "974",
+"pop": 58885
+},
+"Saint-Louis|974": {
+"lat": -21.2254,
+"lon": 55.4224,
+"nom": "Saint-Louis",
+"dept": "974",
+"pop": 54941
+},
+"Saint-Leu|974": {
+"lat": -21.1816,
+"lon": 55.3432,
+"nom": "Saint-Leu",
+"dept": "974",
+"pop": 36163
+},
+"Saint-Joseph|974": {
+"lat": -21.2921,
+"lon": 55.644,
+"nom": "Saint-Joseph",
+"dept": "974",
+"pop": 39207
+},
+"La Plaine-des-Palmistes|974": {
+"lat": -21.153,
+"lon": 55.6442,
+"nom": "La Plaine-des-Palmistes",
+"dept": "974",
+"pop": 6936
+},
+"Saint-Claude|971": {
+"lat": 16.0406,
+"lon": -61.6953,
+"nom": "Saint-Claude",
+"dept": "971",
+"pop": 10177
+},
+"Petit-Bourg|971": {
+"lat": 16.1695,
+"lon": -61.658,
+"nom": "Petit-Bourg",
+"dept": "971",
+"pop": 24665
+},
+"Sainte-Anne|971": {
+"lat": 16.2565,
+"lon": -61.3896,
+"nom": "Sainte-Anne",
+"dept": "971",
+"pop": 23973
+},
+"Capesterre-Belle-Eau|971": {
+"lat": 16.0486,
+"lon": -61.6197,
+"nom": "Capesterre-Belle-Eau",
+"dept": "971",
+"pop": 17684
+},
+"Port-Louis|971": {
+"lat": 16.4201,
+"lon": -61.488,
+"nom": "Port-Louis",
+"dept": "971",
+"pop": 5607
+},
+"Le Moule|971": {
+"lat": 16.3354,
+"lon": -61.36,
+"nom": "Le Moule",
+"dept": "971",
+"pop": 23014
+},
+"Grand-Bourg|971": {
+"lat": 15.9085,
+"lon": -61.2929,
+"nom": "Grand-Bourg",
+"dept": "971",
+"pop": 4617
+},
+"Pointe-Noire|971": {
+"lat": 16.227,
+"lon": -61.7651,
+"nom": "Pointe-Noire",
+"dept": "971",
+"pop": 5762
+},
+"Morne-à-l'Eau|971": {
+"lat": 16.3212,
+"lon": -61.4988,
+"nom": "Morne-à-l'Eau",
+"dept": "971",
+"pop": 16228
+},
+"Guadeloupe|971": null,
+"Sainte-Rose|971": {
+"lat": 16.2937,
+"lon": -61.6836,
+"nom": "Sainte-Rose",
+"dept": "971",
+"pop": 17700
+},
+"Le Gosier|971": {
+"lat": 16.2274,
+"lon": -61.4749,
+"nom": "Le Gosier",
+"dept": "971",
+"pop": 27757
+},
+"La Trinité|972": {
+"lat": 14.7518,
+"lon": -60.9469,
+"nom": "La Trinité",
+"dept": "972",
+"pop": 11454
+},
+"Le Lorrain|972": {
+"lat": 14.7995,
+"lon": -61.074,
+"nom": "Le Lorrain",
+"dept": "972",
+"pop": 6566
+},
+"Le François|972": {
+"lat": 14.6093,
+"lon": -60.8976,
+"nom": "Le François",
+"dept": "972",
+"pop": 15778
+},
+"Martinique|972": null,
+"Ducos|972": {
+"lat": 14.5785,
+"lon": -60.9685,
+"nom": "Ducos",
+"dept": "972",
+"pop": 18105
+},
+"Schœlcher|972": {
+"lat": 14.6518,
+"lon": -61.1001,
+"nom": "Schœlcher",
+"dept": "972",
+"pop": 19478
+},
+"Moorea-Maiao|987": {
+"lat": -17.506,
+"lon": -149.9179,
+"nom": "Moorea-Maiao",
+"dept": "987",
+"pop": 18201
+},
+"Rezé|44": {
+"lat": 47.1733,
+"lon": -1.5573,
+"nom": "Rezé",
+"dept": "44",
+"pop": 43556
+},
+"Pornic|44": {
+"lat": 47.1302,
+"lon": -2.0569,
+"nom": "Pornic",
+"dept": "44",
+"pop": 18745
+},
+"Les Herbiers|85": {
+"lat": 46.8644,
+"lon": -1.0286,
+"nom": "Les Herbiers",
+"dept": "85",
+"pop": 16521
+},
+"Saint-Jean-de-Luz|64": {
+"lat": 43.3934,
+"lon": -1.6337,
+"nom": "Saint-Jean-de-Luz",
+"dept": "64",
+"pop": 14857
+},
+"Bourg-en-Bresse|01": {
+"lat": 46.2027,
+"lon": 5.2469,
+"nom": "Bourg-en-Bresse",
+"dept": "01",
+"pop": 42372
+},
+"Saint-Brieuc|22": {
+"lat": 48.5108,
+"lon": -2.7657,
+"nom": "Saint-Brieuc",
+"dept": "22",
+"pop": 44364
+},
+"Dax|40": {
+"lat": 43.7025,
+"lon": -1.0637,
+"nom": "Dax",
+"dept": "40",
+"pop": 22109
+},
+"Pertuis|84": {
+"lat": 43.6931,
+"lon": 5.5345,
+"nom": "Pertuis",
+"dept": "84",
+"pop": 19548
+},
+"Romans-sur-Isère|26": {
+"lat": 45.0611,
+"lon": 5.0477,
+"nom": "Romans-sur-Isère",
+"dept": "26",
+"pop": 33464
+},
+"Crest|26": {
+"lat": 44.7311,
+"lon": 5.0211,
+"nom": "Crest",
+"dept": "26",
+"pop": 8658
+},
+"Privas|07": {
+"lat": 44.7214,
+"lon": 4.5949,
+"nom": "Privas",
+"dept": "07",
+"pop": 8538
+},
+"Aubenas|07": {
+"lat": 44.6107,
+"lon": 4.3942,
+"nom": "Aubenas",
+"dept": "07",
+"pop": 12416
+},
+"Tournon-sur-Rhône|07": {
+"lat": 45.0534,
+"lon": 4.8156,
+"nom": "Tournon-sur-Rhône",
+"dept": "07",
+"pop": 11279
+},
+"Annonay|07": {
+"lat": 45.2449,
+"lon": 4.6419,
+"nom": "Annonay",
+"dept": "07",
+"pop": 17274
+},
+"Savenay|44": {
+"lat": 47.3542,
+"lon": -1.9203,
+"nom": "Savenay",
+"dept": "44",
+"pop": 9543
+},
+"Bolbec|76": {
+"lat": 49.5755,
+"lon": 0.483,
+"nom": "Bolbec",
+"dept": "76",
+"pop": 11590
+},
+"Fécamp|76": {
+"lat": 49.7479,
+"lon": 0.4012,
+"nom": "Fécamp",
+"dept": "76",
+"pop": 17313
+},
+"Molsheim|67": {
+"lat": 48.5456,
+"lon": 7.4988,
+"nom": "Molsheim",
+"dept": "67",
+"pop": 9318
+},
+"Vesoul|70": {
+"lat": 47.6323,
+"lon": 6.1523,
+"nom": "Vesoul",
+"dept": "70",
+"pop": 15078
+},
+"Noisy-le-Grand|93": {
+"lat": 48.8327,
+"lon": 2.556,
+"nom": "Noisy-le-Grand",
+"dept": "93",
+"pop": 72978
+},
+"Pantin|93": {
+"lat": 48.9006,
+"lon": 2.4085,
+"nom": "Pantin",
+"dept": "93",
+"pop": 61929
+},
+"Bruz|35": {
+"lat": 48.024,
+"lon": -1.7469,
+"nom": "Bruz",
+"dept": "35",
+"pop": 19683
+},
+"Hérouville-Saint-Clair|14": {
+"lat": 49.2042,
+"lon": -0.3324,
+"nom": "Hérouville-Saint-Clair",
+"dept": "14",
+"pop": 23470
+},
+"Anglet|64": {
+"lat": 43.4893,
+"lon": -1.5193,
+"nom": "Anglet",
+"dept": "64",
+"pop": 43271
+},
+"Sète|34": {
+"lat": 43.3844,
+"lon": 3.6441,
+"nom": "Sète",
+"dept": "34",
+"pop": 45337
+},
+"Villefontaine|38": {
+"lat": 45.6161,
+"lon": 5.1549,
+"nom": "Villefontaine",
+"dept": "38",
+"pop": 19445
+},
+"Montbrison|42": {
+"lat": 45.6016,
+"lon": 4.0719,
+"nom": "Montbrison",
+"dept": "42",
+"pop": 16123
+},
+"Roanne|42": {
+"lat": 46.0443,
+"lon": 4.0797,
+"nom": "Roanne",
+"dept": "42",
+"pop": 35409
+},
+"Mérignac|33": {
+"lat": 44.8313,
+"lon": -0.682,
+"nom": "Mérignac",
+"dept": "33",
+"pop": 78090
+},
+"Saint-Girons|09": {
+"lat": 42.9681,
+"lon": 1.1591,
+"nom": "Saint-Girons",
+"dept": "09",
+"pop": 6008
+},
+"Chef-Boutonne|79": {
+"lat": 46.1182,
+"lon": -0.0966,
+"nom": "Chef-Boutonne",
+"dept": "79",
+"pop": 2371
+},
+"Carhaix-Plouguer|29": {
+"lat": 48.2708,
+"lon": -3.5654,
+"nom": "Carhaix-Plouguer",
+"dept": "29",
+"pop": 7412
+},
+"Vienne|38": {
+"lat": 45.5221,
+"lon": 4.8803,
+"nom": "Vienne",
+"dept": "38",
+"pop": 31778
+},
+"Die|26": {
+"lat": 44.7515,
+"lon": 5.3878,
+"nom": "Die",
+"dept": "26",
+"pop": 4844
+},
+"Vandœuvre-lès-Nancy|54": {
+"lat": 48.66,
+"lon": 6.1603,
+"nom": "Vandœuvre-lès-Nancy",
+"dept": "54",
+"pop": 29942
+},
+"Vaulx-en-Velin|69": {
+"lat": 45.7776,
+"lon": 4.925,
+"nom": "Vaulx-en-Velin",
+"dept": "69",
+"pop": 53069
+},
+"Antibes|06": {
+"lat": 43.5823,
+"lon": 7.1048,
+"nom": "Antibes",
+"dept": "06",
+"pop": 77637
+},
+"Aulnay-sous-Bois|93": {
+"lat": 48.9457,
+"lon": 2.4918,
+"nom": "Aulnay-sous-Bois",
+"dept": "93",
+"pop": 87599
+},
+"Bandraboua|976": {
+"lat": -12.7176,
+"lon": 45.1238,
+"nom": "Bandraboua",
+"dept": "976",
+"pop": 13989
+},
+"Cugnaux|31": {
+"lat": 43.5446,
+"lon": 1.3432,
+"nom": "Cugnaux",
+"dept": "31",
+"pop": 20662
+},
+"Palaiseau|91": {
+"lat": 48.7155,
+"lon": 2.2293,
+"nom": "Palaiseau",
+"dept": "91",
+"pop": 37471
+},
+"Saint-Jean-de-Braye|45": {
+"lat": 47.9216,
+"lon": 1.9695,
+"nom": "Saint-Jean-de-Braye",
+"dept": "45",
+"pop": 23147
+},
+"Bar-le-Duc|55": {
+"lat": 48.7628,
+"lon": 5.1732,
+"nom": "Bar-le-Duc",
+"dept": "55",
+"pop": 14607
+},
+"Chalon-sur-Saône|71": {
+"lat": 46.7896,
+"lon": 4.8509,
+"nom": "Chalon-sur-Saône",
+"dept": "71",
+"pop": 45102
+},
+"Châteaubriant|44": {
+"lat": 47.7199,
+"lon": -1.3912,
+"nom": "Châteaubriant",
+"dept": "44",
+"pop": 12260
+},
+"Guingamp|22": {
+"lat": 48.5608,
+"lon": -3.1533,
+"nom": "Guingamp",
+"dept": "22",
+"pop": 7111
+},
+"Lannion|22": {
+"lat": 48.7454,
+"lon": -3.4697,
+"nom": "Lannion",
+"dept": "22",
+"pop": 20315
+},
+"Morlaix|29": {
+"lat": 48.5971,
+"lon": -3.8215,
+"nom": "Morlaix",
+"dept": "29",
+"pop": 15194
+},
+"Narbonne|11": {
+"lat": 43.1493,
+"lon": 3.0337,
+"nom": "Narbonne",
+"dept": "11",
+"pop": 57587
+},
+"Quimperlé|29": {
+"lat": 47.8558,
+"lon": -3.5586,
+"nom": "Quimperlé",
+"dept": "29",
+"pop": 12469
+},
+"Torigny-les-Villes|50": {
+"lat": 48.9961,
+"lon": -0.974,
+"nom": "Torigny-les-Villes",
+"dept": "50",
+"pop": 4444
+},
+"Vitré|35": {
+"lat": 48.1105,
+"lon": -1.1972,
+"nom": "Vitré",
+"dept": "35",
+"pop": 19365
+},
+"Gien|45": {
+"lat": 47.7175,
+"lon": 2.6687,
+"nom": "Gien",
+"dept": "45",
+"pop": 13459
+},
+"Val-d'Oise|95": null,
+"Arpajon|91": {
+"lat": 48.5894,
+"lon": 2.2462,
+"nom": "Arpajon",
+"dept": "91",
+"pop": 11698
+},
+"Gennevilliers|92": {
+"lat": 48.9319,
+"lon": 2.288,
+"nom": "Gennevilliers",
+"dept": "92",
+"pop": 50979
+},
+"Le Plessis-Robinson|92": {
+"lat": 48.7815,
+"lon": 2.2592,
+"nom": "Le Plessis-Robinson",
+"dept": "92",
+"pop": 28848
+},
+"Versailles|78": {
+"lat": 48.8039,
+"lon": 2.1191,
+"nom": "Versailles",
+"dept": "78",
+"pop": 84095
+},
+"Aurillac|15": {
+"lat": 44.9281,
+"lon": 2.4416,
+"nom": "Aurillac",
+"dept": "15",
+"pop": 26214
+}
+}

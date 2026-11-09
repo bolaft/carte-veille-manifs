@@ -1,0 +1,1091 @@
+[
+  {
+    "date": "2026-10-02",
+    "metric": "autre",
+    "value": 1000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "le 2 octobre 2026, plus de 1 000 lycées sont concernés selon le ministère de l'Intérieur",
+    "sources": [
+      {
+        "outlet": "Le Nouvel Obs",
+        "title": "D'une grève à Créteil à plus de 1 000 établissements mobilisés en France, récit d'un embrasement de la colère lycéenne",
+        "url": "https://www.nouvelobs.com/social/20261002.OBS118827/d-une-greve-a-creteil-a-plus-de-1-000-etablissements-mobilises-en-france-recit-d-un-embrasement-de-la-colere-lyceenne.html",
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "metric": "interpellations",
+    "value": 5000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Laurent Nuñez, ministre de l'Intérieur (TF1)",
+    "quote": "« Plus de 5 000 interpellations depuis lundi » (mobilisation lycéenne)",
+    "sources": [
+      {
+        "outlet": "TF1 Info",
+        "title": "Blocus des lycées : “Plus de 5.000 interpellations depuis lundi”, annonce sur TF1 Laurent Nuñez, soulignant une mobilisation “surpr",
+        "url": "https://www.tf1info.fr/societe/blocus-des-lycees-plus-de-5-000-interpellations-depuis-lundi-annonce-sur-tf1-laurent-nunez-qui-reconnait-que-la-mobilisation-lyceenne-est-surprenante-par-son-ampleur-2467768.html",
+        "date": "2026-10-02"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "metric": "gardes_a_vue",
+    "value": 8000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Ministère de la Justice",
+    "quote": "près de 8 000 gardes à vue depuis le début du mouvement, en grande majorité de mineurs",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursu",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "metric": "poursuites",
+    "value": 2735,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Ministère de la Justice",
+    "quote": "sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursu",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "autre",
+    "value": 550000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "550 000 manifestants selon le ministère de l'Intérieur, répartis dans 110 manifestations",
+    "sources": [
+      {
+        "outlet": "Ouest-France",
+        "title": "CARTE. Manifestations du 17 octobre : voici les villes où ont eu lieu les rassemblements ce samedi en France",
+        "url": "https://www.ouest-france.fr/societe/manifestation/carte-manifestations-du-17-octobre-ou-ont-eu-lieu-les-rassemblements-ce-samedi-en-france-117f6c8a-ca0b-11f1-b8bc-a46147b584ed",
+        "date": "2026-10-17"
+      },
+      {
+        "outlet": "Paris Match",
+        "title": "Manifestations du 17 octobre : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+        "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+        "date": "2026-10-17"
+      },
+      {
+        "outlet": "L'Internaute",
+        "title": "Manifestations du 17 octobre : entre 550 000 et 800 000 personnes rassemblées en France, les violences se poursuivent à Paris",
+        "url": "https://www.linternaute.com/actualite/societe/11308777-manifestations-du-17octobre-paris-marseille-lille-des-tensions-toujours-en-cours-dans-plusieurs-villes/",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "autre",
+    "value": 800000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Organisateurs",
+    "quote": "800 000 manifestants selon les organisateurs",
+    "sources": [
+      {
+        "outlet": "Paris Match",
+        "title": "Manifestations du 17 octobre : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+        "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+        "date": "2026-10-17"
+      },
+      {
+        "outlet": "L'Internaute",
+        "title": "Manifestations du 17 octobre : entre 550 000 et 800 000 personnes rassemblées en France, les violences se poursuivent à Paris",
+        "url": "https://www.linternaute.com/actualite/societe/11308777-manifestations-du-17octobre-paris-marseille-lille-des-tensions-toujours-en-cours-dans-plusieurs-villes/",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "autre",
+    "value": 110,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "110 manifestations organisées dans le pays le 17 octobre",
+    "sources": [
+      {
+        "outlet": "Ouest-France",
+        "title": "CARTE. Manifestations du 17 octobre : voici les villes où ont eu lieu les rassemblements ce samedi en France",
+        "url": "https://www.ouest-france.fr/societe/manifestation/carte-manifestations-du-17-octobre-ou-ont-eu-lieu-les-rassemblements-ce-samedi-en-france-117f6c8a-ca0b-11f1-b8bc-a46147b584ed",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "autre",
+    "value": 110000,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Préfecture de police / ministère de l'Intérieur",
+    "quote": "110 000 manifestants à Paris dans le cortège principal",
+    "sources": [
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 17 octobre : 110.000 manifestants à Paris, des \"cortèges sauvages\" et 195 interpellations",
+        "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-17-octobre-des-tensions-avant-le-depart-de-la-manifestation-place-de-la-republique-a-paris-8202537",
+        "date": "2026-10-17"
+      },
+      {
+        "outlet": "Paris Match",
+        "title": "Manifestations du 17 octobre : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+        "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+        "date": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "autre",
+    "value": 60000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "environ 60 000 policiers et gendarmes mobilisés le 17 octobre",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Le dispositif de maintien de l'ordre déployé le 17 octobre était-il moins important que lors des dernières grandes manifestations ?",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-dispositif-de-maintien-de-l-ordre-deploye-le-17-octobre-etait-il-moins-important-que-lors-des-dernieres-grandes-manifestations_8243998.html",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "metric": "deces",
+    "value": 1,
+    "scope": "jour",
+    "city": "",
+    "authority": "Préfecture de police de Paris",
+    "quote": "un manifestant de 59 ans meurt à Paris après un malaise boulevard de Magenta ; la préfecture de police évoque un arrêt cardiorespiratoire",
+    "sources": [
+      {
+        "outlet": "Le Nouvel Obs",
+        "title": "Mort d’un manifestant le 17 octobre : arrêt cardiorespiratoire, plainte à l’IGPN... Ce que l’on sait",
+        "url": "https://www.nouvelobs.com/faits-divers/20261022.OBS119440/mort-d-un-manifestant-le-17-octobre-arret-cardiorespiratoire-plainte-a-l-igpn-ce-que-l-on-sait.html",
+        "date": "2026-10-22"
+      },
+      {
+        "outlet": "TF1 Info",
+        "title": "Mobilisation du 17 octobre à Paris : un manifestant est décédé après un malaise sur le boulevard Magenta",
+        "url": "https://www.tf1info.fr/justice-faits-divers/mobilisation-du-17-octobre-a-paris-un-manifestant-decede-apres-un-malaise-sur-le-boulevard-magenta-2470584.html",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "autre",
+    "value": 30000,
+    "scope": "ville",
+    "city": "Marseille",
+    "authority": "Préfecture de police des Bouches-du-Rhône",
+    "quote": "les forces de l'ordre ont fait face à 30 000 pilleurs à Marseille, dont 8 000 émeutiers (chiffre jugé « ridicule » par le maire, des sources policières évoquant 1 500 personnes)",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Violences du 17 octobre : plus de 30.000 pilleurs à Marseille, selon la préfecture de police",
+        "url": "https://www.lefigaro.fr/marseille/violences-du-17-octobre-plus-de-30-000-pilleurs-a-marseille-selon-la-prefecture-de-police-20261018",
+        "date": "2026-10-18"
+      },
+      {
+        "outlet": "Ici Provence",
+        "title": "Violences du 17 octobre : le maire de Marseille attend des explications de la part de Laurent Nuñez",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/violences-du-17-octobre-le-maire-de-marseille-attend-des-explications-de-la-part-de-laurent-nunez-9637984",
+        "date": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "blesses_forces_ordre",
+    "value": 150,
+    "scope": "jour",
+    "city": "",
+    "authority": "Autorités (bilan provisoire)",
+    "quote": "bilan provisoire du 18 octobre : 150 policiers et gendarmes blessés, dont 13 à Paris",
+    "sources": [
+      {
+        "outlet": "Le Journal du dimanche",
+        "title": "Émeutes du 17 octobre : Laurent Nuñez assure que « le dispositif n'était pas sous-dimensionné »",
+        "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-laurent-nunez-assure-que-le-dispositif-netait-pas-sous-dimensionne-186342",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "blesses_forces_ordre",
+    "value": 997,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "997 policiers et gendarmes blessés le 17 octobre, dont sept grièvement",
+    "sources": [
+      {
+        "outlet": "BFM TV",
+        "title": "Violences du 17 octobre : le ministère de l'Intérieur recense 2.397 interpellations, 997 policiers et gendarmes blessés dont 7 graves",
+        "url": "https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "enquetes_igpn_iggn",
+    "value": 3,
+    "scope": "jour",
+    "city": "",
+    "authority": "Parquets / IGPN",
+    "quote": "au soir du 18 octobre, trois enquêtes ont été confiées à l'IGPN pour la seule journée du 17 octobre",
+    "sources": [
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 17 octobre : une adolescente de 17 ans a perdu un œil à Mulhouse, l'IGPN saisie",
+        "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-du-17-octobre-une-adolescente-de-17-ans-a-perdu-un-oeil-a-mulhouse-l-igpn-saisie-7796387",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "interpellations",
+    "value": 1200,
+    "scope": "jour",
+    "city": "",
+    "authority": "Autorités (bilan provisoire)",
+    "quote": "bilan provisoire du 18 octobre : 1 200 personnes interpellées dans l'ensemble du pays, dont 855 dans l'agglomération parisienne",
+    "sources": [
+      {
+        "outlet": "Le Journal du dimanche",
+        "title": "Émeutes du 17 octobre : Laurent Nuñez assure que « le dispositif n'était pas sous-dimensionné »",
+        "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-laurent-nunez-assure-que-le-dispositif-netait-pas-sous-dimensionne-186342",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "interpellations",
+    "value": 855,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Autorités (bilan provisoire)",
+    "quote": "855 interpellations dans l'agglomération parisienne pour la journée du 17 octobre (bilan provisoire du 18 octobre)",
+    "sources": [
+      {
+        "outlet": "Le Journal du dimanche",
+        "title": "Émeutes du 17 octobre : Laurent Nuñez assure que « le dispositif n'était pas sous-dimensionné »",
+        "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-laurent-nunez-assure-que-le-dispositif-netait-pas-sous-dimensionne-186342",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "interpellations",
+    "value": 2397,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "le ministère de l'Intérieur recense 2 397 interpellations pour la journée du 17 octobre",
+    "sources": [
+      {
+        "outlet": "BFM TV",
+        "title": "Violences du 17 octobre : le ministère de l'Intérieur recense 2.397 interpellations, 997 policiers et gendarmes blessés dont 7 graves",
+        "url": "https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html",
+        "date": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "metric": "interpellations",
+    "value": 108,
+    "scope": "jour",
+    "city": "Paris",
+    "authority": "Préfecture de police de Paris",
+    "quote": "108 interpellations à Paris le dimanche 18 octobre, des « groupes hostiles » à Châtelet-les-Halles (au moins 117 selon BFMTV)",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Violences du 17 octobre : 108 interpellations à Paris dimanche, des “groupes hostiles” à Châtelet-les-Halles",
+        "url": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
+        "date": "2026-10-18"
+      },
+      {
+        "outlet": "BFM TV",
+        "title": "DIRECT. Violences du 17 octobre: couvre-feu à Paris sur la place de la République et les rues autour des Halles de 23h à 6h (info BFMTV)",
+        "url": "https://www.bfmtv.com/societe/manifestations/direct-violences-du-17-octobre-au-moins-117-interpellations-a-paris-ce-dimanche-apres-de-nouveaux-incidents-laurent-nunez-attendu-a-marseille-au-lendemain-de-l-allocution-d-emmanuel-macron_LN-202610190067.html",
+        "date": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "metric": "autre",
+    "value": 3000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Serge Papin, ministre",
+    "quote": "le 19 octobre, le ministre Serge Papin avance le chiffre de 3 000 commerces concernés par les pillages et dégradations du 17 octobre",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Violences du 17 octobre : l'État prendra en charge le chômage partiel à 100% dès mardi pour les commerces pillés, annonce Lecornu",
+        "url": "https://www.lefigaro.fr/societes/violences-du-17-octobre-l-etat-prendra-en-charge-le-chomage-partiel-a-100-des-mardi-pour-les-commerces-pilles-20261019",
+        "date": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "metric": "comparutions_immediates",
+    "value": 6,
+    "scope": "ville",
+    "city": "Metz",
+    "authority": "Parquet de Metz",
+    "quote": "six hommes âgés de 19 à 52 ans jugés en comparution immédiate le 19 octobre pour les dégradations du 17 octobre à Metz",
+    "sources": [
+      {
+        "outlet": "Moselle TV",
+        "title": "Dégradations du 17 octobre à Metz : 6 hommes en comparution immédiate",
+        "url": "https://moselle.tv/degradations-du-17-octobre-a-metz-6-hommes-en-comparution-immediate/",
+        "date": "2026-10-19"
+      },
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Violences du 17 octobre : les premiers interpellés jugés en comparution immédiate au tribunal de Metz",
+        "url": "https://www.ici.fr/grand-est/moselle-57/metz/mobilisation-du-17-novembre-les-premiers-interpelles-juges-en-comparution-immediate-au-tribunal-de-metz-8443919",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "metric": "comparutions_immediates",
+    "value": 15,
+    "scope": "ville",
+    "city": "Toulouse",
+    "authority": "Parquet de Toulouse (via Actu.fr)",
+    "quote": "au moins 15 personnes interpellées le 17 octobre jugées dès le lundi 19 octobre au tribunal de Toulouse",
+    "sources": [
+      {
+        "outlet": "Actu.fr",
+        "title": "Violences du 17 octobre : plusieurs personnes interpellées seront jugées dès ce lundi au tribunal de Toulouse",
+        "url": "https://actu.fr/occitanie/toulouse_31555/violences-du-17-octobre-au-moins-15-personnes-interpellees-seront-jugees-des-ce-lundi-au-tribunal-de-toulouse_64942336.html",
+        "date": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "metric": "comparutions_immediates",
+    "value": 10,
+    "scope": "ville",
+    "city": "Grenoble",
+    "authority": "Parquet de Grenoble",
+    "quote": "dix hommes jugés en comparution immédiate à Grenoble pour émeutes, dégradations et pillages du 17 octobre",
+    "sources": [
+      {
+        "outlet": "France 3 Auvergne-Rhône-Alpes",
+        "title": "Émeutes, dégradations et pillages du 17 octobre : 10 hommes jugés en comparution immédiate à Grenoble",
+        "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/emeutes-degradations-et-pillages-du-17-octobre-10-hommes-juges-en-comparution-immediate-a-grenoble-3436305.html",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "metric": "autre",
+    "value": 30,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Reporters sans frontières",
+    "quote": "une trentaine de journalistes agressés ou empêchés de travailler depuis le début des mobilisations sociales, dont plus de la moitié le 17 octobre",
+    "sources": [
+      {
+        "outlet": "Reporters sans frontières",
+        "title": "Les journalistes pris pour cible lors des mobilisations sociales en France",
+        "url": "https://rsf.org/fr/les-journalistes-pris-pour-cible-lors-des-mobilisations-sociales-en-france",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "metric": "condamnations",
+    "value": 5,
+    "scope": "ville",
+    "city": "Rouen",
+    "authority": "Tribunal judiciaire de Rouen",
+    "quote": "violences du 17 octobre en Normandie : cinq personnes condamnées, trois hommes partent en prison après des vols",
+    "sources": [
+      {
+        "outlet": "Ouest-France",
+        "title": "Violences du 17 octobre en Normandie : cinq personnes condamnées, trois hommes partent en prison après des vols",
+        "url": "https://www.ouest-france.fr/societe/manifestation/apres-les-violences-du-17-octobre-a-rouen-les-sanctions-tombent-deux-personnes-condamnees-a-douze-mois-de-detention-e3f1f940-cc5d-11f1-bb5f-3dc5c0feacca",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "metric": "gardes_a_vue",
+    "value": 2513,
+    "scope": "jour",
+    "city": "",
+    "authority": "Autorités",
+    "quote": "2 513 personnes placées en garde à vue pour la seule journée du 17 octobre",
+    "sources": [
+      {
+        "outlet": "France 24",
+        "title": "\"Je ne savais pas que c'était du vol\" : à Paris, les premiers procès des violences du 17 octobre",
+        "url": "https://www.france24.com/fr/france/20261021-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-paris-premiers-jugements-apr%C3%A8s-17-octobre",
+        "date": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 410000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "410 000 personnes mobilisées le 24 octobre selon le ministère de l'Intérieur (289 manifestations)",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l’intérieur, plus de 800 000",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+        "date": "2026-10-24"
+      },
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 24 octobre : 410.000 manifestants en France selon le gouvernement, 800.000 d'après la CGT",
+        "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 800000,
+    "scope": "jour",
+    "city": "",
+    "authority": "CGT",
+    "quote": "plus de 800 000 manifestants selon la CGT",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l’intérieur, plus de 800 000",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+        "date": "2026-10-24"
+      },
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 24 octobre : 410.000 manifestants en France selon le gouvernement, 800.000 d'après la CGT",
+        "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 289,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "le ministère de l'Intérieur recense 289 manifestations le 24 octobre (135 à la mi-journée)",
+    "sources": [],
+    "needs_source": true
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 110000,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Préfecture de police de Paris",
+    "quote": "110 000 manifestants à Paris selon la préfecture de police, 250 000 selon la CGT",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l’intérieur, plus de 800 000",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 70000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "70 000 policiers et gendarmes mobilisés pour le 24 octobre",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifest",
+        "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+        "date": "2026-10-23"
+      },
+      {
+        "outlet": "Public Sénat",
+        "title": "Mobilisation du 24 octobre : Laurent Nuñez annonce le déploiement de « 70 000 policiers et gendarmes », dont plusieurs unités d’élite",
+        "url": "https://www.publicsenat.fr/actualites/territoires/mobilisation-du-24-octobre-laurent-nunez-annonce-le-deploiement-de-70-000-policiers-et-gendarmes-dont-plusieurs-unites-delite",
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "autre",
+    "value": 3000,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Préfecture de police de Paris",
+    "quote": "plus de 3 000 contrôles effectués dans la capitale le 24 octobre",
+    "sources": [
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l’intérieur, plus de 800 000",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "couvre_feux_villes",
+    "value": 100,
+    "scope": "jour",
+    "city": "",
+    "authority": "Le Monde (décompte des arrêtés préfectoraux)",
+    "quote": "plus d'une centaine de villes concernées par des interdictions de rassemblement, des restrictions de circulation ou des couvre-feux pour le 24 octobre",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "CARTE. Couvre-feux et manifestations du 24 octobre : suivez les restrictions et interdictions en temps réel",
+        "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/23/la-carte-des-couvre-feux-et-des-interdictions-de-manifester-le-24-octobre-en-france-en-temps-reel_6798285_4355771.html",
+        "date": "2026-10-23"
+      },
+      {
+        "outlet": "Le Monde",
+        "title": "Manifestations du 24 octobre : les interdictions de défiler et les couvre-feux se multiplient partout en France, au risque de malmener l’Eta",
+        "url": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-pleuvent-sur-toute-la-france-au-risque-de-malmener-l-etat-de-droit_6798944_823448.html",
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "metric": "interpellations",
+    "value": 63,
+    "scope": "ville",
+    "city": "Nice",
+    "authority": "Préfecture des Alpes-Maritimes",
+    "quote": "63 interpellations à Nice le 24 octobre, dont onze militants d'ultradroite ; 59 gardes à vue au total selon le procureur",
+    "sources": [
+      {
+        "outlet": "ICI Azur (Radio France)",
+        "title": "VIDÉOS - Mobilisation du 24 octobre : canon à eau contre les manifestants à Nice et tensions avec l'ultradroite",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/mobilisation-du-24-octobre-a-nice-700-forces-de-l-ordre-sur-le-qui-vive-des-interpellations-en-matinee-1900328",
+        "date": "2026-10-24"
+      },
+      {
+        "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+        "title": "Qui sont les dix hommes de la \"mouvance d'ultradroite\" présentés en comparution immédiate à Nice, après les violences du 24 octobre ?",
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/qui-sont-les-dix-hommes-de-la-mouvance-d-ultradroite-presentes-en-comparution-immediate-a-nice-apres-les-violences-du-24-octobre-3439812.html",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "autre",
+    "value": 450,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Mairie de Paris",
+    "quote": "le 17 octobre, 450 commerces ont été dégradés dans la capitale, dont 228 pillés, selon la mairie de Paris",
+    "sources": [
+      {
+        "outlet": "ICI Paris Île-de-France (Radio France)",
+        "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
+        "url": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "autre",
+    "value": 24,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "le ministère recense 24 commerces pillés le 24 octobre",
+    "sources": [
+      {
+        "outlet": "Ministère de l'Intérieur",
+        "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "blesses_forces_ordre",
+    "value": 1144,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "1 144 membres des forces de l'ordre blessés le 17 octobre selon le bilan révisé du ministère",
+    "sources": [
+      {
+        "outlet": "Ministère de l'Intérieur",
+        "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "blesses_forces_ordre",
+    "value": 53,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "premier bilan au lendemain du 24 octobre : 53 membres des forces de l'ordre blessés",
+    "sources": [
+      {
+        "outlet": "Euronews",
+        "title": "Manifestations en France : 1 314 interpellations, 53 membres des forces de l'ordre blessés samedi",
+        "url": "https://fr.euronews.com/2026/10/25/manifestations-en-france-1-314-interpellations-53-membres-des-forces-de-lordre-blesses-sam",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "France 24",
+        "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+        "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "gardes_a_vue",
+    "value": 126,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Préfecture de police de Paris",
+    "quote": "126 personnes placées en garde à vue à Paris après le 24 octobre",
+    "sources": [
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "ICI Paris Île-de-France (Radio France)",
+        "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
+        "url": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "interpellations",
+    "value": 2628,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "bilan publié une semaine plus tard : 2 628 interpellations pour la journée du 17 octobre",
+    "sources": [
+      {
+        "outlet": "Ministère de l'Intérieur",
+        "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "interpellations",
+    "value": 1314,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "1 314 personnes interpellées dans toute la France le 24 octobre, annonce le ministère de l'Intérieur",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "Manifestations du 24 octobre : 1 314 personnes interpellées dans toute la France, annonce le ministère de l’intérieur",
+        "url": "https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "Ministère de l'Intérieur",
+        "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "France 24",
+        "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+        "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "interpellations",
+    "value": 142,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Préfecture de police de Paris",
+    "quote": "142 interpellations à Paris le 24 octobre, dont 126 placements en garde à vue (65 dans un premier bilan)",
+    "sources": [
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+        "date": "2026-10-25"
+      },
+      {
+        "outlet": "ICI Paris Île-de-France (Radio France)",
+        "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
+        "url": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "metric": "interpellations",
+    "value": 1435,
+    "scope": "jour",
+    "city": "",
+    "authority": "Laurent Nuñez, ministre de l'Intérieur",
+    "quote": "le ministre fait ensuite état de 1 435 interpellations pour le 24 octobre, dont plus d'une centaine pour détention d'armes par destination (date exacte de l'annonce non précisée)",
+    "sources": [
+      {
+        "outlet": "Noovo Info",
+        "title": "Manifestations de samedi en France : 1435 arrestations selon les autorités",
+        "url": "https://www.noovo.info/nouvelles/international/article/manifestations-de-samedi-en-france-1435-arrestations-selon-les-autorites/",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "metric": "blesses_forces_ordre",
+    "value": 267,
+    "scope": "jour",
+    "city": "",
+    "authority": "Laurent Nuñez, ministre de l'Intérieur",
+    "quote": "267 membres des forces de l'ordre blessés le 24 octobre, annonce Laurent Nuñez le 26 octobre",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent",
+        "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "metric": "blesses_manifestants",
+    "value": 150,
+    "scope": "jour",
+    "city": "",
+    "authority": "Laurent Nuñez, ministre de l'Intérieur",
+    "quote": "150 manifestants blessés le 24 octobre, dont trois gravement (Toulouse, Clermont-Ferrand, Poitiers)",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent",
+        "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "metric": "comparutions_immediates",
+    "value": 13,
+    "scope": "ville",
+    "city": "Montpellier",
+    "authority": "Parquet de Montpellier",
+    "quote": "le 26 octobre, treize des personnes placées en garde à vue à Montpellier le 24 octobre ont déjà été présentées au tribunal",
+    "sources": [
+      {
+        "outlet": "France 3 Occitanie",
+        "title": "\"Il ne peut y avoir la moindre impunité\" : violences à Montpellier, le maire et la préfète saisissent la justice après des affrontements ent",
+        "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-24-octobre-il-ne-peut-y-avoir-la-moindre-impunite-violences-a-montpellier-le-maire-et-la-prefete-saisissent-la-justice-apres-des-affrontements-entre-groupes-militants-3439149.html",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "metric": "autre",
+    "value": 2488,
+    "scope": "cumul",
+    "city": "",
+    "authority": "CCI France",
+    "quote": "2 488 commerces et entreprises touchés le 17 octobre, dont 1 161 fortement dégradés (pillages, saccages, incendies) et 643 restés fermés plusieurs jours plus tard",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Plus d’un milliard d’euros de dégâts, 2500 magasins touchés… Le lourd bilan des violences du 17 octobre pour les commerçants",
+        "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-plus-de-2-500-commerces-degrades-en-france-20261027",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "metric": "autre",
+    "value": 1000000000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "CCI France (d'après les assureurs)",
+    "quote": "les premières évaluations des assureurs dépassent le milliard d'euros, davantage que les émeutes de 2023",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Plus d’un milliard d’euros de dégâts, 2500 magasins touchés… Le lourd bilan des violences du 17 octobre pour les commerçants",
+        "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-plus-de-2-500-commerces-degrades-en-france-20261027",
+        "date": "2026-10-27"
+      },
+      {
+        "outlet": "Le Temps",
+        "title": "Après les violences urbaines du 17 octobre, assureurs et Etat se disputent le partage des responsabilités",
+        "url": "https://www.letemps.ch/economie/apres-les-violences-urbaines-du-17-octobre-assureurs-et-etat-se-disputent-le-partage-des-responsabilites",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "metric": "autre",
+    "value": 910000000,
+    "scope": "cumul",
+    "city": "",
+    "authority": "Fondation IFRAP",
+    "quote": "près de 910 millions d'euros de dommages matériels et 190 millions de pertes d'exploitation ; commerces 666 millions, biens publics 200 millions",
+    "sources": [
+      {
+        "outlet": "Le Figaro",
+        "title": "Plus d’un milliard d’euros de dégâts, 2500 magasins touchés… Le lourd bilan des violences du 17 octobre pour les commerçants",
+        "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-plus-de-2-500-commerces-degrades-en-france-20261027",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "metric": "poursuites",
+    "value": 10,
+    "scope": "ville",
+    "city": "Nice",
+    "authority": "Parquet de Nice",
+    "quote": "dix majeurs de la mouvance d'ultradroite poursuivis pour association de malfaiteurs en vue de commettre des violences, procès renvoyé au 26 novembre 2026",
+    "sources": [
+      {
+        "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+        "title": "Qui sont les dix hommes de la \"mouvance d'ultradroite\" présentés en comparution immédiate à Nice, après les violences du 24 octobre ?",
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/qui-sont-les-dix-hommes-de-la-mouvance-d-ultradroite-presentes-en-comparution-immediate-a-nice-apres-les-violences-du-24-octobre-3439812.html",
+        "date": "2026-10-27"
+      },
+      {
+        "outlet": "Ici Azur",
+        "title": "Les 10 militants présumés d'ultradroite seront finalement jugés le 26 novembre",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/les-10-militants-presumes-d-ultradroite-seront-finalement-juges-le-26-novembre-2311368",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "metric": "enquetes_igpn_iggn",
+    "value": 83,
+    "scope": "cumul",
+    "city": "",
+    "authority": "IGPN / IGGN (via Franceinfo)",
+    "quote": "au 30 octobre 2026, 83 enquêtes ont été confiées à l'IGPN et à l'IGGN depuis le début du mouvement lycéen, dont celles de Mulhouse et de Saint-Étienne",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Depuis le début du mouvement lycéen, 83 enquêtes ont été confiées à l'IGPN et l'IGGN",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-83-enquetes-confiees-a-l-igpn-et-l-iggn-depuis-le-debut-de-la-mobilisation_8260124.html",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "metric": "autre",
+    "value": 320000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "320 000 manifestants le 31 octobre selon le ministère de l'Intérieur",
+    "sources": [
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+        "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "metric": "autre",
+    "value": 500000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Organisations de jeunesse / syndicats",
+    "quote": "près d'un demi-million de manifestants le 31 octobre selon les organisations de jeunesse",
+    "sources": [
+      {
+        "outlet": "Ici (Radio France)",
+        "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+        "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "metric": "autre",
+    "value": 70000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "dispositif maintenu à 70 000 policiers et gendarmes pour le 31 octobre",
+    "sources": [
+      {
+        "outlet": "Public Sénat",
+        "title": "Mobilisation du 31 octobre : à quoi faut-il s'attendre ?",
+        "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-31-octobre-a-quoi-faut-il-sattendre",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "metric": "interpellations",
+    "value": 565,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "bilan provisoire du ministère de l'Intérieur : 565 interpellations en France à 21 heures le 31 octobre",
+    "sources": [
+      {
+        "outlet": "Franceinfo",
+        "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+        "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "metric": "autre",
+    "value": 570000,
+    "scope": "jour",
+    "city": "",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "570 000 manifestants répartis dans 193 actions sur toute la France le 5 novembre, dont 65 000 à Paris, selon le ministère de l'Intérieur",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats",
+        "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "metric": "autre",
+    "value": 1600000,
+    "scope": "jour",
+    "city": "",
+    "authority": "CGT",
+    "quote": "1 600 000 manifestants sur toute la France le 5 novembre, dont 350 000 à Paris, selon la CGT",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats",
+        "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "metric": "autre",
+    "value": 65000,
+    "scope": "ville",
+    "city": "Paris",
+    "authority": "Ministère de l'Intérieur",
+    "quote": "65 000 manifestants à Paris le 5 novembre selon le ministère de l'Intérieur (350 000 selon la CGT)",
+    "sources": [
+      {
+        "outlet": "Le Monde",
+        "title": "EN DIRECT, grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats",
+        "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+        "date": "2026-11-05"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1051 @@
+[
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 22000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (audition sous serment devant la commission d'enquête de la commission des lois de l'Assemblée nationale, 3 novembre 2026)",
+  "quote": "« 22 000 grenades lacrymogènes ont été tirées dans toute la France, a précisé Laurent Nuñez devant la commission d'enquête sur le 17 octobre » (Politis). Seul chiffre national officiel connu sur les munitions ; pas de compte rendu écrit publié au 9 novembre.",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "« Les manifestants ne sont pas des ennemis » : des membres des forces de l'ordre contestent la stratégie répressive",
+    "url": "https://www.politis.fr/articles/2026/11/maintien-ordre-les-manifestants-ne-sont-pas-des-ennemis-des-membres-des-forces-de-lordre-contestent-la-strategie-repressive/",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "Le Média en 4-4-2",
+    "title": "Violences du 17 octobre : Nuñez assume le fiasco et refuse de changer de doctrine",
+    "url": "https://lemediaen442.fr/violences-du-17-octobre-nunez-assume-le-fiasco-et-refuse-de-changer-de-doctrine/",
+    "date": "2026-11-04"
+   },
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   },
+   {
+    "outlet": "Assemblée nationale (vidéo)",
+    "title": "Commission des lois : M. Laurent Nuñez, ministre de l'Intérieur, sur les évènements liés aux manifestations du 17 octobre 2026 – 3 novembre 2026",
+    "url": "https://videos.assemblee-nationale.fr/video.19674139_6ae9fbed96c07.commission-des-lois--m-laurent-nu%C3%B1ez-ministre-de-l-interieur-sur-les-evenements-lies-aux-manifes-3-novembre-2026",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 19000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Le Monde (bilan provisoire, décompte de la rédaction, grenades tous types confondus, périmètre Paris + Lyon + Marseille + Bordeaux)",
+  "quote": "« Le 17 octobre 2026, selon un bilan provisoire du Monde, plus de 19 000 grenades ont été utilisées à Paris, Lyon, Marseille et Bordeaux » (repris par Politis). Tous types de grenades, quatre villes seulement.",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Mobilisation du 17 octobre : des erreurs du renseignement au manque d'effectifs mobilisés, retour sur un fiasco sécuritaire",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-du-17-octobre-des-erreurs-du-renseignement-au-manque-d-effectifs-mobilises-retour-sur-un-fiasco-securitaire_6797855_3224.html",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Politis",
+    "title": "Manifestations du 24 octobre : l'exécutif pris d'une fièvre sécuritaire",
+    "url": "https://www.politis.fr/articles/2026/10/mobilisation-manifestations-du-24-octobre-lexecutif-deploie-son-arsenal-securitaire/",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 19000,
+  "scope": "jour",
+  "city": "",
+  "authority": "CRS (comptabilité interne des compagnies républicaines de sécurité, hors gendarmerie et compagnies d'intervention), rapportée par Contre Attaque – estimation non officielle",
+  "quote": "« les CRS révélaient leur propre comptabilité : 19.000 grenades tirées dans toute la France le 17 octobre, uniquement dans leurs rangs » (sans compter la gendarmerie ni les compagnies d'intervention).",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 880000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Contre Attaque (estimation du coût : 22 000 grenades lacrymogènes × 40 € l'unité) – calcul militant, non officiel",
+  "quote": "Coût estimé des 22 000 grenades lacrymogènes du 17 octobre : « 880.000 euros » (prix unitaire retenu : 40 €) ; soit « une grenade toutes les 1,6 seconde » sur dix heures.",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 4000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Décompte interne des huit compagnies d'intervention de la préfecture de police (informations Politis) – hors CRS et gendarmes mobiles",
+  "quote": "« les policiers des huit compagnies d'intervention parisiennes ont utilisé, à eux seuls le 17 octobre, environ 4 000 grenades lacrymogènes et 700 grenades à effet assourdissant » ; « Ce décompte ne comprend pas celles tirées par les CRS, les gendarmes mobiles et les autres unités ».",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Politis",
+    "title": "« Les manifestants ne sont pas des ennemis » : des membres des forces de l'ordre contestent la stratégie répressive",
+    "url": "https://www.politis.fr/articles/2026/11/maintien-ordre-les-manifestants-ne-sont-pas-des-ennemis-des-membres-des-forces-de-lordre-contestent-la-strategie-repressive/",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_assourdissantes",
+  "value": 700,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Décompte interne des huit compagnies d'intervention de la préfecture de police (informations Politis) – hors CRS et gendarmes mobiles",
+  "quote": "« 700 grenades à effet assourdissant » (Politis, 27 oct.) ; « 4 000 grenades lacrymogènes et 700 grenades à effet assourdissant ou de désencerclement dans la seule journée du 17 octobre » (Politis, 5 nov.).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Politis",
+    "title": "« Les manifestants ne sont pas des ennemis » : des membres des forces de l'ordre contestent la stratégie répressive",
+    "url": "https://www.politis.fr/articles/2026/11/maintien-ordre-les-manifestants-ne-sont-pas-des-ennemis-des-membres-des-forces-de-lordre-contestent-la-strategie-repressive/",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 3000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Policiers (CRS) interrogés par franceinfo après les faits – témoignage, non officiel ; une seule compagnie de CRS",
+  "quote": "« Une seule compagnie de CRS aurait tiré environ trois mille grenades lacrymogènes au cours de la journée. En temps normal, on parle plutôt d'une centaine. » Un CRS (Patrice, 29 ans de carrière, engagé à Lyon) dit être resté « plusieurs minutes sans grenades lacrymogènes ».",
+  "sources": [
+   {
+    "outlet": "Viralmag (reprise d'un reportage franceinfo)",
+    "title": "Violences du 17 octobre : un CRS raconte quinze heures d'engagement épuisant",
+    "url": "https://viralmag.fr/violences-du-17-octobre-un-crs-raconte-quinze-heures-d-engagement-epuisant/",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 12,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris (arrêté n° 2026-01365 du 16 octobre 2026 autorisant les caméras aéroportées/drones)",
+  "quote": "Drones : « Entre 10 heures et 21 heures, samedi 17 octobre, la préfecture de police de Paris a pu filmer la capitale depuis le ciel » ; l'arrêté « fixe un plafond : 12 caméras installées sur des drones pouvaient enregistrer en même temps ».",
+  "sources": [
+   {
+    "outlet": "L'Esprit FR",
+    "title": "12 caméras sur drones au-dessus du 17 octobre, et le droit de filmer Paris jusqu'au 30 novembre",
+    "url": "https://www.lespritfr.com/2026/10/18/cameras-drones-17-octobre-filmer-paris-30-novembre/",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "Préfecture de police",
+    "title": "Arrêté n° 2026-01365 – captation d'images par aéronefs, manifestations du 17 octobre 2026",
+    "url": "https://www.prefecturedepolice.interieur.gouv.fr/sites/default/files/Documents/arrete_2026-01365_drones_manifestations_paris_17_octobre.pdf",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Le Parisien (observation sur le terrain, repris par Onemedia) – nombre d'engins non officiel",
+  "quote": "Canon à eau : à Paris, les forces de l'ordre ont utilisé « des gaz lacrymogènes et un canon à eau ».",
+  "sources": [
+   {
+    "outlet": "Onemedia",
+    "title": "Manifestations du 17 octobre 2026 : les faits par ville",
+    "url": "https://onemedia.fr/actualite/manifestations-17-octobre-2026-deroulement-onze-villes/",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 6000,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Rue89Lyon (« selon les informations de Rue89Lyon ») – grenades de tous types, décompte journalistique non officiel",
+  "quote": "« Selon les informations de Rue89Lyon, les forces de l'ordre ont lancé près de 6 000 grenades de différents types » à Lyon le 17 octobre ; « un nombre inédit de grenades », « du jamais vu ».",
+  "sources": [
+   {
+    "outlet": "Rue89Lyon",
+    "title": "17 octobre : l'ahurissant record de grenades lancées à Lyon",
+    "url": "https://www.rue89lyon.fr/2026/10/21/17-octobre-lyon-6-000-grenades-lancees-police/",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Rue89Lyon",
+    "title": "17-Octobre : LBD, grenades, tabassages… le lourd bilan des violences policières à Lyon",
+    "url": "https://www.rue89lyon.fr/2026/10/23/17-octobre-lbd-grenades-tabassages-le-lourd-bilan-des-violences-policieres/",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 4000,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfecture de police des Bouches-du-Rhône (chiffre rapporté par ICI Provence à la suite du point presse du préfet)",
+  "quote": "« 4 000 grenades lacrymogènes ont été lancées » à Marseille le 17 octobre ; dispositif de « près de 700 » policiers dès le matin, renforcé l'après-midi par « deux véhicules blindés Centaure » et « près de 170 gendarmes » (selon le préfet).",
+  "sources": [
+   {
+    "outlet": "ICI Provence",
+    "title": "VIDÉO - Violences du 17 octobre : des scènes de pillage hallucinantes à Marseille",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/scenes-de-pillage-hallucinantes-a-marseille-le-17-octobre-9561410",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfet des Bouches-du-Rhône / gendarmerie (rapporté par ICI Provence et France 3 Provence-Alpes)",
+  "quote": "Blindés Centaure : « deux véhicules blindés de la gendarmerie de modèle “Centaure”, ont été appelés en renfort pour la journée du 17 octobre » à Marseille.",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes",
+    "title": "Cinq choses à savoir sur le “Centaure”, ce véhicule blindé de la gendarmerie dédié au maintien de l'ordre aperçu à Marseille",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/cinq-choses-a-savoir-sur-le-centaure-ce-vehicule-blinde-de-la-gendarmerie-dedie-au-maintien-de-l-ordre-apercu-a-marseille-3435156.html",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "ICI Provence",
+    "title": "VIDÉO - Violences du 17 octobre : des scènes de pillage hallucinantes à Marseille",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/scenes-de-pillage-hallucinantes-a-marseille-le-17-octobre-9561410",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 4400,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfète de la Gironde Sophie Brocas (point presse du 18 octobre 2026)",
+  "quote": "« Les policiers ont fait usage de 4 400 grenades, indique-t-elle » (France 3) ; « Selon les autorités, 4.400 grenades lacrymogènes ont été lancées ce samedi » (ICI) ; « 4 400 grenades lacrymogènes ont été utilisées le 17 octobre à Bordeaux » (Bordeaux Gazette, chiffre repris par l'OGLP).",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "« Bordeaux a été très abîmée » : résidence préfectorale saccagée, commerces vandalisés, 110 interpellations et 63 policiers blessés lors des violences du 17 octobre",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/a-bordeaux-les-images-de-la-residence-de-la-prefete-saccagee-63-policiers-blesses-et-jusqu-a-100-commerces-degrades-au-lendemain-du-17-octobre-3435351.html",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "ICI Gironde",
+    "title": "Mobilisation du 17 octobre à Bordeaux : « Rien ne peut légitimer une telle violence », dénonce le maire",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-gironde/mobilisation-du-17-octobre-a-bordeaux-rien-ne-peut-legitimer-une-telle-violence-denonce-le-maire-5678680",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Bordeaux Gazette",
+    "title": "Bordeaux : le maintien de l'ordre du 17 octobre questionné",
+    "url": "https://www.bordeaux-gazette.com/bordeaux-le-maintien-de-l-ordre-du-17-octobre-questionne.html",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Actu Forces de l'ordre",
+    "title": "Bordeaux : 63 policiers blessés et 4 400 grenades lacrymogènes, la préfète reconnaît des forces « submergées »",
+    "url": "https://actuforcesdelordre.fr/2026/10/18/bordeaux-63-policiers-blesses-4400-grenades-prefete-submergee/",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde (bilan du 18 octobre rapporté par Rue89 Bordeaux et Actu Forces de l'ordre)",
+  "quote": "Blindés (Centaure de la gendarmerie, selon CNews) : « deux engins lanceurs d'eau et deux véhicules blindés » (Rue89 Bordeaux) ; « Un canon à eau et deux véhicules blindés ont été engagés » (Actu Forces de l'ordre) ; « un canon à eau et des véhicules blindés, utilisés au cours de la nuit » (France 3).",
+  "sources": [
+   {
+    "outlet": "Rue89 Bordeaux",
+    "title": "Résidence préfectorale saccagée à Bordeaux : la prochaine mobilisation ne sera pas « le chapitre 2 de cette terrible histoire », prévient Sophie Brocas",
+    "url": "https://rue89bordeaux.com/2026/10/residence-prefectorale-saccagee-a-bordeaux-la-prochaine-mobilisation-ne-sera-pas-le-chapitre-2-de-cette-terrible-histoire-previent-sophie-brocas/",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "Actu Forces de l'ordre",
+    "title": "Bordeaux : 63 policiers blessés et 4 400 grenades lacrymogènes, la préfète reconnaît des forces « submergées »",
+    "url": "https://actuforcesdelordre.fr/2026/10/18/bordeaux-63-policiers-blesses-4400-grenades-prefete-submergee/",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "« Bordeaux a été très abîmée » : résidence préfectorale saccagée, commerces vandalisés, 110 interpellations et 63 policiers blessés lors des violences du 17 octobre",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/a-bordeaux-les-images-de-la-residence-de-la-prefete-saccagee-63-policiers-blesses-et-jusqu-a-100-commerces-degrades-au-lendemain-du-17-octobre-3435351.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde (bilan rapporté par France 3 et Actu Forces de l'ordre ; Rue89 Bordeaux évoque deux engins lanceurs d'eau)",
+  "quote": "Canon à eau : « notamment un canon à eau et des véhicules blindés, utilisés au cours de la nuit » (France 3) ; « Un canon à eau et deux véhicules blindés ont été engagés » ; Rue89 Bordeaux : « deux engins lanceurs d'eau et deux véhicules blindés ».",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "« Bordeaux a été très abîmée » : résidence préfectorale saccagée, commerces vandalisés, 110 interpellations et 63 policiers blessés lors des violences du 17 octobre",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/a-bordeaux-les-images-de-la-residence-de-la-prefete-saccagee-63-policiers-blesses-et-jusqu-a-100-commerces-degrades-au-lendemain-du-17-octobre-3435351.html",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "Actu Forces de l'ordre",
+    "title": "Bordeaux : 63 policiers blessés et 4 400 grenades lacrymogènes, la préfète reconnaît des forces « submergées »",
+    "url": "https://actuforcesdelordre.fr/2026/10/18/bordeaux-63-policiers-blesses-4400-grenades-prefete-submergee/",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "Rue89 Bordeaux",
+    "title": "Résidence préfectorale saccagée à Bordeaux : la prochaine mobilisation ne sera pas « le chapitre 2 de cette terrible histoire », prévient Sophie Brocas",
+    "url": "https://rue89bordeaux.com/2026/10/residence-prefectorale-saccagee-a-bordeaux-la-prochaine-mobilisation-ne-sera-pas-le-chapitre-2-de-cette-terrible-histoire-previent-sophie-brocas/",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 1000,
+  "scope": "ville",
+  "city": "Limoges",
+  "authority": "Laurent Nadeau, secrétaire du syndicat Alliance Police nationale à Limoges (via France 3) – grenades tous types ; Contre Attaque attribue à tort le chiffre à la préfecture",
+  "quote": "« 1 000 grenades et 400 balles de LBD auraient été tirées en deux heures, selon le syndicaliste » ; « on n'avait plus de munitions. Toutes les munitions ont été lâchées là-bas ». Le préfet Maurice Barate dément la pénurie : « Ils sont partis à plein, ils avaient tout ce qu'il fallait ».",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "« 40 fonctionnaires, c'était pas suffisant » : débordée par les casseurs, la police a-t-elle manqué de moyens pour éviter l'incendie de la mairie de Limoges ?",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/40-fonctionnaires-c-etait-pas-suffisant-debordee-par-les-casseurs-la-police-a-t-elle-manque-de-moyens-pour-eviter-l-incendie-de-la-mairie-de-limoges-3436077.html",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lbd",
+  "value": 400,
+  "scope": "ville",
+  "city": "Limoges",
+  "authority": "Laurent Nadeau, secrétaire du syndicat Alliance Police nationale à Limoges (via France 3) – estimation syndicale, non officielle",
+  "quote": "« 1 000 grenades et 400 balles de LBD auraient été tirées en deux heures, selon le syndicaliste » (Alliance). Seul décompte local de tirs de LBD trouvé pour l'ensemble du mouvement.",
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "« 40 fonctionnaires, c'était pas suffisant » : débordée par les casseurs, la police a-t-elle manqué de moyens pour éviter l'incendie de la mairie de Limoges ?",
+    "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/40-fonctionnaires-c-etait-pas-suffisant-debordee-par-les-casseurs-la-police-a-t-elle-manque-de-moyens-pour-eviter-l-incendie-de-la-mairie-de-limoges-3436077.html",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 1000,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Syndicat Alliance Police nationale (rapporté par Contre Attaque) – grenades tous types, non confirmé par la préfecture d'Ille-et-Vilaine",
+  "quote": "« À Rennes, plus de 1.000 grenades ont été tirées selon le syndicat Alliance. » Les reporters de Contre Attaque « décomptent plus d'une centaine de détonations de grenades sur l'ensemble de la journée ».",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   },
+   {
+    "outlet": "Contre Attaque",
+    "title": "Rennes : Retour sur une journée insurrectionnelle",
+    "url": "https://contre-attaque.net/2026/10/18/rennes-retour-sur-une-journee-insurrectionnelle/",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Préfecture d'Ille-et-Vilaine (via Onemedia / Le Parisien)",
+  "quote": "Lanceur d'eau : la préfecture confirme « l'usage d'un lanceur d'eau, puis de gaz lacrymogènes » à Rennes le 17 octobre.",
+  "sources": [
+   {
+    "outlet": "Onemedia",
+    "title": "Manifestations du 17 octobre 2026 : les faits par ville",
+    "url": "https://onemedia.fr/actualite/manifestations-17-octobre-2026-deroulement-onze-villes/",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "ICI Armorique",
+    "title": "Mobilisation du 17 octobre : plusieurs dizaines de milliers de personnes rassemblées à Rennes",
+    "url": "https://www.ici.fr/bretagne/ille-et-vilaine-35/rennes/manifestations-du-17-octobre-des-premieres-tensions-a-rennes-8505442",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 1500,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Autorités (« chiffres parcellaires rendus publics »), selon Contre Attaque – non retrouvé dans la presse locale ni dans un communiqué de la préfecture de la Haute-Garonne",
+  "quote": "« à Toulouse près de 500 grenades à main et plus de 1.500 grenades tirées au lanceur » (grenades tirées au lanceur, type non précisé).",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "munitions_lacrymo",
+  "value": 500,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Autorités (« chiffres parcellaires rendus publics »), selon Contre Attaque – non retrouvé dans la presse locale ; grenades à main de type non précisé (lacrymogènes et/ou GM2L)",
+  "quote": "« à Toulouse près de 500 grenades à main et plus de 1.500 grenades tirées au lanceur ».",
+  "sources": [
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (annonce du dispositif, 23 octobre 2026)",
+  "quote": "Blindés Centaure : « une vingtaine de blindés Centaure » de la gendarmerie et « une quinzaine de canons à eau » répartis sur le territoire, avec « de nombreux hélicoptères » et des drones, pour 70 000 policiers et gendarmes.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
+    "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "Le JDD",
+    "title": "Manifestations du 24 octobre : blindés, unités d'élite… Nuñez mobilise 70 000 policiers et gendarmes",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 15,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (annonce du dispositif, 23 octobre 2026)",
+  "quote": "Canons à eau : « une quinzaine de canons à eau » (engins lanceurs d'eau de la police) sur l'ensemble du territoire pour le 24 octobre.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
+    "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 14,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris (arrêté drones du 23 octobre 2026, rapporté par Politis)",
+  "quote": "Drones : « 14 caméras au maximum embarquées sur des drones », autorisées de 7 heures à minuit sur l'ensemble de la capitale le 24 octobre. Politis ajoute qu'une source policière indique que « les stocks seront doublés pour la journée du 24 chez les CRS » (sans chiffre).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Manifestations du 24 octobre : l'exécutif pris d'une fièvre sécuritaire",
+    "url": "https://www.politis.fr/articles/2026/10/mobilisation-manifestations-du-24-octobre-lexecutif-deploie-son-arsenal-securitaire/",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "munitions_desencerclement",
+  "value": 2,
+  "scope": "ville",
+  "city": "Reims",
+  "authority": "Préfecture de la Marne (directeur de cabinet du préfet)",
+  "quote": "La préfecture « confirme que deux grenades GM2L ont été utilisées rue Gambetta, à Reims », « à l'encontre de personnes ayant perpétré des violences » (GM2L : grenade à effet sonore et lacrymogène, classée désencerclement/assourdissante). Seul décompte officiel de GM2L trouvé.",
+  "sources": [
+   {
+    "outlet": "ICI Champagne-Ardenne",
+    "title": "Mobilisation du 24 octobre : un manifestant blessé par une grenade à Reims, une enquête ouverte par l'IGPN",
+    "url": "https://www.ici.fr/grand-est/marne-51/reims/un-manifestant-blesse-par-une-grenade-a-reims-un-enquete-est-ouverte-par-l-inspection-generale-de-la-police-nationale-5171653",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Un manifestant gravement blessé au tibia par une grenade à Reims lors de la mobilisation du 24 octobre, une enquête confiée à l'IGPN",
+    "url": "https://www.franceinfo.fr/societe/manifestations/un-manifestant-gravement-blesse-au-tibia-par-une-grenade-a-reims-lors-de-la-mobilisation-du-24-octobre-une-enquete-confiee-a-l-igpn_8254723.html",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "munitions_lacrymo",
+  "value": 438,
+  "scope": "ville",
+  "city": "Reims",
+  "authority": "Bilan rapporté par ICI Champagne-Ardenne (source non explicitée, vraisemblablement préfecture de la Marne / DDSP) – grenades tous types",
+  "quote": "« Le bilan fait état de 438 grenades utilisées, en très grande majorité des grenades lacrymogènes » (128 policiers engagés).",
+  "sources": [
+   {
+    "outlet": "ICI Champagne-Ardenne",
+    "title": "Mobilisation du 24 octobre : un manifestant blessé par une grenade à Reims, une enquête ouverte par l'IGPN",
+    "url": "https://www.ici.fr/grand-est/marne-51/reims/un-manifestant-blesse-par-une-grenade-a-reims-un-enquete-est-ouverte-par-l-inspection-generale-de-la-police-nationale-5171653",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 26,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (chiffre rapporté par le site stephanelarue.com, source secondaire de faible fiabilité) ; dispositif ensuite « reconduit » pour le 5 novembre avec 26 Centaure selon Nuñez",
+  "quote": "« Le ministère de l'Intérieur annonce en appui 26 Centaure et une quinzaine de véhicules lanceurs d'eau » pour la journée du 31 octobre (70 000 policiers et gendarmes).",
+  "sources": [
+   {
+    "outlet": "stephanelarue.com",
+    "title": "Centaure : 26 blindés de la gendarmerie mobilisés, deux filmés devant l'Élysée",
+    "url": "https://stephanelarue.com/centaure-26-blindes-gendarmerie-mobilises-deux-filmes-devant-elysee/",
+    "date": "2026-10-31"
+   },
+   {
+    "outlet": "Armees.com",
+    "title": "Manifestations du 5 novembre 2026 : dispositif de sécurité, 70 000 policiers et gendarmes",
+    "url": "https://armees.com/manifestations-5-novembre-2026-dispositif-securite-70000-policiers-gendarmes/",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 26,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (présentation du dispositif sur BFMTV, 4 novembre 2026)",
+  "quote": "Blindés : « 26 blindés Centaure » et « une quinzaine d'engins lanceurs d'eau », hélicoptères, drones, équipes cynophiles et équestres, pour 70 000 policiers et gendarmes « dont 110 unités de forces mobiles » (dispositif reconduit du 31 octobre).",
+  "sources": [
+   {
+    "outlet": "Armees.com",
+    "title": "Manifestations du 5 novembre 2026 : dispositif de sécurité, 70 000 policiers et gendarmes",
+    "url": "https://armees.com/manifestations-5-novembre-2026-dispositif-securite-70000-policiers-gendarmes/",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Manifestations du 5 novembre : 70 000 policiers et gendarmes mobilisés, un risque que les cortèges dégénèrent pour Laurent Nuñez",
+    "url": "https://www.tf1info.fr/justice-faits-divers/manifestations-du-5-novembre-70-000-policiers-et-gendarmes-mobilises-un-risque-que-les-corteges-degenerent-pour-laurent-nunez-2473900.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 15,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (présentation du dispositif sur BFMTV, 4 novembre 2026)",
+  "quote": "Engins lanceurs d'eau : « une quinzaine d'engins lanceurs d'eau » sur l'ensemble du territoire pour le 5 novembre.",
+  "sources": [
+   {
+    "outlet": "Armees.com",
+    "title": "Manifestations du 5 novembre 2026 : dispositif de sécurité, 70 000 policiers et gendarmes",
+    "url": "https://armees.com/manifestations-5-novembre-2026-dispositif-securite-70000-policiers-gendarmes/",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 25,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (annonce du 6 novembre 2026)",
+  "quote": "Blindés : dispositif « reconduit en volume et en doctrine opérationnelle » – 70 000 policiers et gendarmes, « 25 blindés Centaure », « 15 engins lanceurs d'eau », des drones et des hélicoptères pour le samedi 7 novembre.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestation du 7 novembre : le dispositif de sécurité reconduit avec 70 000 policiers et gendarmes mobilisés",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Libre (AFP)",
+    "title": "Manifestations samedi : le dispositif de sécurité reconduit avec 70.000 policiers et gendarmes mobilisés",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/11/06/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70000-policiers-et-gendarmes-mobilises-7HXWMVJZH5FOJA7ESMRWA5HYFY/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "metric": "autre",
+  "value": 15,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (annonce du 6 novembre 2026)",
+  "quote": "Engins lanceurs d'eau : « 15 engins lanceurs d'eau » sur l'ensemble du territoire pour le 7 novembre.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestation du 7 novembre : le dispositif de sécurité reconduit avec 70 000 policiers et gendarmes mobilisés",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "La Libre (AFP)",
+    "title": "Manifestations samedi : le dispositif de sécurité reconduit avec 70.000 policiers et gendarmes mobilisés",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/11/06/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70000-policiers-et-gendarmes-mobilises-7HXWMVJZH5FOJA7ESMRWA5HYFY/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "munitions_assourdissantes",
+  "value": 40,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (chiffre rapporté par Weka à l'occasion de l'audition de Laurent Nuñez devant la commission des lois du Sénat, 13 octobre 2026) – ordre de grandeur, non détaillé",
+  "quote": "La grenade assourdissante ASSD (Alsetex, tirée au lanceur), suspendue le 7 octobre pour le mouvement lycéen, aurait été « utilisé[e] une quarantaine de fois seulement cette année » (2026). Suspension annoncée par Nuñez sur RTL le 7 octobre « le temps que les circonstances de la blessure du jeune homme, à Lens, soient établies » ; le 16 octobre sur France 2, le ministre indique qu'elle pourra être réemployée en cas de « violences urbaines extrêmement graves ».",
+  "sources": [
+   {
+    "outlet": "Weka",
+    "title": "Mobilisation lycéenne : pour Laurent Nuñez, « il faut distinguer les violences urbaines des opérations de maintien de l'ordre »",
+    "url": "https://www.weka.fr/actualite/securite/article/mobilisation-lyceenne-pour-laurent-nunez-il-faut-distinguer-les-violences-urbaines-des-operations-de-maintien-de-l-ordre-228110/",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez était une demande d'Emmanuel Macron",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "Le Monde Moderne",
+    "title": "Grenades assourdissantes : la suspension à géométrie variable de Laurent Nuñez",
+    "url": "https://www.lemondemoderne.media/grenades-assourdissantes-la-suspension-a-geometrie-variable-de-laurent/",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "metric": "autre",
+  "value": 19,
+  "scope": "cumul",
+  "city": "",
+  "authority": "StreetPress (recensement à partir de témoignages, vidéos, photos et documents médicaux) – estimation journalistique",
+  "quote": "Blessés graves par grenades : StreetPress « a identifié 19 cas de blessures graves » liés aux grenades employées les 17 et 24 octobre, dont « 5 cas » d'éclats de grenades retrouvés dans les plaies (GM2L, GL-304, lacrymogènes).",
+  "sources": [
+   {
+    "outlet": "StreetPress",
+    "title": "Ces grenades policières « non létales » qui mutilent",
+    "url": "https://www.streetpress.com/1793285488-grenades-policieres-non-letales-mutilent-19-blesses-graves-manifestations-17-24-octobre-laurent-nunez/",
+    "date": "2026-10-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "metric": "autre",
+  "value": 20,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (audition budget 2027 devant la commission des lois de l'Assemblée nationale, 2 novembre 2026) / IGPN",
+  "quote": "Blessures mutilantes recensées depuis le début du mouvement : 20 enquêtes IGPN pour « blessures mutilantes » (sur 80 enquêtes), soit 7 cas lors des premières mobilisations lycéennes, 9 le 17 octobre et 4 le 24 octobre ; « je ne renoncerai à aucun moyen intermédiaire (grenades, gaz lacrymogène…) ».",
+  "sources": [
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Maintien de l'ordre : Nuñez défend les armes intermédiaires",
+    "url": "https://www.lecourrierdelatlas.com/laurent-nunez-armes-intermediaires-maintien-ordre/",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "LCP",
+    "title": "Maintien de l'ordre : Laurent Nuñez « ne renoncera à aucun moyen intermédiaire » comme les grenades et le gaz lacrymogène",
+    "url": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-02-01",
+  "metric": "autre",
+  "value": 21000000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – marché public notifié à Alsetex (avis publiés au BOAMP), analysé par Politis",
+  "quote": "Commande de grenades : « Trois lots sont finalement notifiés à Alsetex en février 2026 », « une valeur contractuelle cumulée publiée d'environ 21 millions d'euros », pour un appel d'offres prévoyant « l'achat de 736 000 grenades de 40 mm sur quatre ans » (fumigènes de 200 m, grenades sonores-lacrymogènes de 300 et 400 m). « Début 2026, plus de 20 millions d'euros. »",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-02-01",
+  "metric": "autre",
+  "value": 736000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – marché public (BOAMP), analysé par Politis",
+  "quote": "« l'achat de 736 000 grenades de 40 mm sur quatre ans » (projet du marché notifié à Alsetex en février 2026, ~21 M€).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-06-16",
+  "metric": "autre",
+  "value": 60000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – marché de grenades GM2L attribué à Alsetex le 16 juin 2026 (rapport d'analyse des offres obtenu par Politis, passages techniques caviardés)",
+  "quote": "« Environ trois millions d'euros pour une estimation de 60 000 grenades » ; offre jugée « satisfaisante » malgré « zéro sur dix » sur « deux critères techniques d'une grenade explosive de maintien de l'ordre » (présence d'éclats / éléments métalliques) ; « Ce marché de grenades GM2L intervient après presque dix ans d'acquisitions massives ».",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-06-16",
+  "metric": "autre",
+  "value": 3000000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – marché de grenades GM2L attribué à Alsetex le 16 juin 2026 (Politis)",
+  "quote": "Montant : « Environ trois millions d'euros pour une estimation de 60 000 grenades » (GM2L, Alsetex).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-06-01",
+  "metric": "autre",
+  "value": 125,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – appel d'offres de juin 2026 (Politis)",
+  "quote": "Lanceurs : « Juin 2026, un appel d'offres est lancé pour 125 lanceurs à hauteur de 4 millions d'euros » (après près de 1 000 lance-grenades achetés 2019-2024 pour environ 8,5 M€).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "metric": "autre",
+  "value": 360000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – appel d'offres en cours (lancé fin 2024), rapporté par Politis",
+  "quote": "Grenades de désencerclement : appel d'offres pour « un maximum de 360 000 grenades de désencerclement estimé à 27 millions d'euros » (toujours ouvert au 27 octobre 2026).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Politis",
+    "title": "Maintien de l'ordre : un appel d'offres XXL de 27 millions d'euros pour des grenades de désencerclement",
+    "url": "https://www.politis.fr/articles/2024/11/maintien-ordre-un-appel-doffres-xxl-de-27-millions-deuros-pour-des-grenades-de-desencerclement/",
+    "date": "2024-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "metric": "autre",
+  "value": 820000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – appel d'offres en cours, rapporté par Politis",
+  "quote": "Munitions de LBD : « un autre [appel d'offres] pour 820 000 munitions de LBD, estimé lui à 45 millions d'euros » ; LBD (armes) : « 180 commandées en 2018 et 5 200 en 2025 », « dont 1 000 pour l'administration pénitentiaire ».",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "metric": "autre",
+  "value": 90,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur / Gendarmerie nationale (commandes 2021-2025), rapporté par Politis et Aquitaine Online",
+  "quote": "Parc de blindés Centaure : 90 véhicules « Commandés à partir de 2021 pour environ 57 millions d'euros » (livraison confirmée en juin 2025) ; « 778 000 € le blindé et la France en a 90 » (Aquitaine Online).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Aquitaine Online",
+    "title": "778 000 € le blindé et la France en a 90 : voici pourquoi on a acheté ces Centaures de 14,5 tonnes quand tout le monde voulait des Canadairs",
+    "url": "https://www.aquitaineonline.com/actu-news/france/13619-centaure-engin-lanceur-deau-vs-canadair.html",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2023-11-01",
+  "metric": "autre",
+  "value": 78300000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur – marché 2023 (sept lots : Nobel Sport, Alsetex, Rivolier), rappelé par Politis en octobre 2026",
+  "quote": "Contexte : marché de 2023 de « 78,3 millions d'euros hors taxes » pour « environ 2 millions de grenades, dont 560 000 assourdissantes » (besoins calculés sur 2018-2022) ; Alsetex « va empocher 20 millions d'euros ».",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "ICI Maine",
+    "title": "L'État commande 20 millions d'euros de munitions maintien de l'ordre à l'usine sarthoise Alsetex",
+    "url": "https://www.ici.fr/infos/economie-social/l-etat-commande-20-millions-d-euros-de-munitions-maintien-de-l-ordre-a-l-usine-sarthoise-alsetex-6051113",
+    "date": "2023-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2018-12-01",
+  "metric": "autre",
+  "value": 13500,
+  "scope": "jour",
+  "city": "Paris",
+  "authority": "Comparaison Gilets jaunes (acte III, 1er décembre 2018) citée par Politis en octobre 2026",
+  "quote": "« plus de 13 500 grenades de différents types avaient été tirées à Paris » le 1er décembre 2018 – à comparer aux 19 000 à 22 000 grenades du 17 octobre 2026.",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2019-04-26",
+  "metric": "autre",
+  "value": 13460,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur / IGPN (bilan Gilets jaunes), rappelé par Politis le 13 octobre 2026",
+  "quote": "Comparaison Gilets jaunes : « 13 460 tirs de LBD avaient été recensés » lors des premiers mois du mouvement des Gilets jaunes (2018-2019) ; « environ 60 cas de mutilations » en dix ans.",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Maintien de l'ordre : 100 000 signatures et des années d'alertes contre les armes mutilantes",
+    "url": "https://www.politis.fr/articles/2026/10/maintien-de-lordre-100-000-signatures-et-des-annees-dalertes-contre-les-armes-mutilantes/",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2018-12-31",
+  "metric": "autre",
+  "value": 19071,
+  "scope": "cumul",
+  "city": "",
+  "authority": "IGPN (réponse à une question parlementaire), rappelé par Politis en octobre 2026",
+  "quote": "Comparaison : tirs de LBD en 2018 – « L'IGPN totalise 19 071 tirs en 2018 » (contre 6 604 en 2016).",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Assemblée nationale",
+    "title": "Question écrite n° 18161 (15e législature) – tirs de LBD",
+    "url": "https://questions.assemblee-nationale.fr/q15/15-18161QE.htm",
+    "date": "2019-04-02"
+   }
+  ]
+ },
+ {
+  "date": "2023-12-31",
+  "metric": "autre",
+  "value": 21289,
+  "scope": "cumul",
+  "city": "",
+  "authority": "IGPN (rapport annuel 2023), rappelé par Politis en octobre 2026",
+  "quote": "Comparaison : LBD en 2023 (réforme des retraites) – « 21 289 projectiles tirés » selon le rapport annuel de l'IGPN.",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Rapport annuel d'activité de l'IGPN 2023",
+    "url": "https://www.interieur.gouv.fr/documentation/rapports/rapport-annuel-dactivite-de-ligpn-2023.html",
+    "date": "2024-07-01"
+   }
+  ]
+ },
+ {
+  "date": "2025-12-31",
+  "metric": "autre",
+  "value": 5065,
+  "scope": "cumul",
+  "city": "",
+  "authority": "IGPN (rapport 2025), cité par franceinfo / France 2 le 6 octobre 2026",
+  "quote": "Comparaison : lanceurs de balles de défense – « 5 065 tirs en 2025, + 25% sur un an et trois blessés graves ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation des lycéens : grenades, LBD... Les techniques policières en question",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-grenades-lbd-les-techniques-policieres-en-question_8225722.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2023-03-25",
+  "metric": "autre",
+  "value": 5000,
+  "scope": "jour",
+  "city": "Sainte-Soline",
+  "authority": "Gendarmerie nationale (décompte Sainte-Soline 2023), rappelé par Politis et Contre Attaque en 2026",
+  "quote": "Comparaison : « À Sainte-Soline, le 25 mars 2023, les gendarmes avaient utilisé plus de 5 000 grenades en moins de deux heures » – le 17 octobre 2026 représente « quatre fois Sainte-Soline » selon Contre Attaque.",
+  "sources": [
+   {
+    "outlet": "Politis",
+    "title": "Grenades, blindés, lanceurs : Macron laisse derrière lui un lourd arsenal répressif",
+    "url": "https://www.politis.fr/articles/2026/10/analyse-grenades-blindes-lanceurs-macron-laisse-derriere-lui-un-lourd-arsenal-repressif/",
+    "date": "2026-10-27"
+   },
+   {
+    "outlet": "Contre Attaque",
+    "title": "17 Octobre : 22.000 grenades lacrymogènes tirées en quelques heures",
+    "url": "https://contre-attaque.net/2026/11/04/17-octobre-22-000-grenades-lacrymogenes-tirees-en-quelques-heures/",
+    "date": "2026-11-04"
+   }
+  ]
+ }
+]

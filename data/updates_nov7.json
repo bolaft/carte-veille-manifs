@@ -1,0 +1,335 @@
+[
+  {
+    "date": "2026-10-17",
+    "city": "Paris",
+    "title_prefix": "Mort d'un manifestant de 59 ans, Christophe M.",
+    "investigation": "Information judiciaire ouverte le 27 oct. par le parquet de Paris « en recherche des causes de la mort » et confiée à un juge d'instruction ; autopsie concluant à une « défaillance cardio-respiratoire aiguë » sur un terrain de cardiopathie, sans lésion de prise, de défense ou de maintien ; analyses complémentaires demandées par le médecin légiste ; plainte de la compagne (26 oct., Me Youri Krassoulia) pour violences volontaires par personne dépositaire de l'autorité publique ayant entraîné la mort sans intention de la donner, mettant en cause les gaz lacrymogènes rue du Château-d'Eau (perte de connaissance à 18 h 05, décès constaté à 18 h 56) ; plainte avec constitution de partie civile également déposée ; la famille, qui a appris les résultats d'autopsie par la presse, a désormais accès à la procédure ; aucun lien établi à ce stade entre le décès et les gaz selon le parquet.",
+    "status_date": "2026-10-29",
+    "sources": [
+      {
+        "outlet": "France 3 Paris Île-de-France",
+        "title": "Homme de 59 ans mort le 17 octobre : \"Nous sommes choqués, d'apprendre les résultats de l'autopsie par voie de presse\"",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/homme-de-59-ans-mort-le-17-octobre-nous-sommes-choques-d-apprendre-les-resultats-de-l-autopsie-par-voie-de-presse-3440307.html",
+        "date": "2026-10-28"
+      },
+      {
+        "outlet": "ICI Paris Île-de-France",
+        "title": "Mort d'un manifestant le 17 octobre à Paris : \"on veut savoir pourquoi son cœur s'est arrêté boulevard Magenta\"",
+        "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-paris-ile-de-france/mort-d-un-manifestant-le-17-octobre-a-paris-on-veut-savoir-pourquoi-son-coeur-s-est-arrete-boulevard-magenta-5629417",
+        "date": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "city": "Mulhouse",
+    "title_prefix": "Maïssa, 17 ans, sortie d'un kebab",
+    "investigation": "Enquête de flagrance pour violences aggravées confiée à l'IGPN par le parquet de Mulhouse : au 7 nov., le policier auteur du tir n'est pas identifié et aucune suspension administrative n'a été prononcée (Me Pierre Brunisso, qui qualifie le tir tendu de « non réglementaire », demande la suspension de l'agent et a saisi le Défenseur des droits) ; plainte déposée le 28 oct. ; Maïssa, désormais majeure, a été reçue le 6 nov. à l'Assemblée nationale par des députés LFI membres de la commission d'enquête sur le 17 octobre, devant laquelle elle pourrait témoigner ; son cas s'ajoute aux 83 enquêtes confiées à l'IGPN et à l'IGGN depuis le début du mouvement (au 30 oct.).",
+    "status_date": "2026-11-07",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "TEMOIGNAGE. \"Personne ne mérite ça\" : rencontre avec Maïssa, 18 ans, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre",
+        "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/temoignage-personne-ne-merite-ca-rencontre-avec-maissa-18-ans-qui-a-perdu-un-il-a-la-suite-d-un-tir-de-grenade-le-17-octobre_8271551.html",
+        "date": "2026-11-07"
+      },
+      {
+        "outlet": "Entrevue",
+        "title": "Mouvement lycéen : 83 enquêtes ouvertes sur des interventions policières depuis le début des manifestations",
+        "url": "https://entrevue.fr/societe/mouvement-lyceen-83-enquetes-ouvertes-sur-des-interventions-policieres/",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "city": "Marseille",
+    "title_prefix": "Rémi Aubert, podologue de 39 ans",
+    "investigation": "Enquête pour « violences commises par personne dépositaire de l'autorité publique avec arme » ouverte par le parquet de Marseille et confiée à l'IGPN (confirmée le 3 nov.) ; plainte de la victime pour violences volontaires avec arme en réunion par personne dépositaire de l'autorité publique ayant entraîné une ITT supérieure à huit jours (Me Mathilde Lanté) ; bilan médical : sept dents perdues, nez cassé, six points de suture.",
+    "status_date": "2026-11-03",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "Une enquête pour violences confiée à l'IGPN après qu'un homme a été blessé au visage à Marseille en marge des manifestations du 31 octobre",
+        "url": "https://www.franceinfo.fr/societe/manifestations/a-marseille-une-enquete-pour-violences-confiee-a-l-igpn-apres-qu-un-homme-a-ete-blesse-au-visage-en-marge-des-manifestations-du-31-octobre_8265575.html",
+        "date": "2026-11-03"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "city": "Marseille",
+    "title_prefix": "Trois autres blessés graves par grenades GM2L le même soir",
+    "investigation": "Témoignages le 6 nov. de Suzanne, Laurie et Olive (21, 31 et 34 ans, prénoms modifiés), blessées en une demi-heure au même endroit près de la gare Saint-Charles après un barrage et des tirs de gaz (plaies ouvertes jusqu'à 11 cm au pied ou à la jambe, stress post-traumatique, incertitude sur la reprise de la marche) ; deux d'entre elles annoncent déposer plainte « dans les prochaines heures » ; aucune enquête IGPN connue pour ces trois cas.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "TEMOIGNAGES. \"Ce sont des blessures de guerre\" : trois femmes gravement blessées par des grenades lancées par la police le 17 octobre racontent comment leur vie a basculé",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-ce-sont-des-blessures-de-guerre-trois-femmes-gravement-blessees-par-des-grenades-lancees-par-la-police-le-17-octobre-racontent-comment-leur-vie-a-bascule_8271329.html",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "city": "Lens",
+    "title_prefix": "Evan, 15 ans, perd la main gauche",
+    "investigation": "Enquête IGPN (parquet de Béthune) ; le parquet estime le tir « conforme au mode opératoire préconisé » et retient qu'Evan avait ramassé la grenade (vidéo authentifiée par franceinfo, CRS entendu comme témoin), version contestée par l'adolescent (il se relevait après avoir ramassé un débris de la main droite quand l'explosion l'a touché à gauche) et par son avocat Me Bertrand Wattez, qui a déposé une plainte avec constitution de partie civile devant le doyen des juges d'instruction de Béthune pour des faits « de nature criminelle » et accuse le procureur d'être « juge et partie » ; Evan entendu par l'IGPN le 13 oct. ; devant la commission d'enquête de l'Assemblée (3 nov.), Laurent Nuñez a cité son cas, dit « regretter ces blessures graves » et défendu l'usage des grenades.",
+    "status_date": "2026-11-03",
+    "sources": [
+      {
+        "outlet": "ICI Nord",
+        "title": "Main arrachée à Lens : le lycéen porte plainte avec constitution de partie civile, annonce son avocat",
+        "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/lens/main-arrachee-a-lens-le-lyceen-porte-plainte-avec-constitution-de-partie-civile-annonce-son-avocat-9583194",
+        "date": "2026-10-14"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Manifestations du 17 octobre : sous serment devant les députés, Laurent Nuñez reconnaît un \"manque d'anticipation\" de sa part",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html",
+        "date": "2026-11-03"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Toulouse",
+    "title_prefix": "Tedy, 20 ans, deux doigts amputés",
+    "investigation": "Enquête en « recherche des causes de blessures graves » (SIPJ de Toulouse, audition au CHU le 25 oct.) ; IGPN saisie par le parquet après la plainte ; deux plaintes déposées par Me Anna Branellec : contre les policiers pour violences ayant entraîné une mutilation ou une infirmité permanente, et contre Laurent Nuñez devant la Cour de justice de la République pour complicité ; état non stabilisé (risque d'infection, nouvelle opération possible), audition par l'IGPN de Bordeaux différée (30 oct.) ; une plainte collective devant la CJR pour au moins 18 blessés par grenades et LBD a été annoncée le 6 nov. par un collectif d'avocats.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "France 3 Occitanie",
+        "title": "« À 20 ans, sa vie a basculé » : amputé après un tir de grenade en manifestation à Toulouse, un serveur porte plainte, l'IGPN saisie",
+        "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/a-20-ans-sa-vie-a-bascule-ampute-apres-un-tir-de-grenade-en-manifestation-a-toulouse-un-serveur-porte-plainte-l-igpn-saisie-3441222.html",
+        "date": "2026-10-30"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Le parquet de Toulouse saisit l'IGPN après la plainte d'un manifestant grièvement blessé à la main le 24 octobre",
+        "url": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html",
+        "date": "2026-10-28"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
+        "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Rouen",
+    "title_prefix": "Un motard de la police dégoupille et lance une grenade lacrymogène",
+    "investigation": "Policier identifié par la direction de la police nationale, qui a ouvert une enquête interne ; signalement du maire Nicolas Mayer-Rossignol au procureur Sébastien Gallois (26 oct.) ; plainte contre X de la mère de famille ; deux enquêtes en cours selon La Clé Publique (28 oct.) ; Alliance Police nationale affirme que les policiers n'ont pas fait usage de la force « face à des enfants » ; aucune saisine de l'IGPN confirmée publiquement.",
+    "status_date": "2026-10-28",
+    "sources": [
+      {
+        "outlet": "La Clé Publique",
+        "title": "Rouen : enquête après une grenade lancée près de trois enfants",
+        "url": "https://laclepublique.fr/seine-maritime/articles/2026/2026-10-28-enquete-grenade-policiere-rouen/",
+        "date": "2026-10-28"
+      },
+      {
+        "outlet": "ICI Normandie",
+        "title": "\"La grenade est tombée à ses pieds\" : à Rouen, un policier filmé en train de lancer du gaz lacrymogène près de fillettes",
+        "url": "https://www.ici.fr/normandie/seine-maritime-76/rouen/la-grenade-est-tombee-a-ses-pieds-a-rouen-un-policier-filme-en-train-de-lancer-du-gaz-lacrymogene-pres-de-fillettes-7937824",
+        "date": "2026-10-27"
+      },
+      {
+        "outlet": "France 3 Normandie",
+        "title": "\"Ces enfants n'avaient rien demandé\" : le geste du policier ayant jeté une grenade lacrymogène aux pieds d'une famille était-il légitime ?",
+        "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/le-geste-du-policier-ayant-jete-une-grenade-lacrymogene-aux-pieds-d-une-famille-etait-il-legitime-ces-enfants-n-avaient-rien-demande-ils-n-etaient-meme-pas-la-pour-manifester-3439845.html",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Rouen",
+    "title_prefix": "Des identitaires masqués frappent un homme au sol",
+    "investigation": "Procédure pour violences aggravées ouverte le 25 oct. par le parquet de Rouen entre « individus issus de mouvances d'ultradroite et d'ultragauche », avec exploitation de la vidéosurveillance ; un street medic interpellé alors qu'il portait secours à un homme au sol (après avoir esquivé le coup de pied d'un militant identitaire) et gardé à vue près de 24 h a déposé plainte le 27 oct. pour violences commises en réunion (Me Chloé Chalot) ; SOS Racisme dénonce l'agression d'un de ses militants par des proches du collectif Les Normaux et demande, comme le maire et une députée PS, la dissolution du groupe, qui nie toute participation.",
+    "status_date": "2026-10-28",
+    "sources": [
+      {
+        "outlet": "France 3 Normandie",
+        "title": "\"Il a été privé de liberté, ce qui est profondément injuste\", un \"street medic\" porte plainte pour violences commises en réunion à Rouen",
+        "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/il-a-ete-prive-de-liberte-ce-qui-est-profondement-injuste-un-street-medic-porte-plainte-pour-violences-commises-en-reunion-a-rouen-3440436.html",
+        "date": "2026-10-28"
+      },
+      {
+        "outlet": "ICI Normandie",
+        "title": "Une enquête ouverte par le parquet de Rouen après des accusations de violences visant des identitaires d'extrême droite",
+        "url": "https://www.ici.fr/normandie/seine-maritime-76/rouen/une-enquete-ouverte-par-le-parquet-de-rouen-apres-des-accusations-de-violences-visant-des-identitaires-d-extreme-droite-9409421",
+        "date": "2026-10-26"
+      },
+      {
+        "outlet": "SOS Racisme",
+        "title": "Un militant de SOS Racisme agressé à Rouen par des identitaires",
+        "url": "https://sos-racisme.org/actualites/un-militant-de-sos-racisme-agresse-a-rouen-par-des-militants-de-groupes-identitaires-dont-les-normaux/",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Nancy",
+    "title_prefix": "« Les Templiers de Nancy » attaquent le cortège intersyndical",
+    "investigation": "Deux enquêtes ouvertes le 27 oct. par le procureur François Capin-Dulhoste sur signalement du préfet Yves Séguy : l'une, confiée à la direction de la criminalité territoriale, sur les affrontements entre groupes d'ultradroite et d'ultragauche ; l'autre, menée par la cellule déontologie de la police nationale, sur d'éventuelles infractions des forces de l'ordre ; saisine du procureur par la sénatrice Silvana Silvani (PCF) le 26 oct. ; aucune interpellation des membres du groupe au 29 oct., la préfecture reconnaissant qu'ils n'ont pas été « systématiquement interpellés » ; le collectif FULCRED, reçu en préfecture le 29 oct., a obtenu l'assurance de mesures contre les groupes violents lors des prochains rassemblements.",
+    "status_date": "2026-10-29",
+    "sources": [
+      {
+        "outlet": "France 3 Grand Est",
+        "title": "Manifestation du 24 octobre : suite aux actions impliquant un groupe d'ultradroite à Nancy, un collectif contre l'extrême droite reçu en préfecture",
+        "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestation-du-24-octobre-suite-aux-actions-impliquant-un-groupe-d-ultradroite-a-nancy-un-collectif-contre-l-extreme-droite-recu-en-prefecture-3441330.html",
+        "date": "2026-10-29"
+      },
+      {
+        "outlet": "France 3 Grand Est",
+        "title": "Manifestation du 24 octobre : une sénatrice saisit la justice après les actions controversées d'un groupe d'ultradroite à Nancy",
+        "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestation-du-24-octobre-une-senatrice-saisit-la-justice-apres-les-actions-controversees-d-un-groupe-d-ultra-droite-a-nancy-3436785.html",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Lyon",
+    "title_prefix": "Jeunes manifestants pris en étau et frappés",
+    "investigation": "Bilan de la préfecture du Rhône : 40 blessés dont 34 forces de l'ordre et 6 manifestants, 24 interpellations ; la majorité municipale (écologistes, socialistes, communistes, Lyon humaniste, Gauche unitaire) dénonce le 6 nov. des « violences policières inacceptables » — un groupe comprenant plusieurs élus, dont une élue en écharpe, « nassé, chargé sans sommation, malmené » ; une personne handicapée agressée selon la députée Anaïs Beloussa-Cherifi ; une « hémorragie gynécologique » — et annonce la saisine du procureur de la République au titre de l'article 40 du code de procédure pénale ; une habitante a transmis à Rue89Lyon la vidéo d'une personne frappée au sol ; un photographe de l'AFP a eu le péroné fracturé lors d'une charge ; aucune enquête IGPN connue.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "Rue89Lyon",
+        "title": "5 novembre à Lyon : la gauche dénonce les violences policières",
+        "url": "https://www.rue89lyon.fr/2026/11/06/5-novembre-lyon-gauche-denonce-violences-policieres/",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "LyonMag",
+        "title": "Manifestation du 5 novembre à Lyon : la majorité municipale dénonce des \"violences policières\" et saisit le procureur",
+        "url": "https://www.lyonmag.com/article/154779/manifestation-du-5-novembre-a-lyon-la-majorite-municipale-denonce-des-violences-policieres-et-saisit-le-procureur",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+        "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "city": "Toulouse",
+    "title_prefix": "Cortège intersyndical bloqué au pont des Catalans",
+    "investigation": "Bilan de la préfecture de la Haute-Garonne (6 nov.) : 30 interpellations et gardes à vue, 18 forces de l'ordre blessés, un manifestant blessé à la mâchoire par un projectile (tir de LBD selon ses proches, appel à témoins lancé) ; la CGT conteste la version préfectorale, accuse le préfet d'avoir « fait gazer et charger la tête de manifestation » sans raison et fait état de membres du service d'ordre unitaire au « crâne ouvert à coups de bâtons » ; aucune plainte ni saisine de l'IGPN connue.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "Le Journal Toulousain",
+        "title": "Manifestation à Toulouse : 30 interpellations et au moins 19 blessés",
+        "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/manifestation-a-toulouse-30-interpellations-et-au-moins-19-blesses-403453/",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Mediacités",
+        "title": "Face-à-face tendu entre les syndicats et les CRS lors de la manifestation toulousaine du 5 novembre",
+        "url": "https://www.mediacites.fr/reportage/toulouse/2026/11/05/face-a-face-tendu-entre-les-syndicats-et-les-crs-lors-de-la-manifestation-toulousaine-du-5-novembre/",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "city": "France",
+    "title_prefix": "Une trentaine de journalistes agressés ou empêchés de travailler",
+    "investigation": "RSF recense, hors journée du 5 nov., 58 cas de journalistes entravés dans leur travail depuis le début des mobilisations, dont 35 violences physiques (21 imputées aux forces de l'ordre, 14 à des manifestants ou tiers) ; la direction de l'AFP dénonce le 6 nov. des coups de matraque et de LBD contre plusieurs de ses journalistes (péroné fracturé d'un photographe à Lyon le 5 nov., tir de LBD à la cuisse d'un rédacteur à Lille le 17 oct.) ; Politis annonce une plainte après le matraquage à la tête de deux journalistes place de la Nation le 5 nov.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "L'AFP et \"Politis\" accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+        "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+        "date": "2026-11-06"
+      },
+      {
+        "outlet": "Politis",
+        "title": "Manifestation du 5 novembre : soutien à Céline Martelet et Cerise Sudry-le Dû, journalistes victimes de violences policières",
+        "url": "https://www.politis.fr/articles/2026/11/manifestation-du-5-novembre-soutien-a-celine-martelet-et-cerise-sudry-le-du-journalistes-victimes-de-violences-policieres/",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "city": "France",
+    "title_prefix": "« Aucune complaisance des forces de l'ordre »",
+    "investigation": "Audition sous serment de Laurent Nuñez, le 3 nov., devant la commission des lois de l'Assemblée dotée des prérogatives d'une commission d'enquête sur les événements des 17 et 18 octobre (présidence Vincent Caure, EPR ; le RN refuse d'y siéger) : « Oui, l'ultradroite profite de ce type de mouvement pour chercher l'ultragauche », moins visible le 17 oct. que les 24 et 31 ; il reconnaît un « manque d'anticipation » qui est « d'abord le sien » et un « échec », sans « faute des services de l'État », « regrette ces blessures graves » mais défend grenades et LBD (« la seule arme intermédiaire qui permet de cibler une personne ») ; auditions suivantes : commerçants (4 nov.), maire de Paris Emmanuel Grégoire (16 nov., 16 h), garde des Sceaux Gérald Darmanin ; LFI et les écologistes ont ouvert des appels à témoignages sur les violences policières.",
+    "status_date": "2026-11-06",
+    "sources": [
+      {
+        "outlet": "franceinfo",
+        "title": "Manifestations du 17 octobre : sous serment devant les députés, Laurent Nuñez reconnaît un \"manque d'anticipation\" de sa part",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html",
+        "date": "2026-11-03"
+      },
+      {
+        "outlet": "CNews",
+        "title": "Commission d'enquête sur le 17 octobre : retrouvez l'audition du ministre de l'Intérieur Laurent Nuñez",
+        "url": "https://www.cnews.fr/france/2026-11-03/commission-denquete-sur-le-17-octobre-suivez-en-direct-laudition-du-ministre-de",
+        "date": "2026-11-03"
+      },
+      {
+        "outlet": "LCP",
+        "title": "Manifestations du 17 octobre : Emmanuel Grégoire et Gérald Darmanin au programme des auditions",
+        "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-emmanuel-gregoire-et-gerald-darmanin-au-programme-des",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Montpellier",
+    "title_prefix": "« Milice d'extrême droite » (Alpha Rise / Jeunes d'Oc)",
+    "investigation": "Enquête du parquet de Montpellier pour identifier les auteurs des violences entre groupes du 24 oct. (bilan judiciaire du 26 oct. : 30 gardes à vue, 13 déférés, aucun membre identifié de la « milice » interpellé ; le parquet ne dit pas si les personnes filmées appartiennent à des groupuscules d'extrême droite) ; le 26 oct., I., 20 ans, remis à la police par des hommes à brassard blanc qui l'avaient frappé selon son avocat, a été condamné en comparution immédiate à six mois avec sursis pour violences sur policier, la défense dénonçant une « justice à deux vitesses » ; un administrateur du Telegram « Entraide citoyenne Montpellier » se félicite d'une « bonne coopération et coordination avec la police » ; aucune nouvelle communication du parquet au 8 nov.",
+    "status_date": "2026-10-26",
+    "sources": [
+      {
+        "outlet": "Le Poing",
+        "title": "24 octobre à Montpellier : violenté et arrêté par une milice fasciste, il est condamné par la justice",
+        "url": "https://lepoing.net/24-octobre-a-montpellier-violente-et-arrete-par-une-milice-fasciste-il-est-condamne-par-la-justice/",
+        "date": "2026-10-26"
+      },
+      {
+        "outlet": "Hérault Tribune",
+        "title": "Montpellier : après la polémique sur une \"milice d'extrême droite\", le parquet ouvre une enquête",
+        "url": "https://echo-des-tribunes.com/herault-tribune/articles/montpellier-apres-la-polemique-sur-une-milice-dextreme-droite-le-parquet-ouvre-une-enquete",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "city": "Nice",
+    "title_prefix": "« Touche pas à ma ville »",
+    "investigation": "Dix hommes de 18 à 32 ans poursuivis pour association de malfaiteurs en vue de commettre des violences (gants, cagoules, étui de matraque et bombes lacrymogènes retrouvés dans deux voitures ; un mineur renvoyé devant le juge des enfants) ; à l'audience du 27 oct. devant le tribunal correctionnel de Nice, renvoi au 26 nov. à la demande de la défense ; le parquet avait requis le maintien en détention de cinq d'entre eux (meneurs présumés, antécédents), mais le tribunal a écarté toute mesure coercitive (ni détention ni contrôle judiciaire) ; les prévenus nient tout lien avec l'ultradroite et disent avoir voulu « défendre [leurs] commerces » ; la défense souligne qu'ils ont été interpellés vers 17 h 20, avant les affrontements de 18 h.",
+    "status_date": "2026-10-27",
+    "sources": [
+      {
+        "outlet": "ICI Azur",
+        "title": "Les 10 militants présumés d'ultradroite seront finalement jugés le 26 novembre",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/les-10-militants-presumes-d-ultradroite-seront-finalement-juges-le-26-novembre-2311368",
+        "date": "2026-10-27"
+      },
+      {
+        "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+        "title": "Qui sont les dix hommes de la \"mouvance d'ultradroite\" en comparution immédiate au tribunal correctionnel de Nice, après les violences du 24 octobre ?",
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/qui-sont-les-dix-hommes-de-la-mouvance-d-ultradroite-presentes-en-comparution-immediate-a-nice-apres-les-violences-du-24-octobre-3439812.html",
+        "date": "2026-10-27"
+      }
+    ]
+  }
+]

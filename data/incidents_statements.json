@@ -1,0 +1,1766 @@
+[
+ {
+  "date": "2026-10-01",
+  "city": "Saint-Ouen-l'Aumône",
+  "dept": "95",
+  "place": "lycée professionnel du Château-d'Épluches",
+  "category": "autre",
+  "title": "Le Défenseur des droits se saisit d'office du tir de lance-grenades sur Eden, 14 ans",
+  "summary": "Le 1er octobre, le Défenseur des droits décide de s'autosaisir des faits du 28 septembre à Saint-Ouen-l'Aumône, où un lycéen de 14 ans a reçu au visage, à bout portant, un tir de lanceur de type Cougar lors du blocage de son lycée (double fracture de la mâchoire, dents cassées selon son avocate Elsa Marcel). L'institution invoque « la gravité du premier incident porté à sa connaissance » ; les premières démarches d'instruction sont en cours. Le parquet de Pontoise affirme, images à l'appui, que le mineur avait porté des coups à une policière avant le tir d'un second agent ; des enseignants témoins décrivent au contraire un élève pris à partie par plusieurs agents.",
+  "victim": "Eden, 14 ans, lycéen",
+  "investigation": "Enquête confiée à l'IGPN pour violences par personne dépositaire de l'autorité publique avec arme (parquet de Pontoise) ; enquête distincte sur les coups reprochés au lycéen ; plainte de la famille (tentative d'homicide volontaire, violences avec arme sur mineur de 15 ans) ; instruction du Défenseur des droits en cours (communiqué du 10 octobre).",
+  "status_date": "2026-10-10",
+  "statement": {
+   "org": "Défenseur des droits",
+   "kind": "autorité indépendante"
+  },
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Jeune blessé lors du blocus des lycées : le Défenseur des droits se saisit, une enquête ouverte",
+    "url": "https://www.lefigaro.fr/faits-divers/jeune-blesse-lors-du-blocus-des-lycees-le-defenseur-des-droits-se-saisit-une-enquete-ouverte-20261002",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Blocus des lycées : le Défenseur des droits se saisit de la blessure d'un lycéen au visage",
+    "url": "https://www.lecourrierdelatlas.com/defenseur-droits-lyceen-blesse-blocus-saint-ouen-aumone/",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Défenseur des droits",
+    "title": "Mobilisations lycéennes",
+    "url": "https://www.defenseurdesdroits.fr/mobilisations-lyceennes-1252",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "ICI Val-d'Oise",
+    "title": "Mobilisation des lycéens : « Ils ont tiré à bout portant », selon l'avocate de la famille d'Eden, blessé au visage",
+    "url": "https://www.ici.fr/ile-de-france/val-d-oise-95/saint-ouen-l-aumone/mobilisation-des-lyceens-ils-ont-tire-a-bout-portant-selon-l-avocate-de-la-famille-d-eden-blesse-au-visage-3722824",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Amnesty International France dénonce un usage disproportionné de la force et demande la suspension des tirs de LBD contre les lycéens",
+  "summary": "Amnesty International France s'alarme, le 2 octobre, d'une répression policière d'ampleur nationale du mouvement lycéen : des milliers d'interpellations et des centaines de gardes à vue en quelques jours, et des images montrant des pratiques interdites par le droit international (techniques d'étranglement, tirs de grenades lacrymogènes directement sur des personnes, gaz poivre à bout portant, tirs de LBD). Sa présidente Anne Savinel-Barras rappelle que « l'un des signes de pratiques autoritaires est de faire taire la dissidence » et demande la suspension immédiate des tirs de LBD contre des lycéens en grande majorité mineurs, puis du LBD 40 dans toute opération de maintien de l'ordre, ainsi que des enquêtes indépendantes et une stratégie de désescalade. Un point de situation (mis à jour le 6 octobre) recense plus de 5 000 interpellations du 21 septembre au 2 octobre, dont 85 % de mineurs, et les cas de Saint-Ouen-l'Aumône, Alençon, Tours et Lens.",
+  "victim": "",
+  "investigation": "Aucune réponse gouvernementale rapportée ; le 7 octobre, le ministre de l'Intérieur suspend uniquement l'usage des grenades assourdissantes pour les manifestations lycéennes.",
+  "status_date": "2026-10-07",
+  "statement": {
+   "org": "Amnesty International France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Amnesty International France",
+    "title": "Amnesty International dénonce l'usage disproportionné de la force contre les manifestations lycéennes et demande la suspension de l'usage des LBD",
+    "url": "https://www.amnesty.fr/communiques/amnesty-international-denonce-lusage-disproportionne-de-la-force-contre-les-manifestations-lyceennes/",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Amnesty International France",
+    "title": "Mouvement lycéen : des mineurs face à la répression des forces de l'ordre",
+    "url": "https://www.amnesty.fr/actualites/france-mouvement-lyceens-blocus-lycees-point-sur-la-situation/",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Syndicat de la magistrature appelle à « cesser de réprimer la jeunesse pour la faire taire »",
+  "summary": "Dans un communiqué du 2 octobre, le Syndicat de la magistrature juge la colère lycéenne légitime et dénonce la « réponse brutale » du gouvernement : gazage d'élèves, interpellations brutales, armes sublétales mutilantes (LBD, grenades explosives) et une stratégie de maintien de l'ordre « pas adaptée à la particulière vulnérabilité » d'un mouvement composé essentiellement d'enfants. Il cite 119 élèves blessés et environ 2 000 gardes à vue dont 90 % de mineurs, et reproche au garde des Sceaux Gérald Darmanin une doctrine qui « enjoint les parquets à faire primer le tout-répressif », sans stratégie de désescalade ni réponse éducative.",
+  "victim": "",
+  "investigation": "Vives réactions : le Syndicat des commissaires de la police nationale qualifie le texte de « honte » et réclame la saisine du Conseil supérieur de la magistrature (4 oct.) ; Unité Magistrats FO réaffirme son soutien aux forces de l'ordre ; la Conférence nationale des procureurs généraux désapprouve des prises de position jugées de nature à discréditer le ministère public (6 oct.). Le SM publie une mise au point le 7 octobre au nom de la liberté d'expression syndicale.",
+  "status_date": "2026-10-07",
+  "statement": {
+   "org": "Syndicat de la magistrature",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Le syndicat de la magistrature appelle à cesser « de réprimer la jeunesse pour la faire taire »",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-syndicat-de-la-magistrature-appelle-a-cesser-de-reprimer-la-jeunesse-pour-la-faire-taire_8219653.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Actu-Juridique",
+    "title": "FLASH : La Conférence nationale des procureurs généraux désapprouve les prises de position du Syndicat de la magistrature",
+    "url": "https://www.actu-juridique.fr/justice/justice-justice/flash-la-conference-generale-des-procureurs-generaux-desapprouve-les-prises-de-position-du-syndicat-de-la-magistrature/",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "Actu-Juridique",
+    "title": "FLASH : Le Syndicat de la magistrature dénonce les réactions « caricaturales » qui ont suivi son communiqué",
+    "url": "https://www.actu-juridique.fr/professions/magistrats/flash-le-syndicat-de-la-magistrature-denonce-les-reactions-caricaturales-qui-ont-suivi-son-communique/",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-04",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "52 avocats de la Conférence du stage dénoncent une « répression disproportionnée et violente » contre les lycéens",
+  "summary": "Dans une tribune publiée le 4 octobre dans Le Nouvel Obs, 52 avocats, secrétaires ou anciens secrétaires de la Conférence des avocats du barreau de Paris (ex-Conférence du stage), dénoncent une « répression disproportionnée et violente » visant les lycéens qui bloquent leurs établissements et refusent que des jeunes soient « meurtris, enfermés et réduits au silence ». Ils rappellent que derrière les chiffres d'interpellations se trouvent des adolescents parfois âgés de 13 ou 14 ans placés en garde à vue, que la privation de liberté d'un mineur doit rester un « dernier ressort » et que l'État doit protéger les droits de ceux « que la République doit protéger le plus ». Des avocats poursuivent ensuite la dénonciation de violences, d'insultes racistes et de pressions en garde à vue.",
+  "victim": "",
+  "investigation": "Des confrères des barreaux de Paris et de Seine-Saint-Denis ont déposé plainte pour des violences en garde à vue ; le Collectif d'action judiciaire prépare une plainte et une saisine de l'IGPN visant le commissariat de Saint-Denis (9 oct.).",
+  "status_date": "2026-10-09",
+  "statement": {
+   "org": "Conférence des avocats du barreau de Paris (Conférence du stage), collectif de 52 avocats",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "Plurielle.info",
+    "title": "52 avocats dénoncent une « répression disproportionnée et violente » contre les lycéens",
+    "url": "https://plurielle.info/52-avocats-denoncent-une-repression-disproportionnee-et-violente-contre-les-lyceens/",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Le Nouvel Obs (via Yahoo Actualités)",
+    "title": "Blocage des lycées : « Nous ne pouvons supporter que nos jeunes soient meurtris, enfermés et réduits au silence »",
+    "url": "https://fr.news.yahoo.com/blocage-lycees-ne-pouvons-supporter-060006778.html",
+    "date": "2026-10-04"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« Insultes et pressions » : des avocats dénoncent les conditions des gardes à vue de mineurs dans le cadre du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/insultes-et-pressions-des-avocats-denoncent-les-conditions-des-gardes-a-vue-de-mineurs-dans-le-cadre-du-mouvement-des-lyceens_8230291.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Amnesty International appelle les autorités à « apaiser les tensions » à la veille des manifestations lycéennes du 6 octobre",
+  "summary": "À la veille de la journée nationale lycéenne du 6 octobre, Amnesty International demande aux autorités françaises de mettre fin à une réponse policière disproportionnée et de protéger le droit de réunion pacifique. L'organisation relève plus de 5 000 interpellations (85 % de mineurs) selon le ministère de l'Intérieur, un usage dangereux des gaz lacrymogènes, des matraques et des techniques d'immobilisation, et des tirs de balles en caoutchouc à l'origine de blessures graves. Anne Savinel-Barras rappelle que « toute intervention de maintien de l'ordre doit être légale, nécessaire et proportionnée » et que les jeunes qui réclament leur droit à l'éducation « doivent être protégés, et non frappés, exposés à des gaz lacrymogènes » ou détenus arbitrairement. Amnesty critique aussi le projet de loi « casseurs-payeurs » (jusqu'à 10 000 euros de réparations sans preuve d'implication personnelle).",
+  "victim": "",
+  "investigation": "Le 7 octobre, après l'amputation d'un lycéen à Lens, le ministre de l'Intérieur suspend temporairement les grenades assourdissantes ; Amnesty en demande l'interdiction définitive.",
+  "status_date": "2026-10-07",
+  "statement": {
+   "org": "Amnesty International",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Amnesty International",
+    "title": "France: Authorities must de-escalate tensions during student protests",
+    "url": "https://www.amnesty.org/en/latest/news/2026/10/france-authorities-must-de-escalate-tensions-during-student-protests/",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Amnesty International France",
+    "title": "France. Les autorités doivent apaiser les tensions et protéger le droit de réunion pacifique lors des manifestations lycéennes prévues le 6 octobre",
+    "url": "https://www.amnesty.fr/communiques/france-les-autorites-doivent-apaiser-les-tensions-et-proteger-le-droit-de-reunion-pacifique-lors-des-manifestations-lyceennes-prevues-le-6-octobre/",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "lycées Clemenceau, Mermoz, Pierre-Mendès-France, quartier Antigone",
+  "category": "autre",
+  "title": "L'Observatoire des libertés publiques de Montpellier liste des « faits préoccupants » lors des blocages des 1er et 2 octobre",
+  "summary": "L'Observatoire des libertés publiques de Montpellier (OLM, lié à la LDH) publie un communiqué sur les journées des 1er et 2 octobre : absence de RIO sur de nombreux sites, tirs de lacrymogènes sur des lycéens près de Pierre-Mendès-France, agents de la BAC entrés dans le lycée Mermoz pour gazer depuis l'intérieur, charges sans sommation à Antigone, trois medics volontaires ciblés au Polygone (sacs fouillés, visages photographiés), véhicules de police zigzaguant parmi les manifestants, et police municipale chargeant avec des boucliers alors qu'elle n'a « aucune compétence » en maintien de l'ordre. Fait le plus grave : le 2 octobre, une lycéenne de 17 ans immobile devant le lycée Clemenceau est gravement blessée à l'œil lors d'une charge de la CDI (deux fractures faciales). Le journaliste Valentin Levetti (Stupmedia) a été percuté à la jambe par une moto de police.",
+  "victim": "Lycéenne de 17 ans (œil) ; journaliste Valentin Levetti",
+  "investigation": "Neuf jeunes déférés le 3 octobre pour dégradations et jets de projectiles (procès le 8 décembre) ; plainte annoncée du journaliste ; aucune réponse de la préfecture rapportée.",
+  "status_date": "2026-10-05",
+  "statement": {
+   "org": "Observatoire des libertés publiques de Montpellier (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Le Poing",
+    "title": "L'Observatoire des libertés de Montpellier dénonce les pratiques policières lors du mouvement lycéen",
+    "url": "https://lepoing.net/lobservatoire-des-libertes-de-montpellier-denonce-les-pratiques-policieres-lors-du-mouvement-lyceen",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "France",
+  "dept": "",
+  "place": "Parlement européen, Strasbourg",
+  "category": "autre",
+  "title": "La Commission européenne (Roxana Mînzatu) devant le Parlement européen : les lycéens ont droit à un maintien de l'ordre « proportionné et légal »",
+  "summary": "Le 5 octobre, lors de la session plénière du Parlement européen à Strasbourg, la vice-présidente exécutive de la Commission européenne Roxana Mînzatu déclare que les autorités ont le devoir de respecter la liberté de réunion pacifique et que les manifestants peuvent attendre un maintien de l'ordre « proportionné et légal », tout en condamnant les attaques contre policiers, pompiers et secouristes, « aucune revendication ne justifiant la violence ». Elle salue le dialogue engagé par le gouvernement français avec les lycéens et offre le soutien de la Commission s'il est demandé. L'eurodéputée Emma Fourreau dénonce à la tribune la réponse policière (lycéen éborgné à Tours, mâchoire brisée à Saint-Ouen-l'Aumône, main arrachée à Lens) et réclame la démission du ministre de l'Intérieur.",
+  "victim": "",
+  "investigation": "Pas de suite institutionnelle ; nouvelle déclaration de la Commission le 19 octobre et débat d'urgence au Parlement européen le même jour.",
+  "status_date": "2026-10-19",
+  "statement": {
+   "org": "Commission européenne",
+   "kind": "Union européenne"
+  },
+  "sources": [
+   {
+    "outlet": "EU Perspectives",
+    "title": "‘Peaceful protest must be protected’: Brussels responds to France's unrest",
+    "url": "https://euperspectives.eu/2026/10/france-protests-eu-reactions/",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Anadolu Agency",
+    "title": "French lawmaker calls on interior minister to resign over police response to student protests",
+    "url": "https://www.aa.com.tr/en/europe/french-lawmaker-calls-on-interior-minister-to-resign-over-police-response-to-student-protests/4079532",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "La LDH dénonce « une dérive globale par rapport à l'État de droit » dans la gestion policière du mouvement lycéen",
+  "summary": "Lors d'une conférence de presse commune avec la FSU, la CGT, Solidaires, le Syndicat des avocats de France et l'Union étudiante, la présidente de la Ligue des droits de l'Homme Nathalie Tehio dénonce « une dérive globale par rapport à l'État de droit, le non-respect du cadre légal » dans les interventions des forces de l'ordre face aux lycéens : environ 5 000 interpellations depuis le début du mouvement, dont près de 2 000 le seul jeudi 1er octobre, une « ampleur inédite ». Elle estime que le droit international est « complètement bafoué », que les consignes données aux policiers ne comportent « pas de consigne de retenue » envers des enfants au sens de la Convention internationale des droits de l'enfant, et qualifie l'instruction du ministre aux préfets de « chèque en gris ». Les organisations contestent aussi les arrêtés interdisant les rassemblements aux abords des lycées.",
+  "victim": "",
+  "investigation": "Recours annoncés contre les arrêtés préfectoraux ; la LDH lance dans la foulée une plateforme de signalement des violences policières (une centaine de signalements en une semaine au 13 octobre).",
+  "status_date": "2026-10-13",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "La Ligue des droits de l'homme dénonce « une dérive globale par rapport à l'État de droit » lors des interventions des forces de l'ordre dans le cadre du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-ligue-des-droits-de-l-homme-denonce-une-derive-globale-par-rapport-a-l-etat-de-droit-lors-des-interventions-des-forces-de-l-ordre-dans-le-cadre-du-mouvement-des-lyceens_8223298.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "Tours",
+  "dept": "37",
+  "place": "",
+  "category": "répression",
+  "title": "Le SAF obtient la suspension des arrêtés interdisant les rassemblements autour des lycées de Tours (et des drones)",
+  "summary": "Saisi en référé-liberté par le Syndicat des avocats de France dès le lendemain de leur publication, le tribunal administratif d'Orléans suspend le 5 octobre les arrêtés du préfet d'Indre-et-Loire du 2 octobre qui interdisaient les rassemblements aux abords de certains lycées de Tours du 2 au 7 octobre et autorisaient la captation d'images par drone. Le juge estime qu'aucun motif légitime ne justifiait l'interdiction et que le dispositif de drones (contesté par l'association Vigie Liberté) portait atteinte au droit à la vie privée. « Nous avons gagné l'argument du périmètre et de la liberté fondamentale », se félicite Me Alexis Vaz (SAF).",
+  "victim": "",
+  "investigation": "Ordonnance de suspension du juge des référés du tribunal administratif d'Orléans (5 oct.).",
+  "status_date": "2026-10-05",
+  "statement": {
+   "org": "Syndicat des avocats de France",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "France 3 Centre-Val de Loire",
+    "title": "Blocage des lycées : le syndicat des avocats de France obtient l'annulation des arrêtés interdisant les manifestations",
+    "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/blocage-des-lycees-le-syndicat-des-avocats-de-france-obtient-l-annulation-des-arretes-interdisant-les-manifestations-3428457.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Syndicat des avocats de France critique un maintien de l'ordre qui « ne privilégie absolument pas une désescalade »",
+  "summary": "Sur franceinfo, l'avocate Juliette Beigelman (Syndicat des avocats de France, spécialiste des droits des mineurs) déplore « une logique de maintien de l'ordre qui ne privilégie absolument pas une désescalade » face à un mouvement dont elle juge les revendications légitimes ; le SAF estime que « la répression policière qui s'abat sur les lycées a franchi un seuil critique » (5 000 interpellations, dont 2 000 le jeudi précédent). Elle s'inquiète des lettres adressées par des préfets aux parents d'élèves interpellés et demande comment les préfectures ont eu connaissance de procédures pénales couvertes par le secret de l'enquête. Le SAF diffuse des fiches pratiques rappelant aux mineurs gardés à vue leur droit au silence, à un médecin et à leurs représentants légaux.",
+  "victim": "",
+  "investigation": "Le SAF multiplie les référés contre les arrêtés d'interdiction (suspension obtenue à Tours le 5 octobre) et participe le 9 octobre à la dénonciation des conditions de garde à vue des mineurs.",
+  "status_date": "2026-10-09",
+  "statement": {
+   "org": "Syndicat des avocats de France",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Le syndicat des avocats de France critique un « maintien de l'ordre qui ne privilégie pas une désescalade » de la mobilisation des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-syndicat-des-avocats-de-france-critique-un-maintien-de-l-ordre-qui-ne-privilegie-pas-une-desescalade-de-la-mobilisation-des-lyceens_8223502.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la Nation",
+  "category": "autre",
+  "title": "Deux observateurs de l'Observatoire parisien des libertés publiques blessés par une grenade assourdissante à Nation",
+  "summary": "L'Observatoire parisien des libertés publiques (OPLP, LDH) rapporte que, le 6 octobre vers 18 h à Nation, deux de ses observateurs, positionnés aux côtés des journalistes et à l'écart des manifestants, ont été touchés par les éclats d'une grenade assourdissante « tirée de manière non-réglementaire », qui « a projeté à pleine vitesse des éclats sur l'équipe » ; des manifestants ont formé un cercle de protection pour les évacuer. L'Observatoire strasbourgeois identifiera le même modèle de grenade (GL-304 « Condor ») à Strasbourg le 13 octobre. Le communiqué conjoint LDH-FIDH-OMCT du 9 octobre estime que les observateurs ont été délibérément visés.",
+  "victim": "Deux observateurs de l'OPLP",
+  "investigation": "Communiqué de l'OPLP du 7 octobre ; le cas est cité dans la saisine LDH-FIDH-OMCT du 9 octobre.",
+  "status_date": "2026-10-09",
+  "statement": {
+   "org": "Observatoire parisien des libertés publiques (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire parisien des libertés publiques",
+    "title": "Communiqué – Deux observateur·ices blessé·es par une grenade assourdissante à Paris – 6 octobre 2026",
+    "url": "https://obs-paris.org/communique-deux-observateur%c2%b7ices-blesse%c2%b7es-par-une-grenade-assourdissantes-a-paris-6-octobre-2026/",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "LDH (PDF)",
+    "title": "Manifestation lycéenne du 6 octobre : deux observateur-ice-s blessé-e-s par une grenade assourdissante à Paris",
+    "url": "https://obs-paris.org/wp-content/uploads/2026/10/CP_OPLP_2026-10-06.pdf",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "La CNCDH appelle à la désescalade et s'inquiète de l'instruction du ministre de l'Intérieur aux préfets",
+  "summary": "La Commission nationale consultative des droits de l'homme exprime le 6 octobre sa plus vive inquiétude face à l'escalade autour des lycées. Elle rappelle que la liberté d'expression et de réunion pacifique est garantie par la CIDE et la CEDH, met en garde contre l'amalgame entre le mouvement et les violences commises en marge, et juge certaines interventions policières et poursuites « manifestement disproportionnées ». Elle est « particulièrement préoccupée » par l'instruction du ministre de l'Intérieur selon laquelle « l'usage proportionné de la force ne doit jamais inhiber l'action visant à rétablir l'ordre », et par la circulaire du garde des Sceaux appelant à des comparutions très rapides. Elle demande une réponse ciblée, nécessaire et proportionnée, la plus grande retenue dans l'usage de la force et des poursuites, et le rétablissement du dialogue : « la parole des jeunes doit être écoutée et prise en considération, et en aucun cas criminalisée ».",
+  "victim": "",
+  "investigation": "Aucune réponse gouvernementale rapportée.",
+  "status_date": "2026-10-06",
+  "statement": {
+   "org": "Commission nationale consultative des droits de l'homme (CNCDH)",
+   "kind": "autorité indépendante"
+  },
+  "sources": [
+   {
+    "outlet": "CNCDH",
+    "title": "Mobilisations lycéennes : la CNCDH appelle le gouvernement à renforcer le dialogue avec la jeunesse et à garantir l'exercice de leurs droits",
+    "url": "https://www.cncdh.fr/communique-de-presse/mobilisations-lyceennes-la-cncdh-appelle-le-gouvernement-renforcer-le-dialogue",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "Affiches Parisiennes / mesinfos",
+    "title": "Lycéens : la CNDH dénonce l'usage « disproportionné » de la force",
+    "url": "https://mesinfos.fr/lyceens-la-commission-nationale-des-droits-de-l-homme-denonce-l-usage-disproportionne-de-la-force-340422.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "city": "Paris",
+  "dept": "75",
+  "place": "",
+  "category": "autre",
+  "title": "Le Conseil de l'Ordre des avocats de Paris s'inquiète du recours massif à la garde à vue de mineurs",
+  "summary": "Lors de sa séance du 6 octobre, le Conseil de l'Ordre du barreau de Paris relève que plus de 5 000 personnes, en très grande majorité mineures, ont été placées en garde à vue alors qu'un tiers seulement a fait l'objet de poursuites. Il rappelle que « la garde à vue d'un mineur demeure une mesure exceptionnelle », entourée de garanties renforcées (information des représentants légaux, examen médical, assistance d'un avocat), que l'usage de la force est « subordonné aux exigences de nécessité, de stricte proportionnalité et de discernement », a fortiori envers des mineurs et aux abords des établissements scolaires, et que l'emploi des gaz lacrymogènes et des LBD doit être strictement limité. « L'État de droit et les droits de la défense doivent être respectés, quelles que soient les circonstances. »",
+  "victim": "",
+  "investigation": "Communiqué publié le 7 octobre ; pas de réponse des pouvoirs publics rapportée.",
+  "status_date": "2026-10-07",
+  "statement": {
+   "org": "Conseil de l'Ordre des avocats de Paris",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "Barreau de Paris",
+    "title": "Communiqué du Conseil de l'Ordre sur le recours massif aux gardes à vue de mineurs dans le contexte de la mobilisation des lycéens",
+    "url": "https://www.avocatparis.org/conseil-de-l-ordre/communique-du-conseil-de-lordre-sur-le-recours-massif-aux-garde-vue-de-mineurs",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Amnesty International France réclame l'interdiction définitive de toutes les grenades assourdissantes",
+  "summary": "Après l'annonce par Laurent Nuñez, le 7 octobre sur RTL, de la suspension temporaire des grenades assourdissantes dans les manifestations lycéennes (au lendemain de l'amputation de la main d'un lycéen de 15 ans à Lens), Amnesty International France salue « une première mesure importante et bienvenue » mais juge qu'« il faut interdire définitivement ces projectiles dangereux » dans toutes les opérations de maintien de l'ordre : ces grenades, conçues pour choquer et désorienter des foules denses, peuvent « entraîner une perte d'audition irréversible » et des blessures par souffle et éclats. L'organisation réclame aussi la refonte du cadre réglementaire de l'usage de la force et la suspension du LBD. « Les manifestations ne doivent pas se transformer en champs de bataille », déclare Anne Savinel-Barras.",
+  "victim": "",
+  "investigation": "Suspension temporaire limitée aux mobilisations lycéennes ; le ministre annonce le 16 octobre que grenades et LBD pourront de nouveau être utilisés en cas de violences, ce que dénoncent ensuite des soignants (USPCS, 21 oct.).",
+  "status_date": "2026-10-21",
+  "statement": {
+   "org": "Amnesty International France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Amnesty International",
+    "title": "France. Il faut interdire définitivement l'usage de toutes les grenades assourdissantes dans le cadre du maintien de l'ordre au cours de manifestations",
+    "url": "https://www.amnesty.org/fr/latest/news/2026/10/france-permanently-ban-the-use-of-all-stun-grenades-in-policing-of-protests/",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "L'UNICEF France appelle à la désescalade et au respect des droits des enfants mobilisés",
+  "summary": "Au lendemain de la journée lycéenne du 6 octobre, l'UNICEF France appelle à la désescalade des violences et au respect des droits des enfants. Rappelant que la Convention internationale des droits de l'enfant reconnaît à chaque enfant le droit d'exprimer librement son opinion (art. 12) et la liberté de réunion pacifique (art. 15), elle souligne qu'un adolescent qui participe pacifiquement à une mobilisation exerce un droit fondamental. Elle juge insuffisantes, au regard des enjeux, les mesures annoncées par le gouvernement (remplacement des enseignants absents, consultation des lycéens, adaptation des établissements aux fortes chaleurs) et estime que la participation des jeunes ne peut être « uniquement consultative ou symbolique ».",
+  "victim": "",
+  "investigation": "Le gouvernement annonce le 8 octobre des recrutements d'enseignants et une consultation des lycéens ; pas de réponse spécifique à l'UNICEF rapportée.",
+  "status_date": "2026-10-08",
+  "statement": {
+   "org": "UNICEF France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "UNICEF France",
+    "title": "Mobilisations lycéennes : écouter les jeunes et garantir leurs droits",
+    "url": "https://www.unicef.fr/article/mobilisations-lyceennes-ecouter-les-jeunes-et-garantir-leurs-droits/",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "France 24",
+    "title": "French government vows to boost teacher numbers in bid to ease school crisis",
+    "url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "city": "France",
+  "dept": "",
+  "place": "commissariat de Saint-Denis et autres",
+  "category": "autre",
+  "title": "Des avocats (CAJ, Legal Team Paris, SAF) dénoncent « insultes et pressions » contre des mineurs en garde à vue",
+  "summary": "Alors que le ministère de la Justice recense 6 877 gardes à vue dont 86 % de mineurs, des avocats du Collectif d'action judiciaire (Prisca Ancion, Romane Bartoli), de la Legal Team Paris (Ainoha Pascual) et le président du Syndicat des avocats de France Mohamed Jaite décrivent des « violences policières d'une particulière gravité » : un mineur dit avoir été frappé en cellule pour avoir exercé son droit au silence, gifles, tête plaquée au sol, strangulation, insultes racistes, pressions pour renoncer à des droits fondamentaux, numéros d'avocats bloqués au commissariat de Saint-Denis, une jeune fille emmenée pieds nus au commissariat. Deux lycéens de 16 ans ont passé plus de dix heures en garde à vue.",
+  "victim": "Mineurs gardés à vue, notamment à Saint-Denis",
+  "investigation": "Le CAJ prépare une plainte et une saisine de l'IGPN visant le commissariat de Saint-Denis ; le SAF diffuse un guide sur le droit au silence ; aucune réponse officielle aux allégations rapportée.",
+  "status_date": "2026-10-09",
+  "statement": {
+   "org": "Collectif d'action judiciaire, Legal Team Paris, Syndicat des avocats de France",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "« Insultes et pressions » : des avocats dénoncent les conditions des gardes à vue de mineurs dans le cadre du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/insultes-et-pressions-des-avocats-denoncent-les-conditions-des-gardes-a-vue-de-mineurs-dans-le-cadre-du-mouvement-des-lyceens_8230291.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "LDH, FIDH et OMCT dénoncent la « violente répression du mouvement lycéen » et saisissent l'opinion internationale",
+  "summary": "Dans un communiqué commun daté de Paris et Genève, la Ligue des droits de l'Homme, la FIDH, l'OMCT et leur Observatoire pour la protection des défenseurs des droits humains dénoncent une répression « violente » qui méconnaît le droit national et international : 6 629 interpellations au 7 octobre et plus de 5 000 gardes à vue dont 87 % de mineurs (contre 6 730 en un an pour les Gilets jaunes, 690 pour la loi travail, 250 pour le CPE), envoi de la BAC plutôt que des unités de maintien de l'ordre, un lycéen de 16 ans éborgné à Tours (1er oct.) et un lycéen de 15 ans amputé d'une main à Lens par une grenade EF-SON (5 oct.), journalistes attaqués et observateurs de la LDH visés par des grenades le 6 octobre. « Toutes les digues morales sautent quand on s'en prend à des enfants », déclare Nathalie Tehio ; Alexis Deswaef (FIDH) juge les revendications « légitimes ». Les organisations demandent de traiter les enfants comme des sujets de droits protégés par la CIDE, des enquêtes indépendantes, l'interdiction des armes mutilantes et une réforme de la doctrine.",
+  "victim": "",
+  "investigation": "Le communiqué rappelle que la rapporteuse spéciale de l'ONU sur la liberté de réunion a appelé le 4 octobre la France à protéger l'intégrité physique des manifestants et que le Haut-Commissariat suit la situation « avec inquiétude » (9 oct.) ; seule mesure gouvernementale : suspension de la grenade EF-SON pour les manifestations lycéennes.",
+  "status_date": "2026-10-12",
+  "statement": {
+   "org": "Ligue des droits de l'Homme, FIDH, OMCT (Observatoire pour la protection des défenseurs des droits humains)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "FIDH",
+    "title": "France : violente répression du mouvement lycéen",
+    "url": "https://www.fidh.org/fr/regions/europe-asie-centrale/france/france-violente-repression-du-mouvement-lyceen",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "LDH",
+    "title": "Violente répression du mouvement lycéen",
+    "url": "https://www.ldh-france.org/violente-repression-du-mouvement-lyceen/",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "OMCT",
+    "title": "France : violente répression du mouvement lycéen",
+    "url": "https://www.omct.org/fr/ressources/communiques-de-presse/france-violente-r%C3%A9pression-du-mouvement-lyc%C3%A9en",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Haut-Commissariat de l'ONU aux droits de l'homme suit « avec inquiétude » les incidents liés aux manifestations lycéennes",
+  "summary": "Lors du point de presse du 9 octobre à Genève, la porte-parole du Haut-Commissariat des Nations unies aux droits de l'homme, Shabia Mantoo, déclare : « Nous suivons avec inquiétude les incidents liés aux manifestations étudiantes » et aux blocages de lycées, dont certains ont dégénéré. Elle appelle à ce que les manifestations restent pacifiques et à ce que les forces de l'ordre ne fassent « pas de recours disproportionné à la force » : « Le droit de réunion pacifique doit être respecté. » Cette première réaction onusienne intervient après la main arrachée d'un lycéen de 15 ans à Lens et la perte d'un œil d'un lycéen de 16 ans à Tours.",
+  "victim": "",
+  "investigation": "Suivie le 20 octobre par une déclaration du Haut-Commissaire Volker Türk, puis le 28 octobre par un communiqué de quatre rapporteurs spéciaux.",
+  "status_date": "2026-10-28",
+  "statement": {
+   "org": "Haut-Commissariat des Nations unies aux droits de l'homme (porte-parole)",
+   "kind": "ONU"
+  },
+  "sources": [
+   {
+    "outlet": "Noovo Info (AFP)",
+    "title": "Mouvement des lycéens en France : l'ONU « inquiète » face aux violences",
+    "url": "https://www.noovo.info/nouvelles/international/article/mouvement-des-lyceens-en-france-lonu-inquiete-face-aux-violences/",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "TRT Français",
+    "title": "L'ONU appelle au respect du droit de manifester des lycéens et à un usage proportionné de la force",
+    "url": "https://www.trtfrancais.com/article/8190f0af6b18",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "RSF recense au moins douze journalistes agressés ou intimidés lors des mobilisations lycéennes",
+  "summary": "Reporters sans frontières dénombre le 9 octobre au moins douze journalistes agressés physiquement ou intimidés alors qu'ils couvraient les mobilisations lycéennes et étudiantes depuis le 21 septembre : six par des manifestants ou des tiers (BFMTV à Saint-Denis le 29 sept., LCI à Lille, un correspondant de M6 blessé au front et caméra détruite à Marseille le 1er oct., Dijon Actualités menacé au couteau) et six par les forces de l'ordre (journaliste de Lyon Mag, Var-Matin frappé à la matraque à Fréjus, Valentin Levetti percuté par une moto à Montpellier le 2 oct., Samuel Clauzier frappé trois fois par des CRS à Montpellier le 6 oct., Mike Strachinescu de L'Humanité saisi à la gorge à Paris le 6 oct., le photographe Patrick Wack touché à l'oreille par un tir de LBD à bout portant à Bastille le 8 oct.). « Frapper un journaliste, le menacer ou détruire son matériel porte gravement atteinte à la liberté de la presse », déclare Laure Chauvel, responsable du bureau France. RSF rappelle que le schéma national du maintien de l'ordre garantit le droit des journalistes à couvrir les opérations.",
+  "victim": "Au moins 12 journalistes",
+  "investigation": "RSF demande l'identification des auteurs et des poursuites ; plaintes de BFMTV, de Valentin Levetti (8 oct.) et du reporter de Dijon Actualités ; la Fédération européenne des journalistes relaie les cas le 12 octobre.",
+  "status_date": "2026-10-12",
+  "statement": {
+   "org": "Reporters sans frontières",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Défenseur des droits fait état de 28 saisines et appelle à « concilier la sécurité et la protection des droits »",
+  "summary": "Dix jours après le début des mobilisations, le Défenseur des droits indique avoir reçu 28 saisines individuelles liées au mouvement lycéen, en cours d'examen, en plus de son autosaisine du 1er octobre sur Saint-Ouen-l'Aumône. Évoquant « de nombreux incidents », il rappelle qu'« il est impératif de concilier la sécurité à la protection des droits et libertés des personnes » et se dit « particulièrement vigilant au respect et à la bonne application des règles de déontologie » par les forces de sécurité, une « vigilance renforcée » s'imposant lorsque des mineurs sont concernés. Il précise que son intervention se limite au cadre fixé par la loi organique et qu'il pourra se saisir à nouveau d'office.",
+  "victim": "",
+  "investigation": "Suivi : 55 saisines au 23 octobre (communiqué suivant).",
+  "status_date": "2026-10-23",
+  "statement": {
+   "org": "Défenseur des droits",
+   "kind": "autorité indépendante"
+  },
+  "sources": [
+   {
+    "outlet": "Défenseur des droits",
+    "title": "Mobilisations lycéennes",
+    "url": "https://www.defenseurdesdroits.fr/mobilisations-lyceennes-1252",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Colère des lycéens : le Défenseur des droits annonce avoir reçu 28 saisines depuis le début du mouvement",
+    "url": "https://fr.news.yahoo.com/col%C3%A8re-lyc%C3%A9ens-d%C3%A9fenseur-droits-annonce-194448436.html",
+    "date": "2026-10-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "",
+  "category": "autre",
+  "title": "L'Observatoire des libertés publiques de Montpellier publie un rapport sur la police municipale dans le maintien de l'ordre (sept. 2025 – oct. 2026)",
+  "summary": "Dans un rapport d'observation de 28 pages, l'Observatoire des libertés publiques de Montpellier documente le recours « quasi-systématique » à la police municipale dans les opérations de maintien de l'ordre à Montpellier depuis la mobilisation « Bloquons tout » et surtout pendant le mouvement lycéen (blocages des lycées Jean-Monnet, Jules-Guesde et Joffre à partir du 29 septembre, « immédiatement réprimés »), alors que le décret du 2 janvier 2012 prévoit qu'« en aucun cas il ne peut être confié à la police municipale des missions de maintien de l'ordre ». Il relève aussi le déploiement d'une unité motorisée en civil sans RIO, des tirs non réglementaires et une « voiture bélier », et rappelle les plus de 6 000 arrestations nationales en moins de deux semaines, dont 85 % de mineurs.",
+  "victim": "",
+  "investigation": "Rapport mis en ligne par la LDH ; aucune réponse de la Ville de Montpellier rapportée (celle-ci affirmait en 2025 que ses agents géraient la circulation).",
+  "status_date": "2026-10-12",
+  "statement": {
+   "org": "Observatoire des libertés publiques de Montpellier (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire des libertés publiques de Montpellier (PDF, LDH)",
+    "title": "Rapport d'observation sur la place de police municipale dans le maintien de l'ordre à Montpellier – Septembre 2025 – Octobre 2026",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/10/Police-municipale-et-maintien-de-lordre-a-Montpellier.pdf",
+    "date": "2026-10-12"
+   },
+   {
+    "outlet": "LDH",
+    "title": "Observatoire des libertés et des pratiques policières : agir pour la défense des libertés publiques",
+    "url": "https://www.ldh-france.org/observatoires-des-pratiques-policieres-agir-pour-la-defense-des-libertes-publiques/",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "city": "Bordeaux",
+  "dept": "33",
+  "place": "place de la Victoire, cours Victor-Hugo, place André-Meunier",
+  "category": "autre",
+  "title": "L'Observatoire girondin des libertés publiques alerte sur la BAC intégrée au dispositif et la saturation de Bordeaux en gaz lacrymogène",
+  "summary": "Après avoir déployé six équipes les 2, 5, 6, 7 et 8 octobre, l'Observatoire girondin des libertés publiques (LDH, SAF, FSU) s'inquiète de l'intégration d'agents de la BAC cagoulés et sans RIO dans chaque groupe des sections de CDI, de comportements violents de policiers en civil non identifiables (trois témoignages concordants le 6 octobre), de véhicules banalisés de la BAC décrivant des cercles à vive allure au milieu de manifestants pacifiques place de la Victoire (6 et 8 octobre, une jeune femme percutée), d'un usage « massif et indiscriminé » de grenades lacrymogènes sans sommations conformes (dix salves le 8 octobre, dont une visant la terrasse du bar Le Grizzly et une aire de jeux, parents et personnels périscolaires exposés devant l'école Barbey), et d'entraves aux journalistes et observateurs (journaliste repoussé d'un coup de bouclier, coup sur la main d'un observateur).",
+  "victim": "",
+  "investigation": "Rapports détaillés annoncés ; l'observatoire rappelle que les plaintes IGPN/IGGN sont souvent classées faute d'identification des agents.",
+  "status_date": "2026-10-12",
+  "statement": {
+   "org": "Observatoire girondin des libertés publiques (LDH, SAF, FSU)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire girondin des libertés publiques (PDF, LDH)",
+    "title": "Communiqué de presse du 12 octobre 2026 – maintien de l'ordre lors des manifestations lycéennes",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/10/CP-Semaine-1-Manifestations-Lyceennes-OGLP_261013_080741.pdf",
+    "date": "2026-10-12"
+   },
+   {
+    "outlet": "LDH",
+    "title": "Observatoire des libertés et des pratiques policières : agir pour la défense des libertés publiques",
+    "url": "https://www.ldh-france.org/observatoires-des-pratiques-policieres-agir-pour-la-defense-des-libertes-publiques/",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "",
+  "category": "autre",
+  "title": "L'Observatoire strasbourgeois des libertés publiques dénonce des « pratiques violentes » et des entraves à l'observation le 6 octobre",
+  "summary": "L'Observatoire strasbourgeois des libertés publiques (Oslib, créé en 2022 par le SAF et la LDH) publie le 12 octobre ses constats « préoccupants » sur la manifestation lycéenne du 6 octobre : un véhicule de la BAC manquant d'écraser plusieurs personnes, un fourgon avançant délibérément vers un groupe, des policiers tentant à plusieurs reprises de jeter un cycliste au sol, des personnes repoussées alors qu'elles reculaient déjà, deux observateurs bousculés et des observateurs empêchés de filmer des interpellations, un homme touché à la mâchoire par un tir de LBD effectué à environ 50 mètres, hors distance réglementaire, et un usage répété de gaz lacrymogène « qui semble notamment avoir eu pour objectif de contraindre et d'orienter les déplacements des manifestants », jusqu'aux abords d'une école maternelle. Dans le Bas-Rhin, 105 personnes ont été interpellées du 1er au 12 octobre.",
+  "victim": "",
+  "investigation": "Les députés Emmanuel Fernandes et Sandra Regol signalent au procureur le tir de LBD et une interpellation violente du 8 octobre près du lycée Pasteur ; aucune réponse de la préfecture rapportée.",
+  "status_date": "2026-10-14",
+  "statement": {
+   "org": "Observatoire strasbourgeois des libertés publiques (Oslib)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestations lycéennes : à Strasbourg, les observateurs mettent en évidence des « pratiques violentes » dans le maintien de l'ordre",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/manifestations-lyceennes-a-strasbourg-les-observateurs-mettent-en-evidence-des-pratiques-violentes-dans-le-maintien-de-l-ordre-3432357.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "Oslib (PDF, LDH)",
+    "title": "Maintien de l'ordre à Strasbourg : des pratiques violentes et des entraves à l'observation",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/10/RAPPORT-OSLIB-12-OCT-2026.pdf",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "La Fédération européenne des journalistes exige des sanctions immédiates après treize incidents visant des journalistes",
+  "summary": "La Fédération européenne des journalistes (FEJ/EFJ) recense, depuis le 29 septembre, treize incidents de violences ou d'entraves contre des journalistes couvrant les mobilisations lycéennes, consignés sur Mapping Media Freedom, dont huit imputés à des policiers, en violation du schéma national du maintien de l'ordre : Valentin Levetti percuté par un policier à moto (Montpellier, 2 oct.), Samuel Clauzier et Frédéric Munsch (Montpellier, 6 oct.), Mike Strachinescu saisi à la gorge (Paris, 6 oct.), Patrick Wack blessé par un tir de LBD (Paris, 8 oct.), équipements de protection confisqués à Anna Margueritat. Elle demande l'identification et la sanction « sans délai » des responsables, y compris policiers, le port visible du RIO, la fin de la pratique consistant à attendre une condamnation pénale avant toute sanction disciplinaire, et la mise en œuvre des recommandations publiées le 5 octobre avec le MFRR et RSF après sa mission en France de juin 2026.",
+  "victim": "13 journalistes recensés",
+  "investigation": "Incidents signalés à Mapping Media Freedom et à la Plateforme du Conseil de l'Europe pour la sécurité des journalistes ; plainte de Valentin Levetti devant le tribunal de Montpellier.",
+  "status_date": "2026-10-12",
+  "statement": {
+   "org": "Fédération européenne des journalistes (FEJ/EFJ)",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "Fédération européenne des journalistes",
+    "title": "France : les violences contre les journalistes lors des mobilisations requièrent des sanctions immédiates et la mise en œuvre de nos recommandations post-mission",
+    "url": "https://europeanjournalists.org/fr/2026/10/12/france-les-violences-contre-les-journalistes-lors-des-mobilisations-requierent-des-sanctions-immediates-et-la-mise-en-oeuvre-de-nos-recommandations-post-mission/",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "La plateforme de signalement de la LDH recueille une centaine de témoignages de violences policières en une semaine",
+  "summary": "Lancée en urgence début octobre, la plateforme de la Ligue des droits de l'Homme destinée à recenser les violences policières « subies ou observées au cours du mouvement des lycéens » a reçu environ une centaine de signalements (vidéos et témoignages) en une semaine. « Ces jeunes, pour la plupart, manifestaient pour la première fois », souligne la présidente Nathalie Tehio. La LDH, qui dénonçait la semaine précédente une « dérive globale par rapport à l'État de droit », entend exploiter ces éléments pour « saisir la justice si besoin » et déploie ses observateurs lors de la journée de mobilisation du 13 octobre.",
+  "victim": "",
+  "investigation": "Éléments destinés à d'éventuelles actions en justice ; saisine du Comité des droits de l'enfant de l'ONU annoncée le 22 octobre.",
+  "status_date": "2026-10-22",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation des lycéens : une plateforme de la LDH pour recenser des violences policières recueille une centaine de signalements en une semaine",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/mobilisation-des-lyceens-une-plateforme-de-la-ldh-pour-recenser-des-violences-policieres-recueille-une-centaine-de-signalements-en-une-semaine_8235013.html",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Conseil national des barreaux : « l'État de droit ne se négocie pas, il se respecte »",
+  "summary": "Par une résolution adoptée en assemblée générale et rendue publique le 13 octobre, le Conseil national des barreaux rappelle que le maintien de l'ordre ne saurait « s'affranchir du respect des droits et libertés fondamentaux ». Tout en condamnant toute forme de violence et de dégradation, il exige que les opérations respectent « les principes de nécessité, de proportionnalité et de discernement », particulièrement à l'égard des mineurs, rappelle que l'usage des grenades de désencerclement, des LBD et des gaz lacrymogènes est « strictement encadré », appelle à une vigilance accrue sur les garanties procédurales des enfants, notamment leur droit à être effectivement assistés par un avocat à tous les stades de la procédure, et réaffirme le rôle des avocats comme « gardiens de l'État de droit ».",
+  "victim": "",
+  "investigation": "Résolution publiée en PDF ; pas de suite rapportée.",
+  "status_date": "2026-10-13",
+  "statement": {
+   "org": "Conseil national des barreaux",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "Conseil national des barreaux",
+    "title": "Mobilisation lycéenne : l'État de droit ne se négocie pas, il se respecte",
+    "url": "https://cnb.avocat.fr/actualite/mobilisation-lyceenne-l-etat-de-droit-ne-se-negocie-pas-il-se-respecte",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "city": "Nancy",
+  "dept": "54",
+  "place": "rue des Ponts",
+  "category": "autre",
+  "title": "Des observateurs de la LDH à Nancy dénoncent un tir tendu de lance-grenades et d'avoir été bousculés par la police (8 octobre)",
+  "summary": "Deux observateurs de la Ligue des droits de l'Homme de Nancy, qui documentent les manifestations avec une dizaine de bénévoles, rendent publiques leurs vidéos de la manifestation lycéenne du 8 octobre rue des Ponts : un policier y effectue un tir tendu avec un lanceur Cougar sur une foule majoritairement lycéenne, puis les observateurs, qui s'étaient présentés à l'officier responsable avant la manifestation, sont fortement bousculés par un autre policier qui frappe le téléphone de l'un d'eux. La préfecture affirme que la vidéo est « sortie de son contexte » (deux véhicules brûlaient et il fallait « fixer » la zone pour les pompiers), ce que contestent les observateurs à partir de la chronologie des images, et indique ne pas disposer « d'éléments portés à sa connaissance confirmant un tir tendu ».",
+  "victim": "Deux observateurs de la LDH",
+  "investigation": "La LDH envisage des suites judiciaires au niveau national ; la préfecture renvoie vers « les autorités compétentes » si un tir tendu est établi.",
+  "status_date": "2026-10-14",
+  "statement": {
+   "org": "Ligue des droits de l'Homme – observateurs de Nancy",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestation lycéenne : des observateurs de la Ligue des droits de l'Homme fortement bousculés par la police",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestation-lyceenne-des-observateurs-de-la-ligue-des-droits-de-l-homme-fortement-bouscules-par-la-police-3432978.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "L'Est républicain",
+    "title": "Nancy. Manif lycéenne : un policier filmé en train d'effectuer un tir tendu avec un lance-grenade",
+    "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/10/14/manif-lyceenne-un-policier-filme-en-train-d-effectuer-un-tir-tendu-avec-un-lance-grenade",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Human Rights Watch : les manifestations lycéennes « accueillies par un recours excessif à la force »",
+  "summary": "Dans une tribune du 14 octobre signée par Eva Cossé et Almaz Teffera, Human Rights Watch estime que, si des lycées ont été bloqués et si certains manifestants ont commis des violences, l'immense majorité des manifestations sont restées pacifiques, alors que la police a utilisé gaz lacrymogènes, grenades assourdissantes, matraques, balles en caoutchouc et « méthodes de contrainte brutales » contre des enfants : un garçon de 15 ans a perdu une main à Lens, un autre de 14 ans a eu la mâchoire fracturée à Saint-Ouen-l'Aumône. Plus de 6 800 personnes ont été placées en garde à vue (86 % de mineurs) et 36 enquêtes internes ouvertes, dont HRW rappelle qu'elles débouchent rarement sur de réelles sanctions en France. L'ONG critique une proposition de loi instaurant une présomption de légalité de l'usage de leur arme par les policiers et appelle le gouvernement à cesser de traiter des enfants manifestant pacifiquement comme une menace, à enquêter sur chaque usage de la force et à réformer les pratiques de maintien de l'ordre.",
+  "victim": "",
+  "investigation": "HRW note que la CNCDH et l'ONU ont exprimé leur préoccupation ; seule mesure gouvernementale relevée : suspension temporaire des grenades assourdissantes.",
+  "status_date": "2026-10-14",
+  "statement": {
+   "org": "Human Rights Watch",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Human Rights Watch",
+    "title": "Les manifestations des lycéens français accueillies par un recours excessif à la force",
+    "url": "https://www.hrw.org/fr/news/2026/10/14/les-manifestations-des-lyceens-francais-accueillies-par-un-recours-excessif-a-la",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "Human Rights Watch",
+    "title": "French High School Student Protests Met with Excessive Force",
+    "url": "https://www.hrw.org/news/2026/10/14/french-high-school-student-protests-met-with-excessive-force",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "boulevard de la Victoire, campus de l'Esplanade",
+  "category": "autre",
+  "title": "L'Oslib documente des interpellations dissimulées par la BAC et des grenades GL-304 lancées dans les jambes des manifestants (13 octobre)",
+  "summary": "Dans un rapport du 15 octobre sur la mobilisation du 13 octobre à Strasbourg, l'Observatoire strasbourgeois des libertés publiques décrit l'interpellation d'un enfant de 13 ans menotté dans un fourgon par des agents de la BAC sans identification visible, un second fourgon positionné pour empêcher observateurs et journalistes de filmer, des menaces d'interpellation (« J'en ai rien à faire “observateurs” ») et des injonctions à retirer les masques de protection, puis deux doubles lancers de grenades assourdissantes GL-304 « Condor » roulées au niveau des jambes de manifestants qui chantaient La Marseillaise sans menace immédiate pour les CRS ; les street medics ont soigné quatre blessés par éclats. L'Oslib rappelle que le fabricant recommande dix mètres de distance, que le ministère de l'Intérieur a indiqué au Monde que sa doctrine ne prévoit pas cette distance, et que la suspension du 7 octobre ne concerne pas la GL-304.",
+  "victim": "Enfant de 13 ans interpellé ; quatre blessés par éclats",
+  "investigation": "Rapports circonstanciés annoncés ; l'Oslib invoque les décisions du Conseil d'État des 10 juin 2021 et 29 décembre 2023 sur les journalistes et observateurs.",
+  "status_date": "2026-10-15",
+  "statement": {
+   "org": "Observatoire strasbourgeois des libertés publiques (Oslib)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Oslib (PDF, LDH)",
+    "title": "Maintien de l'ordre à Strasbourg : entraves à l'observation et usage préoccupant de grenades assourdissantes",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/10/RAPPORT-OSLIB-15-OCT-2026.pdf",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "city": "France",
+  "dept": "",
+  "place": "Parlement européen, Strasbourg",
+  "category": "autre",
+  "title": "Débat d'urgence au Parlement européen sur les émeutes en France : l'hémicycle se divise sur les violences et le droit de manifester",
+  "summary": "Le 19 octobre, le Parlement européen ajoute en urgence à son ordre du jour, à l'initiative du PPE et de l'ECR, un débat sur « les dernières violences antidémocratiques de groupes d'extrême gauche radicaux, leurs implications sur l'ordre public et le droit légitime de manifester » en France, en Italie et en Belgique ; les contre-propositions de The Left et des S&D (débat sur le droit de manifester et sur la vie chère des jeunes) sont rejetées. Jean-Paul Garraud (Patriotes) et François-Xavier Bellamy (PPE) mettent en cause l'extrême gauche et La France insoumise, Laurence Farreng (Renew) demande une réponse judiciaire ferme, Manon Aubry (The Left) rappelle qu'« une main arrachée ou un œil perdu » ne se réparent pas, Mélissa Camara (Verts) accuse l'extrême droite d'instrumentaliser la colère ; la vice-présidente Katarina Barley interrompt Nicolas Bay pour des propos visant des « hordes de voyous d'origine étrangère ». Plus de 2 500 interpellations et près de 1 000 membres des forces de l'ordre blessés sont cités ; aucune résolution n'est adoptée.",
+  "victim": "",
+  "investigation": "Débat sans vote ni résolution ; la présidente Roberta Metsola est saisie des propos de Nicolas Bay.",
+  "status_date": "2026-10-21",
+  "statement": {
+   "org": "Parlement européen",
+   "kind": "Union européenne"
+  },
+  "sources": [
+   {
+    "outlet": "RTÉ",
+    "title": "EU Parliament holds emergency debate on French riots",
+    "url": "https://www.rte.ie/news/2026/1019/1596014-european-parliament-french-riots/",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Agence Europe",
+    "title": "Vandalism and violence against protesters divides European Parliament over 17 October demonstrations",
+    "url": "https://agenceurope.eu/en/bulletin/article/13964/16/vandalism-and-violence-against-protesters-divides-european-parliament-over-17-october-demonstrations",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "LDH : « l'urgence d'une refondation du contrat social » après les « violences indiscriminées et disproportionnées » du 17 octobre",
+  "summary": "Dans un communiqué du 19 octobre, la Ligue des droits de l'Homme qualifie de « gravissime » le recours à « des violences indiscriminées et disproportionnées » par des agents des forces de l'ordre le 17 octobre, rappelle que la force « ne [peut] être employée que dans le strict respect des principes et des règles de la République » et dénonce la « violente répression » des mobilisations lycéennes. Elle conteste l'injonction du Premier ministre à « choisir son camp » et l'assimilation du fait « d'aller dans la rue, de manifester » à la création de désordres, et appelle à des réponses politiques et démocratiques immédiates fondées sur l'État de droit et la justice sociale.",
+  "victim": "",
+  "investigation": "Suivi par les recours de la LDH contre les interdictions de manifester (22-23 oct.) et sa saisine du Comité des droits de l'enfant (22 oct.).",
+  "status_date": "2026-10-23",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH",
+    "title": "L'urgence d'une refondation du contrat social et d'une réponse démocratique aux mobilisations citoyennes",
+    "url": "https://www.ldh-france.org/lurgence-dune-refondation-du-contrat-social-et-dune-reponse-democratique-aux-mobilisations-citoyennes/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "city": "France",
+  "dept": "",
+  "place": "Hérault (Sérignan, Pézenas, Castelnau-le-Lez, Gignac, Lunel)",
+  "category": "répression",
+  "title": "LDH et SAF contestent jusqu'au Conseil d'État l'interdiction des équipements de protection individuelle dans l'Hérault",
+  "summary": "La LDH et le Syndicat des avocats de France ont attaqué en référé-liberté l'arrêté du 1er octobre de la préfète de l'Hérault interdisant « sans motif légitime » le port et le transport de masques à gaz, masques filtrants, lunettes de protection, casques et genouillères lors des rassemblements aux abords des lycées de cinq communes. Le tribunal administratif de Montpellier (6 octobre) puis le juge des référés du Conseil d'État (ordonnance du 15 octobre) rejettent les recours, tout en jugeant que « tout équipement de protection individuelle ne constitue pas nécessairement une arme » et que le port d'un objet interdit « ne suffit pas à caractériser le délit de dissimulation du visage ». La LDH souligne que la décision « ne valide pas toute interdiction d'EPI mais la conditionne à un contexte déterminé ».",
+  "victim": "",
+  "investigation": "Ordonnance du Conseil d'État du 15 octobre 2026 ; des interdictions similaires d'EPI sont ensuite prises et confirmées à Metz pour le 24 octobre.",
+  "status_date": "2026-10-19",
+  "statement": {
+   "org": "Ligue des droits de l'Homme et Syndicat des avocats de France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH",
+    "title": "Interdiction des équipements de protection individuelle dans l'Hérault",
+    "url": "https://www.ldh-france.org/interdiction-des-equipements-de-protection-individuelle-dans-lherault/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "La Commission européenne : « ceux qui manifestent pacifiquement ne doivent pas être confondus avec ceux qui commettent des violences »",
+  "summary": "Interrogé le lundi 19 octobre après les émeutes et pillages du 17 octobre, le porte-parole de la Commission européenne Markus Lammert déclare que « le droit de manifester pacifiquement est un droit fondamental dans tous les pays démocratiques et doit être protégé », que « ceux qui manifestent pacifiquement ne doivent pas être confondus avec ceux qui commettent des violences » et que « les incendies, les pillages et les attaques contre les bâtiments publics sont inacceptables ». La Commission soutient les efforts des autorités françaises pour protéger personnes, biens et institutions « dans le plein respect des droits fondamentaux », en rappelant que les enquêtes et le maintien de l'ordre relèvent de la compétence nationale ; elle ne se prononce pas sur les violences policières elles-mêmes.",
+  "victim": "",
+  "investigation": "Aucune procédure européenne engagée ; débat d'urgence au Parlement européen le soir même.",
+  "status_date": "2026-10-19",
+  "statement": {
+   "org": "Commission européenne (porte-parole Markus Lammert)",
+   "kind": "Union européenne"
+  },
+  "sources": [
+   {
+    "outlet": "Sud Ouest",
+    "title": "Mobilisation sociale et violences : l'Union européenne dit que le droit à manifester pacifiquement « doit être protégé » et dénonce les pillages",
+    "url": "https://www.sudouest.fr/societe/greves-et-manifestations/mobilisation-sociale-et-violences-l-union-europeenne-dit-que-le-droit-a-manifester-pacifiquement-doit-etre-protege-et-denonce-les-pillages-31150303.php",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "EU Perspectives",
+    "title": "‘Peaceful protest must be protected’: Brussels responds to France's unrest",
+    "url": "https://euperspectives.eu/2026/10/france-protests-eu-reactions/",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Democrata",
+    "title": "The EU supports France but distinguishes between protest and violence",
+    "url": "https://www.democrata.es/en/international/brussels-supports-france-in-public-order-but-demands-not-to-confuse-protesters-with-disturbances/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "city": "Lille",
+  "dept": "59",
+  "place": "parc Jean-Baptiste-Lebas, boulevard de la Liberté, place de la République, rue Inkermann",
+  "category": "autre",
+  "title": "L'OL3P de Lille : des forces de l'ordre « dépassées et désorganisées » et des « armes mutilantes » en nombre inhabituel le 17 octobre",
+  "summary": "L'Observatoire des libertés publiques et des pratiques policières de Lille (OL3P, LDH), qui avait déployé deux équipes de trois observateurs, décrit un maintien de l'ordre où « les forces de l'ordre ont semblé dépassées et désorganisées », des interventions qui ont coupé le cortège jusqu'à vingt minutes, une « surabondance » de gaz lacrymogène touchant toute la ville (sept tirs place de la République entre 17 h 26 et 17 h 46 alors que des manifestants arrivaient encore, dispersion « forcée et désordonnée » sans barrières vers les rues de Béthune et du Molinel), des tirs tendus de lanceurs Cobra/Cougar et des grenades GENL lancées à 18 h 49 vers des personnes sans agressivité, un recours massif aux « armes mutilantes » (GENL, LBD) inhabituel à Lille, un tir de LBD atteignant un appartement au premier étage, un CRS porteur d'un fusil d'assaut HK G36, et à 21 h 06 une trentaine de CRS encerclant une terrasse rue Inkermann pour une interpellation violente. Les observateurs eux-mêmes ont été gazés et bousculés ; des mineurs ont été frappés, gazés « et pour certains d'entre eux, mutilés ».",
+  "victim": "",
+  "investigation": "Le communiqué réclame des agents identifiables (RIO, visage découvert), des sanctions individuelles et une réponse politique aux causes du mouvement ; aucune réponse de la préfecture rapportée.",
+  "status_date": "2026-10-22",
+  "statement": {
+   "org": "Observatoire des libertés publiques et des pratiques policières de Lille (OL3P)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH Lille",
+    "title": "Communiqué de l'Observatoire des libertés publiques et des pratiques policières de Lille (OL3P) sur le maintien de l'ordre à Lille la journée du 17 octobre 2026",
+    "url": "https://site.ldh-france.org/lille/2026/10/20/communique-de-lobservatoire-des-libertes-publiques-et-des-pratiques-policieres-de-lille-ol3p-sur-le-maintien-de-lordre-a-lille-la-journee-du-17-octobre-2026/",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "ICI Nord",
+    "title": "« Les forces de l'ordre ont semblé dépassées et désorganisées », retour sur le maintien de l'ordre à Lille le 17 octobre",
+    "url": "https://www.ici.fr/hauts-de-france/nord-59/lille/les-forces-de-l-ordre-ont-semble-depassees-et-desorganisees-retour-sur-le-maintien-de-l-ordre-a-lille-le-17-octobre-7160675",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la République",
+  "category": "autre",
+  "title": "L'Observatoire parisien des libertés publiques dénonce la « mise en danger délibérée » d'une personne inconsciente par des CRS (18 octobre)",
+  "summary": "Dans un communiqué intitulé « T'as qu'à appeler le 18 », l'Observatoire parisien des libertés publiques rapporte que, le 18 octobre vers 18 h place de la République, une personne blessée et inconsciente après l'usage de grenades explosives et lacrymogènes gisait dans une zone éloignée « de plusieurs dizaines de mètres du reste des manifestant·es », où quelques personnes tentaient de lui porter secours, lorsque des CRS postés à une vingtaine de mètres ont tiré de nouvelles grenades lacrymogènes sur cette zone alors qu'« aucune menace n'en émanait à ce moment précis ». L'observatoire y voit une mise en danger délibérée.",
+  "victim": "Manifestant inconscient (non identifié)",
+  "investigation": "Communiqué publié le 20 octobre (PDF détaillé) ; suites non précisées.",
+  "status_date": "2026-10-20",
+  "statement": {
+   "org": "Observatoire parisien des libertés publiques (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire parisien des libertés publiques",
+    "title": "Communiqué – « T'as qu'à appeler le 18 » récit d'une mise en danger délibérée d'une personne inconsciente par des CRS – 18 octobre 2026",
+    "url": "https://obs-paris.org/communique-tas-qua-appeler-le-18-recit-dune-mise-en-danger-deliberee-dune-personne-inconsciente-par-des-crs-18-octobre-2026/",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Volker Türk (ONU) : « préoccupé par les informations faisant état d'un recours inutile et excessif à la force contre des manifestants, y compris des enfants »",
+  "summary": "Le 20 octobre, le Haut-Commissaire des Nations unies aux droits de l'homme Volker Türk appelle la France, la Belgique, l'Italie, l'Albanie et le Portugal à mettre fin à l'escalade des violences liées aux manifestations contre la vie chère et pour les services publics. Il condamne les violences et le vandalisme, dont les auteurs doivent répondre individuellement, mais se dit préoccupé par « un recours inutile et excessif à la force », y compris contre des enfants, demande des enquêtes rapides, effectives et indépendantes, des réparations pour les victimes et une action policière « légale, nécessaire et proportionnée ». Il appelle à « un dialogue constructif, inclusif et de fond », notamment avec les jeunes, et à des réponses concrètes sur l'éducation, le logement et les inégalités. Plus de 2 400 interpellations en France sont rapportées pour le 17 octobre.",
+  "victim": "",
+  "investigation": "Türk relève que certaines autorités ont ouvert des enquêtes et pris des mesures d'apaisement ; des experts mandatés par l'ONU se déclarent ensuite en contact avec les autorités françaises (28 oct.).",
+  "status_date": "2026-10-28",
+  "statement": {
+   "org": "Haut-Commissaire des Nations unies aux droits de l'homme (Volker Türk)",
+   "kind": "ONU"
+  },
+  "sources": [
+   {
+    "outlet": "ONU Info",
+    "title": "Manifestations en Europe : l'ONU dénonce les violences et met en garde contre la répression",
+    "url": "https://news.un.org/fr/story/2026/10/1159695",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Le Haut-Commissaire de l'Onu aux droits de l'homme condamne les violences en Europe",
+    "url": "https://fr.euronews.com/2026/10/20/le-haut-commissaire-de-lonu-aux-droits-de-lhomme-condamne-les-violences-en-europe",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Des soignants (USPCS) réclament l'interdiction des LBD et des grenades après la réautorisation des grenades assourdissantes",
+  "summary": "L'Union syndicale des professionnels des centres de santé (médecins et paramédicaux), par ses coprésidents Marine Combourg et Frédéric Villebrun, réaffirme le 21 octobre son soutien au mouvement lycéen et étudiant, dénonce « toutes les violences » et s'interroge sur la décision du ministre de l'Intérieur de réautoriser le 17 octobre les grenades assourdissantes suspendues le 7 octobre après l'amputation d'un adolescent à Lens. Elle demande « l'interdiction de l'usage d'armes sublétales » – LBD, grenades assourdissantes et de désencerclement – qu'elle qualifie d'armes de guerre provoquant des « mutilations irréversibles », en particulier sur des groupes de mineurs, alerte sur la santé mentale des adolescents et exige que la sécurité des manifestants soit « une priorité absolue pour l'État ». Plus d'une centaine de professionnels de santé avaient signé le 17 octobre une lettre ouverte sur le risque de mutilation.",
+  "victim": "",
+  "investigation": "Aucune réponse gouvernementale rapportée.",
+  "status_date": "2026-10-23",
+  "statement": {
+   "org": "Union syndicale des professionnels des centres de santé (USPCS)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Les Centres de santé (USPCS)",
+    "title": "L'USPCS réaffirme son soutien au mouvement lycéen et étudiant",
+    "url": "https://lescentresdesante.com/luspcs-reaffirme-son-soutien-au-mouvement-lyceen-et-etudiant/",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "Jeunesse du Monde",
+    "title": "Répression des lycéens : des soignants exigent l'interdiction des LBD",
+    "url": "https://jeunessedumonde.fr/2026/10/21/repression-des-lyceens-des-soignants-reclament-l-interdiction-des-lbd-et-des-grenades/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "city": "Bobigny",
+  "dept": "93",
+  "place": "dépôt du tribunal judiciaire de Bobigny",
+  "category": "autre",
+  "title": "Le barreau de Seine-Saint-Denis dénonce une nuit « indigne » pour 17 mineurs déférés au dépôt de Bobigny",
+  "summary": "Quatre membres du Conseil de l'ordre délégués par la bâtonnière Sandrine Beressi ont visité au petit matin du 21 octobre le dépôt du tribunal de Bobigny, où 17 mineurs interpellés dans le cadre du mouvement lycéen ou de pillages avaient passé la nuit « dans des conditions inacceptables » : pas de matelas alors que des cellules collectives étaient vides, au moins trois adolescents tremblant de froid sous des couvertures de survie, cellules sales avec déchets et bouteilles d'urine, aucun kit d'hygiène. Le barreau (plus de 670 avocats) exige la fin de ces nuits au dépôt et rattache la situation à la circulaire du 2 octobre du garde des Sceaux appelant à une « réponse pénale ferme et rapide ». Le procureur de Bobigny Alexandre de Bosschère reconnaît le soir même des conditions inacceptables.",
+  "victim": "17 mineurs",
+  "investigation": "Le parquet annonce que les présentations de nuit seront réservées aux situations exceptionnelles et interdit l'usage nocturne des petites cellules pour mineurs ; tous les mineurs sont remis en liberté faute d'avoir pu être présentés à un juge dans les délais ; le Défenseur des droits se dit « alerté » (23 oct.) ; travaux de reconstruction du dépôt annoncés pour novembre.",
+  "status_date": "2026-10-23",
+  "statement": {
+   "org": "Barreau de Seine-Saint-Denis",
+   "kind": "barreau et magistrature"
+  },
+  "sources": [
+   {
+    "outlet": "France 24 (AFP)",
+    "title": "Nuit « indigne » pour des mineurs déférés à Bobigny, le parquet admet des manquements",
+    "url": "https://www.france24.com/fr/info-en-continu/20261021-nuit-indigne-pour-des-mineurs-d%C3%A9f%C3%A9r%C3%A9s-%C3%A0-bobigny-le-parquet-admet-des-manquements",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Affiches Parisiennes / mesinfos",
+    "title": "Bobigny : des « conditions de détention indignes » pour les mineurs",
+    "url": "https://mesinfos.fr/93000-bobigny/bobigny-des-conditions-de-detention-indignes-pour-les-mineurs-341706.html",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "RSF : une trentaine de journalistes agressés ou empêchés de travailler, plus de la moitié le 17 octobre",
+  "summary": "À la veille de la mobilisation du 24 octobre, Reporters sans frontières recense une trentaine de journalistes agressés ou empêchés de travailler depuis le début des mobilisations sociales, dont une quinzaine le seul 17 octobre à Nantes, Grenoble, Paris, Lyon et Marseille. Côté forces de l'ordre : le photojournaliste Ricardo Parreira touché à la jambe par un tir de LBD à Montpellier malgré ses marquages « Presse », Mathias Enthoven (Blast) hospitalisé après un éclat de grenade de désencerclement dans l'abdomen, Adrien Pittore (Sipa) visé au LBD, journalistes refoulés ou fouillés à Paris, équipements de protection confisqués ; côté manifestants et tiers : Rosie Birchard (Al Jazeera) frappée à la tête à Rennes, une équipe d'Euronews dépouillée boulevard de Magenta, Emma Audrey blessée au poignet, un photographe de Place Gre'net roué de coups à Grenoble, le siège de Lagardère News (Europe 1, JDD, CNews) pris pour cible. « Les journalistes ne sont pas des cibles », rappelle Laure Chauvel ; RSF souligne que le schéma national du maintien de l'ordre autorise les journalistes à porter des protections et à circuler dans les dispositifs.",
+  "victim": "Une trentaine de journalistes",
+  "investigation": "RSF demande l'ouverture d'enquêtes ; les policiers ont justifié la confiscation d'équipements de Blast par un arrêté préfectoral de la veille ; aucune réponse officielle rapportée. Bilan porté à 58 cas début novembre.",
+  "status_date": "2026-11-06",
+  "statement": {
+   "org": "Reporters sans frontières",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "Les journalistes pris pour cible lors des mobilisations sociales en France",
+    "url": "https://rsf.org/fr/les-journalistes-pris-pour-cible-lors-des-mobilisations-sociales-en-france",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Reporters Without Borders",
+    "title": "Journalists targeted during protests across France",
+    "url": "https://rsf.org/en/journalists-targeted-during-protests-across-france",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "",
+  "category": "autre",
+  "title": "L'Observatoire toulousain des pratiques policières publie son rapport sur la manifestation du 17 octobre : des grenades tirées sur des manifestants « sans la moindre menace »",
+  "summary": "L'Observatoire toulousain des pratiques policières (LDH, SAF, FSU, Solidaires), qui avait déployé treize observateurs en chasubles répartis en trois équipes, rend public un rapport sur les opérations de police du 17 octobre à Toulouse. Il relève des tirs de grenades « face à des manifestants qui ne présentaient, ni de près, ni de loin, la moindre menace pour l'ordre public », tout en documentant des affrontements avec la police menés par un groupe organisé en black bloc, et décrit le comportement d'autres participants comme « erratique et désordonné », donnant l'impression de personnes « énervées, voire en rage et sous adrénaline ». Il rappelle (p. 18) que les grenades explosives n'ont ni pour fonction ni pour résultat de disperser les foules mais de blesser « au petit bonheur la chance ». L'observatoire couvre les manifestations toulousaines depuis près de dix ans (environ 350 observées).",
+  "victim": "",
+  "investigation": "Rapport mis en ligne le 22 octobre ; suivi d'un communiqué le 26 octobre après la mutilation d'un manifestant le 24 octobre.",
+  "status_date": "2026-10-26",
+  "statement": {
+   "org": "Observatoire toulousain des pratiques policières",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Université populaire de Toulouse",
+    "title": "Rapport sur les opérations de police lors de la manifestation du 17 octobre 2026 à Toulouse",
+    "url": "https://universitepopulairetoulouse.fr/spip.php?article8115=&lang=fr",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "TÉMOIGNAGES. Sit-in, cours d'éducation populaire : face à la répression lors des manifestations, des lycéens à la recherche d'alternatives pour se faire entendre",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/temoignages-sit-in-cours-d-education-populaire-face-a-la-repression-lors-des-manifestations-des-lyceens-a-la-recherche-d-alternatives-pour-se-faire-entendre-3437862.html",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "La LDH juge « parfaitement illégale » l'interdiction annoncée par Emmanuel Macron des manifestations non syndicales",
+  "summary": "Après la déclaration d'Emmanuel Macron, à l'issue d'un conseil de sécurité le 22 octobre (« qu'il n'y ait pas de manifestation dans les jours à venir » ; « quand ce ne sont pas des organisations syndicales, partout où on le peut, on interdira »), la vice-présidente de la LDH, la magistrate honoraire Évelyne Sire-Marin, qualifie la décision de « parfaitement illégale » : « On ne peut pas interdire de façon générale de manifester dans le pays », une interdiction ne pouvant viser qu'un lieu précis en cas de risque de troubles, et « le président de la République n'a aucune compétence là-dessus », les interdictions relevant des préfets. Elle réclame une « proportion » entre la liberté constitutionnelle de manifester et l'ordre public et annonce des recours contre les arrêtés qui ne respecteraient pas la loi.",
+  "victim": "",
+  "investigation": "Référé-liberté d'associations et de partis de gauche rejeté par le Conseil d'État le 24 octobre ; la LDH attaque les arrêtés de plusieurs villes (23 oct.) ; tribunaux administratifs partagés (suspension partielle à Marseille, rejets à Besançon et Metz).",
+  "status_date": "2026-10-24",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 24 octobre : autoriser uniquement les manifestations des syndicats est « parfaitement illégal », affirme la LDH qui envisage des recours",
+    "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-24-octobre-autoriser-uniquement-les-manifestations-des-syndicats-est-parfaitement-illegal-affirme-la-ldh-qui-envisage-des-recours_8249527.html",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Droit de manifester en France : « Ce n'est pas au président de choisir ses opposants »",
+    "url": "https://www.france24.com/fr/france/20261023-droit-manifester-france-ce-est-pas-president-republique-choisir-opposants",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "L'Express / 6Médias (via Orange)",
+    "title": "Interdiction de manifester : le Conseil d'État rejette les recours après les déclarations d'Emmanuel Macron",
+    "url": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "",
+  "category": "autre",
+  "title": "Les Street Médics de Montpellier recensent une soixantaine de blessés le 17 octobre et dénoncent des tirs visant des secouristes identifiés",
+  "summary": "Le collectif Street Médics Montpellier publie un bilan provisoire, « forcément en dessous de la réalité », des blessés soignés par ses onze équipes le 17 octobre de 14 h à minuit : une soixantaine de personnes, dont 8 plaies à la tête (3 commotions suspectées), 9 impacts de LBD, 5 plaies profondes par grenades, 6 brûlures jusqu'au troisième degré, 5 coups de matraque, 3 pertes de connaissance, une perte totale d'audition d'une oreille (18 ans), 10 évacuations, et au moins 11 mineurs de 14 à 17 ans pris en charge ; parmi les cas graves, un jeune de 19 ans avec un éclat de grenade dans le triceps, un lycéen de 15 ans avec une plaie de 6 cm, un jeune de 17 ans agrafé au crâne. Deux medics identifiés auraient été visés par des tirs tendus de grenade et de LBD. Le collectif demande la fin des LBD, grenades de désencerclement et GM2L et des enquêtes indépendantes.",
+  "victim": "Une soixantaine de blessés, dont au moins 11 mineurs",
+  "investigation": "La préfète Chantal Mauchet indique le 20 octobre que 1 600 grenades ont été tirées et que 37 policiers ont été blessés ; le directeur départemental de la police annonce un dispositif « très mobile et très offensif » pour le 24 octobre.",
+  "status_date": "2026-10-22",
+  "statement": {
+   "org": "Street Médics Montpellier",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Le Poing",
+    "title": "Montpellier : le 17 octobre, une soixantaine de manifestant-es blessé-es, les Street Médics pris pour cible par la police",
+    "url": "https://lepoing.net/montpellier-le-17-octobre-une-soixantaine-de-manifestant-es-blesse-es-les-street-medics-pris-pour-cible-par-la-police/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "« L'armée contre la jeunesse » : la LDH saisit le Comité des droits de l'enfant de l'ONU et demande une mission d'observation du Haut-Commissariat",
+  "summary": "Dans un communiqué daté du 22 octobre, la Ligue des droits de l'Homme dénonce un maintien de l'ordre « chaotique » le 17 octobre et l'absence de réponse du gouvernement aux revendications lycéennes, étudiantes et syndicales, la seule annonce étant une escalade : déploiement pour le 24 octobre, dans le cadre du Guide opérationnel des violences urbaines, de 500 militaires de Sentinelle et des unités BRI, RAID et GIGN, « avec des armes de guerre spécifiques », alors que les armes dites sublétales ont déjà mutilé des mineurs. « Il ne peut pas employer l'armée contre sa population », écrit la LDH, qui annonce saisir le Comité des droits de l'enfant des Nations unies sur le fondement de la CIDE et demande au Haut-Commissariat aux droits de l'homme une mission d'observation des prochaines manifestations. Elle réclame une « stratégie de désescalade politique » et appelle à des rassemblements le 5 novembre.",
+  "victim": "",
+  "investigation": "Aucune réaction publique du Comité des droits de l'enfant recensée au 9 novembre ; quatre rapporteurs spéciaux de l'ONU se disent le 28 octobre « consternés » et en contact avec les autorités françaises ; le Haut-Commissariat n'a pas annoncé de mission.",
+  "status_date": "2026-11-09",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH",
+    "title": "L'armée contre la jeunesse : la LDH demande à l'ONU une mission d'observation en France",
+    "url": "https://www.ldh-france.org/larmee-contre-la-jeunesse-la-ldh-demande-a-lonu-une-mission-dobservation-en-france/",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "L'Orient-Le Jour",
+    "title": "La LDH demande à l'ONU d'envoyer une mission d'observation après les manifestations",
+    "url": "https://www.lorientlejour.com/article/1551746/la-ldh-demande-a-lonu-denvoyer-une-mission-dobservation-apres-les-manifestations.html",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "Imaz Press",
+    "title": "La Ligue des droits de l'Homme annonce saisir l'ONU après une « répression sans précédent d'enfants »",
+    "url": "https://imazpress.com/france-monde/la-ligue-des-droits-de-l-homme-annonce-saisir-l-onu-apres-une-repression-sans-precedent-d-enfants",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "Amnesty International France dénonce une « surenchère uniquement sécuritaire » et de graves entraves au droit de manifester",
+  "summary": "À la veille de la journée du 24 octobre, Amnesty International France estime que les interdictions de manifester et les couvre-feux annoncés en série (dont un couvre-feu partiel à Paris le 21 octobre), le déploiement de l'armée en renfort et le projet de coupure des réseaux sociaux constituent de graves restrictions au droit de manifester et de circuler librement : « cette surenchère uniquement sécuritaire se fait au détriment de nos libertés », déclare Nathalie Godard, directrice du plaidoyer, qui voit le gouvernement « glisser » vers des pratiques autoritaires, les « risques de violences » ne pouvant justifier ni restriction de la manifestation pacifique ni usage excessif de la force. L'ONG craint une escalade dans l'usage des nasses, des gaz lacrymogènes et des « grenades mutilantes », rappelle que près de 8 000 personnes dont 85 % d'enfants ont été placées en garde à vue du 21 septembre au 14 octobre, et demande que l'interdiction reste l'exception, un changement de doctrine et une stratégie de désescalade.",
+  "victim": "",
+  "investigation": "Le gouvernement et les préfets maintiennent les interdictions au nom du risque de troubles graves ; le Conseil d'État rejette le 24 octobre les recours contre la consigne présidentielle.",
+  "status_date": "2026-10-24",
+  "statement": {
+   "org": "Amnesty International France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Amnesty International France",
+    "title": "France : Amnesty International dénonce une surenchère sécuritaire et de graves entraves au droit de manifester",
+    "url": "https://www.amnesty.fr/communiques/amnesty-denonce-une-surenchere-securitaire-et-de-graves-entraves-au-droit-de-manifester-en-france/",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "Amnesty International France",
+    "title": "Jusqu'où la France va-t-elle attaquer le droit de manifester ?",
+    "url": "https://www.amnesty.fr/reperes/tout-savoir-sur-le-droit-de-manifester-en-france/",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "city": "France",
+  "dept": "",
+  "place": "Le Mans, Brest, Quimper, Marseille, Caen, Lille, Avignon, Montpellier",
+  "category": "répression",
+  "title": "La LDH conteste devant les tribunaux administratifs les arrêtés d'interdiction de manifester du 24 octobre",
+  "summary": "La Ligue des droits de l'Homme annonce le 23 octobre contester « la multiplication d'arrêtés préfectoraux interdisant tous rassemblements dans de nombreuses villes de France » pour la journée du 24 octobre, notamment au Mans, à Brest, Quimper, Marseille, Caen, Lille, Avignon et Montpellier. « Ces arrêtés quotidiens portent atteinte à plusieurs libertés fondamentales » : liberté d'aller et venir, liberté de réunion pacifique, liberté d'expression collective des idées et des opinions, et « droit au recours effectif mis à mal par des publications tardives ». La LDH « poursuivra son action pour garantir le respect de l'État de droit ».",
+  "victim": "",
+  "investigation": "Décisions contrastées des tribunaux administratifs : l'interdiction générale dans les Bouches-du-Rhône est partiellement suspendue à Marseille, le référé de l'intersyndicale du Doubs et de la LDH est rejeté à Besançon, les interdictions (y compris d'équipements de protection) sont confirmées à Metz.",
+  "status_date": "2026-10-24",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH",
+    "title": "La LDH conteste plusieurs arrêtés d'interdiction de manifestation le 24 octobre 2026",
+    "url": "https://www.ldh-france.org/la-ldh-conteste-plusieurs-arretes-dinterdiction-de-manifestation-le-24-octobre-2026/",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "Le Parisien",
+    "title": "Mobilisation du 24 octobre : Paris, Lyon, Marseille, Bordeaux... La justice valide ou invalide les interdictions de manifester",
+    "url": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php",
+    "date": "2026-10-24"
+   },
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestations du 24 octobre : à Besançon, le tribunal administratif rejette le référé-liberté contre l'interdiction de manifester en centre-ville",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/manifestations-du-24-octobre-a-besancon-l-intersyndicale-et-la-ligue-des-droits-de-l-homme-deposent-un-refere-libe",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Défenseur des droits : 55 saisines, dont 21 mettant en cause la déontologie des forces de sécurité envers des mineurs",
+  "summary": "Le Défenseur des droits exprime le 23 octobre « sa plus vive préoccupation quant au respect des droits de l'enfant » dans les mobilisations lycéennes. Il instruit 55 saisines, dont 21 concernent des mineurs et mettent en cause la déontologie des forces de sécurité : 19 dénoncent le recours à la force (usage d'armes, nasses), 2 la confiscation de pancartes, 3 des atteintes aux droits procéduraux et des conditions indignes en garde à vue. Il s'inquiète de l'ampleur « inédite » des interpellations et gardes à vue et de leurs conditions dégradées, se dit alerté des « conditions indignes » de rétention de mineurs au dépôt du tribunal de Bobigny, rappelle son avis 20-08 sur le maintien de l'ordre et sa décision-cadre 2020-131 sur la confiscation d'objets, et demande que les forces de l'ordre prennent systématiquement en compte « l'intérêt supérieur de l'enfant », que le cadre juridique de la confiscation soit clarifié et que le maintien de l'ordre soit recentré « sur sa mission de police administrative ». Une approche strictement punitive, souligne-t-il, ne favorise pas l'intégration des enfants aux normes sociales.",
+  "victim": "",
+  "investigation": "55 saisines en cours d'instruction ; autosaisine du 1er octobre (Saint-Ouen-l'Aumône) toujours en cours.",
+  "status_date": "2026-10-23",
+  "statement": {
+   "org": "Défenseur des droits",
+   "kind": "autorité indépendante"
+  },
+  "sources": [
+   {
+    "outlet": "Défenseur des droits",
+    "title": "Mobilisations lycéennes : le Défenseur des droits appelle à respecter les droits de l'enfant",
+    "url": "https://www.defenseurdesdroits.fr/mobilisations-lyceennes-le-defenseur-des-droits-appelle-respecter-les-droits-de-lenfant-1254",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le SNJ : « Les journalistes ne sont pas des cibles » et refuse les réquisitions judiciaires d'images",
+  "summary": "Le Syndicat national des journalistes condamne le 23 octobre les violences visant la presse lors des manifestations pour l'éducation et contre la vie chère et appelle manifestants, autorités et forces de l'ordre à respecter le travail des reporters. Il recense pour le 17 octobre : à Lyon, des journalistes visés par une grenade de désencerclement, un reporter frappé à la jambe, un CRS plaquant son LBD contre le torse d'un photoreporter puis visant sa tête ; à Paris, quatre reporters de Blast blessés dont un hospitalisé avec un éclat de grenade dans le ventre ; à Lille, un reporter de l'AFP touché aux jambes par un tir de LBD ; cinq journalistes de l'AFP touchés au total (canon à eau, matraque, projectiles de manifestants à Paris, Rennes et Chambéry) ; à Grenoble, un reporter de Place Gre'net frappé et dépouillé de sa caméra. Le SNJ s'oppose aux réquisitions des parquets visant à saisir les images des journalistes (« un journaliste n'est pas un auxiliaire de justice ») et désapprouve le blocage de Lagardère News.",
+  "victim": "Journalistes (AFP, Blast, Place Gre'net...)",
+  "investigation": "Le SNJ annonce accompagner les journalistes qui saisiront la justice ; sa section Rhône-Ain-Loire interpelle le ministère de l'Intérieur le 8 novembre.",
+  "status_date": "2026-11-08",
+  "statement": {
+   "org": "Syndicat national des journalistes (SNJ)",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "Holybuzz (reproduction du communiqué du SNJ)",
+    "title": "Communiqué du SNJ du vendredi 23 octobre 2026 : « Manifestations pour l'éducation et contre la vie chère : les journalistes ne sont pas des cibles »",
+    "url": "https://www.holybuzz.com/2026/10/actu-communique-du-snj-du-vendredi-23-octobre-2026-manifestations-pour-leducation-et-contre-la-vie-chere-les-journalistes-ne-sont-pas-des-cibles/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "Le commissaire aux droits de l'homme du Conseil de l'Europe appelle les États à protéger la liberté de réunion pacifique et à privilégier la désescalade",
+  "summary": "Le jour des manifestations du 24 octobre en France (déclaration datée du 23 octobre à Strasbourg), le commissaire aux droits de l'homme du Conseil de l'Europe Michael O'Flaherty appelle les États membres secoués par des mouvements de protestation, où les jeunes et les étudiants jouent un rôle de premier plan, à protéger le droit à la liberté de réunion pacifique : « les forces de l'ordre doivent privilégier le dialogue et la désescalade ». Tout en jugeant légitime l'intervention contre pillages et émeutes, il rappelle que tout recours à la force « doit être strictement nécessaire », que les allégations d'abus doivent être rapidement enquêtées, que la privation de liberté « ne doit jamais être utilisée pour intimider ou dissuader une manifestation pacifique », que les autorités doivent tenir compte de l'âge et de la vulnérabilité des enfants, que la violence de quelques-uns ne justifie ni « restrictions arbitraires » ni « interdictions générales » ni dispersion de tout un rassemblement, et que l'emploi de militaires pour le maintien de l'ordre « peut s'avérer problématique du point de vue des droits humains ». Les dépêches relient l'appel aux couvre-feux, interdictions et au déploiement de militaires décidés en France.",
+  "victim": "",
+  "investigation": "Déclaration générale ne nommant aucun État ; aucune réaction du gouvernement français rapportée.",
+  "status_date": "2026-10-24",
+  "statement": {
+   "org": "Commissaire aux droits de l'homme du Conseil de l'Europe (Michael O'Flaherty)",
+   "kind": "Conseil de l'Europe"
+  },
+  "sources": [
+   {
+    "outlet": "Conseil de l'Europe – Commissaire aux droits de l'homme",
+    "title": "Commissioner O'Flaherty calls for the protection of the right to freedom of peaceful assembly and human rights-compliant policing",
+    "url": "https://www.coe.int/en/web/commissioner/news/2026/-/asset_publisher/aa3hyyf8wKBn/content/commissioner-calls-for-protection-of-the-right-to-freedom-of-peaceful-assembly-in-the-context-of-protests",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "France 24 (AFP)",
+    "title": "Le Conseil de l'Europe appelle à respecter le droit de manifester",
+    "url": "https://www.france24.com/fr/info-en-continu/20261024-le-conseil-de-l-europe-appelle-%C3%A0-respecter-le-droit-de-manifester",
+    "date": "2026-10-24"
+   },
+   {
+    "outlet": "La Libre Belgique",
+    "title": "Le Conseil de l'Europe appelle les États à respecter le droit de manifester",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/10/24/le-conseil-de-leurope-appelle-les-etats-a-respecter-le-droit-de-manifester-INEY5AEUVVBPVO27APKT54TRQM/",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "Amnesty International France demande le rejet du projet de loi « casseurs-payeurs », « texte rétrograde » contraire aux obligations internationales",
+  "summary": "Avant son examen au Sénat les 27 et 28 octobre, Amnesty International France dénonce le projet de loi « casseurs-payeurs », qui instaure une responsabilité civile solidaire permettant de faire payer jusqu'à 10 000 euros à des personnes ayant « sciemment » participé à un groupement où des violences ont été commises ou restées dans un attroupement après sommations, sans qu'elles aient personnellement causé les dommages, avec saisie possible des prestations sociales (allocations familiales, APL, RSA), y compris pour des dommages causés par des enfants. « Tenir pour responsables et faire payer des manifestant·es pour des actes commis par d'autres » crée un risque d'arbitraire et un effet dissuasif sur la liberté de réunion, estime Nathalie Godard : « Le gouvernement doit renoncer à ce nouveau projet de loi liberticide ». Dans un second communiqué le 28 octobre, l'ONG juge le texte « profondément rétrograde » et s'inquiète d'un amendement créant une peine d'interdiction du territoire pour les étrangers condamnés.",
+  "victim": "",
+  "investigation": "Le Sénat adopte le texte durci (délit de participation à une manifestation interdite, interdiction individuelle de manifester prononcée par le préfet) ; une tribune collective relayée par la LDH le 23 octobre dénonçait déjà un « risque financier pour toute personne se rendant dans une manifestation ».",
+  "status_date": "2026-10-28",
+  "statement": {
+   "org": "Amnesty International France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Amnesty International France",
+    "title": "Le projet de loi « casseurs-payeurs » violerait les obligations internationales de la France et doit être rejeté",
+    "url": "https://www.amnesty.fr/communiques/le-projet-de-loi-casseurs-payeurs-doit-etre-rejete/",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Amnesty International France",
+    "title": "France. Un texte rétrograde : les parlementaires doivent rejeter le projet de loi « casseurs-payeurs »",
+    "url": "https://www.amnesty.fr/communiques/france-un-texte-retrograde-les-parlementaires-doivent-rejeter-le-projet-de-loi-casseurs-payeurs/",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "LDH",
+    "title": "Tribune collective « Le projet de loi “casseurs-payeurs” créerait un risque financier pour toute personne se rendant dans une manifestation »",
+    "url": "https://www.ldh-france.org/23-octobre-2026-tribune-collective-le-projet-de-loi-casseurs-payeurs-creerait-un-risque-financier-pour-toute-personne-se-rendant-dans-une-manifestation-publiee-sur-le/",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Flagrant déni : la nouvelle « filière déontologie » de l'IGPN à l'épreuve du mouvement de la jeunesse",
+  "summary": "Le média d'enquête Flagrant déni, auteur en novembre 2025 d'un rapport sur les « polices des polices », analyse le 26 octobre la réponse de l'IGPN au mouvement lycéen : plus de quarante saisines depuis le début de la mobilisation, alors que le rapport annuel 2025 de l'IGPN fait état de 86 blessés graves liés à l'usage de la force, de plus de 1 000 signalements pour « usage illégitime de la force » et de 322 enquêtes judiciaires. Il relève que les 47 « cellules déontologie » locales comptent 113 agents contre 112 enquêteurs à l'IGPN, que les enquêtes administratives ne représentent que 3,4 % des dossiers et que l'IGPN ne traite que 43 % des 2 358 enquêtes judiciaires impliquant des policiers, tandis que son directeur Stéphane Hardouin attribue en partie la hausse des violences par personnes dépositaires de l'autorité publique (+60 % depuis 2016) aux polices municipales. Flagrant déni demande la publication du nombre total d'enquêtes avec leurs suites, le démantèlement des cellules déontologie et la publication des sanctions prises après le mouvement des Gilets jaunes.",
+  "victim": "",
+  "investigation": "Le ministère de l'Intérieur annonce 83 enquêtes IGPN/IGGN au 30 octobre ; pas de réponse à l'article rapportée.",
+  "status_date": "2026-10-30",
+  "statement": {
+   "org": "Flagrant déni",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "Flagrant déni",
+    "title": "IGPN : la nouvelle « filière déontologie » à l'épreuve du mouvement de la jeunesse",
+    "url": "https://www.flagrant-deni.fr/igpn-la-nouvelle-filiere-deontologie-a-lepreuve-du-mouvement-de-la-jeunesse/",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "quartier des Arènes",
+  "category": "autre",
+  "title": "« La police et la gendarmerie mutilent » : l'Observatoire toulousain réclame l'interdiction totale des grenades explosives et des LBD après la main déchiquetée d'un manifestant",
+  "summary": "Après la mutilation, le 24 octobre dans le quartier des Arènes à Toulouse, d'un jeune homme dont la main a été « déchiquetée par l'explosion d'une grenade explosive (GM2L ou GL 304) », l'Observatoire toulousain des pratiques policières rappelle que seule la police française en Europe est dotée de ce type de grenades (GENL, GM2L, ASSD, GL304), qu'elles ne dispersent pas les foules mais blessent « au petit bonheur la chance » et dissuadent de manifester – « des armes de terreur sociale » – et réitère « de la manière la plus ferme » sa demande, formulée depuis janvier 2019, d'interdiction totale des grenades explosives et des LBD. Il dénonce aussi le sort des street medics, frappés, visés par des tirs et dont le matériel de soin est saisi : un secouriste a vu ses premiers secours confisqués sans procès-verbal, un policier lui indiquant qu'ils seraient détruits.",
+  "victim": "Tedy, 20 ans, serveur, amputé de deux doigts",
+  "investigation": "La préfecture de la Haute-Garonne indique que les circonstances de la blessure seront investiguées sous l'autorité de la justice ; l'observatoire demande à la préfecture et aux directions de la police et de la gendarmerie de garantir l'accès aux soins et la libre circulation des secouristes volontaires.",
+  "status_date": "2026-10-26",
+  "statement": {
+   "org": "Observatoire toulousain des pratiques policières",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire toulousain des pratiques policières (PDF, LDH)",
+    "title": "La police et la gendarmerie mutilent – communiqué de presse du 26 octobre 2026",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/11/CP-OPP-Toulouse-24-octobre-2026.pdf",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "LDH",
+    "title": "Observatoire des libertés et des pratiques policières : agir pour la défense des libertés publiques",
+    "url": "https://www.ldh-france.org/observatoires-des-pratiques-policieres-agir-pour-la-defense-des-libertes-publiques/",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le SNJ-CGT : « Halte à la violence contre les journalistes, halte à la haine dans les médias ! »",
+  "summary": "Le SNJ-CGT dénonce le 27 octobre « toutes les violences policières », y compris celles visant des journalistes à Paris, Montpellier, Lille et ailleurs : matériel de protection confisqué à une journaliste, journaliste percuté volontairement par un policier à moto, plusieurs journalistes touchés ou visés par des tirs de LBD ou des éclats de grenades dont un blessé grave, bousculades, coups de matraque et gaz lacrymogènes – « des atteintes à la liberté de la presse, au droit d'informer et d'être informé ». Il condamne aussi les violences de manifestants ou de tiers (équipes de BFMTV agressées à Paris et Marseille les 23 et 24 octobre, un pigiste d'une télévision québécoise frappé par une pierre le 25 octobre, projectiles contre le siège d'Europe 1, du JDD et de CNews le 17 octobre) et celles du service d'ordre du Rassemblement national contre Mediapart à Orléans. Il reproche à certaines rédactions de privilégier les images de heurts, ce qui met leurs équipes en danger, et qualifie de désinformation l'affirmation d'une journaliste du JDD sur CNews selon laquelle des kalachnikovs auraient été trouvées chez des émeutiers.",
+  "victim": "",
+  "investigation": "Le syndicat demande aux employeurs de garantir la sécurité des journalistes, notamment précaires, et saisit la CPPAP et l'Arcom sur les titres condamnés pour incitation à la haine.",
+  "status_date": "2026-10-30",
+  "statement": {
+   "org": "SNJ-CGT",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "SNJ-CGT",
+    "title": "Halte à la violence contre les journalistes, halte à la haine dans les médias !",
+    "url": "https://www.snjcgt.fr/2026/10/27/halte-a-la-violence-contre-les-journalistes-halte-a-la-haine-dans-les-medias/",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "rue de la Loge, office de tourisme, place de la Comédie",
+  "category": "autre",
+  "title": "L'Observatoire des libertés publiques de Montpellier documente un « groupe de type milice » d'extrême droite agissant aux côtés des CRS le 24 octobre",
+  "summary": "Dans un rapport de 25 pages présenté le 28 octobre avec la LDH de l'Hérault, l'Observatoire des libertés publiques de Montpellier (neuf membres sur le terrain le 24 octobre, environ 10 000 manifestants malgré l'interdiction) analyse image par image cinq vidéos : un groupe structuré d'une quinzaine d'hommes portant un brassard blanc, mobilisé par l'appel de l'influenceur d'extrême droite Alpha_Rise à « protéger » les commerçants, invective, bombarde puis frappe des manifestants rue de la Loge à 16 h 30 à quelques dizaines de mètres d'un cordon de CRS qui n'intervient pas, circule librement entre CRS et manifestants, monte en même temps que les CRS lors des charges qui épargnent les porteurs de brassard, et l'un d'eux frappe une personne au sol aux côtés des CRS ; une autre vidéo montre un CRS saluer de la main un membre du groupe. « Une milice affiliée à l'extrême droite a travaillé de manière coordonnée aux côtés des forces de l'ordre », conclut l'OLM, tout en précisant que les correspondances d'images « ne valent pas identification formelle ».",
+  "victim": "Manifestants frappés rue de la Loge et devant l'office de tourisme",
+  "investigation": "Le maire Michaël Delafosse saisit le procureur (article 40) dès le 25 octobre ; enquête administrative en cours ; la préfecture (30 interpellations le 24 octobre) et la police nationale n'avaient pas répondu ; l'OLM demande à être reçu par la préfète Chantal Mauchet et le maire ; une enquête de franceinfo (30 oct.) examine la non-intervention des CRS ; trois manifestants jugés en comparution immédiate le 28 octobre, dont un jeune frappé par le groupe.",
+  "status_date": "2026-10-30",
+  "statement": {
+   "org": "Observatoire des libertés publiques de Montpellier (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire des libertés publiques de Montpellier (PDF, LDH)",
+    "title": "Rapport d'observation – Groupe de type milice aux côtés des forces de l'ordre – Manifestation du 24 octobre 2026, Montpellier",
+    "url": "https://www.ldh-france.org/wp-content/uploads/2026/11/Rapport-groupe-milice-manif-24-octobre.pdf",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "ICI Hérault",
+    "title": "Une association dénonce la présence d'une « milice d'extrême droite » aux côtés des forces de l'ordre à Montpellier",
+    "url": "https://www.ici.fr/occitanie/herault-34/montpellier/une-milice-d-extreme-droite-aux-cotes-des-forces-de-l-ordre-lors-de-la-manifestation-du-24-octobre-a-montpellier-9688071",
+    "date": "2026-10-29"
+   },
+   {
+    "outlet": "Le Poing",
+    "title": "24 octobre : un rapport de l'Observatoire des Libertés de Montpellier dénonce « un groupe type milice » aux côtés des CRS",
+    "url": "https://lepoing.net/24-octobre-un-rapport-de-lobservatoire-des-libertes-de-montpellier-denonce-un-groupe-type-milice-aux-cotes-des-crs/",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "ENQUÊTE FRANCEINFO. La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ?",
+    "url": "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html",
+    "date": "2026-10-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Quatre rapporteurs spéciaux de l'ONU « consternés » par la répression des manifestations lycéennes et étudiantes",
+  "summary": "Le 28 octobre, quatre rapporteurs spéciaux mandatés par le Conseil des droits de l'homme de l'ONU – dont Gina Romero (liberté de réunion pacifique et d'association) et Farida Shaheed (droit à l'éducation) –, qui ne s'expriment pas au nom de l'organisation, se disent « consternés » par la répression : « le recours excessif à la force, les violences et les interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un État de droit ». L'ampleur des interpellations et gardes à vue, « plusieurs milliers de personnes, principalement des mineurs », leur apparaît disproportionnée et dissuasive pour l'exercice des libertés d'expression et de réunion ; les blessures graves, parfois irréversibles, subies par des mineurs sont « inacceptables et injustifiables ». Ils condamnent les violences contre les policiers et les dégradations, demandent des enquêtes (IGPN) et « un discours politique condamnant fermement et clairement toutes violences policières », et regrettent que la priorité donnée à une réponse sécuritaire ait relégué les causes profondes du mouvement (classes surchargées, manque de moyens).",
+  "victim": "",
+  "investigation": "Les experts indiquent être en contact avec les autorités françaises et saluent les initiatives de dialogue lancées en octobre ; le Premier ministre Sébastien Lecornu réfute toute « répression policière » selon franceinfo ; pas de réponse formelle de la France publiée.",
+  "status_date": "2026-10-29",
+  "statement": {
+   "org": "Rapporteurs spéciaux du Conseil des droits de l'homme de l'ONU (Gina Romero, Farida Shaheed et deux autres experts)",
+   "kind": "ONU"
+  },
+  "sources": [
+   {
+    "outlet": "OHCHR",
+    "title": "France : Des experts de l'ONU consternés par la répression des manifestations étudiantes",
+    "url": "https://www.ohchr.org/fr/press-releases/2026/10/france-un-experts-appalled-crackdown-student-protests",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« Les blessures sont injustifiables » : des experts de l'ONU se disent « consternés » par la « répression » des manifestations lycéennes et étudiantes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "Radio-Canada (AFP)",
+    "title": "Manifestations en France : des experts de l'ONU « consternés » par la répression",
+    "url": "https://ici.radio-canada.ca/nouvelle/2296546/manifestations-france-experts-onu-consternes-police",
+    "date": "2026-10-28"
+   },
+   {
+    "outlet": "Le Club des juristes",
+    "title": "Répressions des manifestations en France : des experts de l'ONU consternés",
+    "url": "https://www.leclubdesjuristes.com/en-bref/repressions-des-manifestations-en-france-des-experts-de-lonu-consternes-18100/",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "place Bellecour, Presqu'île",
+  "category": "répression",
+  "title": "LDH, CGT du Rhône et SAF échouent en référé contre l'interdiction de la place Bellecour pour la manifestation du 5 novembre",
+  "summary": "La Ligue des droits de l'Homme, l'union départementale CGT du Rhône et le Syndicat des avocats de France saisissent le tribunal administratif de Lyon en référé-liberté contre l'arrêté préfectoral du 3 novembre interdisant manifestations et rassemblements dans un large périmètre du centre-ville incluant la Presqu'île et la place Bellecour, point d'arrivée traditionnel des cortèges, pour la journée intersyndicale du 5 novembre ; les syndicats dénoncent « un précédent et une atteinte grave » et disent craindre pour la sécurité du cortège détourné. Le juge des référés rejette le recours le 4 novembre au soir et valide le périmètre, la préfecture invoquant les graves débordements du 17 octobre place Bellecour.",
+  "victim": "",
+  "investigation": "Ordonnance de rejet du tribunal administratif de Lyon (4 nov.) ; le cortège du 5 novembre rejoint la place Jean-Macé et se termine par des affrontements avec plusieurs blessés, dont un photographe de l'AFP.",
+  "status_date": "2026-11-05",
+  "statement": {
+   "org": "Ligue des droits de l'Homme, CGT du Rhône, Syndicat des avocats de France",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Rue89Lyon",
+    "title": "Manifestation du 5 novembre : l'interdiction de Bellecour en question",
+    "url": "https://www.rue89lyon.fr/2026/11/04/jusqua-quand-ca-va-durer-au-tribunal-linterdiction-de-bellecour-en-question/",
+    "date": "2026-11-04"
+   },
+   {
+    "outlet": "Tribune de Lyon",
+    "title": "Manifestation du 5 novembre. L'arrivée à Bellecour interdite, les syndicats dénoncent « un précédent et une atteinte grave »",
+    "url": "https://tribunedelyon.fr/societe/manif-5-novembre-bellecour-interdite-les-syndicats-denoncent-atteinte-grave/",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Préfecture du Rhône",
+    "title": "Manifestation de l'intersyndicale à Lyon du 05 novembre 2026",
+    "url": "https://www.rhone.gouv.fr/Actualites/Manifestation-de-l-intersyndycale-a-Lyon-du-05-novembre-2026",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Bastille, porte d'Italie – porte de Vincennes",
+  "category": "autre",
+  "title": "L'Observatoire parisien des libertés publiques : « La Préfecture de police a cherché l'affrontement » le 24 octobre",
+  "summary": "Dans un communiqué publié le 6 novembre, l'Observatoire parisien des libertés publiques rend compte de l'observation, par deux équipes de 12 h 30 à 22 h, de la journée du 24 octobre à Paris, d'abord dans le secteur interdit de la Bastille puis sur le parcours imposé de la porte d'Italie à la porte de Vincennes, où « des centaines de milliers » de personnes ont défilé pacifiquement. Il conclut que la stratégie mise en œuvre sous l'autorité directe du préfet de police « a cherché à déclencher des tensions et des affrontements » et « mis gravement en danger l'intégrité physique des manifestant·es ».",
+  "victim": "",
+  "investigation": "Rapport détaillé publié en PDF ; aucune réponse de la préfecture de police rapportée.",
+  "status_date": "2026-11-06",
+  "statement": {
+   "org": "Observatoire parisien des libertés publiques (LDH)",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "Observatoire parisien des libertés publiques",
+    "title": "Communiqué – La Préfecture de police a cherché l'affrontement – 24 octobre 2026",
+    "url": "https://obs-paris.org/communique-la-prefecture-de-police-a-cherche-laffrontement-24-octobre-2026/",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "city": "France",
+  "dept": "",
+  "place": "Lyon, Lille, Paris",
+  "category": "autre",
+  "title": "La direction de l'AFP dénonce « les violences commises par les forces de l'ordre » contre ses journalistes ; Politis annonce une plainte",
+  "summary": "Le 6 novembre, la direction de l'Agence France-Presse dénonce « les violences commises par les forces de l'ordre » contre plusieurs de ses journalistes lors des manifestations lycéennes et contre la vie chère : un photographe, identifié par son brassard presse, a eu le péroné fracturé à Lyon le 5 novembre après cinq coups de matraque à la jambe et sur son casque lors d'une charge visant la tête du cortège ; un rédacteur a été blessé à la cuisse par un tir de LBD à Lille le 17 octobre. L'AFP demande que « toutes les précautions soient prises pour préserver l'intégrité physique » des journalistes. Le même jour, la rédaction de Politis dénonce des « violences policières avérées » : sa journaliste Céline Martelet, porteuse d'un brassard, a été frappée « à plusieurs reprises à coups de matraque, à la tête et aux jambes » lors de la manifestation parisienne du 5 novembre et prise en charge aux urgences ; une photographe indépendante du collectif Divergences a aussi été blessée.",
+  "victim": "Photographe et rédacteur de l'AFP ; Céline Martelet (Politis) ; une photographe de Divergences",
+  "investigation": "Politis annonce une plainte ; aucune réponse de la préfecture de police ou du ministère de l'Intérieur rapportée ; des avocats saisissent par ailleurs la Cour de justice de la République contre le ministre de l'Intérieur.",
+  "status_date": "2026-11-06",
+  "statement": {
+   "org": "Agence France-Presse (direction) et Politis",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "L'AFP et « Politis » accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+    "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "AFP (via Bourse Direct)",
+    "title": "Manifestations : l'AFP dénonce des violences des forces de l'ordre contre ses journalistes",
+    "url": "https://www.boursedirect.fr/fr/actualites/categorie/economie-et-finances/manifestations-l-afp-denonce-des-violences-des-forces-de-l-ordre-contre-ses-journalistes-afp-b48ba64b6eaf97d845328416eaeedd4638b6170b",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "RSF porte à 58 le nombre de journalistes entravés depuis le début des mobilisations, dont 40 cas imputés aux forces de l'ordre",
+  "summary": "Au 6 novembre, Reporters sans frontières recense 58 cas de journalistes entravés dans la couverture des mobilisations en cours (hors journée du 5 novembre), dont 35 violences physiques : 21 attribuées aux forces de l'ordre et 14 à des manifestants ou à des tiers ; au total, 40 cas sont imputés aux forces de l'ordre et 18 à des manifestants ou tiers. Ce bilan, qui prolonge ceux du 9 octobre (12 cas) et du 21 octobre (une trentaine), intervient alors que l'AFP et Politis dénoncent les blessures infligées à leurs journalistes à Lyon, Lille et Paris.",
+  "victim": "58 journalistes",
+  "investigation": "RSF réclame des enquêtes et des sanctions ; aucune réponse du ministère de l'Intérieur rapportée.",
+  "status_date": "2026-11-06",
+  "statement": {
+   "org": "Reporters sans frontières",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "L'AFP et « Politis » accusent les forces de l'ordre d'avoir blessé certains de leurs journalistes lors de manifestations à Paris, Lyon et Lille",
+    "url": "https://www.franceinfo.fr/faits-divers/police/politis-accuse-la-police-d-avoir-roue-de-coups-une-de-ses-journalistes-lors-de-la-manifestation-parisienne-du-5-novembre_8271092.html",
+    "date": "2026-11-06"
+   },
+   {
+    "outlet": "Lyon Capitale",
+    "title": "Un photographe blessé lors de la manifestation du 5 novembre : l'AFP dénonce les violences contre les journalistes",
+    "url": "https://www.lyoncapitale.fr/actualite/un-photographe-blesse-lors-de-la-manifestation-du-5-novembre-l-afp-denonce-les-violences-contre-les-journalistes",
+    "date": "2026-11-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-08",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "",
+  "category": "autre",
+  "title": "Le SNJ Rhône-Ain-Loire dénonce une « flambée inédite de violences policières contre les journalistes à Lyon » et interpelle le ministère de l'Intérieur",
+  "summary": "La section Rhône-Ain-Loire du Syndicat national des journalistes recense le 8 novembre huit cas de journalistes identifiables blessés par les forces de l'ordre à Lyon depuis le 17 octobre : un photojournaliste de l'AFP au péroné fracturé et au casque fissuré sous les coups de matraque des CRS (5 nov.), un photojournaliste brûlé par un éclat de grenade de désencerclement à l'écart des heurts (5 nov.), un pigiste touché à l'épaule par un ricochet de LBD (31 oct.), un photographe documentaire touché au tibia par un tir de LBD qu'il estime délibéré (24 oct.), un correspondant de presse locale frappé au visage et au dos près de Bellecour (18 oct.), et le 17 octobre des journalistes atteints par des éclats de grenade (chaussure en feu), trois coups de matraque sur un journaliste observant une interpellation, un tir de LBD dans la poitrine d'un photojournaliste. « Les journalistes n'ont pas vocation à devenir les punching-balls des forces de l'ordre », conclut le syndicat, qui invoque le schéma national du maintien de l'ordre.",
+  "victim": "Huit journalistes",
+  "investigation": "Le SNJ transmet les cas au groupe de contact ministère de l'Intérieur – organisations de journalistes et demande un rendez-vous à la préfecture du Rhône ; aucune réponse de la préfecture rapportée.",
+  "status_date": "2026-11-08",
+  "statement": {
+   "org": "Syndicat national des journalistes – section Rhône-Ain-Loire",
+   "kind": "médias"
+  },
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Lyon : plusieurs journalistes blessés en manifestation, le SNJ interpelle le ministère de l'Intérieur",
+    "url": "https://www.lyonmag.com/article/154805/lyon-plusieurs-journalistes-blesses-en-manifestation-le-snj-interpelle-le-ministere-de-l-interieur",
+    "date": "2026-11-08"
+   },
+   {
+    "outlet": "Vivre Villes",
+    "title": "Le SNJ dénonce une flambée inédite de violences policières contre les journalistes à Lyon",
+    "url": "https://www.vivre-villes.fr/lyon/a-la-une-de-lyon/2026/11/08/le-snj-denonce-une-flambee-inedite-de-violences-policieres-contre-les-journalistes-a-lyon/",
+    "date": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "La LDH appelle à manifester le 14 novembre contre la loi dite « présomption de légitime défense » des policiers",
+  "summary": "Le 9 novembre, la Ligue des droits de l'Homme appelle à des rassemblements dans toute la France le 14 novembre contre la proposition de loi dite « présomption de légitime défense », adoptée par l'Assemblée nationale le 7 juillet et inscrite par le ministre de l'Intérieur à l'ordre du jour du Sénat. Elle y voit la traduction d'une vision d'extrême droite selon laquelle « tout acte policier est nécessairement justifié et n'a pas à être interrogé », rappelle que « le droit à la vie impose d'ouvrir une enquête immédiate et effective pour tout usage d'arme à feu par un policier », redoute que les preuves (vidéosurveillance) disparaissent faute d'enquête après des tirs lors de refus d'obtempérer ou d'opérations de maintien de l'ordre, et souligne que les blessures infligées à des enfants par des armes « sublétales » pendant les mobilisations lycéennes appellent au contraire des enquêtes approfondies : « ce serait un signal dangereux à ne plus respecter le cadre légal ».",
+  "victim": "",
+  "investigation": "Examen au Sénat à venir ; Human Rights Watch avait critiqué le même texte le 14 octobre.",
+  "status_date": "2026-11-09",
+  "statement": {
+   "org": "Ligue des droits de l'Homme",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "LDH",
+    "title": "Appel à se mobiliser contre la loi dite « présomption de légitime défense »",
+    "url": "https://www.ldh-france.org/appel-a-se-mobiliser-contre-la-loi-dite-presomption-de-legitime-defense/",
+    "date": "2026-11-09"
+   }
+  ]
+ }
+]

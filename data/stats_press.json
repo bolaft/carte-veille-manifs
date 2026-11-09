@@ -1,0 +1,3546 @@
+[
+ {
+  "date": "2026-09-28",
+  "metric": "interpellations",
+  "value": 164,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Le ministère de l'Intérieur recense 180 établissements perturbés, dont 27 blocages totaux, et 164 personnes interpellées au cours de la journée (formulation reprise de la synthèse de l'article ; article non consulté directement).",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Le blocus des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+    "date": "2026-09-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "interpellations",
+  "value": 440,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Le ministère de l'Intérieur fait état de 440 interpellations au cours de la journée du 29 septembre (formulation reprise de la synthèse de l'article ; article non consulté directement).",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Blocus des lycées : les syndicats étudiants lancent un nouvel appel à bloquer lycées et universités jeudi",
+    "url": "https://www.leparisien.fr/paris-75/blocus-des-lycees-les-syndicats-etudiants-lancent-un-nouvel-appel-a-bloquer-lycees-et-universites-jeudi-5NP34OYNN5BMZIE5G5QZDZK7OQ.php",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "autre",
+  "value": 119,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray)",
+  "quote": "Blessés (élèves et personnels de l'Éducation nationale confondus) : 119 depuis le début du mouvement, dont 34 personnels.",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 625 interpellations et 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "blesses_forces_ordre",
+  "value": 83,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez)",
+  "quote": "83 policiers et gendarmes blessés depuis le début des blocages, selon Laurent Nuñez (30 septembre).",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 625 interpellations et 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "blesses_personnels",
+  "value": 34,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray)",
+  "quote": "« c'est 34 personnels qui ont été blessés au total depuis le début des troubles » ; 119 élèves et personnels blessés au total.",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 625 interpellations et 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "enquetes_igpn_iggn",
+  "value": 3,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez)",
+  "quote": "L'IGPN saisie de trois enquêtes après des blessures de lycéens lors de blocages à Sevran, Saint-Ouen-l'Aumône et Tours.",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 625 interpellations et 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-09-30"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Lycéens blessés devant des établissements bloqués : la “police des polices” saisie de trois enquêtes, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/justice-faits-divers/lyceens-blesses-devant-des-etablissements-bloques-la-police-des-polices-saisie-de-trois-enquetes-annonce-laurent-nunez-2467304.html",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "interpellations",
+  "value": 625,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, conférence de presse)",
+  "quote": "« 625 personnes ont été interpellées » ; « 356 établissements ont été concernés par des perturbations » (bilan depuis le début des blocages, 30 septembre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Blocus des lycées : 625 interpellations, selon le ministre de l'Intérieur",
+    "url": "https://www.franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
+    "date": "2026-09-30"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 625 interpellations et 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "interpellations",
+  "value": 1954,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez)",
+  "quote": "« 1954 personnes ont été interpellées » le 1er octobre, selon le ministre de l'Intérieur (pic quotidien, supérieur au record des gilets jaunes du 8 décembre 2018).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Vrai ou faux. Avec le mouvement des lycéens, y a-t-il “plus d'interpellations qu'au plus fort des gilets jaunes” ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "Midi Libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "interpellations",
+  "value": 38,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "« 41 établissements touchés, 38 interpellations et 15 blessés » à Lyon (titre).",
+  "sources": [
+   {
+    "outlet": "LyonMag",
+    "title": "Mobilisation lycéenne à Lyon : 41 établissements touchés, 38 interpellations et 15 blessés, la préfecture appelle au calme",
+    "url": "https://www.lyonmag.com/article/154220/mobilisation-lyceenne-a-lyon-41-etablissements-touches-38-interpellations-et-15-blesses-la-prefecture-appelle-au-calme",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "gardes_a_vue",
+  "value": 1793,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement (chiffre repris par La Dépêche du Midi)",
+  "quote": "« 1 793 personnes en garde à vue depuis lundi » (intitulé du direct, 2 octobre).",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "REPLAY. Blocage des lycées : 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi, des lycées fermés lundi",
+    "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "interpellations",
+  "value": 5000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, sur TF1)",
+  "quote": "« Plus de 5.000 interpellations depuis lundi » (28 septembre–2 octobre) ; franceinfo : « Plus de 5 000 interpellations en seulement cinq jours ».",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Blocus des lycées : “Plus de 5.000 interpellations depuis lundi”, annonce sur TF1 Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/blocus-des-lycees-plus-de-5-000-interpellations-depuis-lundi-annonce-sur-tf1-laurent-nunez-qui-reconnait-que-la-mobilisation-lyceenne-est-surprenante-par-son-ampleur-2467768.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Vrai ou faux. Avec le mouvement des lycéens, y a-t-il “plus d'interpellations qu'au plus fort des gilets jaunes” ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "REPLAY. Blocage des lycées : 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi, des lycées fermés lundi",
+    "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "interpellations",
+  "value": 1747,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« Quelque 1 747 vendredi 2 octobre » ; titre La Dépêche : « 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Vrai ou faux. Avec le mouvement des lycéens, y a-t-il “plus d'interpellations qu'au plus fort des gilets jaunes” ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "REPLAY. Blocage des lycées : 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi, des lycées fermés lundi",
+    "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "autre",
+  "value": 190,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray)",
+  "quote": "Blessés élèves et personnels de l'Éducation nationale confondus : « 190 » depuis le début du mouvement (chiffre distinct du décompte de Matignon).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "blesses_eleves",
+  "value": 215,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Entourage du Premier ministre",
+  "quote": "« Environ 215 élèves ont également subi des blessures » depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "blesses_forces_ordre",
+  "value": 715,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Entourage du Premier ministre",
+  "quote": "« 715 policiers et gendarmes ont été blessés, a fait savoir l'entourage du Premier ministre à franceinfo, lundi 5 octobre. »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "blesses_forces_ordre",
+  "value": 65,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« 65 membres des forces de l'ordre blessées lundi » (5 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "blesses_personnels",
+  "value": 85,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Entourage du Premier ministre",
+  "quote": "« 85 personnels éducatifs ont été blessés, dont 34 chefs d'établissements et adjoints. »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "detentions_provisoires",
+  "value": 14,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« plus de 5 000 gardes à vue depuis le début du mouvement, 14 personnes en détention provisoire » (10 majeurs, 4 mineurs).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Vrai ou faux. Avec le mouvement des lycéens, y a-t-il “plus d'interpellations qu'au plus fort des gilets jaunes” ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "enquetes_igpn_iggn",
+  "value": 10,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "« Dix enquêtes ont été confiées à l'IGPN » depuis le début du mouvement (annonce du gouvernement, 5 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Main arrachée, mâchoire fracturée : dix enquêtes de l'IGPN ouvertes en lien avec les blocages des lycées, annonce le gouvernement",
+    "url": "https://www.liberation.fr/societe/police-justice/main-arrachee-machoire-scellee-six-enquetes-de-ligpn-ouvertes-en-lien-avec-les-blocages-des-lycees-20261005_CWHVJREBDNCURM7RCF3FKCZSXE/",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "gardes_a_vue",
+  "value": 5060,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 5 060 manifestants ont été placés en garde à vue » depuis le début des violences ; la chancellerie précise que « 87% sont mineurs » (premier bilan judiciaire, 5 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "interpellations",
+  "value": 984,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur » (984 interpellations selon le décompte repris dans le direct).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "interpellations",
+  "value": 30,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "« 30 interpellations, une proviseure blessée par un pavé » à Toulouse lundi 5 octobre (titre).",
+  "sources": [
+   {
+    "outlet": "Actu.fr",
+    "title": "Blocage des lycées à Toulouse : 30 interpellations, une proviseure blessée par un pavé… Ce qui s'est passé ce lundi",
+    "url": "https://actu.fr/occitanie/toulouse_31555/blocage-des-lycees-a-toulouse-le-tram-deja-perturbe-des-rassemblements-interdits-suivez-les-evenements-de-ce-lundi_64877748.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "mineurs_part_gav",
+  "value": 87,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 87% sont mineurs » parmi les 5 060 personnes placées en garde à vue (4 406 mineurs, 654 majeurs).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "poursuites",
+  "value": 1802,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "Communiqué du 5 octobre : 5 060 gardes à vue et « 1 802 personnes poursuivies » (1 483 mineurs et 319 majeurs).",
+  "sources": [
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "blesses_forces_ordre",
+  "value": 700,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« Plus de 700 policiers et gendarmes ont par ailleurs été blessés depuis le début des manifestations. »",
+  "sources": [
+   {
+    "outlet": "Public Sénat",
+    "title": "Blocus des lycées : dix-huit enquêtes IGPN ouvertes, l'usage des grenades assourdissantes suspendu",
+    "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-dix-huit-enquetes-igpn-ouvertes-lusage-des-grenades-assourdissantes-suspendu",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "interpellations",
+  "value": 6547,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Beauvau)",
+  "quote": "« 6 547 personnes ont été interpellées dans le cadre de ce mouvement » depuis le 28 septembre (bilan au 7 octobre au matin).",
+  "sources": [
+   {
+    "outlet": "Public Sénat",
+    "title": "Blocus des lycées : dix-huit enquêtes IGPN ouvertes, l'usage des grenades assourdissantes suspendu",
+    "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-dix-huit-enquetes-igpn-ouvertes-lusage-des-grenades-assourdissantes-suspendu",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "interpellations",
+  "value": 488,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (Beauvau)",
+  "quote": "« 6 547 interpellations ont été effectuées, dont 488 mardi » (6 octobre).",
+  "sources": [
+   {
+    "outlet": "Public Sénat",
+    "title": "Blocus des lycées : dix-huit enquêtes IGPN ouvertes, l'usage des grenades assourdissantes suspendu",
+    "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-dix-huit-enquetes-igpn-ouvertes-lusage-des-grenades-assourdissantes-suspendu",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "blesses_eleves",
+  "value": 215,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition à l'Assemblée nationale)",
+  "quote": "« 215 élèves blessés » depuis le 28 septembre.",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement des lycéens : lors de son audition à l'Assemblée, Laurent Nuñez défend sa gestion du maintien de l'ordre",
+    "url": "https://www.europe1.fr/politique/mouvement-des-lyceens-lors-de-son-audition-a-lassemblee-laurent-nunez-defend-sa-gestion-du-maintien-de-lordre-1129607",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "blesses_forces_ordre",
+  "value": 761,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition à l'Assemblée nationale)",
+  "quote": "« 761 policiers et gendarmes blessés » depuis le 28 septembre.",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement des lycéens : lors de son audition à l'Assemblée, Laurent Nuñez défend sa gestion du maintien de l'ordre",
+    "url": "https://www.europe1.fr/politique/mouvement-des-lyceens-lors-de-son-audition-a-lassemblee-laurent-nunez-defend-sa-gestion-du-maintien-de-lordre-1129607",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "blesses_personnels",
+  "value": 89,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition à l'Assemblée nationale)",
+  "quote": "« 89 personnels enseignant blessés » depuis le 28 septembre.",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement des lycéens : lors de son audition à l'Assemblée, Laurent Nuñez défend sa gestion du maintien de l'ordre",
+    "url": "https://www.europe1.fr/politique/mouvement-des-lyceens-lors-de-son-audition-a-lassemblee-laurent-nunez-defend-sa-gestion-du-maintien-de-lordre-1129607",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "enquetes_igpn_iggn",
+  "value": 18,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, sur RTL)",
+  "quote": "« l'IGPN avait été saisie de 18 enquêtes depuis le début du mouvement » (7 octobre).",
+  "sources": [
+   {
+    "outlet": "Public Sénat",
+    "title": "Blocus des lycées : dix-huit enquêtes IGPN ouvertes, l'usage des grenades assourdissantes suspendu",
+    "url": "https://www.publicsenat.fr/actualites/politique/blocus-des-lycees-dix-huit-enquetes-igpn-ouvertes-lusage-des-grenades-assourdissantes-suspendu",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "interpellations",
+  "value": 6629,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition à l'Assemblée nationale)",
+  "quote": "« 6.629 interpellations » depuis le 28 septembre (nouveau bilan présenté le 7 octobre devant la commission des lois).",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement des lycéens : lors de son audition à l'Assemblée, Laurent Nuñez défend sa gestion du maintien de l'ordre",
+    "url": "https://www.europe1.fr/politique/mouvement-des-lyceens-lors-de-son-audition-a-lassemblee-laurent-nunez-defend-sa-gestion-du-maintien-de-lordre-1129607",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 1897,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "Alternatives aux poursuites : « 1 897 mesures alternatives aux poursuites (avertissements pénaux probatoires, mesures de réparation pénale, interdictions de paraître, travaux non rémunérés ou classements sous condition…) ont été mises en œuvre (189 pour des majeurs et 1 708 pour des mineurs), dont 654 alternatives après déferrements »",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 71500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : « 71'500 personnes ont manifesté jeudi en France, dont 24'500 à Paris » (ministère de l'Intérieur) ; plus de 130 000 selon la CGT.",
+  "sources": [
+   {
+    "outlet": "Bluewin (Keystone-ATS)",
+    "title": "“504 interpellations” : le bilan tendu de la mobilisation des lycéens en France",
+    "url": "https://www.bluewin.ch/fr/infos/monde/mouvement-des-lyc-ens-71-500-personnes-ont-manifest-en-france-li.3629162",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "blesses_forces_ordre",
+  "value": 48,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« Au total 504 interpellations ont été faites et 48 policiers et gendarmes ont été blessés » (franceinfo : « Près de 50 policiers et gendarmes »).",
+  "sources": [
+   {
+    "outlet": "Bluewin (Keystone-ATS)",
+    "title": "“504 interpellations” : le bilan tendu de la mobilisation des lycéens en France",
+    "url": "https://www.bluewin.ch/fr/infos/monde/mouvement-des-lyc-ens-71-500-personnes-ont-manifest-en-france-li.3629162",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "deferrements",
+  "value": 1547,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« dont 1 547 après déferrement (308 déferrements de majeurs et 1 239 déferrements de mineurs), soit un taux de déferrement de 65% des personnes poursuivies. »",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "detentions_provisoires",
+  "value": 21,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 21 placements en détention provisoire ont été ordonnés, concernant 15 majeurs et 6 mineurs. »",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "gardes_a_vue",
+  "value": 6877,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« Depuis le début des violences, 6 877 individus ont été placés en garde à vue. » (chiffres à jour au jeudi 8 octobre 2026 à 17h00)",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "interpellations",
+  "value": 504,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« Au total, 504 personnes ont été interpellées jeudi, a annoncé le ministère de l'Intérieur » (8 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Bluewin (Keystone-ATS)",
+    "title": "“504 interpellations” : le bilan tendu de la mobilisation des lycéens en France",
+    "url": "https://www.bluewin.ch/fr/infos/monde/mouvement-des-lyc-ens-71-500-personnes-ont-manifest-en-france-li.3629162",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "mineurs_part_gav",
+  "value": 86,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« Parmi eux, 86% sont mineurs (5 890 individus) et 14% sont majeurs (987 individus). »",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "poursuites",
+  "value": 2376,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« À ce stade, 2 376 personnes font l'objet de poursuites : 453 majeurs (soit près d'un majeur placé en garde à vue sur deux) et 1 923 mineurs (soit environ un mineur placé en garde à vue sur trois) »",
+  "sources": [
+   {
+    "outlet": "Ministère de la Justice",
+    "title": "Communiqué de presse – Bilan judiciaire des violences urbaines en marge du mouvement lycéen (chiffres au 8 octobre 2026, 17h)",
+    "url": "https://www.justice.gouv.fr/sites/default/files/2026-10/CP%20-%20Mouvement%20lyc%C3%A9en%20-%2009102026.pdf",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "autre",
+  "value": 30000000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Source gouvernementale",
+  "quote": "Dégâts liés aux manifestations et blocages : « a minima 30 millions d'euros », selon une source gouvernementale.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation des lycéens : 24 enquêtes ouvertes par l'IGPN, la police des polices, depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "blesses_personnels",
+  "value": 100,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray)",
+  "quote": "« plus de 100 personnels de l'Éducation nationale ont été blessés, annonce Édouard Geffray » (titre).",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Mobilisation lycéenne : plus de 100 personnels de l'Éducation nationale ont été blessés, annonce Édouard Geffray",
+    "url": "https://www.leparisien.fr/societe/mobilisation-lyceenne-plus-de-100-personnels-de-leducation-nationale-ont-ete-blesses-annonce-edouard-geffray-09-10-2026-GFIR3IYMP5CBZDDCAH6RLLH3XI.php",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "enquetes_igpn_iggn",
+  "value": 24,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« Vingt-quatre ont été ouvertes par l'Inspection générale de la police nationale (IGPN) » depuis le début du mouvement (annonce du ministère de l'Intérieur, vendredi 9 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Vingt-quatre enquêtes ouvertes par l'IGPN, la “police des polices”, depuis le début du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/vingt-quatre-enquetes-ouvertes-par-l-igpn-la-police-des-polices-depuis-le-debut-du-mouvement-des-lyceens_8230753.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Blocage des lycées : œil blessé, main arrachée, mâchoire cassée, ce que l'on sait des enquêtes confiées à l'IGPN",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/blocage-des-lycees-24-enquetes-ont-ete-confiees-a-l-igpn-depuis-le-debut-du-mouvement-2568189",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation des lycéens : 24 enquêtes ouvertes par l'IGPN, la police des polices, depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "metric": "blesses_personnels",
+  "value": 147,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "« Le total des personnels de l'Éducation nationale blessés depuis le début du mouvement atteint 147. » (bilan diffusé le 13 octobre)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "metric": "blesses_personnels",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "20 personnels blessés lundi 12 octobre, dont 5 chefs d'établissement (ministère de l'Éducation nationale, point du 13 octobre).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 1,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Parquet de Tours / juge d'instruction",
+  "quote": "Policiers mis en examen : un policier « mis en examen pour violences aggravées » et « placé sous contrôle judiciaire » (interdiction de détenir un LBD) après le tir ayant éborgné Maël, 16 ans, à Tours ; un second policier « placé sous statut de témoin assisté ».",
+  "sources": [
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestation lycéenne : un policier, suspecté d'être à l'origine du tir de LBD ayant éborgné un jeune de 16 ans, mis en examen",
+    "url": "https://actu.orange.fr/france/manifestation-lyceenne-un-policier-suspecte-d-etre-a-l-origine-du-tir-de-lbd-ayant-eborgne-un-jeune-de-16-ans-mis-en-examen-l-express-via-6medias-CNT000002sMCUc.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "ICI Touraine",
+    "title": "Lycéen éborgné en marge d'un blocus à Tours : un policier mis en examen, soupçonné d'être l'auteur du tir de LBD",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/lyceen-blesse-a-l-oeil-en-marge-d-un-blocus-a-tours-le-policier-auteur-d-un-des-tirs-de-lbd-mis-en-examen-1170710",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 2225,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "Alternatives aux poursuites : « 2 225 se sont vues proposer des alternatives aux poursuites ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 161500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : « Selon le ministère de l'Intérieur, 161 500 personnes ont manifesté mardi partout en France » (41 500 à Paris) ; 480 000 selon l'intersyndicale lycéenne et étudiante.",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "blesses_forces_ordre",
+  "value": 40,
+  "scope": "jour",
+  "city": "",
+  "authority": "Premier ministre (Sébastien Lecornu)",
+  "quote": "« 40 » policiers et gendarmes blessés « sur la seule journée » du mardi 13 octobre (acte 5).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "classements_sans_suite",
+  "value": 1263,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 1 263 classements sans suite et 26 détentions provisoires (17 concernant des majeurs et neuf des mineurs) »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "detentions_provisoires",
+  "value": 26,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 26 détentions provisoires (17 concernant des majeurs et neuf des mineurs) »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "enquetes_igpn_iggn",
+  "value": 36,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Source policière / proche du dossier (confirmé par le Premier ministre le 14 octobre)",
+  "quote": "« 36 enquêtes IGPN, la \"police des polices\", ont été ouvertes » depuis le début du mouvement ; Lecornu au Sénat : « 36 enquêtes ont été confiées à l'IGPN ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation des lycéens : 36 enquêtes IGPN ouvertes depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-36-enquetes-igpn-ouvertes-depuis-le-debut-du-mouvement_8235772.html",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "gardes_a_vue",
+  "value": 7950,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« Sur les 7 950 gardes à vue (1 177 majeurs et 6 773 mineurs) opérées par les forces de l'ordre depuis le début de la contestation » (chiffres au 13 octobre 17h, dévoilés le 14).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "mineurs_part_gav",
+  "value": 85,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "6 773 mineurs sur 7 950 gardes à vue (soit 85 %, calcul à partir des chiffres publiés).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "poursuites",
+  "value": 2735,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "« 2 735 ont donné lieu à des poursuites » ; « L'immense majorité de ces poursuites concerne des mineurs (2 190 et 545 pour des personnes majeures). »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_eleves",
+  "value": 248,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre (Sébastien Lecornu)",
+  "quote": "248 élèves blessés depuis le début du mouvement lycéen (Sébastien Lecornu, Sénat, 14 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_forces_ordre",
+  "value": 937,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre (Sébastien Lecornu)",
+  "quote": "« 937 policiers et gendarmes ont été blessés depuis le début de la mobilisation, dont 40 mardi » (Sébastien Lecornu devant les sénateurs, 14 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_personnels",
+  "value": 149,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre (Sébastien Lecornu)",
+  "quote": "149 personnels éducatifs blessés depuis le début du mouvement lycéen (Sébastien Lecornu, Sénat, 14 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "metric": "interpellations",
+  "value": 1260,
+  "scope": "ville",
+  "city": "Paris (agglomération)",
+  "authority": "Préfecture de police de Paris",
+  "quote": "« 1 260 interpellations dans l'agglomération parisienne depuis le début du mouvement » (titre du direct, 15 octobre).",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "DIRECT. Mobilisation lycéenne : 1 260 interpellations dans l'agglomération parisienne depuis le début du mouvement",
+    "url": "https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-1-260-interpellations-dans-lagglomeration-parisienne-depuis-le-debut-du-mouvement-b395edf4-1c9f-490c-a87f-74ad0fda8386",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 2025,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Incendies : 2 025 interventions pour incendie le 17 octobre (chiffre de comparaison donné dans le bilan du 24 octobre : « 75 interventions pour incendie » contre 2 025).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 550000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : « 410 000 manifestants, contre 550 000 la semaine dernière » (17 octobre : 550 000 selon le ministère de l'Intérieur).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 60000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition commission d'enquête, 3 novembre)",
+  "quote": "Effectifs engagés : 60 000 policiers et gendarmes mobilisés le 17 octobre ; « J'assume de ne pas avoir rappelé sur leur congé des effectifs de police et de gendarmerie ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Après les mobilisations du 17-Octobre, Laurent Nuñez revient sur les moyens policiers déployés",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/apres-les-mobilisations-du-17-octobre-laurent-nunez-revient-sur-les-moyens-policiers-deployes_8266529.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 1000000000,
+  "scope": "jour",
+  "city": "",
+  "authority": "CCI France / assureurs (estimation non officielle)",
+  "quote": "Dégâts : « Plus d'un milliard d'euros de dégâts, 2500 magasins touchés… Le lourd bilan des violences du 17 octobre pour les commerçants » (titre).",
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Plus d'un milliard d'euros de dégâts, 2500 magasins touchés… Le lourd bilan des violences du 17 octobre pour les commerçants",
+    "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-plus-de-2-500-commerces-degrades-en-france-20261027",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 124,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Parquet de Paris",
+  "quote": "Mineurs placés en garde à vue à Paris le 17 octobre : 124, « dont seulement 20 résidants à Paris » (analyse provisoire du ministère public ; Le Courrier de l'Atlas : 381 majeurs, 151 mineurs, 25 d'âge indéterminé).",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestations du 17 octobre : au moins 145 gardes à vue ce lundi après des pillages et des dégradations",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestations-du-17-octobre-au-moins-145-gardes-a-vue-ce-lundi-apres-des-pillages-et-des-degradations-3435774.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Manifestations du 17 octobre : 2 331 gardes à vue",
+    "url": "https://www.lecourrierdelatlas.com/manifestations-17-octobre-gardes-a-vue/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 110000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "Participation à Paris : 110 000 manifestants selon la préfecture de police (250 000 selon la CGT).",
+  "sources": [
+   {
+    "outlet": "ICI Paris Île-de-France",
+    "title": "Mobilisation du 17 octobre : 110.000 manifestants à Paris, des “cortèges sauvages” et 195 interpellations",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-17-octobre-des-tensions-avant-le-depart-de-la-manifestation-place-de-la-republique-a-paris-8202537",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "blesses_forces_ordre",
+  "value": 997,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« 997 policiers et gendarmes blessés dont 7 graves » (bilan du 18 octobre).",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "Violences du 17 octobre : le ministère de l'Intérieur recense 2.397 interpellations, 997 policiers et gendarmes blessés dont 7 graves",
+    "url": "https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "blesses_forces_ordre",
+  "value": 1144,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan consolidé du 25 octobre)",
+  "quote": "« 53 membres des forces de l'ordre ont été blessés, contre 1 144 la semaine passée » (bilan du 24 octobre).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "blesses_forces_ordre",
+  "value": 36,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "« 36 policiers ont également été blessés » à Montpellier.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du 17 octobre à Montpellier : 63 personnes interpellées en marge du cortège, 36 policiers blessés et d'importants dégâts pour les commerçants",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-17-octobre-63-personnes-interpellees-en-marge-du-cortege-et-36-policiers-blesses-a-montpellier-selon-la-prefecture-3435249.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "deces",
+  "value": 1,
+  "scope": "jour",
+  "city": "",
+  "authority": "Préfecture de police de Paris",
+  "quote": "Un manifestant décédé près du cortège parisien (Château-d'Eau, 10e) ; cause annoncée par la préfecture de police : « probable malaise cardiaque », « sans lien avec les violences ou une quelconque action des forces de l'ordre » ; enquête du parquet de Paris sur les causes de la mort.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Un manifestant est mort après un malaise en marge du cortège parisien le 17 octobre",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/un-manifestant-est-mort-apres-un-malaise-en-marge-du-cortege-parisien-le-17-octobre_8243704.html",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "gardes_a_vue",
+  "value": 2513,
+  "scope": "jour",
+  "city": "",
+  "authority": "Autorités / garde des Sceaux (Gérald Darmanin, 20 octobre)",
+  "quote": "« 2 513 personnes ont été placées en garde à vue pour la seule journée du 17 octobre, selon les autorités ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "“Je ne savais pas que c'était du vol” : à Paris, les premiers procès des violences du 17 octobre",
+    "url": "https://www.france24.com/fr/france/20261021-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-paris-premiers-jugements-apr%C3%A8s-17-octobre",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "TRT Français",
+    "title": "Violences du 17 octobre en France: moyens d'investigation élargis et justice sévère",
+    "url": "https://www.trtfrancais.com/article/8202c1130a58",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "gardes_a_vue",
+  "value": 23,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Parquet de Nice",
+  "quote": "23 personnes (mineures et majeures) placées en garde à vue à Nice, qui « seront présentées au parquet pour une comparution immédiate » ; préfecture des Alpes-Maritimes : « Plus d'une dizaine de personnes » interpellées, 3 500 manifestants dont « 150 casseurs ».",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestation du 17 octobre à Marseille : fin de journée toujours sous tension",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/direct-manifestation-du-17-octobre-a-marseille-et-nice-cortege-fourni-feux-de-poubelles-premieres-tensions-dans-les-rues-3435039.html",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "gardes_a_vue",
+  "value": 557,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Parquet de Paris",
+  "quote": "« 557 personnes en garde à vue » après la première journée, dont « 433 majeurs (77%) » ; motifs : 219 atteintes aux biens, une centaine de groupements en vue de commettre des violences, 49 violences sur personnes dépositaires de l'autorité publique ; « Près de 64% des majeurs » prolongés.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent « des traitements dégradants » en garde à vue",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-des-commissariats-satures-a-paris-des-avocats-critiquent-des-traitements-degradants-en-garde-a-vue_8243605.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestations du 17 octobre : au moins 145 gardes à vue ce lundi après des pillages et des dégradations",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestations-du-17-octobre-au-moins-145-gardes-a-vue-ce-lundi-apres-des-pillages-et-des-degradations-3435774.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Manifestations du 17 octobre : 2 331 gardes à vue",
+    "url": "https://www.lecourrierdelatlas.com/manifestations-17-octobre-gardes-a-vue/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 385,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (bilan intermédiaire de fin de journée, rappelé le 24 octobre)",
+  "quote": "« Au même moment, le 17 octobre, à la même heure, nous étions à 385 interpellations » (Laurent Nuñez, 24 octobre en fin de journée).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
+    "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 2397,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« le ministère de l'Intérieur recense 2.397 interpellations, 997 policiers et gendarmes blessés dont 7 graves » (bilan du 18 octobre) ; franceinfo : « quelque 2 000 personnes ont été interpellées » samedi.",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "Violences du 17 octobre : le ministère de l'Intérieur recense 2.397 interpellations, 997 policiers et gendarmes blessés dont 7 graves",
+    "url": "https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html",
+    "date": "2026-10-18"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent « des traitements dégradants » en garde à vue",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-des-commissariats-satures-a-paris-des-avocats-critiquent-des-traitements-degradants-en-garde-a-vue_8243605.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "“On a besoin de sang après les exactions” : au tribunal de Paris, des comparutions immédiates sous tension et des avocats en colère après les violences du 17 octobre",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-besoin-de-sang-apres-les-exactions-au-tribunal-de-paris-des-comparutions-immediates-sous-tension-et-des-avocats-en-colere-apres-les-violences-du-17-octobre_8246059.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 2628,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan consolidé du 25 octobre)",
+  "quote": "Chiffre révisé une semaine plus tard : « 2 628 interpellations » le week-end du 17 octobre (comparaison donnée dans le bilan du 24 octobre).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 9,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Préfecture du Doubs",
+  "quote": "« trois policiers blessés et neuf interpellations » à Besançon (titre).",
+  "sources": [
+   {
+    "outlet": "maCommune.info",
+    "title": "Manifestation du 17 octobre à Besançon : trois policiers blessés et neuf interpellations",
+    "url": "https://www.macommune.info/manifestation-du-17-octobre-a-besancon-trois-policiers-blesses-et-neuf-interpellations/",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 28,
+  "scope": "ville",
+  "city": "Caen",
+  "authority": "Préfecture du Calvados",
+  "quote": "« 28 interpellations, huit fonctionnaires de police blessés » à Caen (titre).",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Violences du 17 octobre à Caen : 28 interpellations et plusieurs blessés, en marge de la manifestation",
+    "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-a-caen-28-interpellations-huit-fonctionnaires-de-police-blesses-ca98e682-cad9-11f1-ad87-e24a1a2986e9",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 30,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfet de région (Jacques Witkowski, point presse)",
+  "quote": "« une trentaine d'interpellations ont eu lieu » à Marseille au moment du point presse ; « 8000 pilleurs » recensés selon le préfet.",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestation du 17 octobre à Marseille : fin de journée toujours sous tension",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/direct-manifestation-du-17-octobre-a-marseille-et-nice-cortege-fourni-feux-de-poubelles-premieres-tensions-dans-les-rues-3435039.html",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 63,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "« 63 personnes ont été interpellées à Montpellier pour dégradations, vols, jets de projectiles » ; « 36 policiers ont également été blessés. »",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du 17 octobre à Montpellier : 63 personnes interpellées en marge du cortège, 36 policiers blessés et d'importants dégâts pour les commerçants",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-17-octobre-63-personnes-interpellees-en-marge-du-cortege-et-36-policiers-blesses-a-montpellier-selon-la-prefecture-3435249.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 31,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Préfecture de la Loire-Atlantique",
+  "quote": "« Manifestations du 17 octobre à Nantes : 31 interpellations, commerces pillés et dégradations » (titre).",
+  "sources": [
+   {
+    "outlet": "Infos Média Nantes",
+    "title": "Manifestations du 17 octobre à Nantes : 31 interpellations, commerces pillés et dégradations",
+    "url": "https://infos-media-nantes.fr/manifestations-nantes-17-octobre-2026-bilan-31-interpellations/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Nîmes",
+  "authority": "Préfecture du Gard",
+  "quote": "À Nîmes, deux personnes interpellées et deux policiers blessés, selon la préfecture du Gard.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du 17 octobre à Montpellier : 63 personnes interpellées en marge du cortège, 36 policiers blessés et d'importants dégâts pour les commerçants",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-17-octobre-63-personnes-interpellees-en-marge-du-cortege-et-36-policiers-blesses-a-montpellier-selon-la-prefecture-3435249.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 195,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris (bilan en cours de journée)",
+  "quote": "« 110.000 manifestants à Paris, des \"cortèges sauvages\" et 195 interpellations » (titre, 17 octobre).",
+  "sources": [
+   {
+    "outlet": "ICI Paris Île-de-France",
+    "title": "Mobilisation du 17 octobre : 110.000 manifestants à Paris, des “cortèges sauvages” et 195 interpellations",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mobilisation-du-17-octobre-des-tensions-avant-le-depart-de-la-manifestation-place-de-la-republique-a-paris-8202537",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 855,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Parquet de Paris",
+  "quote": "« 855 personnes ont été interpellées », « dont 557 placées en garde à vue » (bilan du parquet de Paris pour la journée du 17 octobre).",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestations du 17 octobre : au moins 145 gardes à vue ce lundi après des pillages et des dégradations",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestations-du-17-octobre-au-moins-145-gardes-a-vue-ce-lundi-apres-des-pillages-et-des-degradations-3435774.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 21,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "« Le siège de la chaîne CNews ciblé par des manifestants, 21 personnes interpellées » (matin du 17 octobre).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Le siège de la chaîne CNews ciblé par des manifestants, 21 personnes interpellées",
+    "url": "https://www.franceinfo.fr/faits-divers/le-siege-de-la-chaine-cnews-cible-par-des-manifestants-21-interpellations_8241583.html",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 28,
+  "scope": "ville",
+  "city": "Pau",
+  "authority": "Préfecture des Pyrénées-Atlantiques",
+  "quote": "« 28 personnes interpellées » à Pau, dont la moitié de mineurs ; « 37 interpellations et 12 forces de l'ordre blessées » dans le département.",
+  "sources": [
+   {
+    "outlet": "ICI Béarn Bigorre",
+    "title": "Manifestation du 17 octobre à Pau : des heurts l'après-midi en marge du cortège, 28 personnes interpellées",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-bearn-bigorre/manifestation-du-17-octobre-a-pau-des-heurts-l-apres-midi-en-marge-du-cortege-28-personnes-interpellees-9641731",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "La Semaine des Pyrénées",
+    "title": "Pyrénées-Atlantiques – Manifestations du 17 octobre : 37 interpellations et 12 forces de l'ordre blessées",
+    "url": "https://www.lasemainedespyrenees.fr/pyrenees-atlantiques-manifestations-du-17-octobre-37-interpellations-et-12-forces-de-l-ordre-blessees",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 20,
+  "scope": "ville",
+  "city": "Perpignan",
+  "authority": "Préfecture des Pyrénées-Orientales",
+  "quote": "Vingt personnes interpellées à Perpignan en fin de journée, selon la préfecture.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Manifestation du 17 octobre à Montpellier : 63 personnes interpellées en marge du cortège, 36 policiers blessés et d'importants dégâts pour les commerçants",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-17-octobre-63-personnes-interpellees-en-marge-du-cortege-et-36-policiers-blesses-a-montpellier-selon-la-prefecture-3435249.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 40,
+  "scope": "ville",
+  "city": "Rouen / Le Havre",
+  "authority": "Préfecture de la Seine-Maritime",
+  "quote": "« Manifestations à Rouen et au Havre : 40 interpellations et 17 blessés, selon la préfecture » (titre).",
+  "sources": [
+   {
+    "outlet": "InfoNormandie",
+    "title": "Manifestations à Rouen et au Havre : 40 interpellations et 17 blessés, selon la préfecture",
+    "url": "https://www.infonormandie.com/Manifestations-a-Rouen-et-au-Havre-40-interpellations-et-17-blesses-selon-la-prefecture_a43910.html",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 60,
+  "scope": "ville",
+  "city": "Saint-Étienne",
+  "authority": "Préfecture de la Loire",
+  "quote": "« une soixantaine d'interpellations à Saint-Étienne » (titre).",
+  "sources": [
+   {
+    "outlet": "Le Progrès",
+    "title": "Mobilisation du 17 octobre : une soixantaine d'interpellations à Saint-Étienne",
+    "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/18/mobilisation-du-17-octobre-une-soixantaine-d-interpellations-a-saint-etienne",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 4,
+  "scope": "ville",
+  "city": "Toulon",
+  "authority": "Préfecture du Var",
+  "quote": "Quatre personnes interpellées à Toulon (manifestation d'environ 800 participants), selon la préfecture du Var.",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestation du 17 octobre à Marseille : fin de journée toujours sous tension",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/direct-manifestation-du-17-octobre-a-marseille-et-nice-cortege-fourni-feux-de-poubelles-premieres-tensions-dans-les-rues-3435039.html",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 94,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfet de la Haute-Garonne",
+  "quote": "« premier bilan à Toulouse, 1500 à 2000 casseurs selon le préfet, une vingtaine de magasins pillés, 94 interpellations » (titre).",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Manifestations du 17 octobre : premier bilan à Toulouse, 1500 à 2000 casseurs selon le préfet, une vingtaine de magasins pillés, 94 interpellations",
+    "url": "https://www.ladepeche.fr/2026/10/18/manifestation-du-17-octobre-premier-bilan-a-toulouse-1-500-a-2-000-casseurs-selon-le-prefet-une-vingtaine-de-magasins-pilles-94-interpellations-13608112.php",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 31,
+  "scope": "ville",
+  "city": "Tours",
+  "authority": "Préfecture d'Indre-et-Loire",
+  "quote": "« plus de 12.000 manifestants à Tours, saccages de commerces et 31 interpellations » (titre).",
+  "sources": [
+   {
+    "outlet": "ICI Touraine",
+    "title": "Mobilisation du 17 octobre : plus de 12.000 manifestants à Tours, saccages de commerces et 31 interpellations",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/mobilisation-du-17-octobre-debut-de-la-mobilisation-a-tours",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "metric": "gardes_a_vue",
+  "value": 2331,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur France 2, 19 octobre)",
+  "quote": "2 331 gardes à vue « pendant tout le week-end » (17-18 octobre), dont 70 % de majeurs.",
+  "sources": [
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Manifestations du 17 octobre : 2 331 gardes à vue",
+    "url": "https://www.lecourrierdelatlas.com/manifestations-17-octobre-gardes-a-vue/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "metric": "gardes_a_vue",
+  "value": 19,
+  "scope": "ville",
+  "city": "Metz",
+  "authority": "Parquet de Metz",
+  "quote": "« 19 gardes à vue, dont 9 concernant des mineurs » (bilan du procureur, dimanche 18 octobre à 17h) ; préfecture : un policier, un gendarme et quatre manifestants légèrement blessés.",
+  "sources": [
+   {
+    "outlet": "ICI Lorraine",
+    "title": "VIDÉO - Mobilisation du 17 octobre : 5.200 manifestants dans les rues à Metz, 19 personnes en garde à vue",
+    "url": "https://www.ici.fr/grand-est/moselle-57/metz/en-video-mobilisation-du-17-octobre-5000-manifestants-dans-les-rues-a-metz-et-une-situation-qui-degenere-8763389",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "Moselle TV",
+    "title": "Dégradations du 17 octobre à Metz : 6 hommes en comparution immédiate",
+    "url": "https://moselle.tv/degradations-du-17-octobre-a-metz-6-hommes-en-comparution-immediate/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "metric": "interpellations",
+  "value": 58,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Autorités (Isère)",
+  "quote": "« 58 individus interpellés ce week-end » à Grenoble (17-18 octobre).",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Émeutes, dégradations et pillages du 17 octobre : 10 hommes jugés en comparution immédiate à Grenoble",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/emeutes-degradations-et-pillages-du-17-octobre-10-hommes-juges-en-comparution-immediate-a-grenoble-3436305.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "metric": "interpellations",
+  "value": 108,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "« 108 interpellations à Paris dimanche, des \"groupes hostiles\" à Châtelet-les-Halles » (titre, 18 octobre).",
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Violences du 17 octobre : 108 interpellations à Paris dimanche, des “groupes hostiles” à Châtelet-les-Halles",
+    "url": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-18",
+  "metric": "mineurs_part_gav",
+  "value": 30,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin)",
+  "quote": "70 % de majeurs parmi les gardés à vue du week-end (Darmanin, 19 octobre) ; le 20 octobre : « 95 % d'hommes » et « 70 % d'adultes » parmi les pilleurs et agresseurs de policiers.",
+  "sources": [
+   {
+    "outlet": "Le Courrier de l'Atlas",
+    "title": "Manifestations du 17 octobre : 2 331 gardes à vue",
+    "url": "https://www.lecourrierdelatlas.com/manifestations-17-octobre-gardes-a-vue/",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "TRT Français",
+    "title": "Violences du 17 octobre en France: moyens d'investigation élargis et justice sévère",
+    "url": "https://www.trtfrancais.com/article/8202c1130a58",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Déplacement à Lille du ministre de la Justice Gérald Darmanin qui vient demander “une fermeté de la réponse pénale”",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/deplacement-a-lille-du-ministre-de-la-justice-gerald-darmanin-qui-vient-demander-une-fermete-de-la-reponse-penale-sans-etre-excessive-3436191.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "metric": "autre",
+  "value": 16,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Parquet de Paris (procureure Laure Beccuau)",
+  "quote": "Déferrements à Paris : lundi matin, 16 % des 557 gardés à vue du 17 octobre avaient été déférés, et des décisions étaient attendues dans la journée pour 64 % d'entre eux (part en %).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent « des traitements dégradants » en garde à vue",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-des-commissariats-satures-a-paris-des-avocats-critiquent-des-traitements-degradants-en-garde-a-vue_8243605.html",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "metric": "comparutions_immediates",
+  "value": 10,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Tribunal correctionnel de Grenoble",
+  "quote": "10 hommes jugés en comparution immédiate à Grenoble le 19 octobre ; une peine de « 8 mois de prison ferme », « la plupart des prévenus ont écopé de peines de prison avec sursis » ; peines « comprises entre huit mois ferme et un an avec sursis » pour trois prévenus.",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Émeutes, dégradations et pillages du 17 octobre : 10 hommes jugés en comparution immédiate à Grenoble",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/emeutes-degradations-et-pillages-du-17-octobre-10-hommes-juges-en-comparution-immediate-a-grenoble-3436305.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "metric": "comparutions_immediates",
+  "value": 6,
+  "scope": "ville",
+  "city": "Metz",
+  "authority": "Tribunal correctionnel de Metz",
+  "quote": "« 6 personnes sont présentées au tribunal correctionnel ce lundi en comparution immédiate à Metz » (hommes de 19 à 52 ans) ; peines rapportées : « 6 mois d'emprisonnement avec sursis simple et une amende de 1 200 € », 8 mois de sursis probatoire.",
+  "sources": [
+   {
+    "outlet": "Moselle TV",
+    "title": "Dégradations du 17 octobre à Metz : 6 hommes en comparution immédiate",
+    "url": "https://moselle.tv/degradations-du-17-octobre-a-metz-6-hommes-en-comparution-immediate/",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "metric": "enquetes_igpn_iggn",
+  "value": 4,
+  "scope": "jour",
+  "city": "",
+  "authority": "IGPN (saisines après les 17-18 octobre)",
+  "quote": "« Quatre enquêtes ont été ouvertes par l'IGPN (Inspection générale de la police nationale) après des violences survenues samedi 17 et dimanche 18 octobre ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Quatre enquêtes ont été ouvertes par l'IGPN après les violences des 17 octobre et dimanche 18 octobre",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/quatre-enquetes-ont-ete-ouvertes-par-l-igpn-apres-les-violences-des-17-octobre-et-dimanche-18-octobre_8244628.html",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "metric": "gardes_a_vue",
+  "value": 145,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Parquet de Paris",
+  "quote": "« Le bilan provisoire, établi à 08H00 du matin, fait état de 145 gardes à vue » (lundi 19 octobre, pillages de la nuit) ; « Plus de 130 gardes à vue » supplémentaires selon la procureure Laure Beccuau.",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestations du 17 octobre : au moins 145 gardes à vue ce lundi après des pillages et des dégradations",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestations-du-17-octobre-au-moins-145-gardes-a-vue-ce-lundi-apres-des-pillages-et-des-degradations-3435774.html",
+    "date": "2026-10-19"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 17 octobre : des commissariats saturés à Paris, des avocats critiquent « des traitements dégradants » en garde à vue",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-des-commissariats-satures-a-paris-des-avocats-critiquent-des-traitements-degradants-en-garde-a-vue_8243605.html",
+    "date": "2026-10-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "autre",
+  "value": 80,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice (porte-parole)",
+  "quote": "Taux de réponse pénale : « Vous avez huit personnes sur dix, pour l'instant, qui font l'objet d'une réponse pénale » ; environ 20 % de classements sans suite (part en %, pas d'effectif publié).",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France, AFP)",
+    "title": "Violences du 17 octobre : 700 personnes déférées devant les tribunaux et 123 personnes incarcérées depuis samedi",
+    "url": "https://www.ici.fr/infos/societe/violences-du-17-octobre-gerald-darmanin-demande-aux-parquets-d-etre-impitoyables-envers-les-casseurs-7707759",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "autre",
+  "value": 123,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin)",
+  "quote": "Incarcérations (détention provisoire ou condamnation avec mandat de dépôt) : « Aujourd'hui, 123 personnes sont incarcérées, soit en détention provisoire » (CNews/Europe 1, 20 octobre au matin).",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France, AFP)",
+    "title": "Violences du 17 octobre : 700 personnes déférées devant les tribunaux et 123 personnes incarcérées depuis samedi",
+    "url": "https://www.ici.fr/infos/societe/violences-du-17-octobre-gerald-darmanin-demande-aux-parquets-d-etre-impitoyables-envers-les-casseurs-7707759",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Déplacement à Lille du ministre de la Justice Gérald Darmanin qui vient demander “une fermeté de la réponse pénale”",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/deplacement-a-lille-du-ministre-de-la-justice-gerald-darmanin-qui-vient-demander-une-fermete-de-la-reponse-penale-sans-etre-excessive-3436191.html",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "TRT Français",
+    "title": "Violences du 17 octobre en France: moyens d'investigation élargis et justice sévère",
+    "url": "https://www.trtfrancais.com/article/8202c1130a58",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "autre",
+  "value": 50,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin)",
+  "quote": "Informations judiciaires : « une cinquantaine d'informations judiciaires » ouvertes (20 octobre).",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France, AFP)",
+    "title": "Violences du 17 octobre : 700 personnes déférées devant les tribunaux et 123 personnes incarcérées depuis samedi",
+    "url": "https://www.ici.fr/infos/societe/violences-du-17-octobre-gerald-darmanin-demande-aux-parquets-d-etre-impitoyables-envers-les-casseurs-7707759",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Déplacement à Lille du ministre de la Justice Gérald Darmanin qui vient demander “une fermeté de la réponse pénale”",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/deplacement-a-lille-du-ministre-de-la-justice-gerald-darmanin-qui-vient-demander-une-fermete-de-la-reponse-penale-sans-etre-excessive-3436191.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "autre",
+  "value": 149,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Lille)",
+  "quote": "Incarcérations : « l'incarcération de 149 casseurs et pilleurs » (bilan du mardi 20 octobre).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "“Je ne savais pas que c'était du vol” : à Paris, les premiers procès des violences du 17 octobre",
+    "url": "https://www.france24.com/fr/france/20261021-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-paris-premiers-jugements-apr%C3%A8s-17-octobre",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "autre",
+  "value": 4,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Tribunal judiciaire de Paris",
+  "quote": "Comparutions immédiates à Paris : « quatre salles de comparution immédiate ont été ouvertes simultanément, contre une ou deux en temps normal » (20 octobre) ; aucun décompte officiel du nombre de prévenus.",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "“Je ne savais pas que c'était du vol” : à Paris, les premiers procès des violences du 17 octobre",
+    "url": "https://www.france24.com/fr/france/20261021-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-paris-premiers-jugements-apr%C3%A8s-17-octobre",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "“On a besoin de sang après les exactions” : au tribunal de Paris, des comparutions immédiates sous tension et des avocats en colère après les violences du 17 octobre",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-besoin-de-sang-apres-les-exactions-au-tribunal-de-paris-des-comparutions-immediates-sous-tension-et-des-avocats-en-colere-apres-les-violences-du-17-octobre_8246059.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "deferrements",
+  "value": 700,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice (porte-parole Sacha Straub-Khan, sur franceinfo)",
+  "quote": "« 700 ont été présentées à un magistrat, c'est-à-dire ont été déférées à l'issue de la garde à vue » ; « Les proportions sont objectivement énormes. »",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France, AFP)",
+    "title": "Violences du 17 octobre : 700 personnes déférées devant les tribunaux et 123 personnes incarcérées depuis samedi",
+    "url": "https://www.ici.fr/infos/societe/violences-du-17-octobre-gerald-darmanin-demande-aux-parquets-d-etre-impitoyables-envers-les-casseurs-7707759",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "deferrements",
+  "value": 800,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Lille, 20 octobre après-midi)",
+  "quote": "« plus de 800 personnes avaient été \"déférées devant un tribunal\" » ; « l'incarcération de 149 casseurs et pilleurs ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "“Je ne savais pas que c'était du vol” : à Paris, les premiers procès des violences du 17 octobre",
+    "url": "https://www.france24.com/fr/france/20261021-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-paris-premiers-jugements-apr%C3%A8s-17-octobre",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "gardes_a_vue",
+  "value": 2500,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice (porte-parole Sacha Straub-Khan)",
+  "quote": "« Sur les 2.500 personnes placées en garde à vue » depuis samedi (20 octobre).",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France, AFP)",
+    "title": "Violences du 17 octobre : 700 personnes déférées devant les tribunaux et 123 personnes incarcérées depuis samedi",
+    "url": "https://www.ici.fr/infos/societe/violences-du-17-octobre-gerald-darmanin-demande-aux-parquets-d-etre-impitoyables-envers-les-casseurs-7707759",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "metric": "mandats_de_depot",
+  "value": 0,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin)",
+  "quote": "Aucun décompte officiel des mandats de dépôt n'a été publié ; le ministre déclare seulement : « Il y a eu beaucoup de condamnations à de la prison ferme avec mandat de dépôt » (valeur 0 = non chiffré).",
+  "sources": [
+   {
+    "outlet": "TRT Français",
+    "title": "Violences du 17 octobre en France: moyens d'investigation élargis et justice sévère",
+    "url": "https://www.trtfrancais.com/article/8202c1130a58",
+    "date": "2026-10-20"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Déplacement à Lille du ministre de la Justice Gérald Darmanin qui vient demander “une fermeté de la réponse pénale”",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/deplacement-a-lille-du-ministre-de-la-justice-gerald-darmanin-qui-vient-demander-une-fermete-de-la-reponse-penale-sans-etre-excessive-3436191.html",
+    "date": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "metric": "autre",
+  "value": 174,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Marseille)",
+  "quote": "Incarcérations : 174 personnes écrouées en France, en « détention provisoire ou condamnations en comparution immédiate avec mandat de dépôt » ; exemples : « un an ferme de prison avec mandat de dépôt » (jet de pavé), « trois mois ferme » (vol de chaussures).",
+  "sources": [
+   {
+    "outlet": "Maritima (AFP)",
+    "title": "Violences: 174 incarcérations, dont des profils sans casier judiciaire (G.Darmanin depuis Marseille)",
+    "url": "https://maritima.fr/actualites/justice/france/16303/violences-174-incarcerations-dont-des-profils-sans-casier-judiciaire-gdarmanin-depuis-marseille",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Pillages et violences du 17 octobre : 2.500 gardes à vue, 917 déférés et 174 incarcérations",
+    "url": "https://policeetrealites.com/2026/10/21/pillages-et-violences-du-17-octobre-2-500-gardes-a-vue-917-deferes-et-174-incarcerations/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "metric": "condamnations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Rouen",
+  "authority": "Tribunal judiciaire de Rouen",
+  "quote": "« cinq personnes condamnées, trois hommes partent en prison après des vols » (titre, Rouen, 21 octobre).",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Violences du 17 octobre en Normandie : cinq personnes condamnées, trois hommes partent en prison après des vols",
+    "url": "https://www.ouest-france.fr/societe/manifestation/apres-les-violences-du-17-octobre-a-rouen-les-sanctions-tombent",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "metric": "deferrements",
+  "value": 917,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Marseille)",
+  "quote": "917 personnes « déférées avec poursuite » devant les tribunaux « pour être jugées en comparution immédiate » ; « le taux de poursuite est extrêmement important ».",
+  "sources": [
+   {
+    "outlet": "Maritima (AFP)",
+    "title": "Violences: 174 incarcérations, dont des profils sans casier judiciaire (G.Darmanin depuis Marseille)",
+    "url": "https://maritima.fr/actualites/justice/france/16303/violences-174-incarcerations-dont-des-profils-sans-casier-judiciaire-gdarmanin-depuis-marseille",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Pillages et violences du 17 octobre : 2.500 gardes à vue, 917 déférés et 174 incarcérations",
+    "url": "https://policeetrealites.com/2026/10/21/pillages-et-violences-du-17-octobre-2-500-gardes-a-vue-917-deferes-et-174-incarcerations/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "metric": "gardes_a_vue",
+  "value": 2500,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Marseille)",
+  "quote": "« Sur quelque 2.500 gardes à vue » depuis les violences du 17 octobre (21 octobre).",
+  "sources": [
+   {
+    "outlet": "Maritima (AFP)",
+    "title": "Violences: 174 incarcérations, dont des profils sans casier judiciaire (G.Darmanin depuis Marseille)",
+    "url": "https://maritima.fr/actualites/justice/france/16303/violences-174-incarcerations-dont-des-profils-sans-casier-judiciaire-gdarmanin-depuis-marseille",
+    "date": "2026-10-21"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Pillages et violences du 17 octobre : 2.500 gardes à vue, 917 déférés et 174 incarcérations",
+    "url": "https://policeetrealites.com/2026/10/21/pillages-et-violences-du-17-octobre-2-500-gardes-a-vue-917-deferes-et-174-incarcerations/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "metric": "autre",
+  "value": 217,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Fleury-Mérogis)",
+  "quote": "Incarcérations : « Au total, 217 personnes ont été incarcérées à la suite des violences du week-end dernier » ; « les personnes détenues sont en majorité des hommes âgés de 18 à 25 ans ».",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Violences du 17 octobre en France : 2 700 gardes à vue et 217 personnes incarcérées",
+    "url": "https://fr.euronews.com/2026/10/22/violences-du-17-octobre-en-france-2-700-gardes-a-vue-et-217-personnes-incarcerees",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "metric": "autre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "Couvre-feu nocturne à Paris : « chaque nuit, de 23 heures à 6 heures jusqu'au lundi 26 octobre » dans les périmètres de la place de la République et des Halles (arrêté de la préfecture de police).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "À Paris, le couvre-feu nocturne est reconduit toutes les nuits jusqu'à lundi matin aux Halles et sur la place de la République",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-paris-le-couvre-feu-nocturne-est-reconduit-toutes-les-nuits-jusqu-a-lundi-matin-aux-halles-et-sur-la-place-de-la-republique_8249593.html",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "metric": "deferrements",
+  "value": 1000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Fleury-Mérogis)",
+  "quote": "« plus d'un millier, soit plus d'un tiers, ont débouché sur un déferrement et des poursuites » ; « Plus d'un tiers de ces gardes à vue sont déférées avec des poursuites. »",
+  "sources": [
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Violences du 17 octobre en France : 2 700 gardes à vue et 217 personnes incarcérées",
+    "url": "https://fr.euronews.com/2026/10/22/violences-du-17-octobre-en-france-2-700-gardes-a-vue-et-217-personnes-incarcerees",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "metric": "gardes_a_vue",
+  "value": 2700,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, à Fleury-Mérogis)",
+  "quote": "« près de 2 700 personnes avaient été placées en garde à vue depuis samedi » ; Euronews : « Depuis samedi, 2 700 personnes ont été placées en garde à vue. »",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Violences du 17 octobre en France : 2 700 gardes à vue et 217 personnes incarcérées",
+    "url": "https://fr.euronews.com/2026/10/22/violences-du-17-octobre-en-france-2-700-gardes-a-vue-et-217-personnes-incarcerees",
+    "date": "2026-10-22"
+   },
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "metric": "interdictions_de_manifester",
+  "value": 0,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin)",
+  "quote": "Aucun décompte officiel des interdictions de manifester prononcées ; circulaire du 22 octobre demandant aux parquets de requérir « autant que nécessaire, des peines complémentaires d'interdiction de manifester » (non-respect « passible d'un an d'emprisonnement et de 15 000 euros d'amende ») et « dans la plupart des cas, la privation des droits civiques » (valeur 0 = non chiffré).",
+  "sources": [
+   {
+    "outlet": "Police & Réalités",
+    "title": "Émeutes du 17 octobre : 2 700 gardes à vue et 217 incarcérations, le bilan judiciaire détaillé par Gérald Darmanin",
+    "url": "https://policeetrealites.com/2026/10/22/emeutes-du-17-octobre-2-700-gardes-a-vue-et-217-incarcerations-le-bilan-judiciaire-detaille-par-gerald-darmanin/",
+    "date": "2026-10-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "assignations_a_residence",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (audition commission d'enquête, 3 novembre)",
+  "quote": "Interdictions de paraître (mesures administratives) : « une vingtaine d'interdictions de paraître » notifiées, notamment pour le 24 octobre ; le ministère n'a pas communiqué le nombre total de MICAS/assignations à résidence depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "“On dénonce ces outils de lutte contre le terrorisme” : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+    "url": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 100,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, 26 octobre)",
+  "quote": "Armes : « plus de cent » interpellations « pour détention d'armes par destination » ; saisie de « plusieurs dizaines » de couteaux, boules de pétanque, billes en verre, frondes et mortiers d'artifice.",
+  "sources": [
+   {
+    "outlet": "Noovo Info (AFP)",
+    "title": "Manifestations de samedi en France : 1435 arrestations selon les autorités",
+    "url": "https://www.noovo.info/nouvelles/international/article/manifestations-de-samedi-en-france-1435-arrestations-selon-les-autorites/",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 75,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Incendies : « 75 interventions pour incendie ont été effectuées » (contre 2 025 le 17 octobre) ; « 289 actions de voie publique ont été dénombrées ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 410000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : « 410 000 manifestants, contre 550 000 la semaine dernière » (ministère de l'Intérieur) ; 800 000 selon la CGT.",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
+    "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "blesses_forces_ordre",
+  "value": 53,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan provisoire du 25 octobre)",
+  "quote": "« 53 membres des forces de l'ordre ont été blessés, contre 1 144 la semaine passée ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "blesses_forces_ordre",
+  "value": 267,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, 26 octobre)",
+  "quote": "« 267 membres des forces de l'ordre ont été blessés, la plupart légèrement ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Noovo Info (AFP)",
+    "title": "Manifestations de samedi en France : 1435 arrestations selon les autorités",
+    "url": "https://www.noovo.info/nouvelles/international/article/manifestations-de-samedi-en-france-1435-arrestations-selon-les-autorites/",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "blesses_manifestants",
+  "value": 150,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, 26 octobre)",
+  "quote": "« 150 blessés, dont trois blessés assez graves à Toulouse, Reims et Clermont-Ferrand » parmi les manifestants.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Noovo Info (AFP)",
+    "title": "Manifestations de samedi en France : 1435 arrestations selon les autorités",
+    "url": "https://www.noovo.info/nouvelles/international/article/manifestations-de-samedi-en-france-1435-arrestations-selon-les-autorites/",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "couvre_feux_villes",
+  "value": 100,
+  "scope": "jour",
+  "city": "",
+  "authority": "Décompte Le Monde (Les Décodeurs) – non officiel",
+  "quote": "Plus d'une centaine de villes concernées par des interdictions de rassemblement, des restrictions de circulation ou des couvre-feux pour le 24 octobre (carte des Décodeurs ; « les interdictions de défiler et les couvre-feux se multiplient partout en France »).",
+  "sources": [
+   {
+    "outlet": "Le Monde (Les Décodeurs)",
+    "title": "La carte des couvre-feux et des interdictions de manifester le 24 octobre en France",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/23/la-carte-des-couvre-feux-et-des-interdictions-de-manifester-le-24-octobre-en-france-en-temps-reel_6798285_4355771.html",
+    "date": "2026-10-23"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Manifestations du 24 octobre : les interdictions de défiler et les couvre-feux se multiplient partout en France, au risque de malmener l'Etat de droit",
+    "url": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-et-les-couvre-feux-se-multiplient-partout-en-france-au-risque-de-malmener-l-etat-de-droit_6798367_823448.html",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "gardes_a_vue",
+  "value": 126,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "« 142 personnes ont été interpellées dont 126 qui ont été placées en garde à vue » (porte-parole Hélène Denéchère).",
+  "sources": [
+   {
+    "outlet": "ICI Paris Île-de-France",
+    "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 1000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (bilan provisoire du samedi soir)",
+  "quote": "« Près de 1 000 personnes ont été interpellées selon un bilan provisoire samedi en fin de journée ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
+    "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 1314,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan provisoire du 25 octobre, 7h30)",
+  "quote": "« Selon un bilan provisoire établi à 7 h 30 dimanche, 1 314 personnes ont été interpellées » ; « 53 membres des forces de l'ordre ont été blessés, contre 1 144 la semaine passée ».",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Manifestations du 24 octobre : 1 314 personnes interpellées dans toute la France, annonce le ministère de l'intérieur",
+    "url": "https://www.lemonde.fr/politique/article/2026/10/25/manifestations-du-24-octobre-1-314-personnes-interpellees-dans-toute-la-france-annonce-le-ministere-de-l-interieur_6800057_823449.html",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation nationale du 24 octobre 2026",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-nationale-du-24-octobre-2026",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 1435,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (Laurent Nuñez, sur BFMTV-RMC, 26 octobre)",
+  "quote": "« 1 435 personnes ont été arrêtées », « dont plus de cent pour détention d'armes par destination ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html",
+    "date": "2026-10-26"
+   },
+   {
+    "outlet": "Noovo Info (AFP)",
+    "title": "Manifestations de samedi en France : 1435 arrestations selon les autorités",
+    "url": "https://www.noovo.info/nouvelles/international/article/manifestations-de-samedi-en-france-1435-arrestations-selon-les-autorites/",
+    "date": "2026-10-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 6,
+  "scope": "ville",
+  "city": "Clermont-Ferrand",
+  "authority": "Préfecture du Puy-de-Dôme",
+  "quote": "« six interpellations et quatre blessés » à Clermont-Ferrand (titre).",
+  "sources": [
+   {
+    "outlet": "Radio RVA",
+    "title": "Mobilisation du 24 octobre à Clermont-Ferrand : six interpellations et quatre blessés",
+    "url": "https://www.radiorva.com/news/locales/24039/mobilisation-du-24-octobre-a-clermont-ferrand-six-interpellations-et-quatre-blesses",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 11,
+  "scope": "ville",
+  "city": "Dijon",
+  "authority": "Préfecture de la Côte-d'Or / parquet de Dijon",
+  "quote": "« Onze personnes ont été interpellées et neuf autres ont été placées en garde à vue » ; parquet : « neuf personnes, âgées de 19 à 43 ans, ont été placées en garde à vue ».",
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestations du 24 octobre : interpellations, gardes à vue et dégâts matériels, quel bilan à Dijon ?",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/manifestations-du-24-octobre-interpellations-gardes-a-vue-et-degats-materiels-quel-bilan-a-dijon-3439059.html",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "Creusot Infos",
+    "title": "DIJON : Bilan judiciaire de la manifestation du 24 octobre",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/dijon-bilan-judiciaire-de-la-manifestation-du-24-octobre-1792879200.html",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 64,
+  "scope": "ville",
+  "city": "Lille / Nord",
+  "authority": "Préfecture du Nord",
+  "quote": "« La préfecture du Nord informe tout de même avoir réalisé 64 interpellations dans le département, dont 57 à Lille. »",
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Manifestations du 24 octobre : des incidents éclatent après la mobilisation à Lille, 64 interpellations dans le Nord",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/manifestations-du-24-octobre-incidents-apres-la-manifestation-a-lille-les-forces-de-l-ordre-font-usage-de-canons-a-eau-et-de-lacrymogenes-3438756.html",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 30,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "« Le bilan provisoire de la préfecture fait état de 30 interpellations et de deux blessés parmi les forces de l'ordre » (Montpellier).",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Plus de 10 000 personnes dans les rues, des interpellations et des échauffourées : bilan de la journée de mobilisation du 24 octobre",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/plus-de-10-000-personnes-dans-les-rues-des-interpellations-et-des-echauffourees-bilan-de-la-journee-de-mobilisation-du-24-octobre-3438810.html",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "interpellations",
+  "value": 142,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "« le bilan s'établit à 142 interpellations dont 126 gardes à vue » (communiqué de la préfecture de police, 25 octobre).",
+  "sources": [
+   {
+    "outlet": "ICI Paris Île-de-France",
+    "title": "Manifestation du 24 octobre : à Paris, cortège dans le calme mais 142 interpellations",
+    "url": "https://www.ici.fr/ile-de-france/paris-75/paris/manifestation-du-24-octobre-a-paris-cortege-dans-le-calme-mais-142-interpellations-9175688",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/manifestation-du-24-octobre-a-paris-moins-d-interpellations-que-la-semaine-passee-un-defile-dans-le-calme-avec-peu-d-incidents-majeurs-3438816.html",
+    "date": "2026-10-25"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+    "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+    "date": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "metric": "comparutions_immediates",
+  "value": 10,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Parquet de Nice",
+  "quote": "« les dix hommes de la \"mouvance d'ultradroite\" présentés en comparution immédiate à Nice, après les violences du 24 octobre » (titre).",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Qui sont les dix hommes de la “mouvance d'ultradroite” présentés en comparution immédiate à Nice, après les violences du 24 octobre ?",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/qui-sont-les-dix-hommes-de-la-mouvance-d-ultradroite-presentes-en-comparution-immediate-a-nice-apres-les-violences-du-24-octobre-3439812",
+    "date": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "metric": "enquetes_igpn_iggn",
+  "value": 83,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (via Agence Radio France)",
+  "quote": "« Depuis le début du mouvement lycéen, 83 enquêtes ont été confiées à l'Inspection générale de la Police nationale (IGPN) et à l'Inspection générale de la gendarmerie nationale (IGGN) » (80 IGPN et 3 IGGN selon la reprise de la dépêche).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Depuis le début du mouvement lycéen, 83 enquêtes ont été confiées à l'IGPN et l'IGGN",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-83-enquetes-confiees-a-l-igpn-et-l-iggn-depuis-le-debut-de-la-mobilisation_8260124.html",
+    "date": "2026-10-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "assignations_a_residence",
+  "value": 60,
+  "scope": "jour",
+  "city": "",
+  "authority": "Estimation d'avocats (Me Aïnoha Pascual) – non officielle",
+  "quote": "« au moins une soixantaine » de personnes visées par des MICAS (assignation périmétrique, pointage quotidien, interdiction de paraître) pour le week-end du 31 octobre-1er novembre ; franceinfo : « Des dizaines de personnes ont été assignées à résidence », « des arrêtés pris par le ministère de l'Intérieur » ; aucun chiffre officiel publié.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "“On dénonce ces outils de lutte contre le terrorisme” : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+    "url": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "TEMOIGNAGE. “Je n'avais pas le droit de quitter Marseille” : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
+    "url": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 214,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Soirée d'Halloween : à partir de 21h, 214 interpellations et 43 membres des forces de l'ordre blessés (communiqué « Bilan de la journée de mobilisation du 31 octobre 2026 et de la soirée d'Halloween », résumé).",
+  "sources": [
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation du 31 octobre 2026 et de la soirée d'Halloween",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-du-31-octobre-2026-et-de-soiree-dhalloween",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur dresse un bilan définitif, 779 interpellations partout en France",
+    "url": "https://actu.orange.fr/france/mobilisation-du-31-octobre-le-ministere-de-l-interieur-dresse-un-bilan-definitif-779-interpellations-partout-en-france-l-express-via-6medias-CNT000002tuVL9.html",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 320000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : « quelque 320 000 manifestants dans l'ensemble du pays », dont 70 000 à Paris (près de 500 000 selon l'intersyndicale) ; mobilisation en baisse de 22 % par rapport au 24 octobre et de 42 % par rapport au 17 octobre.",
+  "sources": [
+   {
+    "outlet": "Le Journal du Dimanche",
+    "title": "Manifestations du 31 octobre : nombre de manifestants, interpellations, gendarmes et policiers blessés : le bilan officiel",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-31-octobre-policiers-et-gendarmes-blesses-violence-inouie-des-casseurs-le-bilan-des-autorites-187512",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+    "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+    "date": "2026-10-31"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 515,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Incendies et commerces : « 515 départs de feu traités », « 36 commerces dégradés, dont trois pillés ».",
+  "sources": [
+   {
+    "outlet": "Le Journal du Dimanche",
+    "title": "Manifestations du 31 octobre : nombre de manifestants, interpellations, gendarmes et policiers blessés : le bilan officiel",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-31-octobre-policiers-et-gendarmes-blesses-violence-inouie-des-casseurs-le-bilan-des-autorites-187512",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur dresse un bilan définitif, 779 interpellations partout en France",
+    "url": "https://actu.orange.fr/france/mobilisation-du-31-octobre-le-ministere-de-l-interieur-dresse-un-bilan-definitif-779-interpellations-partout-en-france-l-express-via-6medias-CNT000002tuVL9.html",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 40000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Contrôles préventifs : « En amont des manifestations, 40 000 contrôles avaient été réalisés dans toute la France, dont 15 000 en Île-de-France. »",
+  "sources": [
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Mobilisation du 31 octobre : des tensions dans plusieurs grandes villes françaises",
+    "url": "https://actu.orange.fr/france/mobilisation-du-31-octobre-des-tensions-dans-plusieurs-grandes-villes-francaises-l-express-via-6medias-CNT000002tuf4h.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "Couvre-feu rétabli à Paris « de 23 h à 6 h dans les secteurs de la place de la République et de Châtelet-Les Halles » pour les nuits de samedi à dimanche et de dimanche à lundi ; couvre-feux visant les mineurs non accompagnés à Bordeaux, Marseille et Le Mans.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "blesses_forces_ordre",
+  "value": 116,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« 116 membres des forces de l'ordre ont été blessés » (bilan définitif du 1er novembre).",
+  "sources": [
+   {
+    "outlet": "Le Journal du Dimanche",
+    "title": "Manifestations du 31 octobre : nombre de manifestants, interpellations, gendarmes et policiers blessés : le bilan officiel",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-31-octobre-policiers-et-gendarmes-blesses-violence-inouie-des-casseurs-le-bilan-des-autorites-187512",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation du 31 octobre 2026 et de la soirée d'Halloween",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-du-31-octobre-2026-et-de-soiree-dhalloween",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "blesses_forces_ordre",
+  "value": 5,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "À 21h, cinq blessés parmi les forces de l'ordre à Paris (quatre policiers et un gendarme), dont trois brûlés par un cocktail Molotov ; enquête du parquet de Paris pour « tentative d'homicide sur personnes dépositaires de l'autorité publique ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+    "date": "2026-10-31"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "gardes_a_vue",
+  "value": 240,
+  "scope": "jour",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, 3 novembre)",
+  "quote": "« Le 31 octobre, sur 240 gardes à vue », la part de personnes ayant des antécédents judiciaires était plus élevée que le 17 octobre (60 à 70 % sans antécédents le 17 octobre).",
+  "sources": [
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 422,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (bilan à 19h50)",
+  "quote": "« À 19h50, 422 personnes avaient été interpellées, selon le dernier bilan communiqué par le ministre. »",
+  "sources": [
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Mobilisation du 31 octobre : des tensions dans plusieurs grandes villes françaises",
+    "url": "https://actu.orange.fr/france/mobilisation-du-31-octobre-des-tensions-dans-plusieurs-grandes-villes-francaises-l-express-via-6medias-CNT000002tuf4h.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 511,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Intérieur (bilan à 20h)",
+  "quote": "« 511 interpellations ont été comptabilisées sur l'ensemble du territoire français à 20h, selon le ministre de l'Intérieur ».",
+  "sources": [
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+    "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 565,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan à 21h)",
+  "quote": "« 565 personnes avaient été interpellées en France à 21 heures. »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 779,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan définitif du 1er novembre)",
+  "quote": "« Au total, 779 personnes ont été interpellées en cumulé sur l'ensemble du territoire hier » (journée et nuit d'Halloween incluses).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 31 octobre : 779 personnes ont été interpellées dans toute la France selon un bilan définitif du ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Le Journal du Dimanche",
+    "title": "Manifestations du 31 octobre : nombre de manifestants, interpellations, gendarmes et policiers blessés : le bilan officiel",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-31-octobre-policiers-et-gendarmes-blesses-violence-inouie-des-casseurs-le-bilan-des-autorites-187512",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Ministère de l'Intérieur",
+    "title": "Bilan de la journée de mobilisation du 31 octobre 2026 et de la soirée d'Halloween",
+    "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/bilan-de-journee-de-mobilisation-du-31-octobre-2026-et-de-soiree-dhalloween",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur dresse un bilan définitif, 779 interpellations partout en France",
+    "url": "https://actu.orange.fr/france/mobilisation-du-31-octobre-le-ministere-de-l-interieur-dresse-un-bilan-definitif-779-interpellations-partout-en-france-l-express-via-6medias-CNT000002tuVL9.html",
+    "date": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 79,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "À 21h, « 5 745 contrôles et 79 interpellations dans l'agglomération parisienne » (préfecture de police) ; 70 000 manifestants à Paris « contre 110 000 samedi dernier ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "autre",
+  "value": 404,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "Mesures d'emprisonnement : « 404 mesures d'emprisonnement et 329 incarcérations » (toutes n'ont pas abouti à une incarcération effective, certaines personnes ayant fait appel).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "autre",
+  "value": 329,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "Incarcérations : 329 personnes incarcérées depuis le 17 octobre ; « C'est une réponse pénale extrêmement forte ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "autre",
+  "value": 48,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "Lycées bloqués : « 48 lycées, sur les quelque 3 700 que compte la France, étaient bloqués mardi » (près de 500 selon l'Union syndicale lycéenne).",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+    "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "blesses_personnels",
+  "value": 37,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray, au Sénat)",
+  "quote": "« Trente-sept membres du personnel de l'Education nationale ont été blessés en deux jours » (2-3 novembre, 48 heures).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Dans le cadre du mouvement lycéen et des blocages, 37 agents de l'Education nationale ont été blessés en 48 heures",
+    "url": "https://www.franceinfo.fr/societe/mouvement-lyceen-37-personnels-de-l-education-nationale-ont-ete-blesses-en-48-heures-dans-le-cadre-des-blocages_8267924.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "deferrements",
+  "value": 1820,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "« Il y a eu 1 820 personnes qui ont été déférées » depuis le 17 octobre.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "gardes_a_vue",
+  "value": 4914,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "Depuis le 17 octobre : « il y a eu 4 914 gardes à vue ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "mineurs_part_gav",
+  "value": 30,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "« 70% sont des majeurs et 30% sont des mineurs » parmi les gardés à vue depuis le 17 octobre ; « 95% d'hommes et 5% seulement de femmes » ; « Deux tiers ont entre 18 et 25 ans » ; « 70% sont français » ; « plus de 50% n'avaient aucun antécédent judiciaire ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "poursuites",
+  "value": 2290,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Garde des Sceaux (Gérald Darmanin, sur BFMTV-RMC)",
+  "quote": "2 290 poursuites engagées depuis le 17 octobre.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 5 000 personnes ont été placées en garde à vue et 329 incarcérées depuis le 17 octobre, annonce Gérald Darmanin",
+    "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-5-000-personnes-ont-ete-placees-en-gardes-a-vue-et-329-incarcerees-depuis-le-17-octobre-annonce-gerald-darmanin_8265416.html",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Orange Actualités (L'Express / 6Médias)",
+    "title": "Manifestations : Gérald Darmanin annonce 329 incarcérations depuis le 17 octobre",
+    "url": "https://actu.orange.fr/france/manifestations-gerald-darmanin-annonce-329-incarcerations-depuis-le-17-octobre-l-express-via-6medias-CNT000002twB0u.html",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "metric": "autre",
+  "value": 1000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministre de l'Éducation nationale (Édouard Geffray)",
+  "quote": "Plaintes déposées par l'Éducation nationale : « pas moins de 1 000 plaintes » depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Dans le cadre du mouvement lycéen et des blocages, 37 agents de l'Education nationale ont été blessés en 48 heures",
+    "url": "https://www.franceinfo.fr/societe/mouvement-lyceen-37-personnels-de-l-education-nationale-ont-ete-blesses-en-48-heures-dans-le-cadre-des-blocages_8267924.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "metric": "blesses_personnels",
+  "value": 200,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "« plus de 200 personnels de l'Education nationale ont été blessés, selon le ministère » depuis le début du mouvement ; Geffray : « Nous avons déposé depuis ce mouvement pas moins de 1 000 plaintes ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Dans le cadre du mouvement lycéen et des blocages, 37 agents de l'Education nationale ont été blessés en 48 heures",
+    "url": "https://www.franceinfo.fr/societe/mouvement-lyceen-37-personnels-de-l-education-nationale-ont-ete-blesses-en-48-heures-dans-le-cadre-des-blocages_8267924.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 86,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Incendies : « 86 interventions pour incendies » (bilan à 18h).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 575000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "Participation : 575 000 manifestants dans 193 cortèges, « dont 65.000 dans la capitale » (bilan définitif publié à 19h30 ; estimation provisoire de 600 000 à 17h) ; « près de 1,6 million » selon la CGT, dont 350 000 à Paris.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "CNews",
+    "title": "En direct - Manifestations du 5 novembre : 575.000 manifestants dans toute la France, 448 interpellations et 53 policiers blessés, selon Beauvau",
+    "url": "https://www.cnews.fr/france/2026-11-05/manifestations-du-5-novembre-575000-manifestants-dans-toute-la-france-448",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 81,
+  "scope": "jour",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "Lycées bloqués : « Au total, 81 lycées sont bloqués selon le décompte du gouvernement, près de 1 000, selon l'Union syndicale lycéenne. »",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Grève du 5 novembre : des blocages et des dégradations dans les lycées",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/greve-du-5-novembre-des-blocages-et-des-degradations-dans-les-lycees_8269844.html",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "blesses_forces_ordre",
+  "value": 53,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan à 18h, provisoire)",
+  "quote": "« 53 membres des forces de l'ordre blessés » (bilan à 18h).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "CNews",
+    "title": "En direct - Manifestations du 5 novembre : 575.000 manifestants dans toute la France, 448 interpellations et 53 policiers blessés, selon Beauvau",
+    "url": "https://www.cnews.fr/france/2026-11-05/manifestations-du-5-novembre-575000-manifestants-dans-toute-la-france-448",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "blesses_forces_ordre",
+  "value": 34,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône (bilan de 17h25)",
+  "quote": "« 34 policiers et 6 manifestants ont été blessés » à Lyon (30 500 manifestants au plus fort de la mobilisation).",
+  "sources": [
+   {
+    "outlet": "LyonMag",
+    "title": "Manifestation du 5 novembre à Lyon : de nombreux manifestants blessés lors d'affrontements avec les forces de l'ordre",
+    "url": "https://www.lyonmag.com/article/154749/manifestation-du-5-novembre-a-lyon-de-nombreux-manifestants-blesses-lors-d-affrontements-avec-les-forces-de-l-ordre",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "blesses_manifestants",
+  "value": 6,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône (bilan de 17h25)",
+  "quote": "« 34 policiers et 6 manifestants ont été blessés » à Lyon.",
+  "sources": [
+   {
+    "outlet": "LyonMag",
+    "title": "Manifestation du 5 novembre à Lyon : de nombreux manifestants blessés lors d'affrontements avec les forces de l'ordre",
+    "url": "https://www.lyonmag.com/article/154749/manifestation-du-5-novembre-a-lyon-de-nombreux-manifestants-blesses-lors-d-affrontements-avec-les-forces-de-l-ordre",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "interpellations",
+  "value": 448,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan national à 18h, provisoire)",
+  "quote": "« Le bilan national à 18 heures fait état de 448 interpellations », « 53 membres des forces de l'ordre blessés », « 86 interventions pour incendies » ; bilan « provisoire à ce stade », à « consolider dans les prochaines heures ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "CNews",
+    "title": "En direct - Manifestations du 5 novembre : 575.000 manifestants dans toute la France, 448 interpellations et 53 policiers blessés, selon Beauvau",
+    "url": "https://www.cnews.fr/france/2026-11-05/manifestations-du-5-novembre-575000-manifestants-dans-toute-la-france-448",
+    "date": "2026-11-05"
+   }
+  ]
+ }
+]

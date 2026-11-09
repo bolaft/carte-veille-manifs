@@ -1,0 +1,2280 @@
+[
+ {
+  "date": "2026-09-28",
+  "metric": "autre",
+  "value": 180,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "180 établissements perturbés, dont 27 blocages totaux (28 septembre)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Le blocus des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+    "date": "2026-09-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "metric": "autre",
+  "value": 27,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "27 blocages totaux de lycées (28 septembre)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Le blocus des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+    "date": "2026-09-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "metric": "interpellations",
+  "value": 164,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "164 personnes interpellées au cours de la journée du 28 septembre",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Le blocus des lycées prend de l'ampleur et oppose La France insoumise et le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/28/le-blocus-des-lycees-prend-de-l-ampleur-et-oppose-la-france-insoumise-et-le-gouvernement_6785108_3224.html",
+    "date": "2026-09-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "autre",
+  "value": 338,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "338 établissements concernés par des perturbations et 45 bloqués au moment du bilan (29 septembre)",
+  "sources": [
+   {
+    "outlet": "education.gouv.fr",
+    "title": "Mouvement social du mardi 29 septembre 2026",
+    "url": "https://www.education.gouv.fr/mouvement-social-du-mardi-29-septembre-2026-506092",
+    "date": "2026-09-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "autre",
+  "value": 45,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "45 établissements bloqués au moment du bilan (29 septembre)",
+  "sources": [
+   {
+    "outlet": "education.gouv.fr",
+    "title": "Mouvement social du mardi 29 septembre 2026",
+    "url": "https://www.education.gouv.fr/mouvement-social-du-mardi-29-septembre-2026-506092",
+    "date": "2026-09-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "autre",
+  "value": 410,
+  "scope": "jour",
+  "city": "",
+  "authority": "Le Monde (recensement)",
+  "quote": "actions dans près de 410 établissements à travers le pays (29 septembre)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Blocus des lycées : en banlieue parisienne, les élèves veulent se faire entendre sur leur quotidien et “contre l'injustice”",
+    "url": "https://www.lemonde.fr/societe/article/2026/09/29/blocus-des-lycees-en-banlieue-parisienne-les-eleves-veulent-se-faire-entendre-sur-leur-quotidien-et-contre-l-injustice_6785629_3224.html",
+    "date": "2026-09-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "autre",
+  "value": 170,
+  "scope": "jour",
+  "city": "",
+  "authority": "Euronews (recensement)",
+  "quote": "plus de 170 manifestations organisées dans le pays (29 septembre)",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Entre 200 000 et 300 000 manifestants ont défilé pour demander plus de moyens dans la fonction publique",
+    "url": "https://fr.euronews.com/2026/09/29/blocus-des-lycees-le-mouvement-setend-des-affrontements-avec-la-police-dautres-professions",
+    "date": "2026-09-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "autre",
+  "value": 11.47,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "taux de participation à la grève du 29 septembre : 11,47 % (moyenne générale pondérée), 12,74 % dans le second degré, 27,39 % pour la vie scolaire",
+  "sources": [
+   {
+    "outlet": "education.gouv.fr",
+    "title": "Mouvement social du mardi 29 septembre 2026",
+    "url": "https://www.education.gouv.fr/mouvement-social-du-mardi-29-septembre-2026-506092",
+    "date": "2026-09-29"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "metric": "interpellations",
+  "value": 440,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "440 interpellations au cours de la journée du 29 septembre",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Blocus des lycées : les syndicats étudiants lancent un nouvel appel à bloquer lycées et universités jeudi",
+    "url": "https://www.leparisien.fr/paris-75/blocus-des-lycees-les-syndicats-etudiants-lancent-un-nouvel-appel-a-bloquer-lycees-et-universites-jeudi-5NP34OYNN5BMZIE5G5QZDZK7OQ.php",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "autre",
+  "value": 356,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "356 établissements concernés par des perturbations (30 septembre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Blocus des lycées : 625 interpellations",
+    "url": "https://www.franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
+    "date": "2026-09-30"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "autre",
+  "value": 119,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "119 élèves et personnels de l'Éducation nationale blessés depuis le début du mouvement, dont 34 personnels",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "blesses_forces_ordre",
+  "value": 83,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "83 policiers et gendarmes blessés (30 septembre)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "blesses_personnels",
+  "value": 34,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "34 personnels de l'Éducation nationale blessés depuis le début du mouvement (sur 119 élèves et personnels)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-09-30",
+  "metric": "interpellations",
+  "value": 625,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "625 personnes interpellées (30 septembre) ; le texte présente aussi ce chiffre comme un cumul depuis le début de la mobilisation",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Blocus des lycées : 625 interpellations",
+    "url": "https://www.franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
+    "date": "2026-09-30"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 318,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "318 blessés depuis le début du mouvement, dont 65 personnels de l'Éducation nationale, 170 élèves et 83 policiers et gendarmes (1er octobre)",
+  "sources": [
+   {
+    "outlet": "Midi libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 900,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "plus de 900 actions et blocages recensés sur la journée du 1er octobre, dont 400 fermetures d'établissements",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "DIRECT. Lycées bloqués: plus de 900 actions recensées sur le territoire aujourd'hui",
+    "url": "https://www.bfmtv.com/societe/education/direct-blocus-des-lycees-le-mouvement-se-poursuit-partout-en-france-et-s-etend-aux-universites-des-tensions-dans-plusieurs-villes_LN-202610010305.html",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Revendications locales, vidéos virales, soutien de LFI… Comment le blocage de quelques lycées s'est transformé en un mouvement d'ampleur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-a-pris-une-ampleur-inattendue-comment-le-mouvement-de-blocage-des-lycees-s-est-propage-en-france_8216054.html",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "20 Minutes",
+    "title": "Blocus des lycées : “Un peu plus de 400 établissements seront fermés demain”, annonce le ministre de l'Éducation",
+    "url": "https://www.20minutes.fr/societe/4250361-20261001-direct-blocus-lycees-mouvement-degenere-violences-incidents-lecornu-reunit-ministres",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "mesinfos",
+    "title": "Blocages des lycées : 400 établissements fermés, près de 2 000 interpellations ce Vendredi",
+    "url": "https://mesinfos.fr/blocages-des-lycees-400-etablissements-fermes-pres-de-2-000-interpellations-ce-vendredi-340196.html",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 400,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "400 fermetures d'établissements le 1er octobre",
+  "sources": [
+   {
+    "outlet": "20 Minutes",
+    "title": "Blocus des lycées : “Un peu plus de 400 établissements seront fermés demain”, annonce le ministre de l'Éducation",
+    "url": "https://www.20minutes.fr/societe/4250361-20261001-direct-blocus-lycees-mouvement-degenere-violences-incidents-lecornu-reunit-ministres",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "mesinfos",
+    "title": "Blocages des lycées : 400 établissements fermés, près de 2 000 interpellations ce Vendredi",
+    "url": "https://mesinfos.fr/blocages-des-lycees-400-etablissements-fermes-pres-de-2-000-interpellations-ce-vendredi-340196.html",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 340,
+  "scope": "jour",
+  "city": "",
+  "authority": "Police nationale (remontées rapportées par l'AFP)",
+  "quote": "340 actions en cours devant des lycées dans la matinée du 1er octobre et 169 blocages comptabilisés",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 640,
+  "scope": "jour",
+  "city": "",
+  "authority": "Union étudiante (organisateurs)",
+  "quote": "640 lycées et une trentaine de campus bloqués selon l'Union étudiante, chiffre non confirmé par les autorités",
+  "sources": [
+   {
+    "outlet": "Union étudiante",
+    "title": "30 universités bloquées – Une mobilisation historique en France",
+    "url": "https://union-etudiante.fr/communique-de-presse/30-universites-bloquees-une-mobilisation-historique-en-france/",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "autre",
+  "value": 30,
+  "scope": "jour",
+  "city": "",
+  "authority": "Union étudiante (organisateurs)",
+  "quote": "une trentaine de campus universitaires bloqués selon l'Union étudiante (1er octobre)",
+  "sources": [
+   {
+    "outlet": "Union étudiante",
+    "title": "30 universités bloquées – Une mobilisation historique en France",
+    "url": "https://union-etudiante.fr/communique-de-presse/30-universites-bloquees-une-mobilisation-historique-en-france/",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "blesses_eleves",
+  "value": 170,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "170 élèves blessés (bilan du 1er octobre)",
+  "sources": [
+   {
+    "outlet": "Midi libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "blesses_forces_ordre",
+  "value": 83,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "83 policiers et gendarmes blessés (bilan du 1er octobre)",
+  "sources": [
+   {
+    "outlet": "Midi libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "blesses_personnels",
+  "value": 65,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "65 membres du personnel de l'Éducation nationale blessés (bilan du 1er octobre)",
+  "sources": [
+   {
+    "outlet": "Midi libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-01",
+  "metric": "interpellations",
+  "value": 1949,
+  "scope": "jour",
+  "city": "",
+  "authority": "Gouvernement",
+  "quote": "1 949 interpellations (bilan du 1er octobre ; « près de 2 000 interpellations jeudi » selon Midi Libre)",
+  "sources": [
+   {
+    "outlet": "Midi libre",
+    "title": "Blocus des lycées : près de 2 000 interpellations jeudi alors que la fronde se durcit et gagne les universités",
+    "url": "https://www.midilibre.fr/2026/10/02/blocus-des-lycees-pres-de-2-000-interpellations-jeudi-alors-que-la-fronde-se-durcit-et-gagne-les-universites-13579220.php",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "Blocage des lycées : 119 blessés depuis le début de la contestation",
+    "url": "https://fr.euronews.com/2026/09/30/blocage-des-lycees-625-interpellations-et-119-blesses-depuis-le-debut-de-la-contestation",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "autre",
+  "value": 1027,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "1 027 lycées concernés par le mouvement, dont plus de 560 perturbés et 400 fermés, sur environ 3 700 (2 octobre)",
+  "sources": [
+   {
+    "outlet": "Le Nouvel Obs",
+    "title": "D'une grève à Créteil à plus de 1 000 établissements mobilisés en France, récit d'un embrasement de la colère lycéenne",
+    "url": "https://www.nouvelobs.com/social/20261002.OBS118827/d-une-greve-a-creteil-a-plus-de-1-000-etablissements-mobilises-en-france-recit-d-un-embrasement-de-la-colere-lyceenne.html",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "autre",
+  "value": 400,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "plus de 400 lycées fermés par précaution le 2 octobre",
+  "sources": [
+   {
+    "outlet": "Le Nouvel Obs",
+    "title": "D'une grève à Créteil à plus de 1 000 établissements mobilisés en France, récit d'un embrasement de la colère lycéenne",
+    "url": "https://www.nouvelobs.com/social/20261002.OBS118827/d-une-greve-a-creteil-a-plus-de-1-000-etablissements-mobilises-en-france-recit-d-un-embrasement-de-la-colere-lyceenne.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, blocage des lycées : des établissements affectés partout en France, une cellule interministérielle de crise prévue dans l'après-midi",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "date": "2026-10-01"
+   },
+   {
+    "outlet": "20 Minutes",
+    "title": "Blocus des lycées : “Un peu plus de 400 établissements seront fermés demain”, annonce le ministre de l'Éducation",
+    "url": "https://www.20minutes.fr/societe/4250361-20261001-direct-blocus-lycees-mouvement-degenere-violences-incidents-lecornu-reunit-ministres",
+    "date": "2026-10-01"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "autre",
+  "value": 800,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "près de 800 établissements perturbés le vendredi 2 octobre (comparaison donnée le 5 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Blocage des lycées : des centaines d'établissements toujours perturbés en France",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-des-centaines-d-etablissements-toujours-perturbes-en-france_8223886.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "gardes_a_vue",
+  "value": 2000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Mediapart (recensement)",
+  "quote": "plus de 2 000 gardes à vue, surtout de mineurs, depuis le 28 septembre",
+  "sources": [
+   {
+    "outlet": "Mediapart",
+    "title": "“48 heures d'enfer” : à leur sortie de garde à vue, des lycéens traumatisés",
+    "url": "https://www.mediapart.fr/journal/france/021026/48-heures-d-enfer-leur-sortie-de-garde-vue-des-lyceens-traumatises",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "interpellations",
+  "value": 1747,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "1 747 interpellations ce vendredi 2 octobre (titre de La Dépêche du Midi)",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "REPLAY. Blocage des lycées : 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi, des lycées fermés lundi",
+    "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-02",
+  "metric": "interpellations",
+  "value": 5000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "« plus de 5 000 interpellations depuis lundi », annonce Laurent Nuñez sur TF1 le 2 octobre (titre de l'article)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Blocus des lycées : “Plus de 5.000 interpellations depuis lundi”, annonce sur TF1 Laurent Nuñez, soulignant une mobilisation “surprenante” par son “ampleur”",
+    "url": "https://www.tf1info.fr/societe/blocus-des-lycees-plus-de-5-000-interpellations-depuis-lundi-annonce-sur-tf1-laurent-nunez-qui-reconnait-que-la-mobilisation-lyceenne-est-surprenante-par-son-ampleur-2467768.html",
+    "date": "2026-10-02"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "REPLAY. Blocage des lycées : 1 747 interpellations ce vendredi, plus de 5 000 depuis lundi, des lycées fermés lundi",
+    "url": "https://www.ladepeche.fr/2026/10/02/direct-blocage-des-lycees-1-793-personnes-en-garde-a-vue-depuis-lundi-le-gouvernement-retire-son-projet-de-faire-payer-linscription-au-bts-aux-13579143.php",
+    "date": "2026-10-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "autre",
+  "value": 413,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "413 établissements touchés par des actions ou des perturbations à la mi-journée du 5 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Le ministère de l'Éducation fait état de 589 établissements perturbés lundi dans le cadre du mouvement des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-l-education-fait-etat-de-413-etablissements-perturbes-lundi-matin-dans-le-cadre-du-mouvement-des-lyceens_8223433.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "autre",
+  "value": 589,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "589 établissements perturbés dans la journée du 5 octobre, contre près de 800 le vendredi précédent",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Blocage des lycées : des centaines d'établissements toujours perturbés en France",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-des-centaines-d-etablissements-toujours-perturbes-en-france_8223886.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "autre",
+  "value": 190,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "190 élèves et personnels de l'Éducation nationale blessés depuis le début du mouvement (5 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "blesses_forces_ordre",
+  "value": 65,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "65 membres des forces de l'ordre blessés au cours de la journée du 5 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "detentions_provisoires",
+  "value": 14,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "quatorze placements en détention provisoire ordonnés (dix majeurs et quatre mineurs)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : plus de 5 000 gardes à vue depuis le début du mouvement lycéen",
+    "url": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "creusot-infos.com",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "enquetes_igpn_iggn",
+  "value": 10,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "dix enquêtes de l'IGPN ouvertes en lien avec les blocages de lycées (Libération, 5 octobre) ; au moins dix saisines par le ministre de l'Intérieur",
+  "sources": [
+   {
+    "outlet": "Libération",
+    "title": "Main arrachée, mâchoire fracturée : dix enquêtes de l'IGPN ouvertes en lien avec les blocages des lycées, annonce le gouvernement",
+    "url": "https://www.liberation.fr/societe/police-justice/main-arrachee-machoire-scellee-six-enquetes-de-ligpn-ouvertes-en-lien-avec-les-blocages-des-lycees-20261005_CWHVJREBDNCURM7RCF3FKCZSXE/",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "gardes_a_vue",
+  "value": 5060,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "5 060 personnes placées en garde à vue depuis le début des violences en marge du mouvement, dont 87 % de mineurs (premier bilan judiciaire)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : plus de 5 000 gardes à vue depuis le début du mouvement lycéen",
+    "url": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "creusot-infos.com",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "interpellations",
+  "value": 984,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "984 interpellations au cours de la journée du 5 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Blocages des lycées : près de 1 000 personnes interpellées et 65 membres des forces de l'ordre blessées lundi, annonce le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "mineurs_part_gav",
+  "value": 87,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "87 % de mineurs parmi les 5 060 personnes placées en garde à vue (4 406 mineurs et 654 majeurs)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : plus de 5 000 gardes à vue depuis le début du mouvement lycéen",
+    "url": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+    "date": "2026-10-05"
+   },
+   {
+    "outlet": "creusot-infos.com",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-05",
+  "metric": "poursuites",
+  "value": 1802,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "poursuites engagées contre 1 802 personnes (1 483 mineurs et 319 majeurs)",
+  "sources": [
+   {
+    "outlet": "creusot-infos.com",
+    "title": "Justice : bilan judiciaire des “violences urbaines en marge du mouvement lycéen”",
+    "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/justice-bilan-judiciaire-des-violences-urbaines-en-marge-du-mouvement-lyceen-1791151200.html",
+    "date": "2026-10-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "autre",
+  "value": 256000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "256 000 manifestants dans l'ensemble du pays le 6 octobre selon le ministère de l'Intérieur (450 000 selon les organisateurs)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Mouvement lycéen : 450.000 manifestants dans toute la France selon les organisateurs, 256.000 selon Beauvau",
+    "url": "https://www.tf1info.fr/societe/direct-blocus-des-lycees-acte-3-mobilisation-manifestation-mardi-6-octobre-2026-etablissements-fermes-les-dernieres-informations-aujourd-hui-2468224.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "autre",
+  "value": 450000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Organisateurs (intersyndicale lycéenne et étudiante)",
+  "quote": "450 000 manifestants selon les organisateurs le 6 octobre, dont 100 000 à Paris",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Mouvement lycéen : 450.000 manifestants dans toute la France selon les organisateurs, 256.000 selon Beauvau",
+    "url": "https://www.tf1info.fr/societe/direct-blocus-des-lycees-acte-3-mobilisation-manifestation-mardi-6-octobre-2026-etablissements-fermes-les-dernieres-informations-aujourd-hui-2468224.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "gardes_a_vue",
+  "value": 5000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Conseil de l'Ordre des avocats de Paris",
+  "quote": "plus de 5 000 personnes, en très grande majorité mineures, placées en garde à vue alors que seul un tiers a fait l'objet de poursuites (séance du 6 octobre)",
+  "sources": [
+   {
+    "outlet": "Barreau de Paris",
+    "title": "Communiqué du Conseil de l'Ordre sur le recours massif aux garde à vue de mineurs dans le contexte de la mobilisation des lycéens",
+    "url": "https://www.avocatparis.org/conseil-de-l-ordre/communique-du-conseil-de-lordre-sur-le-recours-massif-aux-garde-vue-de-mineurs",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "metric": "autre",
+  "value": 56000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "56 000 manifestants à Paris le 6 octobre selon le ministère de l'Intérieur (100 000 selon les organisateurs)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Mouvement lycéen : 450.000 manifestants dans toute la France selon les organisateurs, 256.000 selon Beauvau",
+    "url": "https://www.tf1info.fr/societe/direct-blocus-des-lycees-acte-3-mobilisation-manifestation-mardi-6-octobre-2026-etablissements-fermes-les-dernieres-informations-aujourd-hui-2468224.html",
+    "date": "2026-10-06"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "autre",
+  "value": 24,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "24 lycées incendiés ou saccagés au point de ne pas pouvoir rouvrir avant plusieurs semaines, privant environ 30 000 lycéens de cours en présentiel (audition du 7 octobre)",
+  "sources": [
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement des lycéens : lors de son audition à l'Assemblée, Laurent Nuñez défend sa gestion du maintien de l'ordre",
+    "url": "https://www.europe1.fr/politique/mouvement-des-lyceens-lors-de-son-audition-a-lassemblee-laurent-nunez-defend-sa-gestion-du-maintien-de-lordre-1129607",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "autre",
+  "value": 6,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "six enquêtes ouvertes par l'IGPN pour des blessures après des tirs de LBD (7 octobre)",
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Mouvement lycéen : six enquêtes ouvertes par l'IGPN pour des blessures après des tirs de LBD",
+    "url": "https://actu.orange.fr/france/mouvement-lyceen-six-enquetes-ouvertes-par-l-igpn-pour-des-blessures-apres-des-tirs-de-lbd-magic-CNT000002soL3v.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "blesses_eleves",
+  "value": 215,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "215 élèves blessés depuis le début du mouvement (TF1 Info, 7 octobre ; chiffre repris par Libération le 14 octobre)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Mobilisation lycéenne : que recouvre le chiffre de 900 policiers et gendarmes blessés, annoncé par le ministre de l'Intérieur ?",
+    "url": "https://www.liberation.fr/checknews/mobilisation-lyceenne-que-recouvre-le-chiffre-de-900-policiers-et-gendarmes-blesses-annonce-par-le-ministre-de-linterieur-20261014_PKSVVAJHORC4NNHQWDFHOXLRB4/",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "blesses_forces_ordre",
+  "value": 761,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "761 policiers blessés depuis le début du mouvement selon Laurent Nuñez (7 octobre)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "enquetes_igpn_iggn",
+  "value": 18,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "18 enquêtes confiées à l'IGPN au mercredi 7 octobre (24 le 9 octobre, « soit six de plus que le mercredi précédent »)",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Blocage des lycées : œil blessé, main arrachée, mâchoire cassée, ce que l'on sait des enquêtes confiées à l'IGPN",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/blocage-des-lycees-24-enquetes-ont-ete-confiees-a-l-igpn-depuis-le-debut-du-mouvement-2568189",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "metric": "interpellations",
+  "value": 6629,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "6 629 interpellations depuis le début du mouvement (TF1 Info, 7 octobre)",
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Colère lycéenne : 6.629 interpellations, 215 élèves et 761 policiers blessés, annonce Laurent Nuñez",
+    "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 71500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "71 500 manifestants en France le 8 octobre selon le ministère de l'Intérieur, dont 24 500 à Paris (plus de 130 000 selon la CGT)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre de l'Éducation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "La mobilisation lycéenne se poursuit partout en France : “battles d'aura”, “Marseillaise”, défilés et incidents",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/08/la-mobilisation-lyceenne-se-poursuit-partout-en-france-battles-d-aura-marseillaises-defiles-et-incidents_6790285_3224.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Colère des lycéens : entre 71.500 et 130.000 manifestants dans les cortèges, “de premières mesures concrètes” attendues",
+    "url": "https://www.ici.fr/infos/education/colere-des-lyceens-une-nouvelle-journee-d-action-ce-jeudi-les-enseignants-appeles-a-la-greve-et-a-manifester-1518036",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 130000,
+  "scope": "jour",
+  "city": "",
+  "authority": "CGT (organisateurs)",
+  "quote": "plus de 130 000 manifestants le 8 octobre selon la CGT",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre de l'Éducation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "La mobilisation lycéenne se poursuit partout en France : “battles d'aura”, “Marseillaise”, défilés et incidents",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/08/la-mobilisation-lyceenne-se-poursuit-partout-en-france-battles-d-aura-marseillaises-defiles-et-incidents_6790285_3224.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Colère des lycéens : entre 71.500 et 130.000 manifestants dans les cortèges, “de premières mesures concrètes” attendues",
+    "url": "https://www.ici.fr/infos/education/colere-des-lyceens-une-nouvelle-journee-d-action-ce-jeudi-les-enseignants-appeles-a-la-greve-et-a-manifester-1518036",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 55000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "55 000 personnes ayant participé à des actions devant des établissements scolaires le 8 octobre, dont une partie seulement a rejoint les cortèges",
+  "sources": [
+   {
+    "outlet": "Bluewin",
+    "title": "“504 interpellations” : le bilan tendu de la mobilisation des lycéens en France",
+    "url": "https://www.bluewin.ch/fr/infos/monde/mouvement-des-lyc-ens-71-500-personnes-ont-manifest-en-france-li.3629162",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 224,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "224 établissements fermés le 8 octobre (comparaison donnée le 13 octobre)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "blesses_forces_ordre",
+  "value": 48,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "48 policiers et gendarmes blessés au cours de la journée du 8 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre de l'Éducation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "detentions_provisoires",
+  "value": 21,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "vingt-et-une personnes placées en détention provisoire, dont six mineurs (bilan au 8 octobre)",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "gardes_a_vue",
+  "value": 6877,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "6 877 personnes placées en garde à vue depuis le début du mouvement, dont 86 % de mineurs (bilan arrêté au 8 octobre à 17 h)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Comment expliquer le nombre important de gardes à vue depuis le début de la mobilisation lycéenne ?",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-expliquer-le-nombre-important-de-gardes-a-vue-depuis-le-debut-de-la-mobilisation-lyceenne_8235619.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "interpellations",
+  "value": 504,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "504 interpellations au cours de la journée du 8 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre de l'Éducation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Bluewin",
+    "title": "“504 interpellations” : le bilan tendu de la mobilisation des lycéens en France",
+    "url": "https://www.bluewin.ch/fr/infos/monde/mouvement-des-lyc-ens-71-500-personnes-ont-manifest-en-france-li.3629162",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "interpellations",
+  "value": 6500,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Basta! (recensement)",
+  "quote": "plus de 6 500 interpellations depuis le début du mouvement (Basta!, 8 octobre)",
+  "sources": [
+   {
+    "outlet": "Basta!",
+    "title": "Mouvement lycéen : plus de 6500 interpellations et des centaines d'adolescents traumatisés par leurs gardes à vue",
+    "url": "https://basta.media/Mouvement-lyceen-6500-interpellations-adolescents-traumatises-garde-a-vue",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "mineurs_part_gav",
+  "value": 86,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "86 % de mineurs parmi les 6 877 personnes placées en garde à vue (bilan au 8 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Mobilisation lycéenne : 6.877 manifestants placés en garde à vue depuis le début du mouvement",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/mobilisation-lyceenne-6-877-manifestants-places-en-garde-a-vue-depuis-le-debut-du-mouvement-9291300",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "poursuites",
+  "value": 2376,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "2 376 personnes font l'objet de poursuites, dont 1 923 mineurs (bilan au 8 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 6 877 personnes ont été placées en garde à vue, dont 86% de mineurs, selon le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministere-de-la-justice-fait-etat-de-6-877-personnes-placees-en-garde-a-vue-dont-86-de-mineurs-depuis-le-debut-du-mouvement-des-lyceens_8229919.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "metric": "autre",
+  "value": 24500,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "24 500 manifestants à Paris le 8 octobre selon le ministère de l'Intérieur",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : “3 000 professeurs remplaçants” vont être affectés “dans les heures qui viennent”, annonce le ministre de l'Éducation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+    "date": "2026-10-08"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "La mobilisation lycéenne se poursuit partout en France : “battles d'aura”, “Marseillaise”, défilés et incidents",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/08/la-mobilisation-lyceenne-se-poursuit-partout-en-france-battles-d-aura-marseillaises-defiles-et-incidents_6790285_3224.html",
+    "date": "2026-10-08"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "autre",
+  "value": 12,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Reporters sans frontières",
+  "quote": "au moins douze journalistes agressés physiquement ou intimidés verbalement, six par des manifestants ou des tiers et six par les forces de l'ordre (9 octobre)",
+  "sources": [
+   {
+    "outlet": "Reporters sans frontières",
+    "title": "France : au moins douze journalistes agressés lors des mobilisations étudiantes et lycéennes",
+    "url": "https://rsf.org/fr/france-au-moins-douze-journalistes-agress%C3%A9s-lors-des-mobilisations-%C3%A9tudiantes-et-lyc%C3%A9ennes",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "blesses_personnels",
+  "value": 100,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "au moins 100 personnels de l'Éducation nationale blessés depuis le début du mouvement (9 octobre)",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Mobilisation lycéenne : plus de 100 personnels de l'Éducation nationale ont été blessés, annonce Édouard Geffray",
+    "url": "https://www.leparisien.fr/societe/mobilisation-lyceenne-plus-de-100-personnels-de-leducation-nationale-ont-ete-blesses-annonce-edouard-geffray-09-10-2026-GFIR3IYMP5CBZDDCAH6RLLH3XI.php",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "metric": "enquetes_igpn_iggn",
+  "value": 24,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "24 enquêtes confiées à l'IGPN depuis le début du mouvement, dont six portant sur des tirs de LBD (9 octobre)",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Blocage des lycées : œil blessé, main arrachée, mâchoire cassée, ce que l'on sait des enquêtes confiées à l'IGPN",
+    "url": "https://www.ici.fr/infos/faits-divers-justice/blocage-des-lycees-24-enquetes-ont-ete-confiees-a-l-igpn-depuis-le-debut-du-mouvement-2568189",
+    "date": "2026-10-09"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation des lycéens : 24 enquêtes ouvertes par l'IGPN, la police des polices, depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "metric": "deferrements",
+  "value": 1544,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "65 % des 2 376 personnes poursuivies ont été déférées (soit environ 1 544 ; valeur calculée à partir du pourcentage)",
+  "sources": [
+   {
+    "outlet": "Le HuffPost",
+    "title": "Les arrestations records de lycéens constituent “aussi une forme de violence policière”",
+    "url": "https://www.huffingtonpost.fr/france/article/les-arrestations-records-depuis-le-debut-du-mouvement-lyceen-constituent-aussi-une-forme-de-violence-policiere_336191.html",
+    "date": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "metric": "detentions_provisoires",
+  "value": 21,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "21 placements en détention provisoire ordonnés, dont 15 majeurs et 6 mineurs (10 octobre)",
+  "sources": [
+   {
+    "outlet": "Le HuffPost",
+    "title": "Les arrestations records de lycéens constituent “aussi une forme de violence policière”",
+    "url": "https://www.huffingtonpost.fr/france/article/les-arrestations-records-depuis-le-debut-du-mouvement-lyceen-constituent-aussi-une-forme-de-violence-policiere_336191.html",
+    "date": "2026-10-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "metric": "interpellations",
+  "value": 6800,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "plus de 6 800 personnes interpellées depuis le début de la contestation, dont 86 % de mineurs, soit une moyenne de 1 000 interpellations quotidiennes (10 octobre)",
+  "sources": [
+   {
+    "outlet": "Le HuffPost",
+    "title": "Les arrestations records de lycéens constituent “aussi une forme de violence policière”",
+    "url": "https://www.huffingtonpost.fr/france/article/les-arrestations-records-depuis-le-debut-du-mouvement-lyceen-constituent-aussi-une-forme-de-violence-policiere_336191.html",
+    "date": "2026-10-10"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Vrai ou faux. Avec le mouvement des lycéens, y a-t-il “plus d'interpellations qu'au plus fort des gilets jaunes” ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avec-le-mouvement-des-lyceens-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_8203931.html",
+    "date": "2026-10-06"
+   },
+   {
+    "outlet": "20 Minutes",
+    "title": "Blocus des lycées : Un nombre d'interpellations record ? On a comparé avec les “gilets jaunes” et Mai 68",
+    "url": "https://www.20minutes.fr/societe/4251778-20261007-blocus-lycees-nombre-interpellations-record-compare-gilets-jaunes-mai-68",
+    "date": "2026-10-07"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "metric": "autre",
+  "value": 80,
+  "scope": "jour",
+  "city": "",
+  "authority": "Rectorats d'Île-de-France",
+  "quote": "près de 80 lycées perturbés en Île-de-France le 12 octobre",
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Des lycées perturbés, Macron appelle au calme",
+    "url": "https://actu.orange.fr/france/des-lycees-perturbes-macron-appelle-au-calme-CNT000002sD2M9.html",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "metric": "autre",
+  "value": 27,
+  "scope": "ville",
+  "city": "Rhône",
+  "authority": "Préfecture du Rhône",
+  "quote": "27 établissements touchés dans le Rhône le 12 octobre (19 lycées, six universités et deux collèges)",
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Des lycées perturbés, Macron appelle au calme",
+    "url": "https://actu.orange.fr/france/des-lycees-perturbes-macron-appelle-au-calme-CNT000002sD2M9.html",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "metric": "interpellations",
+  "value": 13,
+  "scope": "ville",
+  "city": "Rhône",
+  "authority": "Préfecture du Rhône",
+  "quote": "13 interpellations dans le Rhône le 12 octobre",
+  "sources": [
+   {
+    "outlet": "Orange Actualités",
+    "title": "Des lycées perturbés, Macron appelle au calme",
+    "url": "https://actu.orange.fr/france/des-lycees-perturbes-macron-appelle-au-calme-CNT000002sD2M9.html",
+    "date": "2026-10-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 161500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "161 500 manifestants en France le 13 octobre selon le ministère de l'Intérieur, dont 41 500 à Paris (480 000 selon l'intersyndicale de la jeunesse)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Mouvement des lycéens : 480.000 manifestants en France selon les syndicats, 161.500 selon le gouvernement",
+    "url": "https://www.ici.fr/infos/education/direct-mouvement-des-lyceens-nouvelle-journee-de-mobilisation-ce-mardi-appel-a-la-greve-dans-l-education-nationale-5398890",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Mouvement lycéen : entre 161500 et 480000 personnes ont manifesté mardi 13 octobre 2026 en France, revivez la journée de mobilisation",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-a-paris-la-denonciation-des-violences-policieres-est-au-c-ur-de-la-mobilisation_6793059_3224.html#id-3363507",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 480000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Intersyndicale de la jeunesse (organisateurs)",
+  "quote": "480 000 manifestants le 13 octobre selon l'intersyndicale de la jeunesse",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Mouvement des lycéens : 480.000 manifestants en France selon les syndicats, 161.500 selon le gouvernement",
+    "url": "https://www.ici.fr/infos/education/direct-mouvement-des-lyceens-nouvelle-journee-de-mobilisation-ce-mardi-appel-a-la-greve-dans-l-education-nationale-5398890",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Mouvement lycéen : entre 161500 et 480000 personnes ont manifesté mardi 13 octobre 2026 en France, revivez la journée de mobilisation",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-a-paris-la-denonciation-des-violences-policieres-est-au-c-ur-de-la-mobilisation_6793059_3224.html#id-3363507",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 214,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "214 établissements fermés et 94,2 % de lycées ouverts le 13 octobre, contre 224 fermés le 8 octobre",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 35,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Enseignement supérieur",
+  "quote": "environ 35 % des établissements d'enseignement supérieur perturbés le 13 octobre (90 % des universités bloquées selon l'Union étudiante)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "blesses_forces_ordre",
+  "value": 40,
+  "scope": "jour",
+  "city": "",
+  "authority": "Premier ministre",
+  "quote": "40 policiers et gendarmes blessés lors de la seule journée du 13 octobre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "blesses_personnels",
+  "value": 147,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "147 personnels blessés depuis le début du mouvement ; la journée du 12 octobre constitue le deuxième bilan quotidien le plus lourd après celui du 1er octobre",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "En direct : 480 000 personnes ont manifesté en France, la colère lycéenne ne retombe pas",
+    "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "enquetes_igpn_iggn",
+  "value": 36,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "36 enquêtes confiées à l'IGPN depuis le début de la mobilisation (13 octobre, source proche du dossier)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+    "date": "2026-10-13"
+   },
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation des lycéens : 36 enquêtes IGPN ouvertes depuis le début du mouvement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-36-enquetes-igpn-ouvertes-depuis-le-debut-du-mouvement_8235772.html",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 41500,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "41 500 manifestants à Paris le 13 octobre selon le ministère de l'Intérieur",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "metric": "autre",
+  "value": 7300,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Préfecture d'Ille-et-Vilaine",
+  "quote": "7 300 manifestants à Rennes le 13 octobre selon la préfecture",
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Mobilisation lycéenne : entre 7.000 et 10.000 manifestants à Rennes pour “l'acte 5” du mouvement, deux personnes interpellées",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/mobilisation-lyceenne-blocages-greve-et-manifestations-prevus-pour-l-acte-5-du-mouvement-en-bretagne-3432627.html",
+    "date": "2026-10-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_eleves",
+  "value": 248,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre",
+  "quote": "248 élèves blessés depuis le début du mouvement (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "actu17.fr",
+    "title": "Alliance Police Nationale porte plainte contre l'État : “Les policiers trahis, abandonnés et livrés à eux-mêmes”",
+    "url": "https://actu17.fr/societe/alliance-police-nationale-porte-plainte-contre-l-etat-les-policiers-trahis-abandonnes-et-livres-a-eux-memes.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_forces_ordre",
+  "value": 937,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre",
+  "quote": "937 membres des forces de l'ordre blessés depuis le début du mouvement (questions au gouvernement, Sénat, 14 octobre) ; chiffre contesté par LFI car fondé sur les seules déclarations des agents",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "actu17.fr",
+    "title": "Alliance Police Nationale porte plainte contre l'État : “Les policiers trahis, abandonnés et livrés à eux-mêmes”",
+    "url": "https://actu17.fr/societe/alliance-police-nationale-porte-plainte-contre-l-etat-les-policiers-trahis-abandonnes-et-livres-a-eux-memes.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "RTL",
+    "title": "“Les policiers trahis, abandonnés et livrés à eux-mêmes” : Alliance porte plainte contre l'État en pleine mobilisation lycéenne",
+    "url": "https://www.rtl.fr/actu/justice-faits-divers/les-policiers-trahis-abandonnes-et-livres-a-eux-memes-le-syndicat-alliance-porte-plainte-contre-l-etat-en-pleine-mobilisation-lyceenne-7900685259",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "Libération",
+    "title": "Mobilisation lycéenne : que recouvre le chiffre de 900 policiers et gendarmes blessés, annoncé par le ministre de l'Intérieur ?",
+    "url": "https://www.liberation.fr/checknews/mobilisation-lyceenne-que-recouvre-le-chiffre-de-900-policiers-et-gendarmes-blesses-annonce-par-le-ministre-de-linterieur-20261014_PKSVVAJHORC4NNHQWDFHOXLRB4/",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "blesses_personnels",
+  "value": 149,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Premier ministre",
+  "quote": "149 personnels de l'Éducation nationale blessés depuis le début du mouvement, bilan « le plus lourd jamais connu par le ministère » (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Depuis le début du mouvement lycéen, 937 membres des forces de l'ordre et 248 élèves ont été blessés, annonce Sébastien Lecornu",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/depuis-le-debut-du-mouvement-lyceen-937-membres-des-forces-de-l-ordre-et-248-eleves-ont-ete-blesses-annonce-sebastien-lecornu_8237296.html",
+    "date": "2026-10-14"
+   },
+   {
+    "outlet": "actu17.fr",
+    "title": "Alliance Police Nationale porte plainte contre l'État : “Les policiers trahis, abandonnés et livrés à eux-mêmes”",
+    "url": "https://actu17.fr/societe/alliance-police-nationale-porte-plainte-contre-l-etat-les-policiers-trahis-abandonnes-et-livres-a-eux-memes.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "classements_sans_suite",
+  "value": 1263,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "1 263 classements sans suite (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "detentions_provisoires",
+  "value": 26,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "26 personnes, dont neuf mineurs, placées en détention provisoire (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "gardes_a_vue",
+  "value": 8000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "près de 8 000 personnes placées en garde à vue depuis le début du mouvement, dont 85 % de mineurs (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "mineurs_part_gav",
+  "value": 85,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "85 % de mineurs parmi les près de 8 000 gardes à vue (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "metric": "poursuites",
+  "value": 2735,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice",
+  "quote": "2 735 personnes ont fait l'objet de poursuites (14 octobre)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "DIRECT. Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html",
+    "date": "2026-10-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "metric": "autre",
+  "value": 37,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "37 établissements partiellement incendiés depuis le début du mouvement (Édouard Geffray, 15 octobre)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les organisations lycéennes reçues pour la troisième fois par le ministre de l'Éducation",
+    "url": "https://www.france24.com/fr/france/20261015-organisations-lyc%C3%A9ennes-re%C3%A7ues-troisi%C3%A8me-fois-ministre-%C3%A9ducation",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "metric": "interpellations",
+  "value": 1260,
+  "scope": "cumul",
+  "city": "Paris (agglomération)",
+  "authority": "Préfecture de police de Paris",
+  "quote": "1 260 interpellations dans l'agglomération parisienne depuis le début du mouvement (15 octobre)",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "DIRECT. Mobilisation lycéenne : 1 260 interpellations dans l'agglomération parisienne depuis le début du mouvement",
+    "url": "https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-1-260-interpellations-dans-lagglomeration-parisienne-depuis-le-debut-du-mouvement-b395edf4-1c9f-490c-a87f-74ad0fda8386",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "metric": "autre",
+  "value": 1400,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Préfecture d'Ille-et-Vilaine",
+  "quote": "1 400 manifestants dans le cortège rennais du 15 octobre selon la préfecture",
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "“On ne compte pas s'arrêter” : la mobilisation des lycéens continue entre revendications, blocages, manifestation mais aussi, incidents",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/on-ne-compte-pas-s-arreter-la-mobilisation-des-lyceens-continue-entre-revendications-blocages-manifestation-mais-aussi-incidents-3434085.html",
+    "date": "2026-10-15"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-16",
+  "metric": "blesses_personnels",
+  "value": 165,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "165 personnels blessés depuis le début du mouvement (16 octobre)",
+  "sources": [
+   {
+    "outlet": "La Libre Belgique",
+    "title": "Lycéens, gilets jaunes, militants du climat : vers une convergence des colères samedi dans la rue",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/10/16/lyceens-gilets-jaunes-militants-du-climat-vers-une-convergence-des-coleres-samedi-dans-la-rue-K3PW62MUSVG2DOBSTRGFQLVGAQ/",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 550000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "550 000 manifestants dans tout le pays le 17 octobre selon le ministère de l'Intérieur, dont 110 000 à Paris (800 000 selon les organisateurs)",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Mobilisation du 17 octobre 2026 : les images des émeutes à Paris, en marge de la manifestation",
+    "url": "https://www.leparisien.fr/faits-divers/mobilisation-du-17-octobre-les-images-des-emeutes-a-paris-en-marge-de-la-manifestation-17-10-2026-QOKLCPL4TJDN5EYEIFNC5ITT7U.php",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "Paris Match",
+    "title": "Manifestations du 17 octobre 2026 : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+    "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 800000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Organisateurs",
+  "quote": "800 000 manifestants recensés le 17 octobre selon les organisateurs, dont 110 000 à Paris",
+  "sources": [
+   {
+    "outlet": "Paris Match",
+    "title": "Manifestations du 17 octobre 2026 : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+    "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 110,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "110 manifestations dans tout le pays le 17 octobre",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "CARTE. Manifestations du 17 octobre 2026 : voici les villes où ont eu lieu les rassemblements ce samedi en France",
+    "url": "https://www.ouest-france.fr/societe/manifestation/carte-manifestations-du-17-octobre-ou-ont-eu-lieu-les-rassemblements-ce-samedi-en-france-117f6c8a-ca0b-11f1-b8bc-a46147b584ed",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 30000,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfecture de police des Bouches-du-Rhône",
+  "quote": "30 000 pilleurs, dont 8 000 émeutiers, auxquels les forces de l'ordre ont dû faire face à Marseille le 17 octobre",
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Violences du 17 octobre 2026: plus de 30.000 pilleurs à Marseille, selon la préfecture de police",
+    "url": "https://www.lefigaro.fr/marseille/violences-du-17-octobre-plus-de-30-000-pilleurs-a-marseille-selon-la-prefecture-de-police-20261018",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "autre",
+  "value": 110000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "110 000 manifestants à Paris le 17 octobre, chiffre commun au ministère de l'Intérieur et aux organisateurs",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Mobilisation du 17 octobre 2026 : les images des émeutes à Paris, en marge de la manifestation",
+    "url": "https://www.leparisien.fr/faits-divers/mobilisation-du-17-octobre-les-images-des-emeutes-a-paris-en-marge-de-la-manifestation-17-10-2026-QOKLCPL4TJDN5EYEIFNC5ITT7U.php",
+    "date": "2026-10-17"
+   },
+   {
+    "outlet": "Paris Match",
+    "title": "Manifestations du 17 octobre 2026 : 800000 personnes dans les rues, le chaos et des pillages à Paris, Nantes, Lyon, Lille…",
+    "url": "https://www.parismatch.com/actu/societe/manifestations-du-17-octobre-800-000-personnes-dans-les-rues-le-chaos-et-des-pillages-a-paris-nantes-lyon-lille-277614",
+    "date": "2026-10-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "metric": "interpellations",
+  "value": 108,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "108 personnes interpellées à Paris durant la journée du 17 octobre",
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Violences du 17 octobre 2026 : 108 interpellations à Paris dimanche, des “groupes hostiles” à Châtelet-les-Halles",
+    "url": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
+    "date": "2026-10-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 410000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "410 000 manifestants le 24 octobre selon le ministère de l'Intérieur, dont 110 000 à Paris (plus de 800 000 selon la CGT)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l'intérieur, plus de 800 000, selon la CGT",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 800000,
+  "scope": "jour",
+  "city": "",
+  "authority": "CGT (organisateurs)",
+  "quote": "plus de 800 000 manifestants le 24 octobre selon la CGT, dont 250 000 à Paris",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l'intérieur, plus de 800 000, selon la CGT",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "couvre_feux_villes",
+  "value": 100,
+  "scope": "jour",
+  "city": "",
+  "authority": "Préfectures (carte Le Monde)",
+  "quote": "plus d'une centaine de villes concernées par des interdictions de manifester ou des couvre-feux le 24 octobre",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "CARTE. Couvre-feux et manifestations du 24 octobre : suivez les restrictions et interdictions en temps réel",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/23/la-carte-des-couvre-feux-et-des-interdictions-de-manifester-le-24-octobre-en-france-en-temps-reel_6798285_4355771.html",
+    "date": "2026-10-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "metric": "autre",
+  "value": 110000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "110 000 manifestants à Paris le 24 octobre selon les autorités (250 000 selon la CGT)",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "EN DIRECT, manifestations du 24 octobre : près de 410 000 personnes mobilisées en France, selon le ministère de l'intérieur, plus de 800 000, selon la CGT",
+    "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+    "date": "2026-10-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "metric": "enquetes_igpn_iggn",
+  "value": 83,
+  "scope": "cumul",
+  "city": "",
+  "authority": "IGPN / IGGN",
+  "quote": "au 30 octobre, l'IGPN et l'IGGN ont ouvert 83 enquêtes (référence non résolue dans le texte source)",
+  "sources": [],
+  "needs_source": true
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 320000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "320 000 manifestants le 31 octobre selon le ministère de l'Intérieur (près d'un demi-million selon les organisations de jeunesse)",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+    "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "autre",
+  "value": 500000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Organisations de jeunesse (organisateurs)",
+  "quote": "près d'un demi-million de manifestants le 31 octobre selon les organisations de jeunesse",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "Mobilisation du 31 octobre : le gouvernement recense 320.000 manifestants, près de 500.000 selon les syndicats",
+    "url": "https://www.ici.fr/infos/economie-social/direct-mobilisation-du-31-octobre-suivez-l-acte-iii-des-manifestations-contre-la-vie-chere-7543282",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "metric": "interpellations",
+  "value": 565,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "565 interpellations à 21 heures le 31 octobre (bilan provisoire)",
+  "sources": [
+   {
+    "outlet": "Franceinfo",
+    "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html",
+    "date": "2026-10-31"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "metric": "autre",
+  "value": 41,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "41 lycées bloqués à 9 h 30 le 2 novembre, soit environ 1 % des quelque 3 700 établissements ; aucune perturbation dans les trois quarts des départements",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Mobilisations lycéennes en France : plus de 40 lycées bloqués au retour des vacances scolaires (vidéo)",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisation-lyc%C3%A9enne-en-france-plus-de-40-lyc%C3%A9es-bloqu%C3%A9s-au-retour-des-vacances-scolaires",
+    "date": "2026-11-02"
+   },
+   {
+    "outlet": "Ici",
+    "title": "Blocage des lycées et des facs, grève interprofessionnelle, acte IV samedi : à quoi s'attendre cette semaine ?",
+    "url": "https://www.ici.fr/infos/economie-social/blocage-des-lycees-et-des-facs-journee-de-greve-interprofessionnelle-le-5-novembre-a-quoi-s-attendre-cette-semaine-9362381",
+    "date": "2026-11-01"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Des lycées bloqués dans plusieurs villes à l'aube d'une semaine de mobilisation",
+    "url": "https://www.france24.com/fr/france/20261102-blocages-des-lyc%C3%A9es-et-manifestations-%C3%A9tudiantes-annonc%C3%A9s-d%C3%A8s-la-reprise-des-cours",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "metric": "autre",
+  "value": 7,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "AFP (recensement)",
+  "quote": "sept lycées sur environ 75 bloqués à Marseille dans la matinée du 2 novembre",
+  "sources": [
+   {
+    "outlet": "lcp.fr",
+    "title": "Blocage de lycées : Édouard Geffray évoque un mouvement “résiduel”, mais alerte sur une “année scolaire en risque” pour de nombreux lycéens",
+    "url": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "autre",
+  "value": 48,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "48 lycées bloqués le 3 novembre selon le ministère (près de 500 selon l'USL)",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+    "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "metric": "autre",
+  "value": 500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Union syndicale lycéenne (organisateurs)",
+  "quote": "près de 500 lycées bloqués le 3 novembre selon l'USL",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+    "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+    "date": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "metric": "blesses_personnels",
+  "value": 37,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "37 agents de l'Éducation nationale blessés dans le cadre du mouvement lycéen et des blocages (titre franceinfo du 4 novembre ; périmètre temporel non précisé, probablement depuis la rentrée du 2 novembre)",
+  "date_uncertain": true,
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Dans le cadre du mouvement lycéen et des blocages, 37 agents de l'Education nationale ont été blessés en 48 heures",
+    "url": "https://www.franceinfo.fr/societe/mouvement-lyceen-37-personnels-de-l-education-nationale-ont-ete-blesses-en-48-heures-dans-le-cadre-des-blocages_8267924.html",
+    "date": "2026-11-04"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 81,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "81 lycées bloqués à 10 h le 5 novembre, soit 2,2 % des établissements",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 1000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Union syndicale lycéenne (organisateurs)",
+  "quote": "plus de 1 000 lycées « à l'arrêt », bloqués ou fermés administrativement, et 90 % des universités mobilisées selon l'USL (5 novembre)",
+  "sources": [
+   {
+    "outlet": "Ici",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 575000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "575 000 manifestants en France le 5 novembre selon le ministère de l'Intérieur, dont 65 000 à Paris (près de 1,6 million selon la CGT)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "Ici",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 1600000,
+  "scope": "jour",
+  "city": "",
+  "authority": "CGT (organisateurs)",
+  "quote": "près de 1,6 million de manifestants le 5 novembre selon la CGT, dont 350 000 à Paris",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "Ici",
+    "title": "DIRECT - Grève du 5 novembre : “près de 1,6 million” de manifestants selon la CGT, 600.000 à 17h selon le ministère",
+    "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "interpellations",
+  "value": 448,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "448 interpellations le 5 novembre",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "metric": "autre",
+  "value": 65000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "65 000 manifestants à Paris le 5 novembre selon le ministère de l'Intérieur (350 000 selon la CGT)",
+  "sources": [
+   {
+    "outlet": "franceinfo.fr",
+    "title": "Mobilisation du 5 novembre : la déambulation des cortèges déclarés s'est “globalement bien déroulée”, rapporte le ministère de l'Intérieur, qui fait état de 448 interpellations",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+    "date": "2026-11-05"
+   }
+  ]
+ }
+]
