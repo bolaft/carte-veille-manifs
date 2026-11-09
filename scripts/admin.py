@@ -233,14 +233,14 @@ const fam=x=>x.cat==='extrême-droite'?'fr':x.cat==='répression'?'rep':x.cat===
 async function api(path,body){const r=await fetch('/api/'+path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});return r.json();}
 async function refresh(){S=await api('state');$('#built').textContent=S.built?`Dernière construction : ${S.built}`:'';const n=S.rules.length+Object.values(S.manual).reduce((a,b)=>a+b.filter(x=>x._admin).length,0);$('#dirty').textContent=S.dirty?`modifications non reconstruites`:'à jour';$('#dirty').className='badge'+(S.dirty?' warn':'');render();}
 function log(t){const l=$('#log');l.style.display='block';l.textContent=t;l.scrollTop=l.scrollHeight;}
-function setFilter(){const f=$('#f1');f.innerHTML='';const opts=tab==='incident'?[['','Toutes catégories'],...Object.entries(CATS)]:tab==='event'?[['','Tous types'],...Object.entries(TYPES)]:tab==='stat'?[['','Toutes métriques'],...METRICS.map(m=>[m,m])]:[['','']];f.innerHTML=opts.map(([k,v])=>`<option value="${esc(k)}">${esc(v)}</option>`).join('');f.style.display=tab==='media'||tab==='rules'?'none':'';}
+function setFilter(){const f=$('#f1');const cur=f.value;const opts=tab==='incident'?[['','Toutes catégories'],...Object.entries(CATS)]:tab==='event'?[['','Tous types'],...Object.entries(TYPES)]:tab==='stat'?[['','Toutes métriques'],...METRICS.map(m=>[m,m])]:[['','']];f.innerHTML=opts.map(([k,v])=>`<option value="${esc(k)}">${esc(v)}</option>`).join('');if([...f.options].some(o=>o.value===cur))f.value=cur;f.style.display=tab==='media'||tab==='rules'?'none':'';}
 function rows(){const q=$('#q').value.trim().toLowerCase(),f=$('#f1').value,d=$('#fdate').value;const hit=x=>(!q||[x.city,x.title,x.summary,x.date,x.quote,x.authority,x.metric].join(' ').toLowerCase().includes(q))&&(!d||x.date===d);
  if(tab==='incident')return S.incidents.filter(x=>hit(x)&&(!f||x.cat===f)).sort((a,b)=>b.date.localeCompare(a.date));
  if(tab==='event')return S.events.filter(x=>hit(x)&&(!f||x.type===f)).sort((a,b)=>b.date.localeCompare(a.date));
  if(tab==='stat')return S.stats.filter(x=>hit(x)&&(!f||x.metric===f)).sort((a,b)=>b.date.localeCompare(a.date));
  if(tab==='media')return [...S.events,...S.incidents].filter(x=>x.media&&x.media.length&&hit(x)).sort((a,b)=>b.date.localeCompare(a.date));
  return S.rules;}
-function render(){setFilter();const R=rows();$('#count').textContent=`${R.length} entrée${R.length>1?'s':''}`;const th=$('#tbl thead'),tb=$('#tbl tbody');
+function render(){const R=rows();$('#count').textContent=`${R.length} entrée${R.length>1?'s':''}`;const th=$('#tbl thead'),tb=$('#tbl tbody');
  if(tab==='rules'){th.innerHTML='<tr><th>Date</th><th>Type</th><th>Cible</th><th>Action</th><th></th></tr>';tb.innerHTML=R.map(r=>`<tr><td>${esc(r._admin||'')}</td><td>${esc(r.kind)}</td><td class="t">${esc(JSON.stringify(r.match))}</td><td class="t">${r.drop?'<b>suppression</b>':'modification : '+esc(JSON.stringify(r.set))}</td><td><button class="small danger" data-undo="${r._index}">Annuler</button></td></tr>`).join('')||'<tr><td colspan="5" class="hint">Aucune règle en attente. Les créations manuelles figurent dans data/*_manual.json.</td></tr>';$('#more').style.display='none';bind();return;}
  if(tab==='media'){th.innerHTML='<tr><th>Date</th><th>Ville</th><th>Carte</th><th>Médias</th></tr>';tb.innerHTML=R.slice(0,limit).map(x=>`<tr><td>${esc(x.date)}</td><td>${esc(x.city)}</td><td class="t">${esc(x.title)}</td><td>${x.media.map(m=>`<div><span class="tag st">${esc(m.type)}</span> <a href="${esc(m.url)}" target="_blank">${esc((m.caption||m.title||m.url).slice(0,90))}</a> <button class="small danger" data-dm="${esc(x.id)}" data-url="${esc(m.url)}">retirer</button></div>`).join('')}</td></tr>`).join('');}
  else if(tab==='stat'){th.innerHTML='<tr><th>Date</th><th>Métrique</th><th>Valeur</th><th>Portée</th><th>Autorité / citation</th><th></th></tr>';tb.innerHTML=R.slice(0,limit).map((x,i)=>`<tr><td>${esc(x.date)}</td><td>${esc(x.metric)}</td><td>${esc(x.value)}</td><td>${esc(x.scope)}${x.city?' · '+esc(x.city):''}${x.official===false?' <span class="badge">estimation</span>':''}</td><td class="t">${esc(x.authority)}<div class="sub">${esc(x.quote)}</div></td><td><button class="small" data-edit="${i}">Modifier</button> <button class="small danger" data-del="${i}">Supprimer</button></td></tr>`).join('');}
@@ -274,12 +274,12 @@ function openForm(kind,rec){const isNew=!rec;rec=rec||{};let h=`<h2>${isNew?'Nou
    if(kind==='stat'&&set.src){const s=set.src[0];set.src=s?s.u:'';if(s)set.outlet=s.o;}
    if(!Object.keys(set).length){$('#modal').classList.remove('open');return;}res=await api('update',{kind,record:rec,set});}
   log(JSON.stringify(res));$('#modal').classList.remove('open');refresh();};}
-$('#tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>{tab=b.dataset.k;limit=200;$('#tabs').querySelectorAll('button').forEach(x=>x.setAttribute('aria-selected',x===b));$('#new').style.display=tab==='rules'?'none':'';render();});
+$('#tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>{tab=b.dataset.k;limit=200;$('#tabs').querySelectorAll('button').forEach(x=>x.setAttribute('aria-selected',x===b));$('#new').style.display=tab==='rules'?'none':'';$('#f1').value='';setFilter();render();});
 $('#q').oninput=render;$('#f1').onchange=render;$('#fdate').onchange=render;$('#more').onclick=()=>{limit+=200;render();};
 $('#new').onclick=()=>openForm(tab==='rules'?'incident':tab,null);
 $('#rebuild').onclick=async()=>{$('#rebuild').disabled=true;log('Reconstruction en cours… (quelques dizaines de secondes, plus si des vignettes doivent être téléchargées)');const res=await api('rebuild',{});log((res.ok?'Reconstruction terminée.\n':'Échec de la reconstruction.\n')+res.output);$('#rebuild').disabled=false;refresh();};
 $('#commit').onclick=async()=>{const m=prompt('Message du commit (laisser vide pour un message par défaut) :');if(m===null)return;log('Commit et push…');const res=await api('commit',{message:m});log(res.output);};
-refresh();
+setFilter();refresh();
 </script></body></html>'''
 
 def main():
