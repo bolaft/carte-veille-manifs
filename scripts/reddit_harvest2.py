@@ -1,5 +1,6 @@
 import json, subprocess, time, sys, os, datetime
-S='/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad'
+import os
+S=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repository root
 UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
 start=int(datetime.datetime(2026,9,17,0,0,tzinfo=datetime.timezone.utc).timestamp())
 end=int(datetime.datetime(2026,11,9,23,59,tzinfo=datetime.timezone.utc).timestamp())
@@ -35,5 +36,5 @@ def harvest(sub, out):
     print(sub,'done',n, flush=True)
 subs=sys.argv[1:]
 for sub in subs:
-    harvest(sub, f'{S}/dl/reddit/posts_{sub}.jsonl')
+    harvest(sub, f'{S}/data/reddit/posts_{sub}.jsonl')
 print('ALL DONE')

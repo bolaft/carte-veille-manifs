@@ -1,5 +1,6 @@
 import json, re, html, datetime, unicodedata, collections, zoneinfo
-S='/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad'
+import os
+S=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repository root
 D=S+'/data/'
 TZ=zoneinfo.ZoneInfo('Europe/Paris')
 m=json.load(open(D+'merged.json'))
@@ -39,11 +40,14 @@ def parse_date(title):
 SUBCITY={'paris':'paris','lyon':'lyon','marseille':'marseille','toulouse':'toulouse','bordeaux':'bordeaux','lille':'lille','nantes':'nantes','rennes':'rennes','strasbourg':'strasbourg','montpellier':'montpellier','nice':'nice','grenoble':'grenoble','rouen':'rouen','nancy':'nancy','metz':'metz','dijon':'dijon','clermontferrand':'clermont ferrand','brest':'brest','caen':'caen','tours':'tours','orleans':'orleans','limoges':'limoges','reims':'reims','saintetienne':'saint etienne','besancon':'besancon','toulon':'toulon','perpignan':'perpignan','mulhouse':'mulhouse','amiens':'amiens','poitiers':'poitiers','avignon':'avignon','nimes':'nimes','bayonne':'bayonne','annecy':'annecy','mayotte':'mamoudzou','guyane':'cayenne','tahiti':'papeete','aix':'aix en provence','cannes':'cannes','calais':'calais','belfort':'belfort','quimper':'quimper','saintnazaire':'saint nazaire','angouleme':'angouleme','bourges':'bourges'}
 import glob, os
 out=[]; stats=collections.Counter(); seen_urls={}
+import gzip
 def iter_posts():
-    for f in sorted(glob.glob(S+'/dl/reddit/posts_*.jsonl')):
-        sub=os.path.basename(f)[6:-6]
-        for line in open(f):
-            yield sub, json.loads(line)
+    for f in sorted(glob.glob(S+'/data/reddit/posts_*.jsonl')+glob.glob(S+'/data/reddit/posts_*.jsonl.gz')):
+        base=os.path.basename(f); sub=base[6:].replace('.jsonl.gz','').replace('.jsonl','')
+        opener=gzip.open if f.endswith('.gz') else open
+        with opener(f,'rt',encoding='utf-8') as fh:
+            for line in fh:
+                yield sub, json.loads(line)
 for sub, p in iter_posts():
     p['_sub']=sub
     if p.get('removed_by_category') or p.get('over_18'): continue

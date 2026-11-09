@@ -29,16 +29,28 @@ Carte interactive, jour par jour, des mobilisations et des faits de violences po
 | `data/wiki/` | Textes et listes de références extraits des articles Wikipédia utilisés comme chronologies (CC BY-SA) |
 | `data/reddit/` | Publications Reddit moissonnées (archive Arctic Shift), compressées |
 | `data/SCHEMA.md`, `data/MEDIA_SCHEMA.md` | Schémas des objets événement, signalement, chiffre, média |
-| `media/s/` | Planches de vignettes vidéo (YouTube, Dailymotion) |
+| `media/s/`, `media/yt/`, `media/dm/` | Planches de vignettes vidéo et vignettes individuelles (YouTube, Dailymotion) |
 | `media/img/` | Photos Wikimedia Commons redimensionnées ; auteur et licence dans `data/merged.json` |
-| `scripts/` | Construction (`build.py`), fond de carte (`buildtopo.mjs`), géocodage, extraction Wikipédia, moisson et appariement Reddit, captures de contrôle |
+| `scripts/` | Construction (`build.py`), administration locale (`admin.py`), fond de carte (`buildtopo.mjs`), géocodage, extraction Wikipédia, moisson et appariement Reddit, captures de contrôle |
+
+## Administrer les données en local
+
+```bash
+python3 scripts/admin.py        # ouvre http://127.0.0.1:8765/
+```
+
+L’outil (bibliothèque standard de Python uniquement, aucune installation) permet de rechercher, créer, modifier et supprimer les événements, les signalements (y compris changer leur catégorie), les chiffres officiels et les médias attachés aux cartes, puis de **reconstruire la page** et, si on le souhaite, de **committer et pousser** le dépôt.
+
+- Les créations sont ajoutées à `data/events_manual.json`, `data/incidents_manual.json`, `data/stats_manual.json` ou `data/media_manual.json`, lus par `build.py` comme les fichiers des passes de recherche.
+- Les modifications et suppressions de cartes issues des passes de recherche sont enregistrées comme règles dans `data/overrides.json` (clé `stage: merged`) et appliquées à la carte telle qu’affichée ; l’onglet « Modifications en attente » permet de les annuler. Les entrées manuelles sont éditées sur place.
+- Rien ne change sur la carte avant la reconstruction ; un badge signale les modifications non reconstruites.
 
 ## Reconstruire la page
 
 ```bash
-python3 -I scripts/build.py --pages          # écrit index.html dans app/dist/ (copier à la racine)
-python3 -I scripts/build.py --standalone     # version à fichier unique, vignettes distantes
-python3 -I scripts/build.py                  # version pour l’artefact hébergé (lecteurs externes bloqués)
+python3 -I scripts/build.py --pages          # écrit index.html à la racine du dépôt
+python3 -I scripts/build.py --standalone     # version à fichier unique, vignettes distantes (dist/)
+python3 -I scripts/build.py                  # version pour l’artefact hébergé, lecteurs externes bloqués (dist/)
 ```
 
 Le script fusionne les fichiers `data/*.json`, applique `data/overrides.json`, géocode les villes, télécharge les vignettes, assemble les planches et injecte le tout dans `app/template.html`. Pour corriger une carte, modifier le fichier source concerné ou ajouter une règle dans `overrides.json`, puis reconstruire.

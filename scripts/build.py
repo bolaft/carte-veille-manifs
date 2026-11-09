@@ -7,13 +7,14 @@ Usage: python3 -I build.py [--local] [--sample]
 """
 import json, os, re, sys, glob, unicodedata, hashlib, datetime, subprocess, urllib.parse
 
-S = '/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad'
+S = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repository root
 D = os.path.join(S, 'data')
+DIST = os.path.join(S, 'dist')
 LOCAL = '--local' in sys.argv
 SAMPLE = '--sample' in sys.argv
 STANDALONE = '--standalone' in sys.argv  # single file, remote thumbnails, embedded players
 PAGES = '--pages' in sys.argv  # GitHub Pages build: local sprites and photos, embedded players
-MEDIA_DIR = os.path.join(S, 'app', 'dist', 'media')
+MEDIA_DIR = os.path.join(S, 'media')
 
 OVERSEAS = {'971', '972', '973', '974', '976', '988', '987', '975', '978', '977', '986'}
 DAY0, DAY1 = datetime.date(2026, 8, 31), datetime.date(2026, 11, 9)
@@ -145,7 +146,7 @@ st_raw = load('stats*.json') + load('sample_stats*.json')
 OVR = json.load(open(os.path.join(D, 'overrides.json'))) if os.path.exists(os.path.join(D, 'overrides.json')) else []
 def apply_overrides(kind, it):
     for o in OVR:
-        if o.get('kind') != kind: continue
+        if o.get('kind') != kind or o.get('stage') == 'merged': continue
         m = o['match']
         if m.get('date') and m['date'] != norm_date(it.get('date')): continue
         if m.get('city') and norm(m['city']) != norm(it.get('city')): continue
@@ -291,7 +292,8 @@ for s in st_raw:
                 date = nd
     _st = {'date': date, 'metric': metric, 'value': v, 'scope': scope, 'city': str(s.get('city') or ''), 'title': quote}
     if not apply_overrides('stat', _st): continue
-    scope = _st['scope']; date = _st['date']
+    scope = _st['scope']; date = _st['date']; metric = _st['metric']; v = float(_st['value'])
+    if _st.get('city') is not None: s['city'] = _st['city']
     # series: lyceen (cumul since 28 Sept / since the movement began) vs oct17 (cumul since 17 Oct)
     series = ''
     if scope == 'cumul':
@@ -308,6 +310,34 @@ for s in st_raw:
     else:
         if v > rec['value'] and scope == 'cumul': rec['value'] = int(v) if v == int(v) else v; rec['quote'] = quote
 st_list = sorted(stats.values(), key=lambda r: (r['date'], r['metric']))
+
+# ---------- merged-stage overrides (admin tool): match the cards as displayed ----------
+def post_overrides(kind, records):
+    out = []
+    for r in records:
+        keep = True
+        for o in OVR:
+            if o.get('stage') != 'merged' or o.get('kind') != kind: continue
+            m = o.get('match', {})
+            if m.get('date') and m['date'] != r.get('date'): continue
+            if m.get('city') and norm(m['city']) != norm(r.get('city')): continue
+            if m.get('title_prefix') and not norm(r.get('title', '')).startswith(norm(m['title_prefix'])): continue
+            if m.get('metric') and m['metric'] != r.get('metric'): continue
+            if m.get('value') is not None and float(m['value']) != float(r.get('value') or -1): continue
+            if m.get('scope') and m['scope'] != r.get('scope'): continue
+            if o.get('drop'): keep = False; break
+            for k, v in (o.get('set') or {}).items():
+                if k in ('po', 'pg', 'arrests', 'value'): v = to_int(v) if k != 'value' else (float(v) if v not in (None, '') else r.get('value'))
+                if k == 'dept': v = fix_dept(v)
+                if k == 'type': v = TYPE_ALIASES.get(norm(v).replace(' ', '-'), r.get('type'))
+                if k == 'cat': v = CAT_ALIASES.get(str(v).strip().lower(), r.get('cat'))
+                r[k] = v
+        if keep: out.append(r)
+    return out
+ev_list = post_overrides('event', ev_list)
+merged = post_overrides('incident', merged)
+st_list = post_overrides('stat', st_list)
+MEDIA_DROPS = {(norm_date(o['match'].get('date')), norm(o['match'].get('city')), str(o['match'].get('url') or '')) for o in OVR if o.get('stage') == 'merged' and o.get('kind') == 'media' and o.get('drop')}
 
 # ---------- status updates on existing incident cards ----------
 for f in sorted(glob.glob(os.path.join(D, 'updates_*.json'))):
@@ -394,7 +424,10 @@ def prep_media(m):
         h = hashlib.md5(u.encode()).hexdigest()[:12]
         local = os.path.join(MEDIA_DIR, 'img', h + '.jpg')
         out['remote'] = u
-        if fetch(u, local): shrink(local); out['thumb'] = f'media/img/{h}.jpg'; media_files[out['thumb']] = local
+        fresh = not os.path.exists(local)
+        if fetch(u, local):
+            if fresh: shrink(local)
+            out['thumb'] = f'media/img/{h}.jpg'; media_files[out['thumb']] = local
         else: return None
     elif typ == 'link':
         if not out['url'].startswith('http'): return None
@@ -429,6 +462,7 @@ for a in media_raw:
     tgt = cands[0]
     seen = {m['url'] for m in tgt.setdefault('media', [])}
     for it in items:
+        if (tgt['date'], norm(tgt['city']), it['url']) in MEDIA_DROPS: continue
         if it['url'] not in seen and len(tgt['media']) < 7: tgt['media'].append(it); seen.add(it['url'])
 # keep only the thumbnails of media actually attached to a card
 _used = {m['thumb'] for it in ev_list + merged for m in it.get('media', []) if m.get('thumb')}
@@ -473,7 +507,8 @@ if PAGES:  # local sprites and photos; Reddit previews stay remote (they cannot 
             if m['type'] == 'reddit' and m.get('remote'): m['thumb'] = m['remote']
 for it in ev_list + merged:
     for m in it.get('media', []): m.pop('remote', None)
-json.dump(sorted(media_files.keys()), open(os.path.join(S, 'app', 'dist', 'media_files.json'), 'w'))
+os.makedirs(DIST, exist_ok=True)
+json.dump(sorted(media_files.keys()), open(os.path.join(DIST, 'media_files.json'), 'w'))
 
 # ---------- geocode + finalize ----------
 missing = set()
@@ -490,6 +525,7 @@ def finalize(it, kind):
             it['lat'] = it['lon'] = None; missing.add((city, dept))
         it['terr'] = terr_of(it['dept']); it['ck'] = f"{city}|{it['dept']}"
     it['id'] = kind + hashlib.md5(f"{it['date']}|{it['ck']}|{it.get('title','')}".encode()).hexdigest()[:8]
+    it['orig'] = sorted(it.get('files') or [])
     it.pop('types', None); it.pop('files', None); it.pop('mk', None)
 
 for e in ev_list: finalize(e, 'e')
@@ -517,10 +553,11 @@ tpl = open(os.path.join(S, 'app', 'template.html'), encoding='utf-8').read()
 out = tpl.replace('__TOPO__', topo).replace('__DATA__', json.dumps(data, ensure_ascii=False, separators=(',', ':'))).replace('__EMBED__', 'true' if (STANDALONE or PAGES) else 'false')
 if LOCAL:
     out = out.replace('https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js', 'file://' + os.path.join(S, 'app', 'vendor', 'd3.min.js'))
-    out = out.replace('https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js', 'file://' + os.path.join(S, 'app', 'vendor', 'topojson-client.min.js'))
-os.makedirs(os.path.join(S, 'app', 'dist'), exist_ok=True)
+    out = out.replace('https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js', 'file://' + os.path.join(S, 'app', 'vendor', 'topojson-client.min.js'))  # vendored copies for offline checks (not committed)
+os.makedirs(DIST, exist_ok=True)
 name = ('index' if PAGES else ('automne-2026-standalone' if STANDALONE else 'automne-2026')) + ('-local' if LOCAL else '') + '.html'
-open(os.path.join(S, 'app', 'dist', name), 'w', encoding='utf-8').write(out)
+outpath = os.path.join(S, 'index.html') if (PAGES and not LOCAL) else os.path.join(DIST, name)
+open(outpath, 'w', encoding='utf-8').write(out)
 nm = sum(len(it.get('media', [])) for it in ev_list + merged); nc = sum(1 for it in ev_list + merged if it.get('media'))
 print(f'events {len(ev_list)} (from {len(ev_raw)} raw) | incidents {len(merged)} (from {len(inc_raw)} raw) | stats {len(st_list)} | cities {len(cities)} | media {nm} on {nc} cards, {len(media_files)} files | output {len(out)/1e6:.2f} MB -> {name}')
 if missing: print('MISSING GEOCODES:', sorted(missing))

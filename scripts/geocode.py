@@ -1,5 +1,5 @@
 import json, sys, os, subprocess, urllib.parse, re, unicodedata
-D='/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad/data'
+D=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
 CACHE=os.path.join(D,'geocode.json')
 cache=json.load(open(CACHE)) if os.path.exists(CACHE) else {}
 MANUAL={

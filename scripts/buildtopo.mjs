@@ -2,7 +2,9 @@ import fs from 'node:fs';
 import * as topojson from 'topojson-server';
 import * as tsimp from 'topojson-simplify';
 import * as tclient from 'topojson-client';
-const G='/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad/dl/geo/';
+import path from 'node:path'; import { fileURLToPath } from 'node:url';
+const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const G=path.join(ROOT, 'dl', 'geo') + '/';  // raw GeoJSON sources (gregoiredavid/france-geojson, Natural Earth 50m), downloaded separately
 const metro=JSON.parse(fs.readFileSync(G+'departements-version-simplifiee.geojson','utf8'));
 metro.features.forEach(f=>{f.properties={code:f.properties.code,nom:f.properties.nom}});
 const dromFiles={ '971':'departement-971-guadeloupe.geojson','972':'departement-972-martinique.geojson','973':'departement-973-guyane.geojson','974':'departement-974-la-reunion.geojson','976':'departement-976-mayotte.geojson'};
@@ -25,6 +27,7 @@ topo=tsimp.simplify(topo,q);
 topo=tsimp.filter(topo, tsimp.filterAttachedWeight(topo, 1e-4)); // drop tiny detached islands below area threshold? keep attached
 // re-quantize to shrink
 const out=JSON.stringify(tclient.quantize? topo: topo);
-fs.writeFileSync('/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad/data/france.topo.json', JSON.stringify(topo));
-console.log('bytes', fs.statSync('/tmp/claude-0/-home-user/a19e4210-3cc5-511a-88da-ecdc6e7af354/scratchpad/data/france.topo.json').size);
+const OUT=path.join(ROOT, 'data', 'france.topo.json');
+fs.writeFileSync(OUT, JSON.stringify(topo));
+console.log('bytes', fs.statSync(OUT).size);
 for(const k of ['metro','drom','com']){ const fc=tclient.feature(topo,topo.objects[k]); console.log(k, fc.features.length, 'features', fc.features.map(f=>f.properties.code).join(' ')); }
