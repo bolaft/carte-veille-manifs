@@ -79,14 +79,100 @@ def manual_only(rec):
     o = rec.get('orig') or []
     return bool(o) and all(f.endswith('_manual.json') for f in o)
 
+def fnum(v):
+    try: return float(v)
+    except (TypeError, ValueError): return -1.0
+
+def same(kind, raw, rec):
+    """Does the raw manual entry describe the displayed record?"""
+    if kind == 'stat': return raw.get('date') == rec.get('date') and raw.get('metric') == rec.get('metric') and fnum(raw.get('value')) == fnum(rec.get('value'))
+    return raw.get('date') == rec.get('date') and norm(raw.get('city')) == norm(rec.get('city')) and (kind == 'event' or norm(raw.get('title', ''))[:40] == norm(rec.get('title', ''))[:40])
+
 def manual_index(kind, rec):
     """Index of the manual raw entry corresponding to a displayed record, or -1."""
-    arr = load(MANUAL[kind], [])
-    for i, raw in enumerate(arr):
-        if kind == 'stat':
-            if raw.get('date') == rec['date'] and raw.get('metric') == rec['metric'] and float(raw.get('value', -1)) == float(rec['value']): return i
-        elif raw.get('date') == rec['date'] and norm(raw.get('city')) == norm(rec['city']) and (kind == 'event' or norm(raw.get('title', ''))[:40] == norm(rec.get('title', ''))[:40]): return i
+    for i, raw in enumerate(load(MANUAL[kind], [])):
+        if same(kind, raw, rec): return i
     return -1
+
+# ---------- preview: what the next rebuild will show ----------
+MERGED_FROM_RAW = {k: {v: kk for kk, v in m.items()} for k, m in RAW_FROM_MERGED.items()}
+def from_raw(kind, raw):
+    """Displayed shape of a raw manual entry (inverse of to_raw)."""
+    rec = {}
+    for k, v in raw.items():
+        if k == '_admin': continue
+        if k == 'sources':
+            v = v or []
+            if kind == 'stat': s0 = v[0] if v else {}; rec['src'] = s0.get('url', ''); rec['outlet'] = s0.get('outlet', '')
+            else: rec['src'] = [{'o': x.get('outlet', ''), 't': x.get('title', ''), 'u': x.get('url', ''), 'd': x.get('date', '')} for x in v]
+            continue
+        rec[MERGED_FROM_RAW.get(kind, {}).get(k, k)] = v
+    return rec
+
+def rule_matches(m, r):
+    """Same matching as post_overrides() in build.py."""
+    if m.get('date') and m['date'] != r.get('date'): return False
+    if m.get('city') and norm(m['city']) != norm(r.get('city')): return False
+    if m.get('title_prefix') and not norm(r.get('title', '')).startswith(norm(m['title_prefix'])): return False
+    if m.get('metric') and m['metric'] != r.get('metric'): return False
+    if m.get('value') is not None and fnum(m['value']) != fnum(r.get('value')): return False
+    if m.get('scope') and m['scope'] != r.get('scope'): return False
+    return True
+
+def preview(kind, records, ovr, manual, built_at):
+    """The built cards as the next rebuild will show them: pending rules applied and flagged (_pending, _rules),
+    manual entries edited or removed in place reflected, manual creations added."""
+    out = []
+    fname = MANUAL[kind]
+    for r in records:
+        r = dict(r); rules = []
+        for i, o in enumerate(ovr):
+            if o.get('stage') != 'merged' or o.get('kind') != kind or not rule_matches(o.get('match') or {}, r): continue
+            rules.append(i)
+            if o.get('drop'): r['_pending'] = 'suppression'; break
+            r.update(o.get('set') or {}); r['_pending'] = 'modification'
+        if rules: r['_rules'] = rules
+        elif manual_only(r):
+            raw = next((x for x in manual if same(kind, x, r)), None)
+            if raw is None: r['_pending'] = 'suppression'
+            elif str(raw.get('_admin', '')) > str(built_at): r.update(from_raw(kind, raw)); r['_pending'] = 'modification'
+        out.append(r)
+    built = [c for c in records if fname in (c.get('orig') or [])]
+    for raw in manual:
+        if any(same(kind, raw, c) for c in built): continue
+        rec = from_raw(kind, raw); rec['orig'] = [fname]; rec['_pending'] = 'création'; out.append(rec)
+    return out
+
+def preview_media(events, incidents, ovr, manual):
+    """Flag the attachments a pending rule removes, add the manual attachments the next rebuild will attach.
+    Returns the manual attachments whose card cannot be found."""
+    drops = {}
+    for i, o in enumerate(ovr):
+        if o.get('stage') == 'merged' and o.get('kind') == 'media' and o.get('drop'):
+            m = o.get('match') or {}; drops[(m.get('date'), norm(m.get('city')), str(m.get('url') or ''))] = i
+    for c in events + incidents:
+        for m in c.get('media') or []:
+            i = drops.get((c.get('date'), norm(c.get('city')), str(m.get('url') or '')))
+            if i is not None: m['_pending'] = 'suppression'; m['_rule'] = i
+    orphans = []
+    for a in manual:
+        date, city, kind = a.get('date'), norm(a.get('city')), a.get('kind') or 'event'
+        tp = norm(a.get('title_prefix') or '')
+        pool = incidents if kind == 'incident' else events
+        cands = [x for x in pool if x.get('date') == date and norm(x.get('city')) == city and (not tp or norm(x.get('title', '')).startswith(tp))]
+        if not cands: cands = [x for x in (incidents if kind == 'incident' else events + incidents) if x.get('date') == date and norm(x.get('city')) == city]
+        items = []
+        for m in a.get('media') or []:
+            if not isinstance(m, dict): continue
+            m = dict(m, _pending='création')
+            if not m.get('url') and m.get('id'): m['url'] = {'youtube': 'https://www.youtube.com/watch?v=', 'dailymotion': 'https://www.dailymotion.com/video/'}.get(m.get('type'), '') + str(m['id'])
+            items.append(m)
+        if not cands:
+            orphans.append({'date': date, 'city': a.get('city'), 'title': f"Carte introuvable ({kind} : {a.get('title_prefix') or 'sans titre'})", 'media': items, '_pending': 'création', 'orig': [MANUAL['media']], 'id': ''})
+            continue
+        tgt = cands[0]; have = {m.get('url') for m in tgt.get('media') or []}
+        tgt['media'] = list(tgt.get('media') or []) + [m for m in items if m.get('url') not in have]
+    return orphans
 
 def set_dirty(flag=True):
     p = os.path.join(DATA, '.admin_dirty')
@@ -97,10 +183,17 @@ def state():
     del WARNINGS[:]
     merged = load('merged.json', {'events': [], 'incidents': [], 'stats': [], 'built': ''}, lenient=True)
     ovr = load('overrides.json', [], lenient=True)
+    manual = {k: load(v, [], lenient=True) for k, v in MANUAL.items()}  # reading is lenient, writing (op_*) refuses a corrupt file
     admin_rules = [dict(o, _index=i) for i, o in enumerate(ovr) if o.get('stage') == 'merged']
-    return {'events': merged.get('events', []), 'incidents': merged.get('incidents', []), 'stats': merged.get('stats', []),
-            'built': merged.get('built', ''), 'rules': admin_rules,
-            'manual': {k: load(v, [], lenient=True) for k, v in MANUAL.items()},  # reading is lenient, writing (op_*) refuses a corrupt file
+    built_at = merged.get('built_at') or merged.get('built', '')
+    events = preview('event', merged.get('events', []), ovr, manual['event'], built_at)
+    incidents = preview('incident', merged.get('incidents', []), ovr, manual['incident'], built_at)
+    stats = preview('stat', merged.get('stats', []), ovr, manual['stat'], built_at)
+    orphans = preview_media(events, incidents, ovr, manual['media'])
+    pending = len(admin_rules) + sum(1 for x in events + incidents + stats if x.get('_pending') == 'création') \
+        + sum(1 for c in events + incidents + orphans for m in c.get('media') or [] if m.get('_pending') == 'création')
+    return {'events': events, 'incidents': incidents, 'stats': stats, 'orphans': orphans,
+            'built': merged.get('built', ''), 'rules': admin_rules, 'manual': manual, 'pending': pending,
             'dirty': os.path.exists(os.path.join(DATA, '.admin_dirty')), 'warnings': list(WARNINGS)}
 
 # ---------- operations ----------
@@ -223,9 +316,14 @@ td.t{max-width:560px} td .sub{color:var(--fg2);font-size:12px}
 .hint{font-size:11px;color:var(--fg2)}
 .more{margin:0 16px 24px}
 .pending{color:var(--warn);font-size:12px}
+tr.del td{opacity:.6;text-decoration:line-through} tr.del td:last-child,tr.del .pend{text-decoration:none;opacity:1}
+tr.mod td{background:#fffbeb} tr.new td{background:#f0fdf4}
+.pend{display:inline-block;font-size:11px;padding:0 6px;border-radius:3px;background:#fde68a;color:#7a4b00;margin-left:6px;white-space:nowrap;vertical-align:middle}
+.pend.new{background:#bbf7d0;color:#14532d} .pend.del{background:#fecaca;color:#7f1d1d}
+#notice{font-size:12px;color:var(--ok);font-weight:600} #notice.err{color:var(--police)}
 </style></head><body>
 <header><h1>Administration · Carte de veille</h1>
- <span id="built" class="hint"></span><span id="dirty" class="badge"></span><span id="warn" class="pending" style="display:none"></span>
+ <span id="built" class="hint"></span><span id="dirty" class="badge"></span><span id="warn" class="pending" style="display:none"></span><span id="notice"></span>
  <span style="flex:1"></span>
  <button id="rebuild" class="primary">Reconstruire la page</button>
  <button id="commit">Commit &amp; push</button>
@@ -245,27 +343,32 @@ const TYPES={manifestation:'Manifestation',rassemblement:'Rassemblement','grève
 const METRICS=['interpellations','gardes_a_vue','poursuites','deferrements','comparutions_immediates','condamnations','detentions_provisoires','incarcerations','peines_emprisonnement','mandats_de_depot','classements_sans_suite','alternatives_poursuites','assignations_a_residence','interdictions_de_manifester','enquetes_igpn_iggn','blesses_forces_ordre','blesses_manifestants','blesses_eleves','blesses_personnels','deces','mineurs_part_gav','couvre_feux_villes','munitions_lacrymo','munitions_desencerclement','munitions_assourdissantes','munitions_lbd','autre'];
 const fam=x=>x.cat==='extrême-droite'?'fr':x.cat==='répression'?'rep':x.cat==='propagande'?'prop':'police';
 async function api(path,body){const r=await fetch('/api/'+path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});const j=await r.json();if(!r.ok){log('Erreur : '+(j.error||r.status));throw new Error(j.error||r.status);}return j;}
-async function refresh(){S=await api('state');$('#built').textContent=S.built?`Dernière construction : ${S.built}`:'';const n=S.rules.length+Object.values(S.manual).reduce((a,b)=>a+b.filter(x=>x._admin).length,0);$('#dirty').textContent=S.dirty?`modifications non reconstruites`:'à jour';$('#dirty').className='badge'+(S.dirty?' warn':'');const w=S.warnings||[];$('#warn').textContent=w.join(' ');$('#warn').style.display=w.length?'':'none';render();}
+async function refresh(){S=await api('state');$('#built').textContent=S.built?`Dernière construction : ${S.built}`:'';const n=S.rules.length+Object.values(S.manual).reduce((a,b)=>a+b.filter(x=>x._admin).length,0);$('#dirty').textContent=S.pending?`${S.pending} modification${S.pending>1?'s':''} en attente · reconstruire la page pour les appliquer`:S.dirty?'modifications non reconstruites':'à jour';$('#dirty').className='badge'+((S.dirty||S.pending)?' warn':'');const w=S.warnings||[];$('#warn').textContent=w.join(' ');$('#warn').style.display=w.length?'':'none';render();}
 function log(t){const l=$('#log');l.style.display='block';l.textContent=t;l.scrollTop=l.scrollHeight;}
+function notice(t,err){const n=$('#notice');n.textContent=t;n.className=err?'err':'';clearTimeout(notice.t);notice.t=setTimeout(()=>{n.textContent='';},9000);}
+const PEND={suppression:['del','suppression en attente'],'création':['new','nouveau'],modification:['','modifié']};
+const pend=x=>x._pending?`<span class="pend ${PEND[x._pending][0]}">${PEND[x._pending][1]}</span>`:'';
+const trc=x=>x._pending?` class="${x._pending==='suppression'?'del':x._pending==='création'?'new':'mod'}"`:'';
+const acts=(x,i)=>x._pending==='suppression'?(x._rules?`<button class="small" data-undo="${x._rules.join(',')}">Rétablir</button>`:'<span class="hint">supprimé</span>'):`<button class="small" data-edit="${i}">Modifier</button> <button class="small danger" data-del="${i}">Supprimer</button>${x._rules?` <button class="small" data-undo="${x._rules.join(',')}" title="Annuler les modifications en attente sur cette carte">Annuler</button>`:''}`;
 function setFilter(){const f=$('#f1');const cur=f.value;const opts=tab==='incident'?[['','Toutes catégories'],...Object.entries(CATS)]:tab==='event'?[['','Tous types'],...Object.entries(TYPES)]:tab==='stat'?[['','Toutes métriques'],...METRICS.map(m=>[m,m])]:[['','']];f.innerHTML=opts.map(([k,v])=>`<option value="${esc(k)}">${esc(v)}</option>`).join('');if([...f.options].some(o=>o.value===cur))f.value=cur;f.style.display=tab==='media'||tab==='rules'?'none':'';}
 function rows(){const q=$('#q').value.trim().toLowerCase(),f=$('#f1').value,d=$('#fdate').value;const hit=x=>(!q||[x.city,x.title,x.summary,x.date,x.quote,x.authority,x.metric].join(' ').toLowerCase().includes(q))&&(!d||x.date===d);
  if(tab==='incident')return S.incidents.filter(x=>hit(x)&&(!f||x.cat===f)).sort((a,b)=>b.date.localeCompare(a.date));
  if(tab==='event')return S.events.filter(x=>hit(x)&&(!f||x.type===f)).sort((a,b)=>b.date.localeCompare(a.date));
  if(tab==='stat')return S.stats.filter(x=>hit(x)&&(!f||x.metric===f)).sort((a,b)=>b.date.localeCompare(a.date));
- if(tab==='media')return [...S.events,...S.incidents].filter(x=>x.media&&x.media.length&&hit(x)).sort((a,b)=>b.date.localeCompare(a.date));
+ if(tab==='media')return [...S.events,...S.incidents,...(S.orphans||[])].filter(x=>x.media&&x.media.length&&hit(x)).sort((a,b)=>b.date.localeCompare(a.date));
  return S.rules;}
 function render(){const R=rows();$('#count').textContent=`${R.length} entrée${R.length>1?'s':''}`;const th=$('#tbl thead'),tb=$('#tbl tbody');
  if(tab==='rules'){th.innerHTML='<tr><th>Date</th><th>Type</th><th>Cible</th><th>Action</th><th></th></tr>';tb.innerHTML=R.map(r=>`<tr><td>${esc(r._admin||'')}</td><td>${esc(r.kind)}</td><td class="t">${esc(JSON.stringify(r.match))}</td><td class="t">${r.drop?'<b>suppression</b>':'modification : '+esc(JSON.stringify(r.set))}</td><td><button class="small danger" data-undo="${r._index}">Annuler</button></td></tr>`).join('')||'<tr><td colspan="5" class="hint">Aucune règle en attente. Les créations manuelles figurent dans data/*_manual.json.</td></tr>';$('#more').style.display='none';bind();return;}
- if(tab==='media'){th.innerHTML='<tr><th>Date</th><th>Ville</th><th>Carte</th><th>Médias</th></tr>';tb.innerHTML=R.slice(0,limit).map(x=>`<tr><td>${esc(x.date)}</td><td>${esc(x.city)}</td><td class="t">${esc(x.title)}</td><td>${x.media.map(m=>`<div><span class="tag st">${esc(m.type)}</span> <a href="${esc(m.url)}" target="_blank">${esc((m.caption||m.title||m.url).slice(0,90))}</a> <button class="small danger" data-dm="${esc(x.id)}" data-url="${esc(m.url)}">retirer</button></div>`).join('')}</td></tr>`).join('');}
- else if(tab==='stat'){th.innerHTML='<tr><th>Date</th><th>Métrique</th><th>Valeur</th><th>Portée</th><th>Autorité / citation</th><th></th></tr>';tb.innerHTML=R.slice(0,limit).map((x,i)=>`<tr><td>${esc(x.date)}</td><td>${esc(x.metric)}</td><td>${esc(x.value)}</td><td>${esc(x.scope)}${x.city?' · '+esc(x.city):''}${x.official===false?' <span class="badge">estimation</span>':''}</td><td class="t">${esc(x.authority)}<div class="sub">${esc(x.quote)}</div></td><td><button class="small" data-edit="${i}">Modifier</button> <button class="small danger" data-del="${i}">Supprimer</button></td></tr>`).join('');}
- else{th.innerHTML='<tr><th>Date</th><th>Ville</th><th>Catégorie</th><th>Carte</th><th>Origine</th><th></th></tr>';tb.innerHTML=R.slice(0,limit).map((x,i)=>`<tr><td>${esc(x.date)}</td><td>${esc(x.city)}</td><td>${tab==='incident'?`<span class="tag ${fam(x)}">${esc(CATS[x.cat]||x.cat)}</span>${x.stmt?`<div class="sub">Déclaration · ${esc(x.stmt.org)}</div>`:''}`:`<span class="tag ev">${esc(TYPES[x.type]||x.type)}</span>`}</td><td class="t">${esc(x.title)}<div class="sub">${esc((x.summary||'').slice(0,160))}${(x.summary||'').length>160?'…':''}</div></td><td class="orig">${(x.orig||[]).map(esc).join('<br>')}</td><td><button class="small" data-edit="${i}">Modifier</button> <button class="small danger" data-del="${i}">Supprimer</button></td></tr>`).join('');}
+ if(tab==='media'){th.innerHTML='<tr><th>Date</th><th>Ville</th><th>Carte</th><th>Médias</th></tr>';tb.innerHTML=R.slice(0,limit).map(x=>`<tr${trc(x)}><td>${esc(x.date)}</td><td>${esc(x.city)}</td><td class="t">${esc(x.title)}${pend(x)}</td><td>${x.media.map(m=>`<div><span class="tag st">${esc(m.type)}</span> <a href="${esc(m.url)}" target="_blank">${esc((m.caption||m.title||m.url||'').slice(0,90))}</a> ${m._pending==='suppression'?`<span class="pend del">suppression en attente</span> <button class="small" data-undo="${m._rule}">Rétablir</button>`:m._pending==='création'?'<span class="pend new">nouveau</span>':`<button class="small danger" data-dm="${esc(x.id)}" data-url="${esc(m.url)}">retirer</button>`}</div>`).join('')}</td></tr>`).join('');}
+ else if(tab==='stat'){th.innerHTML='<tr><th>Date</th><th>Métrique</th><th>Valeur</th><th>Portée</th><th>Autorité / citation</th><th></th></tr>';tb.innerHTML=R.slice(0,limit).map((x,i)=>`<tr${trc(x)}><td>${esc(x.date)}</td><td>${esc(x.metric)}${pend(x)}</td><td>${esc(x.value)}</td><td>${esc(x.scope)}${x.city?' · '+esc(x.city):''}${x.official===false?' <span class="badge">estimation</span>':''}</td><td class="t">${esc(x.authority)}<div class="sub">${esc(x.quote)}</div></td><td>${acts(x,i)}</td></tr>`).join('');}
+ else{th.innerHTML='<tr><th>Date</th><th>Ville</th><th>Catégorie</th><th>Carte</th><th>Origine</th><th></th></tr>';tb.innerHTML=R.slice(0,limit).map((x,i)=>`<tr${trc(x)}><td>${esc(x.date)}</td><td>${esc(x.city)}</td><td>${tab==='incident'?`<span class="tag ${fam(x)}">${esc(CATS[x.cat]||x.cat)}</span>${x.stmt?`<div class="sub">Déclaration · ${esc(x.stmt.org)}</div>`:''}`:`<span class="tag ev">${esc(TYPES[x.type]||x.type)}</span>`}</td><td class="t">${esc(x.title)}${pend(x)}<div class="sub">${esc((x.summary||'').slice(0,160))}${(x.summary||'').length>160?'…':''}</div></td><td class="orig">${(x.orig||[]).map(esc).join('<br>')}</td><td>${acts(x,i)}</td></tr>`).join('');}
  $('#more').style.display=R.length>limit?'':'none';bind();}
 let confirmBtn=null;
 function bind(){const R=rows();
  document.querySelectorAll('[data-edit]').forEach(b=>b.onclick=()=>openForm(tab,R[+b.dataset.edit]));
- document.querySelectorAll('[data-del]').forEach(b=>b.onclick=async()=>{if(confirmBtn!==b){if(confirmBtn)confirmBtn.textContent='Supprimer';confirmBtn=b;b.textContent='Confirmer ?';return;}const res=await api('delete',{kind:tab,record:R[+b.dataset.del]});log(JSON.stringify(res));confirmBtn=null;refresh();});
- document.querySelectorAll('[data-dm]').forEach(b=>b.onclick=async()=>{if(confirmBtn!==b){if(confirmBtn)confirmBtn.textContent='retirer';confirmBtn=b;b.textContent='confirmer ?';return;}const card=[...S.events,...S.incidents].find(x=>x.id===b.dataset.dm);const res=await api('delete_media',{card,url:b.dataset.url});log(JSON.stringify(res));confirmBtn=null;refresh();});
- document.querySelectorAll('[data-undo]').forEach(b=>b.onclick=async()=>{const res=await api('undo',{index:+b.dataset.undo});log(JSON.stringify(res));refresh();});}
+ document.querySelectorAll('[data-del]').forEach(b=>b.onclick=async()=>{if(confirmBtn!==b){if(confirmBtn)confirmBtn.textContent='Supprimer';confirmBtn=b;b.textContent='Confirmer ?';return;}const res=await api('delete',{kind:tab,record:R[+b.dataset.del]});confirmBtn=null;notice(res.ok?(res.where==='overrides.json'?'Suppression enregistrée : la carte disparaîtra à la prochaine reconstruction.':'Entrée manuelle supprimée.'):'Erreur : '+(res.error||''),!res.ok);refresh();});
+ document.querySelectorAll('[data-dm]').forEach(b=>b.onclick=async()=>{if(confirmBtn!==b){if(confirmBtn)confirmBtn.textContent='retirer';confirmBtn=b;b.textContent='confirmer ?';return;}const card=[...S.events,...S.incidents].find(x=>x.id===b.dataset.dm);const res=await api('delete_media',{card,url:b.dataset.url});confirmBtn=null;notice(res.ok?'Retrait enregistré : effectif à la prochaine reconstruction.':'Erreur : '+(res.error||''),!res.ok);refresh();});
+ document.querySelectorAll('[data-undo]').forEach(b=>b.onclick=async()=>{const idx=b.dataset.undo.split(',').map(Number).sort((a,b)=>b-a);let res={ok:true};for(const i of idx){res=await api('undo',{index:i});if(!res.ok)break;}notice(res.ok?'Modification annulée.':'Erreur : '+(res.error||''),!res.ok);refresh();});}
 const F=(name,label,val,opts)=>opts?`<label>${label}<select name="${name}">${opts.map(([k,v])=>`<option value="${esc(k)}"${String(k)===String(val??'')?' selected':''}>${esc(v)}</option>`).join('')}</select></label>`:`<label>${label}<input name="${name}" value="${esc(val??'')}"></label>`;
 const T=(name,label,val,full=true)=>`<label class="${full?'full':''}">${label}<textarea name="${name}">${esc(val??'')}</textarea></label>`;
 const srcText=src=>(src||[]).map(s=>typeof s==='string'?s:[s.o??s.outlet??'',s.t??s.title??'',s.u??s.url??'',s.d??s.date??''].join(' | ')).join('\n');
@@ -287,7 +390,7 @@ function openForm(kind,rec){const isNew=!rec;rec=rec||{};let h=`<h2>${isNew?'Nou
    if(kind==='incident'){const org=v.stmt_org||'';if(org!==(rec.stmt?.org||'')||(v.stmt_kind||'')!==(rec.stmt?.kind||''))set.stmt=org?{org,kind:v.stmt_kind}:null;}
    if(kind==='stat'&&set.src){const s=set.src[0];set.src=s?s.u:'';if(s)set.outlet=s.o;}
    if(!Object.keys(set).length){$('#modal').classList.remove('open');return;}res=await api('update',{kind,record:rec,set});}
-  log(JSON.stringify(res));$('#modal').classList.remove('open');refresh();};}
+  notice(res.ok?'Enregistré : la carte sera mise à jour à la prochaine reconstruction.':'Erreur : '+(res.error||''),!res.ok);$('#modal').classList.remove('open');refresh();};}
 $('#tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>{tab=b.dataset.k;limit=200;$('#tabs').querySelectorAll('button').forEach(x=>x.setAttribute('aria-selected',x===b));$('#new').style.display=tab==='rules'?'none':'';$('#f1').value='';setFilter();render();});
 $('#q').oninput=render;$('#f1').onchange=render;$('#fdate').onchange=render;$('#more').onclick=()=>{limit+=200;render();};
 $('#new').onclick=()=>openForm(tab==='rules'?'incident':tab,null);

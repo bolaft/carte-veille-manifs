@@ -43,7 +43,7 @@ L’outil (bibliothèque standard de Python uniquement, aucune installation) per
 
 - Les créations sont ajoutées à `data/events_manual.json`, `data/incidents_manual.json`, `data/stats_manual.json` ou `data/media_manual.json`, lus par `build.py` comme les fichiers des passes de recherche.
 - Les modifications et suppressions de cartes issues des passes de recherche sont enregistrées comme règles dans `data/overrides.json` (clé `stage: merged`) et appliquées à la carte telle qu’affichée ; l’onglet « Modifications en attente » permet de les annuler. Les entrées manuelles sont éditées sur place.
-- Rien ne change sur la carte avant la reconstruction ; un badge signale les modifications non reconstruites.
+- La liste montre immédiatement le résultat des modifications en attente : carte barrée avec un bouton « Rétablir » après une suppression, étiquettes « modifié » et « nouveau », bouton « Annuler » sur les cartes modifiées. La carte publiée, elle, ne change qu’après la reconstruction ; le badge de l’en-tête compte les modifications en attente.
 
 ## Reconstruire la page
 

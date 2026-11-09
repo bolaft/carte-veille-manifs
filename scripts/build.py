@@ -549,7 +549,7 @@ while d <= DAY1:
     days.append(d.isoformat()); d += datetime.timedelta(days=1)
 
 data = {'days': days, 'keydays': KEYDAYS, 'defaultDay': '2026-10-17', 'events': ev_list, 'incidents': merged, 'stats': st_list, 'national': national, 'cities': cities,
-        'built': datetime.date.today().isoformat()}
+        'built': datetime.date.today().isoformat(), 'built_at': datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}
 json.dump(data, open(os.path.join(D, 'merged.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 topo = open(os.path.join(D, 'france.topo.json'), encoding='utf-8').read()
 tpl = open(os.path.join(S, 'app', 'template.html'), encoding='utf-8').read()
