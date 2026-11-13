@@ -774,5 +774,143 @@
    "title_prefix": "Des policiers accusés à tort"
   },
   "drop": true
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-11",
+   "city": "Le Mans",
+   "title_prefix": "La préfecture de la Sarthe interdit"
+  },
+  "drop": true,
+  "note": "mesure administrative, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-11",
+   "city": "Toulouse",
+   "title_prefix": "Rassemblements revendicatifs non déclarés interdits"
+  },
+  "drop": true,
+  "note": "mesure administrative, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-13",
+   "city": "Lyon",
+   "title_prefix": "Le préfet du Rhône interdit"
+  },
+  "drop": true,
+  "note": "doublon de la carte répression du 13 novembre"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-13",
+   "city": "Poitiers",
+   "title_prefix": "L'académie de Poitiers annonce deux plaintes"
+  },
+  "drop": true,
+  "note": "suites judiciaires, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-12",
+   "city": "Brest",
+   "title_prefix": "Le procureur de Brest précise"
+  },
+  "drop": true,
+  "note": "suites judiciaires, reportées en mise à jour de la carte trombinoscopes"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-12",
+   "city": "Marseille",
+   "title_prefix": "Menaces de mort et messages racistes"
+  },
+  "drop": true,
+  "note": "doublon de la carte extrême droite du 6 novembre (enquête sur la boucle WhatsApp)"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-09",
+   "city": "Paris",
+   "title_prefix": "Matignon : conférence sociale"
+  },
+  "drop": true,
+  "note": "réunion politique, couverte par la carte France du 9 novembre"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-12",
+   "city": "Bandraboua",
+   "title_prefix": "Trois mineurs en garde à vue"
+  },
+  "drop": true,
+  "note": "suites judiciaires, pas une action collective"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-07",
+   "city": "Bordeaux",
+   "title_prefix": "« La gendarmerie a utilisé des canons à son"
+  },
+  "drop": true,
+  "note": "doublon de la carte propagande du 8 novembre (Manon Aubry)"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-09",
+   "city": "France",
+   "title_prefix": "Face au « déni »"
+  },
+  "set": {
+   "statement": {
+    "org": "LDH, Unef et Union syndicale lycéenne",
+    "kind": "ONG"
+   }
+  },
+  "note": "saisine commune : déclaration"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-10-31",
+   "city": "Haut-Rhin (commune non précisée)"
+  },
+  "set": {
+   "city": "Haut-Rhin"
+  },
+  "note": "nom de département, placé à la préfecture"
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-11",
+   "metric": "poursuites",
+   "value": 2000
+  },
+  "set": {
+   "metric": "autre"
+  },
+  "note": "chiffre du seul mois de septembre (mineurs), pas un cumul : hors compteur"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-12",
+   "city": "Rouen",
+   "title_prefix": "« Non au racisme anti-blancs »"
+  },
+  "drop": true,
+  "note": "doublon de la carte répression « Rouen, 14 novembre : la manifestation des identitaires »"
  }
 ]

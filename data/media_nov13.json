@@ -178,7 +178,7 @@
  },
  {
   "kind": "event",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "city": "Caen",
   "media": [
    {
@@ -575,7 +575,7 @@
  },
  {
   "kind": "event",
-  "date": "2026-11-11",
+  "date": "2026-11-10",
   "city": "Tours",
   "media": [
    {
@@ -1187,9 +1187,9 @@
  },
  {
   "kind": "incident",
-  "date": "2026-11-10",
+  "date": "2026-10-31",
   "city": "Marseille",
-  "title_prefix": "Roué de coups",
+  "title_prefix": "Rémi Aubert",
   "media": [
    {
     "type": "youtube",
@@ -1226,9 +1226,9 @@
  },
  {
   "kind": "incident",
-  "date": "2026-11-13",
+  "date": "2026-10-24",
   "city": "Toulouse",
-  "title_prefix": "Deux doigts arrachés",
+  "title_prefix": "Tedy",
   "media": [
    {
     "type": "link",
@@ -1236,7 +1236,15 @@
     "outlet": "France 3 Occitanie sur Instagram",
     "title": "Manifestants blessés à Toulouse : appels à témoins",
     "caption": "Reel de France 3 Occitanie sur les manifestants toulousains blessés par des grenades de désencerclement et des tirs de LBD, dont Tedy, 20 ans, qui a perdu deux doigts le 24 octobre et a saisi l'IGPN."
-   },
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-05",
+  "city": "Toulouse",
+  "title_prefix": "Un manifestant a la mâchoire fracturée",
+  "media": [
    {
     "type": "link",
     "url": "https://x.com/Raclure2Pave/status/2118431808631218540",

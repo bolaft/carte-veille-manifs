@@ -327,5 +327,12 @@
   "nom": "Île-de-France (Paris)",
   "dept": "75",
   "manual": true
+ },
+ "Haut-Rhin|68": {
+  "lat": 48.0794,
+  "lon": 7.3585,
+  "nom": "Haut-Rhin (Colmar)",
+  "dept": "68",
+  "manual": true
  }
 }

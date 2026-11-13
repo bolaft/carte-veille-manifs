@@ -1,0 +1,1197 @@
+[
+ {
+  "date": "2026-11-09",
+  "metric": "autre",
+  "value": 31,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "« 31 lycées bloqués » à 9 h 30 lundi 9 novembre, soit environ 0,8 % des quelque 3 700 lycées ; aucune perturbation relevée dans près des trois quarts des départements.",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "Colère lycéenne : 31 lycées bloqués ce lundi matin selon le ministère de l'Éducation nationale",
+    "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-31-lycees-bloques-ce-lundi-matin-selon-le-ministere-de-l-education-nationale_AN-202611090382.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "blesses_personnels",
+  "value": 200,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (France 2, « Les 4 Vérités »)",
+  "quote": "Personnels de l'Éducation nationale « dont plus de 200 [membres] ont été blessés » depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades durant la semaine de la rentrée, selon le ministre de l'Éducation nationale",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Mouvement lycéen : des cours de rattrapage possibles en février ou à Pâques",
+    "url": "https://www.europe1.fr/societe/mouvement-lyceen-des-cours-de-rattrapage-possibles-en-fevrier-ou-a-paques-1220072",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "blesses_eleves",
+  "value": 50,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (France 2)",
+  "quote": "« Une cinquantaine d'élèves ont été blessés par leurs camarades » durant la semaine de la rentrée (2–6 novembre), certains avec des blessures auditives causées par « des éclats de tirs de mortiers ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades durant la semaine de la rentrée, selon le ministre de l'Éducation nationale",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "interpellations",
+  "value": 8,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "« 8 interpellations » lundi matin pour des tirs de mortiers d'artifice devant les lycées Branly, Charles-de-Foucauld, Saint-Joseph, Sermenaz, François-Cevert et Doisneau ; à 11 h, 11 établissements perturbés par des tensions sporadiques et 6 victimes (un policier, cinq élèves).",
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Lyon : aucun blocage de lycées ce lundi, mais 14 établissements en distanciel",
+    "url": "https://www.lyonmag.com/article/154814/lyon-aucun-blocage-de-lycees-ce-lundi-mais-14-etablissements-en-distanciel",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "interpellations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin (via les DNA)",
+  "quote": "Cinq interpellations, dont trois pour « outrage », un blessé et des dégradations devant six lycées bloqués de Strasbourg.",
+  "sources": [
+   {
+    "outlet": "DNA",
+    "title": "Lycées bloqués à Strasbourg : cinq interpellations, un blessé et des dégradations",
+    "url": "https://www.dna.fr/education/2026/11/09/lycees-bloques-a-strasbourg-cinq-interpellations-un-blesse-et-des-degradations",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "interpellations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Rouen",
+  "authority": "Préfecture de la Seine-Maritime",
+  "quote": "Cinq personnes interpellées dans les agglomérations de Rouen et du Havre : trois près du lycée de la Vallée du Cailly (Déville-lès-Rouen) pour transport de mortiers d'artifice, deux près du lycée Marcel-Sembat (Sotteville-lès-Rouen) pour incendies de poubelles, tirs de mortiers, outrages et rébellion.",
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "Cinq personnes interpellées après des tensions aux abords des lycées de l'agglomération rouennaise et havraise",
+    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/cinq-personnes-interpellees-apres-des-tensions-aux-abords-des-lycees-de-l-agglomeration-rouennaise-et-havraise-3446862.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "InfoNormandie",
+    "title": "Lycées sous tension en Seine-Maritime : cinq interpellations et nouvelle manifestation ce mardi à Rouen",
+    "url": "https://www.infonormandie.com/Lycees-sous-tension-en-Seine-Maritime-cinq-interpellations-et-nouvelle-manifestation-ce-mardi-a-Rouen_a44105.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "interpellations",
+  "value": 4,
+  "scope": "ville",
+  "city": "Bègles",
+  "authority": "Police nationale / parquet de Bordeaux",
+  "quote": "Quatre personnes âgées de 15 à 18 ans, dont trois mineurs, interpellées après que le proviseur du lycée Émile-Combes a été touché à la tête par un projectile (quatre jours d'ITT) ; deux enquêtes pour violences avec arme.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Quatre personnes interpellées après qu'un proviseur de lycée près de Bordeaux a été touché à la tête par un projectile",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "gardes_a_vue",
+  "value": 18,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Procureur de la République de Bordeaux",
+  "quote": "« 18 personnes ont été interpellées et placées en garde à vue » la semaine précédente (2–6 novembre) pour des infractions commises aux abords de plusieurs établissements scolaires de l'agglomération bordelaise.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Quatre personnes interpellées après qu'un proviseur de lycée près de Bordeaux a été touché à la tête par un projectile",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "Montélimar",
+  "authority": "Police nationale (Drôme)",
+  "quote": "Un jeune homme mineur interpellé en fin d'après-midi, soupçonné d'avoir fait usage de mortiers d'artifice devant le lycée des Catalins (environ 200 personnes dispersées au gaz lacrymogène).",
+  "sources": [
+   {
+    "outlet": "ICI Drôme-Ardèche",
+    "title": "Mobilisation lycéenne : une interpellation après des tirs de mortiers au lycée des Catalins à Montélimar",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/montelimar/mobilisation-lyceenne-une-interpellation-apres-des-tirs-de-mortiers-au-lycee-des-catalins-a-montelimar-6217590",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "interpellations",
+  "value": 9,
+  "scope": "ville",
+  "city": "Dembéni",
+  "authority": "Gendarmerie de Mayotte",
+  "quote": "« Neuf interpellations ce mardi pour des troubles à l'ordre public » dans les secteurs de Bouyouni, Dzoumogné, Barakani et Tsararano (annonce de la gendarmerie du 10 novembre).",
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois mineurs interpellés après des violences à l'intérieur d'un bus scolaire à Bouyouni",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-mineurs-interpelles-apres-des-violences-a-l-interieur-d-un-bus-scolaire-a-bouyouni-1757328.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 49,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "« 49 lycées bloqués » à 9 h 30 mardi 10 novembre, soit 1,3 % des 3 700 lycées (contre 80 le 5 novembre à la même heure) ; aucune perturbation dans près des trois quarts des départements ; 25 % des établissements d'enseignement supérieur perturbés.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+    "url": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 1.6,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale",
+  "quote": "1,6 % d'enseignants grévistes le 10 novembre, « surtout dans le second degré » (près de 2 % selon le titre de franceinfo) ; pas de chiffre syndical publié.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "blesses_personnels",
+  "value": 240,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Mathieu Lefèvre, porte-parole du gouvernement par intérim",
+  "quote": "« Quelque 240 membres de l'Education nationale » blessés depuis le début du mouvement lycéen à la mi-septembre, après avoir cité 300 le matin même ; « un petit peu plus de 1 % seulement des lycées qui sont perturbés ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 300 membres de l'Éducation nationale ont été blessés lors du mouvement lycéen, selon le gouvernement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 5900,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "5 900 manifestants (AFP ; « 6 000 » selon franceinfo) entre le Panthéon et la place d'Italie, contre 10 000 selon Interfac IDF ; une note des renseignements en attendait 2 000 à 4 000.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "Grève dans l'éducation et manifestation étudiante ce mardi 10 novembre : les infos",
+    "url": "https://www.sortiraparis.com/actualites/a-paris/articles/357741-greve-dans-l-education-et-manifestation-etudiante-ce-mardi-10-novembre-les-infos",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "interpellations",
+  "value": 20,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "20 interpellations en marge de la manifestation déclarée d'environ 2 000 personnes tenue à l'écart de l'Écusson.",
+  "sources": [
+   {
+    "outlet": "Actu Montpellier",
+    "title": "Nouvelle manifestation déclarée dans les rues de Montpellier : 2 000 personnes, 20 interpellations",
+    "url": "https://actu.fr/occitanie/montpellier_34172/metropolitain-nouvelle-manifestation-declaree-dans-les-rues-de-montpellier-2-000-personnes-20-interpellations_65042618.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "interpellations",
+  "value": 9,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "« 9 interpellations ont eu lieu dans la matinée » aux abords des lycées (environ 600 élèves mobilisés, « 13 lycées bloqués ou concernés par des barrages filtrants » à midi) ; 3 500 manifestants l'après-midi selon la préfecture (5 000 selon les syndicats).",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "DIRECT. Journée de mobilisation du 10 novembre à Toulouse, le blocus des lycées se poursuit, une nouvelle manifestation dans la ville rose",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/direct-journee-de-mobilisation-du-10-novembre-a-toulouse-le-blocus-des-lycees-se-poursuit-une-nouvelle-manifestation-prevue-dans-l-apres-midi-3447147.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Occitanie",
+    "title": "Manifestation du 10 novembre : plusieurs centaines de participants dans le cortège à Toulouse",
+    "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/manifestation-du-10-novembre-plusieurs-centaines-de-participants-dans-le-cortege-a-toulouse-1709886",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "Deux personnes interpellées mardi matin pour des tirs de mortiers d'artifice (après « huit interpellations réalisées lundi ») ; deux lycéennes blessées devant le lycée Saint-Exupéry ; 3 500 manifestants ; attroupement de 400 personnes dispersé au gaz lacrymogène (« des moyens lacrymogènes ont été utilisés pour disperser cet attroupement »).",
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Tirs de mortiers, deux interpellations… de nouvelles tensions devant plusieurs lycées lyonnais ce mardi",
+    "url": "https://www.lyonmag.com/article/154837/tirs-de-mortiers-deux-interpellations-de-nouvelles-tensions-devant-plusieurs-lycees-lyonnais-ce-mardi",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "DIRECT. Manifestation à Lyon : enseignants et lycéens appelés à faire grève, un cortège prévu en fin de matinée",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/direct-manifestation-a-lyon-enseignants-et-lyceens-appeles-a-faire-greve-un-cortege-prevu-en-fin-de-matinee-3447126.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "blesses_eleves",
+  "value": 2,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône",
+  "quote": "Deux lycéennes blessées devant le lycée Saint-Exupéry (4e), dont une touchée à la tête et hospitalisée, lors de tirs de mortiers suivis de gaz lacrymogène.",
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Tirs de mortiers, deux interpellations… de nouvelles tensions devant plusieurs lycées lyonnais ce mardi",
+    "url": "https://www.lyonmag.com/article/154837/tirs-de-mortiers-deux-interpellations-de-nouvelles-tensions-devant-plusieurs-lycees-lyonnais-ce-mardi",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "DIRECT. Manifestation à Lyon : enseignants et lycéens appelés à faire grève, un cortège prévu en fin de matinée",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/direct-manifestation-a-lyon-enseignants-et-lyceens-appeles-a-faire-greve-un-cortege-prevu-en-fin-de-matinee-3447126.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "gardes_a_vue",
+  "value": 3,
+  "scope": "ville",
+  "city": "Chelles",
+  "authority": "Parquet de Meaux",
+  "quote": "Trois lycéens de 15 à 17 ans placés en garde à vue, principalement pour des violences sur policiers, « sans lien » avec le jet de bouteille d'essence sur la conseillère régionale ; enquête de flagrance pour tentative d'homicide volontaire sur personne dépositaire de l'autorité publique.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte... Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Mortier d'artifice, jet de bouteille d'essence sur une élue, intervention de la police : des tensions éclatent devant un lycée de Chelles",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/mortier-d-artifice-jet-de-bouteille-d-essence-sur-une-elue-intervention-de-la-police-des-tensions-eclatent-devant-un-lycee-de-chelles-3447306.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin",
+  "quote": "Un lycéen interpellé pour entrave à la circulation (route bloquée avec des poubelles, tirs de mortiers vers les forces de l'ordre, poubelles incendiées, tram interrompu) ; 0,89 % de grévistes dans l'académie selon le rectorat.",
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Blocages aux abords de lycées et manifestation intersyndicale à Strasbourg : bilan de la journée du 10 novembre 2026",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63127/448797/file/CP+-+Blocages+aux+abords+de+lyc%C3%A9es+et+manifestation+intersyndicale+%C3%A0+Strasbourg%C2%A0-+bilan+de+la+journ%C3%A9e+du+10+novembre+2026.pdf",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "DNA",
+    "title": "Plusieurs blocages depuis ce matin à l'université",
+    "url": "https://www.dna.fr/social/2026/11/10/plusieurs-blocages-depuis-ce-matin-a-l-universite",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 850,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfecture de police des Bouches-du-Rhône",
+  "quote": "« 850 personnes » des Réformés à Castellane, contre 5 200 le 7 novembre et 14 000 le 5 novembre selon les autorités.",
+  "sources": [
+   {
+    "outlet": "ICI Provence",
+    "title": "Manifestation dans l'éducation : au moins 850 personnes mobilisées à Marseille",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/manifestation-dans-l-education-au-moins-850-personnes-mobilisees-a-marseille-7462091",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestation du 10 novembre à Marseille : « le gouvernement se moque de nous », les enseignants aux côtés des lycéens et étudiants pour faire pression",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/manifestation-du-10-novembre-a-marseille-le-gouvernement-se-moque-de-nous-les-enseignants-aux-cotes-des-lyceens-et-etudiants-pour-faire-pression-3447207.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 1700,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Préfecture de la Loire-Atlantique",
+  "quote": "1 700 manifestants selon la préfecture (1 500 à 2 000 selon ICI Loire Océan) pour la mobilisation de l'éducation au départ du Miroir d'eau.",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestation du 10 novembre : un peu moins de 2 000 enseignants, lycéens et étudiants dans les rues de Nantes",
+    "url": "https://www.ouest-france.fr/societe/manifestation/manifestation-du-10-novembre-un-peu-moins-de-2-000-enseignants-lyceens-et-etudiants-dans-les-rues-de-nantes-e53c52da-dd21-11f1-a62b-776e3051b0df",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Loire Océan",
+    "title": "Éducation nationale : entre 1 500 et 2 000 manifestants à Nantes pour la mobilisation du 10 novembre",
+    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/education-nationale-entre-1500-et-2000-manifestants-a-nantes-pour-la-mobilisation-du-10-novembre-5688276",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 380,
+  "scope": "ville",
+  "city": "Poitiers",
+  "authority": "Préfecture de la Vienne",
+  "quote": "« Environ 380 manifestants » au plus fort du cortège (250 à 300 au départ).",
+  "sources": [
+   {
+    "outlet": "ICI Poitou",
+    "title": "Mobilisation du 10 novembre à Poitiers et Niort : des manifestations pour défendre l'Éducation nationale",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/poitiers/mobilisation-du-10-novembre-a-poitiers-et-niort-des-manifestations-pour-defendre-l-education-nationale-1351068",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 500,
+  "scope": "ville",
+  "city": "Saint-Étienne",
+  "authority": "Préfecture de la Loire",
+  "quote": "« La préfecture de la Loire annonce 500 manifestants », les organisations syndicales 1 200.",
+  "sources": [
+   {
+    "outlet": "42info",
+    "title": "Saint-Étienne : jusqu'à 1 200 manifestants dans les rues",
+    "url": "https://42info.fr/saint-etienne-jusqua-1-200-manifestants-dans-les-rues/",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 1000,
+  "scope": "ville",
+  "city": "Tours",
+  "authority": "Police nationale",
+  "quote": "Environ 1 000 personnes selon la police, une centaine de plus selon les syndicats (16 200 selon la préfecture et 22 000 selon les syndicats le 5 novembre).",
+  "sources": [
+   {
+    "outlet": "ICI Touraine",
+    "title": "Mobilisation du 10 novembre : environ 1 000 professeurs, étudiants et lycéens défilent à Tours",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/mobilisation-du-10-novembre-environ-1-000-professeurs-etudiants-et-lyceens-defilent-a-tours-4728092",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 50,
+  "scope": "jour",
+  "city": "",
+  "authority": "Région Île-de-France (Valérie Pécresse)",
+  "quote": "« Une cinquantaine de lycées perturbés » ce mardi en Île-de-France selon la Région ; en dix jours environ 100 tirs de mortiers (près de la moitié à l'intérieur des établissements), une vingtaine de blessés parmi personnels et élèves, 10 millions d'euros de dégâts estimés.",
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Mortier d'artifice, jet de bouteille d'essence sur une élue, intervention de la police : des tensions éclatent devant un lycée de Chelles",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/mortier-d-artifice-jet-de-bouteille-d-essence-sur-une-elue-intervention-de-la-police-des-tensions-eclatent-devant-un-lycee-de-chelles-3447306.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte... Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+    "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "metric": "autre",
+  "value": 71,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Reporters sans frontières (comptage d'ONG, non officiel)",
+  "quote": "71 cas de journalistes entravés du début du mouvement lycéen au 7 novembre inclus (52 par les forces de l'ordre, 19 par des manifestants ou des tiers), dont 44 cas de violences physiques (29 forces de l'ordre, 15 manifestants ou tiers) ; deux plaintes déposées le 10 novembre, enquête confiée à l'IGPN.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Deux plaintes déposées par plusieurs journalistes, notamment pour violences volontaires de la part des forces de l'ordre, en marge des mobilisations parisiennes",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/deux-plaintes-deposees-par-plusieurs-journalistes-notamment-pour-violences-volontaires-de-la-part-des-forces-de-l-ordre-en-marge-des-mobilisations-parisiennes_8276648.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "metric": "blesses_personnels",
+  "value": 245,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (BFMTV)",
+  "quote": "« Depuis le début du mouvement, 245 membres du personnel de l'Education nationale ont été blessés ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Édouard Geffray appelle à la « responsabilité collective » et à une « condamnation unanime » des violences survenues lors des mobilisations lycéennes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-survenues-lors-des-mobilisations-lyceennes_8277461.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "metric": "interpellations",
+  "value": 4,
+  "scope": "ville",
+  "city": "Chelles",
+  "authority": "Parquet de Meaux (France 2)",
+  "quote": "Quatre mineurs interpellés et un majeur incarcéré mercredi 11 novembre après les tirs de mortiers en classe et l'agression de l'élue au lycée Gaston-Bachelard ; tous sans casier judiciaire et scolarisés dans des lycées de la ville ; le procureur Jean-Baptiste Bladier : « un mineur peut très bien être condamné à une peine d'emprisonnement ».",
+  "sources": [
+   {
+    "outlet": "France 2 (20 heures)",
+    "title": "Tirs de mortiers au lycée de Chelles : qui sont les interpellés ?",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-de-mortiers-au-lycee-de-chelles-qui-sont-les-interpelles_8278286.html",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "metric": "detentions_provisoires",
+  "value": 1,
+  "scope": "ville",
+  "city": "Chelles",
+  "authority": "Parquet de Meaux (France 2)",
+  "quote": "« Un majeur a été incarcéré » mercredi 11 novembre dans le dossier du lycée Gaston-Bachelard de Chelles.",
+  "sources": [
+   {
+    "outlet": "France 2 (20 heures)",
+    "title": "Tirs de mortiers au lycée de Chelles : qui sont les interpellés ?",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-de-mortiers-au-lycee-de-chelles-qui-sont-les-interpelles_8278286.html",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "metric": "deferrements",
+  "value": 1504,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice (étude révélée par France 2 le 11 novembre, données arrêtées au 9 octobre)",
+  "quote": "1 504 mineurs déférés devant le parquet depuis le début du mouvement (données au 9 octobre) : 93 % de garçons, 62 % âgés de 15 à 16 ans, 88 % de nationalité française, la plupart scolarisés et inconnus de la justice ; 42 % des mineurs placés en garde à vue l'ont été pour des violences sur policiers.",
+  "sources": [
+   {
+    "outlet": "France 2 (20 heures)",
+    "title": "Tirs de mortiers au lycée de Chelles : qui sont les interpellés ?",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-de-mortiers-au-lycee-de-chelles-qui-sont-les-interpelles_8278286.html",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "metric": "poursuites",
+  "value": 2000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de la Justice (étude révélée par France 2, données arrêtées au 9 octobre)",
+  "quote": "Pour le seul mois de septembre, près de 2 000 mineurs ont fait l'objet de poursuites et six ont été incarcérés.",
+  "sources": [
+   {
+    "outlet": "France 2 (20 heures)",
+    "title": "Tirs de mortiers au lycée de Chelles : qui sont les interpellés ?",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-de-mortiers-au-lycee-de-chelles-qui-sont-les-interpelles_8278286.html",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "blesses_forces_ordre",
+  "value": 1190,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Matignon (communiqué du 12 novembre)",
+  "quote": "« 1 190 blessés » au sein des forces de sécurité intérieure mobilisées pour sécuriser les lycées depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+    "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "Le Gouvernement annonce la judiciarisation systématique des violences contre les personnels de l'Éducation nationale",
+    "url": "https://lejournaldemayotte.yt/articles/le-gouvernement-annonce-la-judiciarisation-systematique-des-violences-contre-les-personnels-de-leducation-nationale",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Lycées : pour mettre fin aux violences, le gouvernement demande à ce que la justice soit systématiquement saisie",
+    "url": "https://www.ici.fr/infos/education/lycees-pour-mettre-fin-aux-violences-le-gouvernement-demande-a-ce-que-la-justice-soit-systematiquement-saisie-9415642",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "blesses_eleves",
+  "value": 364,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Matignon (communiqué du 12 novembre)",
+  "quote": "« 609 blessés au sein de l'Éducation nationale », dont « 364 élèves ».",
+  "sources": [
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+    "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "Le Gouvernement annonce la judiciarisation systématique des violences contre les personnels de l'Éducation nationale",
+    "url": "https://lejournaldemayotte.yt/articles/le-gouvernement-annonce-la-judiciarisation-systematique-des-violences-contre-les-personnels-de-leducation-nationale",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "blesses_personnels",
+  "value": 245,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Matignon (communiqué du 12 novembre)",
+  "quote": "609 blessés au sein de l'Éducation nationale, dont « 245 personnels », parmi lesquels « 81 chefs d'établissement et adjoints ».",
+  "sources": [
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+    "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "Le Gouvernement annonce la judiciarisation systématique des violences contre les personnels de l'Éducation nationale",
+    "url": "https://lejournaldemayotte.yt/articles/le-gouvernement-annonce-la-judiciarisation-systematique-des-violences-contre-les-personnels-de-leducation-nationale",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "autre",
+  "value": 81,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Matignon (communiqué du 12 novembre) ; SNPDEN-Unsa",
+  "quote": "« 81 chefs d'établissement et adjoints » blessés depuis la mi-septembre selon le bilan gouvernemental ; le SNPDEN-Unsa parle de « 80 d'entre eux » blessés en France et de « quasiment un blessé a minima par jour ».",
+  "sources": [
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France (AFP)",
+    "title": "Blocus des lycées : « épuisés », les proviseurs se mobilisent devant le Collège de France à Paris ce vendredi",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/blocus-des-lycees-epuises-les-proviseurs-se-mobilisent-devant-le-college-de-france-a-paris-ce-vendredi-3448848.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Normandie",
+    "title": "« Certains collègues sont blessés, hospitalisés ou épuisés » : les proviseurs se mobilisent pour alerter sur la gravité de la situation",
+    "url": "https://france3-regions.franceinfo.fr/normandie/eure/certains-collegues-sont-blesses-hospitalises-ou-epuises-les-proviseurs-se-mobilisent-pour-alerter-sur-la-gravite-de-la-situation-3449034.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "autre",
+  "value": 24,
+  "scope": "jour",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (BFMTV)",
+  "quote": "« Ce matin, nous avons 24 lycées qui sont bloqués » jeudi 12 novembre ; « une centaine d'établissements en distanciel pour des raisons de sécurité » ; reprise apaisée des cours dans 98 % des établissements selon le gouvernement.",
+  "sources": [
+   {
+    "outlet": "Titres Presse (BFM TV)",
+    "title": "Le ministre de l'Éducation nationale dénombre 24 lycées « bloqués » ce jeudi",
+    "url": "https://www.titrespresse.com/28835762603/edouard-geffray-ministre",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Lycées : pour mettre fin aux violences, le gouvernement demande à ce que la justice soit systématiquement saisie",
+    "url": "https://www.ici.fr/infos/education/lycees-pour-mettre-fin-aux-violences-le-gouvernement-demande-a-ce-que-la-justice-soit-systematiquement-saisie-9415642",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Colère lycéenne : 24 établissements bloqués ce jeudi, le ministre promet des sanctions",
+    "url": "https://www.leprogres.fr/education/2026/11/12/colere-lyceenne-24-etablissements-bloques-ce-jeudi-le-ministre-promet-des-sanctions",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "autre",
+  "value": 40,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Sébastien Lecornu, Premier ministre",
+  "quote": "« Au moins 40 membres du personnel de l'Éducation nationale auraient fait preuve de complicité » avec les violences commises en marge du mouvement lycéen, que le Premier ministre veut voir poursuivis.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Sébastien Lecornu pointe du doigt certains agents de l'Éducation nationale « complices » de violences lors du mouvement lycéen",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "TF1 Info",
+    "title": "Violences dans les lycées : Lecornu pointe du doigt la « complicité » de personnels de l'Éducation nationale",
+    "url": "https://www.tf1info.fr/societe/violences-dans-les-lycees-lecornu-pointe-du-doigt-la-complicite-de-personnels-de-l-education-nationale-2475481.html",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "interpellations",
+  "value": 6,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "Six personnes interpellées ; seize établissements de Haute-Garonne concernés par des actions ou des mobilisations, 750 élèves au plus fort de la matinée ; tirs de mortiers et jets de fumigènes « y compris dans l'enceinte de plusieurs établissements ».",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Mobilisation lycéenne : six interpellations, seize établissements bloqués en Haute-Garonne, la préfecture appelle à un « retour serein en cours »",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/mobilisation-lyceenne-six-interpellations-seize-etablissements-bloques-en-haute-garonne-la-prefecture-appelle-a-un-retour-serein-en-cours-3448758.html",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "blesses_forces_ordre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "Trois blessés : deux CRS touchés par des tirs de mortiers et un assistant d'éducation.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Mobilisation lycéenne : six interpellations, seize établissements bloqués en Haute-Garonne, la préfecture appelle à un « retour serein en cours »",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/mobilisation-lyceenne-six-interpellations-seize-etablissements-bloques-en-haute-garonne-la-prefecture-appelle-a-un-retour-serein-en-cours-3448758.html",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "interpellations",
+  "value": 6,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin (point de situation du 12 novembre)",
+  "quote": "Blocages devant huit établissements, atteintes aux personnes et aux biens, tirs de mortiers vers les forces de l'ordre ; six interpellations devant l'un d'eux.",
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Blocages et troubles à l'ordre public aux abords de lycées strasbourgeois : point de situation du 12 novembre 2026",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63136/448842/file/CB+-+Blocages+et+troubles+%C3%A0+l%E2%80%99ordre+public+aux+abords+de+lyc%C3%A9es+strasbourgeois+-+point+de+situation+du+12+novembre+2026.pdf",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "interpellations",
+  "value": 3,
+  "scope": "ville",
+  "city": "Mérignac",
+  "authority": "Préfecture de la Gironde / académie de Bordeaux",
+  "quote": "Trois mineurs interpellés pour « mise en danger » après la projection de gaz lacrymogène par des élèves dans le hall du lycée Fernand-Daguin.",
+  "sources": [
+   {
+    "outlet": "ICI Gironde",
+    "title": "Un lycée de Pessac évacué après des tirs de mortiers dans le hall d'un bâtiment : « intolérable », réagit le maire",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/pessac/un-lycee-de-pessac-evacue-apres-des-tirs-de-mortiers-dans-le-hall-d-un-batiment-intolerable-reagit-le-maire-9057606",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "blesses_eleves",
+  "value": 3,
+  "scope": "ville",
+  "city": "Lormont",
+  "authority": "Préfecture de la Gironde / académie de Bordeaux",
+  "quote": "Trois jeunes légèrement blessés par des tirs de mortiers au lycée Élie-Faure.",
+  "sources": [
+   {
+    "outlet": "ICI Gironde",
+    "title": "Un lycée de Pessac évacué après des tirs de mortiers dans le hall d'un bâtiment : « intolérable », réagit le maire",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/pessac/un-lycee-de-pessac-evacue-apres-des-tirs-de-mortiers-dans-le-hall-d-un-batiment-intolerable-reagit-le-maire-9057606",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "gardes_a_vue",
+  "value": 4,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Police nationale",
+  "quote": "Quatre personnes, dont trois élèves, interpellées et placées en garde à vue après des tirs de mortiers à l'intérieur du lycée La Colinière ; « l'arrestation d'une personne » pour les tirs visant La Joliverie plus tôt dans la semaine.",
+  "sources": [
+   {
+    "outlet": "ICI Loire Océan",
+    "title": "Les tirs de mortier d'artifice se multiplient devant des lycées de Nantes, des auteurs identifiés",
+    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/les-tirs-de-mortier-d-artifice-se-multiplient-devant-des-lycees-de-nantes-des-auteurs-identifies-1292315",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Rectorat de Montpellier / police nationale",
+  "quote": "Un mineur de 15 ans interpellé puis « relâché » après au moins trois départs de feu « volontaires » dans des lycées ; huit personnels de direction victimes de violences depuis le début du mouvement (AFP).",
+  "sources": [
+   {
+    "outlet": "franceinfo (ICI Hérault)",
+    "title": "Plusieurs lycées de Montpellier visés par des départs de feu « volontaires » jeudi matin",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plusieurs-lycees-de-montpellier-vises-par-des-departs-de-feu-volontaires-jeudi-matin_8279672.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Europe 1 (AFP)",
+    "title": "Montpellier : deux lycées visés par des incendies volontaires, un suspect interpellé",
+    "url": "https://www.europe1.fr/faits-divers/montpellier-deux-lycees-vises-par-des-incendies-volontaires-un-suspect-interpelle-1228157",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "Orléans",
+  "authority": "Police nationale",
+  "quote": "Au moins une personne, suspectée d'être l'auteur des tirs de mortiers devant le lycée Benjamin-Franklin, interpellée.",
+  "sources": [
+   {
+    "outlet": "ICI Orléans",
+    "title": "Tirs de mortiers, fumigènes : plusieurs débordements dans des lycées de la métropole d'Orléans ce jeudi",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/ingre/tirs-de-mortiers-fumigenes-plusieurs-debordements-dans-des-lycees-de-la-metropole-d-orleans-ce-jeudi-8523965",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "gardes_a_vue",
+  "value": 3,
+  "scope": "ville",
+  "city": "Bandraboua",
+  "authority": "Gendarmerie de Mayotte",
+  "quote": "Trois mineurs placés en garde à vue pour les violences et dégradations commises le 5 novembre dans un bus scolaire à Bouyouni, présentés au procureur vendredi matin.",
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois mineurs interpellés après des violences à l'intérieur d'un bus scolaire à Bouyouni",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-mineurs-interpelles-apres-des-violences-a-l-interieur-d-un-bus-scolaire-a-bouyouni-1757328.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "metric": "autre",
+  "value": 700,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Roland Lescure, ministre de l'Économie",
+  "quote": "Plus de 700 demandes de prêts à taux zéro déposées par des commerçants sinistrés lors de la manifestation du 17 octobre.",
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "Manifestation du 17 octobre : plus de 700 demandes de prêts à taux zéro de la part des commerçants sinistrés, annonce Roland Lescure",
+    "url": "https://www.bfmtv.com/politique/video-manifestation-du-17-octobre-plus-de-700-demandes-de-prets-a-taux-zero-de-la-part-des-commercants-sinistres-annonce-roland-lescure_VN-202611120373.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "metric": "interpellations",
+  "value": 107,
+  "scope": "cumul",
+  "city": "Toulouse",
+  "authority": "Rectorat de l'académie de Toulouse",
+  "quote": "« 107 interpellations » et « plus de 50 blessés » parmi les élèves et les personnels de l'académie depuis le début du mouvement ; violences visant une vingtaine de lycées de la métropole toulousaine.",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Blocage des lycées en Haute-Garonne : tirs de mortiers, plus de 50 blessés, 107 interpellations… le recteur de l'académie de Toulouse condamne fermement les violences",
+    "url": "https://www.ladepeche.fr/2026/11/13/blocage-des-lycees-en-haute-garonne-tirs-de-mortiers-plus-de-50-blesses-107-interpellations-le-recteur-de-lacademie-de-toulouse-condamne-fermement-les-13650824.php",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "metric": "autre",
+  "value": 50,
+  "scope": "cumul",
+  "city": "Toulouse",
+  "authority": "Rectorat de l'académie de Toulouse",
+  "quote": "« Plus de 50 blessés » (élèves et personnels) dans l'académie de Toulouse depuis le début de la mobilisation lycéenne.",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Blocage des lycées en Haute-Garonne : tirs de mortiers, plus de 50 blessés, 107 interpellations… le recteur de l'académie de Toulouse condamne fermement les violences",
+    "url": "https://www.ladepeche.fr/2026/11/13/blocage-des-lycees-en-haute-garonne-tirs-de-mortiers-plus-de-50-blesses-107-interpellations-le-recteur-de-lacademie-de-toulouse-condamne-fermement-les-13650824.php",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "metric": "autre",
+  "value": 70000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur (LCI)",
+  "quote": "« Quelque 70 000 policiers et gendarmes » mobilisés pour le samedi 14 novembre, « le même dispositif que samedi dernier », « entre 50 ou 60 défilés sur l'ensemble du territoire national », « contrôles dans la profondeur » ; rappel du bilan du 7 novembre : 146 000 participants dont 46 000 à Paris, 141 actions, 232 interpellations au bilan provisoire de 18 h, près de 40 000 contrôles préventifs.",
+  "sources": [
+   {
+    "outlet": "Le Pandore et la Gendarmerie (AFP)",
+    "title": "Mobilisation du 14 novembre : Nuñez prévoit environ 70 000 policiers et gendarmes",
+    "url": "https://www.pandore-gendarmerie.org/mobilisation-14-novembre-2026-nunez-70000-policiers-gendarmes/",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Convergence de différents mots d'ordre, important dispositif policier… À quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+    "url": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
+    "url": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "CNews",
+    "title": "Mobilisation du 14 novembre : 70 000 policiers et gendarmes mobilisés, « entre 50 ou 60 » cortèges attendus",
+    "url": "https://www.cnews.fr/france/2026-11-13/mobilisation-du-14-novembre-70000-policiers-et-gendarmes-mobilises-entre-50-ou-60",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "metric": "autre",
+  "value": 60000,
+  "scope": "jour",
+  "city": "Paris",
+  "authority": "Direction du renseignement de la préfecture de police de Paris",
+  "quote": "Entre 30 000 et 60 000 manifestants attendus samedi 14 novembre à Paris, dont 200 à 400 Gilets jaunes, 500 à 1 000 militants contre les violences faites aux enfants et un « bloc radical » de 300 à 600 personnes en pré-cortège.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts, pour la mobilisation du 14 novembre",
+    "url": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Convergence de différents mots d'ordre, important dispositif policier… À quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+    "url": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "metric": "autre",
+  "value": 50,
+  "scope": "cumul",
+  "city": "",
+  "authority": "SNPDEN-Unsa, syndicat des personnels de direction (chiffre syndical)",
+  "quote": "Une cinquantaine de proviseurs ont demandé à quitter les établissements les plus perturbés ; « 80 » chefs et adjoints blessés depuis le début de la mobilisation lycéenne.",
+  "sources": [
+   {
+    "outlet": "Sud Radio",
+    "title": "Blocus de lycées : une cinquantaine de proviseurs jettent l'éponge",
+    "url": "https://www.sudradio.fr/societe/blocus-de-lycees-une-cinquantaine-de-proviseurs-jettent-leponge",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Normandie",
+    "title": "« Certains collègues sont blessés, hospitalisés ou épuisés » : les proviseurs se mobilisent pour alerter sur la gravité de la situation",
+    "url": "https://france3-regions.franceinfo.fr/normandie/eure/certains-collegues-sont-blesses-hospitalises-ou-epuises-les-proviseurs-se-mobilisent-pour-alerter-sur-la-gravite-de-la-situation-3449034.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ }
+]

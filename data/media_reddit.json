@@ -685,6 +685,25 @@
 },
 {
 "kind": "incident",
+"date": "2026-11-07",
+"city": "Strasbourg",
+"title_prefix": "Emmanuelle, jetée au sol et frappée lors",
+"media": [
+{
+"type": "reddit",
+"id": "1xrngkv",
+"vid": "to24yqvk4k0i1",
+"url": "https://www.reddit.com/r/france/comments/1xrngkv/07112026_strasbourg_violences_policières_coups_de/",
+"thumb_remote": "",
+"score": 1843,
+"outlet": "r/France · u/Niafron",
+"title": "[07/11/2026] - Strasbourg - Violences Policières - Coups de pied et de matraque sur des lycéen·nes qui n'avancent pas assez vite au goût des policiers",
+"caption": "[07/11/2026] - Strasbourg - Violences Policières - Coups de pied et de matraque sur des lycéen·nes qui n'avancent pas assez vite au goût des policiers — publié sur r/France le 09/11 à 10h38 (1843 votes)."
+}
+]
+},
+{
+"kind": "incident",
 "date": "2026-10-19",
 "city": "Paris",
 "title_prefix": "Comparutions immédiates du 17 octobre à ",
@@ -703,10 +722,10 @@
 ]
 },
 {
-"kind": "event",
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Le Mans",
-"title_prefix": "",
+"title_prefix": "Amandine, 30 ans, tirée par les cheveux,",
 "media": [
 {
 "type": "reddit",
@@ -1131,10 +1150,10 @@
 ]
 },
 {
-"kind": "event",
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Toulouse",
-"title_prefix": "",
+"title_prefix": "Deux street medics blessés par des grena",
 "media": [
 {
 "type": "reddit",
@@ -1817,6 +1836,25 @@
 },
 {
 "kind": "event",
+"date": "2026-10-17",
+"city": "Toulouse",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1x95yjc",
+"vid": "t5shgv3si6wh1",
+"url": "https://www.reddit.com/r/toulouse/comments/1x95yjc/toulouse_17_octobre_une_femme_subit_un_placage/",
+"thumb_remote": "",
+"score": 277,
+"outlet": "r/Toulouse · u/Character_Care1946",
+"title": "[Toulouse 17 Octobre] Une femme subit un placage ventrale violent de la part de 2 CRS. Elle vomit à plusieurs reprises",
+"caption": "[Toulouse 17 Octobre] Une femme subit un placage ventrale violent de la part de 2 CRS. Elle vomit à plusieurs reprises — publié sur r/Toulouse le 18/10 à 17h26 (277 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-10-24",
 "city": "Lyon",
 "title_prefix": "",
@@ -2344,10 +2382,10 @@
 ]
 },
 {
-"kind": "event",
+"kind": "incident",
 "date": "2026-10-31",
 "city": "Marseille",
-"title_prefix": "",
+"title_prefix": "Charge des CRS à la Plaine après la mani",
 "media": [
 {
 "type": "reddit",
@@ -2382,10 +2420,10 @@
 ]
 },
 {
-"kind": "event",
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Le Mans",
-"title_prefix": "",
+"title_prefix": "Amandine, 30 ans, tirée par les cheveux,",
 "media": [
 {
 "type": "reddit",
@@ -3019,6 +3057,25 @@
 "outlet": "r/Metz · u/shaokahn88",
 "title": "Des casseurs accompagnés par des policiers ?",
 "caption": "Des casseurs accompagnés par des policiers ? — publié sur r/Metz le 18/10 à 19h21 (71 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-12",
+"city": "Montpellier",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xuedp7",
+"vid": "ev7xgaei071i1",
+"url": "https://www.reddit.com/r/Montpellier/comments/1xuedp7/starfoullah_des_individus_ont_allumé_plusieurs/",
+"thumb_remote": "",
+"score": 63,
+"outlet": "r/Montpellier · u/Cute_Disaster_6867",
+"title": "« Starfoullah ! » : Des individus ont allumé plusieurs feux au sein même du lycée Mermoz à Montpellier.",
+"caption": "« Starfoullah ! » : Des individus ont allumé plusieurs feux au sein même du lycée Mermoz à Montpellier. — publié sur r/Montpellier le 12/11 à 15h36 (63 votes)."
 }
 ]
 },

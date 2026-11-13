@@ -1739,5 +1739,117 @@
 "nom": "Aurillac",
 "dept": "15",
 "pop": 26214
+},
+"Bègles|33": {
+"lat": 44.803,
+"lon": -0.5485,
+"nom": "Bègles",
+"dept": "33",
+"pop": 31831
+},
+"Firminy|42": {
+"lat": 45.3827,
+"lon": 4.2895,
+"nom": "Firminy",
+"dept": "42",
+"pop": 17060
+},
+"Nangis|77": {
+"lat": 48.5575,
+"lon": 3.0079,
+"nom": "Nangis",
+"dept": "77",
+"pop": 8867
+},
+"Chelles|77": {
+"lat": 48.8845,
+"lon": 2.5954,
+"nom": "Chelles",
+"dept": "77",
+"pop": 54620
+},
+"Lifou|988": {
+"lat": -20.9581,
+"lon": 167.3788,
+"nom": "Lifou",
+"dept": "988",
+"pop": 9225
+},
+"Pessac|33": {
+"lat": 44.786,
+"lon": -0.681,
+"nom": "Pessac",
+"dept": "33",
+"pop": 67339
+},
+"Sotteville-lès-Rouen|76": {
+"lat": 49.4116,
+"lon": 1.0944,
+"nom": "Sotteville-lès-Rouen",
+"dept": "76",
+"pop": 29003
+},
+"Fontenay-le-Comte|85": {
+"lat": 46.4587,
+"lon": -0.7887,
+"nom": "Fontenay-le-Comte",
+"dept": "85",
+"pop": 14059
+},
+"Noisiel|77": {
+"lat": 48.8461,
+"lon": 2.6187,
+"nom": "Noisiel",
+"dept": "77",
+"pop": 16053
+},
+"Savigny-le-Temple|77": {
+"lat": 48.5846,
+"lon": 2.5759,
+"nom": "Savigny-le-Temple",
+"dept": "77",
+"pop": 31148
+},
+"Longperrier|77": {
+"lat": 49.0506,
+"lon": 2.6566,
+"nom": "Longperrier",
+"dept": "77",
+"pop": 3152
+},
+"Fontainebleau|77": {
+"lat": 48.4236,
+"lon": 2.6817,
+"nom": "Fontainebleau",
+"dept": "77",
+"pop": 15583
+},
+"Noisy-le-Sec|93": {
+"lat": 48.8917,
+"lon": 2.4578,
+"nom": "Noisy-le-Sec",
+"dept": "93",
+"pop": 45510
+},
+"Choisy-le-Roi|94": {
+"lat": 48.7635,
+"lon": 2.4202,
+"nom": "Choisy-le-Roi",
+"dept": "94",
+"pop": 45946
+},
+"Écully|69": {
+"lat": 45.7822,
+"lon": 4.7737,
+"nom": "Écully",
+"dept": "69",
+"pop": 17944
+},
+"Drancy|93": {
+"lat": 48.925,
+"lon": 2.4446,
+"nom": "Drancy",
+"dept": "93",
+"pop": 72390
 }
 }

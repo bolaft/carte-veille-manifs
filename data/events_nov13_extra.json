@@ -1,0 +1,130 @@
+[
+ {
+  "date": "2026-11-10",
+  "city": "Le Havre",
+  "dept": "76",
+  "place": "lycée Jules-Siegfried",
+  "type": "blocage",
+  "title": "Les lycéens de Jules-Siegfried maintiennent la mobilisation au Havre",
+  "summary": "Le 10 novembre, journée de grève de l'éducation, les lycéens de Jules-Siegfried au Havre maintiennent leur mobilisation devant l'établissement, filmés par France 3 Normandie.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "Le Havre : les lycéens de Jules-Siegfried maintiennent la mobilisation",
+    "url": "https://www.youtube.com/watch?v=69fX79s5Oik",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Mamoudzou",
+  "dept": "976",
+  "type": "grève",
+  "title": "Journée d'action du 10 novembre à Mayotte : les syndicats de l'éducation appellent à poursuivre la grève",
+  "summary": "À Mayotte, les syndicats de l'éducation appellent à continuer le mouvement de grève lors de la journée d'action nationale du 10 novembre, alors que le lycée de Tsararano (Dembéni) reprend partiellement.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Mayotte la 1ère",
+    "title": "Éducation : les syndicats appellent à continuer le mouvement de grève",
+    "url": "https://www.youtube.com/watch?v=AZX90ibeOrs",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Paris",
+  "dept": "75",
+  "place": "lycée Maurice-Ravel (20e)",
+  "type": "blocage",
+  "title": "Blocus du lycée Maurice-Ravel : dialogue tendu entre lycéens et parents d'élèves, huit maires d'arrondissement réclament des mesures",
+  "summary": "Le 12 novembre, le blocus du lycée Maurice-Ravel (20e) se poursuit malgré l'hostilité de parents d'élèves qui réclament la reprise des cours ; le même jour, huit maires d'arrondissement de Paris demandent des mesures pour éviter les blocages autour des lycées.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV",
+    "title": "Nos reporters racontent – Lycéens mobilisés, parents d’élèves opposés… le blocus se poursuit",
+    "url": "https://www.dailymotion.com/video/xbvzaia",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "BFMTV",
+    "title": "8 maires de Paris réclament des mesures pour éviter les blocages autour des lycées",
+    "url": "https://www.dailymotion.com/video/xbvw3tq",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Bordeaux",
+  "dept": "33",
+  "type": "rassemblement",
+  "title": "Rassemblement des proviseurs contre les violences à Bordeaux, à l'appel du SNPDEN-Unsa",
+  "summary": "Le 13 novembre, les personnels de direction de l'académie de Bordeaux se rassemblent contre les violences dans les lycées, à l'appel du SNPDEN-Unsa, après un mois et demi de blocus.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Manifestation des proviseurs contre la violence",
+    "url": "https://www.youtube.com/watch?v=8l8YBqhIJtc",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Nouvelle-Aquitaine",
+    "title": "Lycéens en colère : un mois et demi de blocus, et maintenant ?",
+    "url": "https://www.youtube.com/watch?v=WCFy_Bq8i70",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Lille",
+  "dept": "59",
+  "type": "rassemblement",
+  "title": "« Pouvoir travailler en sécurité » : mobilisation inédite des proviseurs lillois",
+  "summary": "Le 13 novembre, les proviseurs de Lille se rassemblent, une première, pour demander de « pouvoir travailler en sécurité » après deux mois de mobilisation lycéenne.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "« Ce qu’on veut, c’est pouvoir travailler en sécurité » : une mobilisation inédite des proviseurs",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/ce-qu-on-veut-c-est-pouvoir-travailler-en-securite-une-mobilisation-inedite-des-proviseurs",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Strasbourg",
+  "dept": "67",
+  "type": "blocage",
+  "title": "Tirs de mortiers dans l'enceinte d'un lycée strasbourgeois, une quarantaine de proviseurs rassemblés",
+  "summary": "Le 13 novembre, France 3 Alsace diffuse des images de tirs de mortiers d'artifice dans l'enceinte d'un lycée de Strasbourg, tandis qu'une quarantaine de proviseurs se rassemblent contre les violences.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Des tirs de mortiers dans l'enceinte d'un lycée à Strasbourg",
+    "url": "https://www.youtube.com/watch?v=f0BEDGUKN60",
+    "date": "2026-11-13"
+   }
+  ]
+ }
+]

@@ -1,0 +1,3371 @@
+[
+ {
+  "date": "2026-11-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "autre",
+  "title": "Lundi 9 novembre – conférence sociale à Matignon, hausse du Smic, 31 lycées bloqués et télégramme de Nuñez aux préfets",
+  "summary": "Conférence sociale réunie par Sébastien Lecornu avec les huit organisations syndicales et le patronat : le ministre du Travail Jean-Pierre Farandou annonce une hausse du Smic de 1,6 % au 1er décembre (environ 1 502 € net, soit 24 € de plus), jugée dérisoire par la CGT qui appelle, avec l'intersyndicale de la fonction publique (point d'indice gelé pour la quatrième année), à une journée de grève et de manifestation le mardi 17 novembre. Le ministère de l'Éducation nationale compte « 31 lycées bloqués » à 9 h 30 (0,8 % des quelque 3 700 lycées, aucune perturbation dans près des trois quarts des départements) ; Édouard Geffray évoque sur France 2 « plus de 200 » personnels blessés depuis le début du mouvement et « une cinquantaine d'élèves » blessés par leurs camarades durant la semaine de rentrée (tirs de mortiers), menace les bloqueurs de sanctions disciplinaires et propose des cours de rattrapage pendant les vacances ; en Seine-Saint-Denis, de nombreux lycées (Aubervilliers, Pantin, Drancy, Bobigny, Saint-Denis, Aulnay, Montreuil, La Courneuve, Épinay, Stains) passent en distanciel selon SUD éducation 93. Laurent Nuñez demande par télégramme aux préfets de « ne pas baisser la garde » avant la journée du 10 (contrôles de flux en amont des rassemblements, pré-positionnement des unités mobiles, intervention systématique contre les atteintes aux personnes et aux biens) ; journée marquée par des tirs de mortiers et des incendies devant ou dans les lycées (Bègles, Firminy, Lyon, Strasbourg, Montélimar, agglomérations de Rouen et du Havre, Le Blanc-Mesnil, Nangis) et par l'évacuation de l'université Rennes 2 ; le soir, les organisations lycéennes, étudiantes et enseignantes quittent le premier comité de réforme de Parcoursup et confirment la grève du 10.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "lycées bloqués : 31 à 9 h 30 (Éducation nationale)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFM TV",
+    "title": "Colère lycéenne : 31 lycées bloqués ce lundi matin selon le ministère de l'Éducation nationale",
+    "url": "https://www.bfmtv.com/societe/manifestations/colere-lyceenne-31-lycees-bloques-ce-lundi-matin-selon-le-ministere-de-l-education-nationale_AN-202611090382.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Conférence sociale : le Premier ministre réunit lundi matin les syndicats, le Smic relevé de 1,6 % au 1er décembre",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France : une conférence sociale à Matignon pour écouter la colère des syndicats et lycéens",
+    "url": "https://www.france24.com/fr/france/20261109-france-une-conf%C3%A9rence-sociale-%C3%A0-matignon-pour-%C3%A9couter-la-col%C3%A8re-des-syndicats-et-lyc%C3%A9ens",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades durant la semaine de la rentrée, selon le ministre de l'Éducation nationale",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Le Parisien",
+    "title": "Manifestation lycéenne et étudiante : Laurent Nuñez demande aux préfets de « ne pas baisser la garde »",
+    "url": "https://www.leparisien.fr/societe/manifestation-lyceenne-et-etudiante-laurent-nunez-demande-aux-prefets-de-ne-pas-baisser-la-garde-10-11-2026-XW7LHTH2CJCFJFDMASDECZEZNA.php",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "La CGT appelle à une nouvelle grande journée de grève et de manifestation le 17 novembre",
+    "url": "https://www.europe1.fr/societe/la-cgt-appelle-a-une-nouvelle-grande-journee-de-greve-et-de-manifestation-le-17-novembre-1220027",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "CGT",
+    "title": "Le 17 novembre, dans le public et le privé : généralisons la grève !",
+    "url": "https://www.cgt.fr/comm-de-presse/le-17-novembre-dans-le-public-et-le-prive-generalisons-la-greve",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "ICI (AFP)",
+    "title": "Parcoursup : plusieurs représentants de l'intersyndicale quittent la réunion du comité de réforme à Matignon",
+    "url": "https://www.ici.fr/infos/education/parcoursup-plusieurs-representants-de-l-intersyndicale-quittent-la-reunion-du-comite-de-reforme-a-matignon-8408935",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "SUD éducation 93",
+    "title": "Contrer la stratégie du pourrissement par la grève",
+    "url": "https://www.sudeducation93.org/contrer-la-strategie-du-pourrissement-par-la-greve/",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Hôtel de Matignon",
+  "type": "autre",
+  "title": "Matignon : conférence sociale, organisations lycéennes et étudiantes reçues puis départ de l'intersyndicale du comité Parcoursup",
+  "summary": "Sébastien Lecornu reçoit syndicats et patronat à 9 h 30 (hausse du Smic annoncée), puis les représentants des lycéens et des étudiants de 15 h 30 à 17 h et le premier comité de réforme de Parcoursup de 17 h à 19 h : vers 21 h, l'Unef, l'Union étudiante, la Fage, l'USL, le Snes-FSU et l'Unsa Éducation quittent la réunion « de manière intersyndicale » en dénonçant la présence de l'UNI, d'un député RN et d'une sénatrice UDR et l'absence de réponse (« toujours rien de satisfaisant ») ; seules pistes évoquées selon eux : des semestres à la place des trimestres et 5 000 places supplémentaires en licence. Le matin, selon des images diffusées en ligne par CLPRESS, des gendarmes ont dispersé au gaz lacrymogène un groupe de lycéens devant un lycée parisien.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "France : une conférence sociale à Matignon pour écouter la colère des syndicats et lycéens",
+    "url": "https://www.france24.com/fr/france/20261109-france-une-conf%C3%A9rence-sociale-%C3%A0-matignon-pour-%C3%A9couter-la-col%C3%A8re-des-syndicats-et-lyc%C3%A9ens",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "ICI (AFP)",
+    "title": "Parcoursup : plusieurs représentants de l'intersyndicale quittent la réunion du comité de réforme à Matignon",
+    "url": "https://www.ici.fr/infos/education/parcoursup-plusieurs-representants-de-l-intersyndicale-quittent-la-reunion-du-comite-de-reforme-a-matignon-8408935",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Conférence sociale : le Premier ministre réunit lundi matin les syndicats, le Smic relevé de 1,6 % au 1er décembre",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "YouTube (CLPRESS)",
+    "title": "Une manifestation lycéenne dispersée au gaz lacrymogène ce lundi 9 novembre à Paris",
+    "url": "https://www.youtube.com/watch?v=wu3tRcsRfdI",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Bègles",
+  "dept": "33",
+  "place": "lycée professionnel Émile-Combes",
+  "type": "blocage",
+  "title": "Proviseur du lycée Émile-Combes de Bègles blessé à la tête, portails incendiés, quatre interpellations",
+  "summary": "Vers 7 h 30, « une vingtaine de personnes cagoulées » arrivées par le tramway incendient les deux portails et jettent des projectiles sur l'établissement puis sur les policiers ; le proviseur, touché à la tête, est hospitalisé (points de suture, quatre jours d'ITT) ; quatre personnes de 15 à 18 ans, dont trois mineurs, sont interpellées et deux enquêtes ouvertes (violences avec arme sur personnel d'établissement scolaire et sur policiers) ; deux policiers légèrement blessés selon Ma vigilance. La préfète et le recteur dénoncent une « agression inacceptable », le rectorat porte plainte et le procureur de Bordeaux rappelle 18 gardes à vue la semaine précédente aux abords d'établissements scolaires.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une vingtaine d'assaillants cagoulés",
+  "arrests": 4,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Quatre personnes interpellées après qu'un proviseur de lycée près de Bordeaux a été touché à la tête par un projectile",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Firminy",
+  "dept": "42",
+  "place": "lycée Albert-Camus",
+  "type": "blocage",
+  "title": "Blocus du lycée Albert-Camus à Firminy : voiture incendiée, façade brûlée, cours suspendus jusqu'au 12 novembre",
+  "summary": "Une centaine de personnes rassemblées devant le lycée ; projectiles contre l'établissement puis, en fin de matinée, un véhicule incendié devant Albert-Camus (celui d'un ancien proviseur selon une information non confirmée) et une partie de la façade brûlée ; la direction suspend les cours en présentiel jusqu'au jeudi 12 novembre (distanciel). Le préfet François-Xavier Bieuville, attendu sur place le soir avec l'inspecteur d'académie, demande de « retrouver le calme » ; un élève du lycée est interpellé le matin, identifié comme l'auteur du jet de cocktail Molotov du 3 novembre.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une centaine de personnes",
+  "arrests": 1,
+  "sources": [
+   {
+    "outlet": "42info",
+    "title": "Firminy : une voiture incendiée et un départ de feu au lycée Albert-Camus, les cours suspendus jusqu'à jeudi",
+    "url": "https://42info.fr/firminy-une-voiture-incendiee-et-un-depart-de-feu-au-lycee-albert-camus-les-cours-suspendus-jusqua-jeudi/",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Activ Radio",
+    "title": "Grogne lycéenne : des incidents à Saint-Étienne et Firminy ce lundi",
+    "url": "https://www.activradio.com/grogne-lyceenne-des-incidents-a-saint-etienne-et-firminy-ce-lundi",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "ICI Saint-Étienne Loire",
+    "title": "« Il faut retrouver le calme », demande le préfet de la Loire après l'incendie d'une voiture devant un lycée à Firminy",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-saint-etienne-loire/il-faut-retrouver-le-calme-demande-le-prefet-de-la-loire-apres-l-incendie-d-une-voiture-devant-un-lycee-a-firminy-7142699",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Radio Scoop",
+    "title": "Firminy : cocktail molotov lancé au lycée Albert Camus, un élève interpellé",
+    "url": "https://www.radioscoop.com/infos/firminy-cocktail-molotov-lance-au-lycee-albert-camus-un-eleve-interpelle_367448",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Le blocus vire à l'incendie d'une voiture à proximité du lycée Albert-Camus",
+    "url": "https://www.leprogres.fr/education/2026/11/09/le-blocus-vire-a-l-incendie-d-une-voiture-a-proximite-du-lycee-albert-camus",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Saint-Étienne",
+  "dept": "42",
+  "place": "lycée Étienne-Mimard",
+  "type": "autre",
+  "title": "Fumigènes allumés à l'intérieur du lycée Étienne-Mimard et extincteurs vidés, site évacué",
+  "summary": "Des individus allument des fumigènes à l'intérieur du lycée Étienne-Mimard et vident des extincteurs ; l'établissement est évacué. Avec Firminy, c'est le deuxième lycée de la Loire touché par des incidents ce lundi ; quatre lycées stéphanois seront fermés le lendemain.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Activ Radio",
+    "title": "Grogne lycéenne : des incidents à Saint-Étienne et Firminy ce lundi",
+    "url": "https://www.activradio.com/grogne-lyceenne-des-incidents-a-saint-etienne-et-firminy-ce-lundi",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Tonic Radio",
+    "title": "Loire : deux lycées touchés par des incidents à Saint-Étienne et Firminy",
+    "url": "https://www.tonicradio.fr/loire-deux-lycees-touches-par-des-incidents-a-saint-etienne-et-firminy/",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "42info",
+    "title": "Saint-Étienne : jusqu'à 1 200 manifestants dans les rues",
+    "url": "https://42info.fr/saint-etienne-jusqua-1-200-manifestants-dans-les-rues/",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "lycées Branly, Charles-de-Foucauld, Saint-Joseph, Sermenaz, François-Cevert, Doisneau ; 14 lycées en distanciel",
+  "type": "blocage",
+  "title": "Quatorze lycées en distanciel, tirs de mortiers devant six établissements et huit interpellations à Lyon",
+  "summary": "La préfecture ne signale aucun blocage le matin mais quatorze lycées fonctionnent en distanciel (Parc-Chabrières, La Martinière Diderot, Lacassagne, Herriot, Colbert, Lumière, La Martinière Monplaisir, Jean-Perrin, La Martinière Duchère, Condorcet, Marie-Curie, Faÿs, Sembat-Seguin, Louis-Armand) ; des tirs de mortiers d'artifice devant les lycées Branly, Charles-de-Foucauld, Saint-Joseph, Sermenaz, François-Cevert et Doisneau entraînent huit interpellations ; à 11 h la préfecture compte onze établissements touchés par des tensions sporadiques et six victimes (un policier, cinq élèves). L'université Lyon 2 ferme ses deux sites ; le SNPDEN-UNSA rassemble les personnels de direction à 12 h 30 devant un lycée du 6e contre les violences (« ça suffit »).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 8,
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Lyon : aucun blocage de lycées ce lundi, mais 14 établissements en distanciel",
+    "url": "https://www.lyonmag.com/article/154814/lyon-aucun-blocage-de-lycees-ce-lundi-mais-14-etablissements-en-distanciel",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Mobilisation lycéenne : situation calme ce lundi matin, de nombreux établissements en distanciel",
+    "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/09/mobilisation-lyceenne-situation-calme-ce-lundi-matin-de-nombreux-etablissements-en-distanciel",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "« Ça suffit » : les personnels de direction des lycées appellent à se rassembler contre les violences à Lyon",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/ca-suffit-les-personnels-de-direction-des-lycees-appellent-a-se-rassembler-contre-les-violences-a-lyon-3446397.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Le Blanc-Mesnil",
+  "dept": "93",
+  "place": "abords d'un lycée",
+  "type": "émeute",
+  "title": "Plus de 200 personnes attaquent la police aux mortiers au Blanc-Mesnil, un enseignant et un écolier de 8 ans blessés",
+  "summary": "Plus de 200 personnes prennent à partie les policiers avec des projectiles et des mortiers d'artifice pendant plusieurs minutes aux abords d'un lycée ; deux classes de CE2 qui se rendaient au gymnase sont prises dans les tirs, un enseignant et un enfant de 8 ans sont légèrement blessés (TF1).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "plus de 200 personnes (TF1)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "TF1 Info",
+    "title": "Mobilisation étudiante et lycéenne en Seine-Saint-Denis : des écoliers mis en danger par des tirs de mortiers",
+    "url": "https://www.tf1info.fr/justice-faits-divers/mobilisation-etudiante-et-lyceenne-en-seine-saint-denis-des-ecoliers-mis-en-danger-par-des-tirs-de-mortiers-2475004.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "six lycées",
+  "type": "blocage",
+  "title": "Blocages devant six lycées de Strasbourg : mortiers, poubelles incendiées, cinq interpellations et un blessé",
+  "summary": "Blocages devant six lycées avec tirs de mortiers d'artifice et poubelles incendiées ; cinq interpellations, dont trois pour « outrage », un blessé et des dégradations selon les DNA ; les autres blocages se déroulent sans incident.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 5,
+  "sources": [
+   {
+    "outlet": "DNA",
+    "title": "Lycées bloqués à Strasbourg : cinq interpellations, un blessé et des dégradations",
+    "url": "https://www.dna.fr/education/2026/11/09/lycees-bloques-a-strasbourg-cinq-interpellations-un-blesse-et-des-degradations",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Montélimar",
+  "dept": "26",
+  "place": "lycée des Catalins",
+  "type": "blocage",
+  "title": "Tirs de mortiers au lycée des Catalins de Montélimar, 200 personnes dispersées au gaz lacrymogène, un mineur interpellé",
+  "summary": "Environ 200 personnes rassemblées devant le lycée des Catalins pour une nouvelle action sur les conditions d'enseignement ; vers 8 h, des mortiers d'artifice sont tirés en direction du lycée et un grillage est plié ; les policiers ripostent au gaz lacrymogène et dispersent le rassemblement ; un mineur soupçonné d'avoir utilisé des mortiers est interpellé en fin d'après-midi.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 200 personnes (ICI)",
+  "arrests": 1,
+  "sources": [
+   {
+    "outlet": "ICI Drôme-Ardèche",
+    "title": "Mobilisation lycéenne : une interpellation après des tirs de mortiers au lycée des Catalins à Montélimar",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/montelimar/mobilisation-lyceenne-une-interpellation-apres-des-tirs-de-mortiers-au-lycee-des-catalins-a-montelimar-6217590",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Rennes",
+  "dept": "35",
+  "place": "université Rennes 2, campus Villejean ; TNB",
+  "type": "occupation",
+  "title": "Évacuation par la police des bâtiments occupés de Rennes 2 à la demande de la présidence, campus fermés le 10",
+  "summary": "Trois bâtiments de Rennes 2 occupés sans vote d'AG et des personnes sur les toits : la présidence rompt le dialogue et demande l'évacuation ; dans la soirée la police intervient alors que 300 jeunes sont encore sur le campus, une grande porte vitrée est brisée pour entrer dans un bâtiment et un journaliste de l'AFP est menacé ; les campus restent fermés le mardi 10. Une assemblée générale interprofessionnelle lycéens-étudiants-salariés se tient à 18 h 30 au Théâtre national de Bretagne.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 300 jeunes sur le campus vers 21 h (AFP)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne (AFP)",
+    "title": "La police intervient à Rennes 2 pour lever le blocage de l'université",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/la-police-intervient-a-rennes-2-pour-lever-le-blocage-de-l-universite-3447123.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Grèves et manifestations, Éducation nationale, Gilets jaunes : à quoi faut-il s'attendre cette semaine en Bretagne ?",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/greves-et-manifestations-education-nationale-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine-en-bretagne-3446535.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Rouen",
+  "dept": "76",
+  "place": "lycées Blaise-Pascal (Rouen), Val-de-Seine (Grand-Quevilly), Marcel-Sembat et Les Bruyères (Sotteville-lès-Rouen), Vallée-du-Cailly (Déville-lès-Rouen), Le Corbusier (Saint-Étienne-du-Rouvray), Ferdinand-Buisson (Elbeuf)",
+  "type": "blocage",
+  "title": "Tirs de mortiers, feux et évacuations aux abords d'une dizaine de lycées des agglomérations de Rouen et du Havre, cinq interpellations",
+  "summary": "Blocages ponctuels et tirs de mortiers d'artifice devant plusieurs lycées (mortiers à l'intérieur de Blaise-Pascal, élèves confinés puis évacués ; Val-de-Seine évacué en milieu d'après-midi ; feux de buissons et de poubelles au Corbusier ; incendie des sanitaires à Ferdinand-Buisson d'Elbeuf, sans lien établi avec le mouvement ; tirs près d'une école primaire de Sotteville) ; la préfecture annonce cinq interpellations (trois pour transport de mortiers près de la Vallée-du-Cailly, deux près de Marcel-Sembat pour feux de poubelles, tirs, outrages et rébellion). Le préfet interdit le centre-ville de Rouen aux manifestations le 10 (8 h–20 h) et le port d'artifices et d'équipements de protection dans tout le département du 10 au 12.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 5,
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "Cinq personnes interpellées après des tensions aux abords des lycées de l'agglomération rouennaise et havraise",
+    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/cinq-personnes-interpellees-apres-des-tensions-aux-abords-des-lycees-de-l-agglomeration-rouennaise-et-havraise-3446862.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "InfoNormandie",
+    "title": "Lycées sous tension en Seine-Maritime : cinq interpellations et nouvelle manifestation ce mardi à Rouen",
+    "url": "https://www.infonormandie.com/Lycees-sous-tension-en-Seine-Maritime-cinq-interpellations-et-nouvelle-manifestation-ce-mardi-a-Rouen_a44105.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Brest",
+  "dept": "29",
+  "place": "cité scolaire Kerichen-La Pérouse",
+  "type": "rassemblement",
+  "title": "Rassemblement devant la cité scolaire Kerichen-La Pérouse contre la saisie des trombinoscopes (« enlevez les cibles de nos dos »)",
+  "summary": "À l'appel de l'assemblée générale interlycéenne de Brest, élèves, parents et enseignants se rassemblent à midi devant l'internat de la cité scolaire (4 500 élèves) après la réquisition judiciaire, le 4 novembre, des trombinoscopes par des policiers en civil ; la LDH 29, la CGT éducation, la FSU, SUD 29 et le Syndicat des avocats de France dénoncent un « risque de fichage massif » et demandent des comptes au rectorat ; le procureur de Brest précisera le 12 que la réquisition vise l'enquête sur les violences du 17 octobre.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 150 personnes selon la presse",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "« Enlevez les cibles de nos dos » : après la récupération des trombinoscopes d'un lycée brestois par les forces de l'ordre, élèves, parents, syndicats et avocats demandent des comptes",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/finistere/brest/enlevez-les-cibles-de-nos-dos-apres-la-recuperation-des-trombinoscopes-d-un-lycee-brestois-par-les-forces-de-l-ordre-eleves-parents-syndicats-et-avocats-demandent-des-comptes-3446322.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Trombinoscopes saisis dans les lycées : le procureur de Brest apporte des précisions",
+    "url": "https://www.ici.fr/bretagne/finistere-29/brest/trombinoscopes-saisis-dans-les-lycees-le-procureur-de-brest-apporte-des-precisions-8274280",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Avignon",
+  "dept": "84",
+  "place": "université d'Avignon",
+  "type": "blocage",
+  "title": "Blocage de l'université d'Avignon par une cinquantaine d'étudiants, « semaine noire » annoncée",
+  "summary": "Dès 7 h, une cinquantaine d'étudiants bloquent l'entrée de l'université avec une poubelle et un fauteuil (« Nos pancartes sont en carton, nos revendications sont en béton ») ; ils réclament 10 milliards pour l'éducation, la fin de Parcoursup et de Mon Master, la revalorisation des bourses, la rénovation des bâtiments et la fin des jauges du Crous pour les repas à 1 € ; blocage annoncé toute la semaine, sans incident.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine d'étudiants",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Vaucluse",
+    "title": "Mouvement social : l'université d'Avignon bloquée par les étudiants",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/avignon/mouvement-social-l-universite-d-avignon-bloquee-par-les-etudiants-7432906",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Nangis",
+  "dept": "77",
+  "place": "lycée de Nangis",
+  "type": "autre",
+  "title": "Tirs de mortiers et départs de feu à l'intérieur du lycée de Nangis, fermeture jusqu'au mercredi inclus",
+  "summary": "Après des tirs de mortiers d'artifice et des départs de feu à l'intérieur de l'établissement lundi, le rectorat de Créteil ferme temporairement le lycée jusqu'au mercredi 11 inclus, avec cours à distance et réouverture prévue le jeudi 12.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "actu.fr",
+    "title": "Violences en Seine-et-Marne : des tirs de mortiers d'artifice et des départs de feu éclatent à l'intérieur d'un lycée",
+    "url": "https://actu.fr/ile-de-france/nangis_77327/violences-en-seine-et-marne-des-tirs-de-mortiers-dartifice-et-des-departs-de-feu-eclatent-a-linterieur-dun-lycee_65040955.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Pointe-à-Pitre",
+  "dept": "971",
+  "place": "gendarmerie de Morne-Miquel, pont de la Gabarre, zone de Jarry",
+  "type": "blocage",
+  "title": "Nou Las Palé bloque le pont de la Gabarre en soutien à José Gaddarkhan placé en garde à vue pour les barricades de Jarry",
+  "summary": "Une cinquantaine de personnes se rassemblent devant la gendarmerie de Morne-Miquel où José Gaddarkhan, président de la FRBTP, est placé en garde à vue pour entrave, dépôt irrégulier de déchets et mise en danger d'autrui (barricades de gravats amiantés aux accès de Jarry dans la nuit du 13 au 14 octobre, signalées au parquet par le préfet) ; le collectif Nou Las Palé mène ensuite une opération escargot, bloque toutes les voies du pont de la Gabarre puis rejoint la zone de Jarry ; la garde à vue est levée après douze heures d'audition et le collectif dénonce la « judiciarisation » du mouvement.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine de personnes devant la gendarmerie",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Guadeloupe La 1ère",
+    "title": "Opération coup de poing du collectif Nou Las Palé en soutien à José Gaddarkhan, en garde à vue",
+    "url": "https://la1ere.franceinfo.fr/guadeloupe/operation-coup-de-poing-du-collectif-nou-las-pale-en-soutien-a-jose-gaddarkhan-en-garde-a-vue-1756134.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "RCI Guadeloupe",
+    "title": "Blocage de Jarry : José Gaddarkhan convoqué à la gendarmerie",
+    "url": "https://rci.fm/guadeloupe/infos/Social/Blocage-de-Jarry-Jose-Gaddarkhan-convoque-la-gendarmerie",
+    "date": "2026-11-07"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Saint-Louis",
+  "dept": "974",
+  "place": "centrale thermique Albioma du Gol",
+  "type": "grève",
+  "title": "Grève illimitée à la centrale Albioma du Gol : 75 % du personnel en grève, piquet devant le site",
+  "summary": "Grève illimitée de la CGTR depuis le 4 novembre à la centrale thermique du Gol (repos hebdomadaires non restitués, 32 heures réclamées pour la maintenance) : environ 75 % du personnel en grève, piquet devant le site, quatre échecs de négociation et nouvelle réunion ce lundi après-midi ; la distribution d'électricité reste assurée.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 75 % du personnel en grève (CGTR)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Réunion La 1ère",
+    "title": "Centrale thermique Albioma du Gol : les salariés sont en grève, la distribution d'électricité reste assurée",
+    "url": "https://la1ere.franceinfo.fr/reunion/centrale-thermique-albioma-du-gol-les-salaries-sont-en-greve-la-distribution-d-electricite-reste-assuree-1755993.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Lundi 9 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-09",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Dembéni",
+  "dept": "976",
+  "place": "lycée de Tsararano",
+  "type": "grève",
+  "title": "Lycée de Tsararano : droit de retrait maintenu, réunion avec le procureur et les maires avant une reprise partielle",
+  "summary": "Les personnels maintiennent le droit de retrait exercé le 4 novembre après la réunion du 6 avec le rectorat (un poste PEC « sans date », fouilles sans calendrier) et exigent cinq AED supplémentaires ou une société de sécurité privée, des fouilles et la sécurisation des accès ; réunion ce lundi avec les maires de Dembéni et Mamoudzou, le procureur, la gendarmerie, le rectorat et des élèves ; une reprise partielle (terminales et BTS) est acceptée pour le mardi 10.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "« Un poste de PEC, mais sans nous donner de date » : le personnel du lycée de Tsararano maintient son droit de retrait",
+    "url": "https://lejournaldemayotte.yt/articles/un-poste-de-pec-mais-sans-nous-donner-de-date-le-personnel-du-lycee-de-tsararano-maintient-son-droit-de-retrait",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "« Ce qu'on redoute le plus, c'est un mort » : au lycée de Dembéni, une reprise partielle qui n'efface pas les inquiétudes",
+    "url": "https://la1ere.franceinfo.fr/mayotte/ce-qu-on-redoute-le-plus-c-est-un-mort-au-lycee-de-dembeni-une-reprise-partielle-qui-n-efface-pas-les-inquietudes-1756413.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "grève",
+  "title": "Mardi 10 novembre – grève de l'éducation et de la jeunesse : 49 lycées bloqués, une cinquantaine de cortèges calmes, agression d'une élue à Chelles",
+  "summary": "Journée de grève et de manifestations appelée par l'intersyndicale de l'éducation et de la jeunesse (USL, Union étudiante, Unef, Fage, FSE, Solidaires étudiant-e-s ; FSU, FERC-CGT, FO, SUD éducation, Sup'Recherche-UNSA) après l'échec du comité Parcoursup : le ministère compte « 49 lycées bloqués » à 9 h 30 (1,3 %, contre 80 le 5 novembre), 1,6 % d'enseignants grévistes et 25 % des établissements du supérieur perturbés ; une cinquantaine de cortèges (Paris 5 900–6 000 selon la préfecture de police contre 10 000 selon Interfac IDF, Lyon 3 500, Toulouse 3 500 selon la préfecture et 5 000 selon les syndicats, Montpellier 2 000 avec 20 interpellations, Nantes 1 700, Grenoble 1 500, Tours 1 000, Marseille 850, Caen 800, Brest 700, Saint-Étienne 500 à 1 200, Poitiers 380) défilent dans le calme. Les violences se concentrent aux abords des lycées : à Chelles une conseillère régionale est touchée par une bouteille d'essence (enquête pour tentative d'homicide volontaire), incendie du lycée Zola à Aix-en-Provence, mortier dans un couloir à Amiens, deux lycéennes blessées et deux interpellations à Lyon, neuf interpellations à Toulouse ; le porte-parole du gouvernement Mathieu Lefèvre ramène de 300 à « quelque 240 » le nombre de personnels blessés depuis la mi-septembre, Emmanuel Macron écrit que « la violence n'a pas sa place en démocratie » et Édouard Geffray lance un « appel à la responsabilité collective ». Deux plaintes de journalistes pour violences policières le 5 novembre sont déposées à Paris (RSF recense 71 journalistes entravés) ; l'intersyndicale de la jeunesse appelle à manifester le samedi 14, la CGT et la fonction publique le 17 ; Sébastien Lecornu adresse aux présidents d'université une lettre formalisant 5 000 places supplémentaires en licence.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "lycées bloqués : 49 soit 1,3 % (Éducation nationale) ; enseignants grévistes : 1,6 % (ministère) ; établissements du supérieur perturbés : 25 %",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+    "url": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Près de 300 membres de l'Éducation nationale ont été blessés lors du mouvement lycéen, selon le gouvernement",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte... Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Deux plaintes déposées par plusieurs journalistes, notamment pour violences volontaires de la part des forces de l'ordre, en marge des mobilisations parisiennes",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/deux-plaintes-deposees-par-plusieurs-journalistes-notamment-pour-violences-volontaires-de-la-part-des-forces-de-l-ordre-en-marge-des-mobilisations-parisiennes_8276648.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place du Panthéon → place d'Italie",
+  "type": "manifestation",
+  "title": "Cortège de l'éducation et de la jeunesse du Panthéon à la place d'Italie : 5 900 à 6 000 selon la préfecture de police, 10 000 selon Interfac IDF",
+  "summary": "Seule manifestation autorisée par la préfecture de police (départ 14 h du Panthéon par les boulevards Saint-Michel et de Port-Royal et l'avenue des Gobelins), les parcours déclarés par Interfac Île-de-France et la Coordination régionale étudiante entre Bastille et la Pitié-Salpêtrière ayant été interdits au profit d'un rassemblement statique boulevard de l'Hôpital ; cortège calme et bon enfant de lycéens, étudiants et enseignants, avec quelques slogans anti-police, compté à 5 900 par la préfecture de police (6 000 selon franceinfo) contre 10 000 par Interfac IDF, alors qu'une note des renseignements attendait 2 000 à 4 000 personnes ; aucun incident signalé par l'AFP.",
+  "participants_official": 5900,
+  "participants_organizers": 10000,
+  "participants_note": "5 900 (AFP) ou 6 000 (franceinfo) selon la préfecture de police ; 10 000 selon Interfac IDF",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "Grève dans l'éducation et manifestation étudiante ce mardi 10 novembre : les infos",
+    "url": "https://www.sortiraparis.com/actualites/a-paris/articles/357741-greve-dans-l-education-et-manifestation-etudiante-ce-mardi-10-novembre-les-infos",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "place Jean-Macé → place Guichard ; lycée Saint-Exupéry (4e)",
+  "type": "manifestation",
+  "title": "Manifestation de l'éducation à Lyon (3 500 selon la préfecture), cortège sauvage dispersé au gaz à Saxe-Gambetta, deux lycéennes blessées le matin",
+  "summary": "Le matin, la préfecture recense sept établissements concernés par des regroupements (Henri-Barbusse, Jacques-Brel, Doisneau, Charles-Mérieux, Saint-Just, Herriot, Saint-Exupéry) et treize lycées en distanciel ; devant Saint-Exupéry, des individus extérieurs tirent des mortiers sur les policiers qui répliquent au gaz lacrymogène, deux lycéennes sont blessées (dont une à la tête, hospitalisée) et deux personnes interpellées. Le cortège intersyndical autorisé part de Jean-Macé à 11 h 30 et rejoint Guichard sans incident : 3 500 manifestants selon la préfecture du Rhône, 5 000 selon les enseignants (Le Progrès) ; un cortège sauvage d'environ 400 personnes parti vers la Part-Dieu est dispersé au gaz lacrymogène dans le secteur Saxe-Gambetta ; AG à 14 h place Guichard ; tram T2 et bus TCL perturbés.",
+  "participants_official": 3500,
+  "participants_organizers": 5000,
+  "participants_note": "",
+  "arrests": 2,
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "DIRECT. Manifestation à Lyon : enseignants et lycéens appelés à faire grève, un cortège prévu en fin de matinée",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/direct-manifestation-a-lyon-enseignants-et-lyceens-appeles-a-faire-greve-un-cortege-prevu-en-fin-de-matinee-3447126.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Lyon Mag",
+    "title": "Tirs de mortiers, deux interpellations… de nouvelles tensions devant plusieurs lycées lyonnais ce mardi",
+    "url": "https://www.lyonmag.com/article/154837/tirs-de-mortiers-deux-interpellations-de-nouvelles-tensions-devant-plusieurs-lycees-lyonnais-ce-mardi",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "« L'éducation n'est pas une marchandise » : syndicats, enseignants et étudiants crient leur colère dans la rue",
+    "url": "https://www.leprogres.fr/education/2026/11/10/l-education-n-est-pas-une-marchandise-syndicats-enseignants-et-etudiants-crient-leur-colere-dans-la-rue",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Mobilisation du 10 novembre à Lyon : appel à la grève dans l'Éducation nationale et manifestation autorisée",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/mobilisation-du-10-novembre-a-lyon-appel-a-la-greve-dans-l-education-nationale-et-manifestation-autorisee-3447066.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "Réformés → place Castellane",
+  "type": "manifestation",
+  "title": "Cortège de l'éducation des Réformés à Castellane à Marseille : 850 personnes selon la préfecture de police, blocages devant une dizaine de lycées",
+  "summary": "À l'appel d'une quinzaine d'organisations enseignantes, lycéennes et étudiantes, le cortège part à 10 h 30 des Réformés et rejoint Castellane, où lycéens et étudiants appellent à la mobilisation massive du samedi 14 ; la préfecture de police compte 850 personnes (contre 5 200 le 7 et 14 000 le 5 novembre) ; blocages devant une dizaine de lycées le matin, assemblée générale étudiante à Saint-Charles, forte présence policière à Castellane sans heurt ; métro et tramway partiellement interrompus.",
+  "participants_official": 850,
+  "participants_organizers": null,
+  "participants_note": "850 (préfecture de police) ; pas de chiffre des organisateurs",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Provence",
+    "title": "Manifestation dans l'éducation : au moins 850 personnes mobilisées à Marseille",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/manifestation-dans-l-education-au-moins-850-personnes-mobilisees-a-marseille-7462091",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestation du 10 novembre à Marseille : « le gouvernement se moque de nous », les enseignants aux côtés des lycéens et étudiants pour faire pression",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/manifestation-du-10-novembre-a-marseille-le-gouvernement-se-moque-de-nous-les-enseignants-aux-cotes-des-lyceens-et-etudiants-pour-faire-pression-3447207.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "place Saint-Cyprien → rectorat ; lycées des Arènes, Déodat-de-Séverac, Raymond-Naves, Rive-Gauche, Urbain-Vitry, Berthelot",
+  "type": "manifestation",
+  "title": "Toulouse : treize lycées bloqués ou filtrés le matin et neuf interpellations, puis 3 500 à 5 000 manifestants de Saint-Cyprien au rectorat",
+  "summary": "Vingt lycées toulousains touchés à 8 h selon France 3, « 13 lycées bloqués ou concernés par des barrages filtrants » à midi selon la préfecture (environ 600 élèves) ; tirs de mortiers et fumigènes sur les forces de l'ordre, feux de poubelles, pétards tombés dans la cour de Rive-Gauche ; Rive-Gauche et Urbain-Vitry fermés l'après-midi ; neuf interpellations dans la matinée ; la faculté Jean-Jaurès reste bloquée. L'après-midi, le cortège intersyndical autorisé (parcours contournant l'hypercentre, allées Charles-de-Fitte, avenue de Muret, pont du Stadium, boulevard des Récollets) rallie le rectorat vers 16 h sans heurt : 3 500 personnes selon la préfecture, 5 000 selon les syndicats, « quelque 4 000 » selon France 3 ; l'USL 31 dénonce « la répression policière et administrative » et réclame l'amnistie.",
+  "participants_official": 3500,
+  "participants_organizers": 5000,
+  "participants_note": "lycées bloqués ou filtrés : 13 à midi (préfecture)",
+  "arrests": 9,
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "DIRECT. Journée de mobilisation du 10 novembre à Toulouse, le blocus des lycées se poursuit, une nouvelle manifestation dans la ville rose",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/direct-journee-de-mobilisation-du-10-novembre-a-toulouse-le-blocus-des-lycees-se-poursuit-une-nouvelle-manifestation-prevue-dans-l-apres-midi-3447147.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Occitanie",
+    "title": "Manifestation du 10 novembre : plusieurs centaines de participants dans le cortège à Toulouse",
+    "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/manifestation-du-10-novembre-plusieurs-centaines-de-participants-dans-le-cortege-a-toulouse-1709886",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Manifestation du 10 novembre à Toulouse : « On veut avoir notre bac », des milliers de jeunes dans la rue mais l'inquiétude monte pour les examens",
+    "url": "https://www.ladepeche.fr/2026/11/10/manifestation-du-10-novembre-a-toulouse-on-veut-avoir-notre-bac-des-milliers-de-jeunes-dans-la-rue-mais-linquietude-monte-pour-les-examens-13645728.php",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "centre-ville, hors Écusson",
+  "type": "manifestation",
+  "title": "Manifestation déclarée de 2 000 personnes à Montpellier tenue à l'écart de l'Écusson, 20 interpellations",
+  "summary": "À l'appel de l'intersyndicale de l'éducation, du supérieur et des organisations de jeunesse, environ 2 000 personnes manifestent, toujours tenues à l'écart de l'Écusson par un dispositif policier important ; la préfecture de l'Hérault fait état de 20 interpellations.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 2 000 personnes (Le Poing, Actu Montpellier)",
+  "arrests": 20,
+  "sources": [
+   {
+    "outlet": "Actu Montpellier",
+    "title": "Nouvelle manifestation déclarée dans les rues de Montpellier : 2 000 personnes, 20 interpellations",
+    "url": "https://actu.fr/occitanie/montpellier_34172/metropolitain-nouvelle-manifestation-declaree-dans-les-rues-de-montpellier-2-000-personnes-20-interpellations_65042618.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Le Poing (via Infolibertaire)",
+    "title": "Éducation : 2 000 manifestants à Montpellier, toujours tenus à l'écart de l'Écusson",
+    "url": "https://www.infolibertaire.net/education-2-000-manifestants-a-montpellier-toujours-tenus-a-lecart-de-lecusson",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Nantes",
+  "dept": "44",
+  "place": "Miroir d'eau → hypercentre",
+  "type": "manifestation",
+  "title": "Un peu moins de 2 000 enseignants, lycéens et étudiants défilent dans le calme à Nantes",
+  "summary": "Rendez-vous à 14 h au Miroir d'eau à l'appel de la FSU et des autres syndicats enseignants, lycéens et étudiants : 1 700 manifestants selon la préfecture, 1 500 à 2 000 selon ICI Loire Océan, cortège très jeune et calme malgré l'interdiction des rassemblements non déclarés dans l'hypercentre (10 h–22 h) et des contrôles d'identité ; plusieurs lycées de l'agglomération suspendent les cours sur site, actions matinales de soutien aux lycéens à Saint-Nazaire ; lignes 1 et 4 de tramway coupées au passage du cortège.",
+  "participants_official": 1700,
+  "participants_organizers": null,
+  "participants_note": "1 700 (préfecture, Ouest-France) ; 1 500 à 2 000 (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestation du 10 novembre : un peu moins de 2 000 enseignants, lycéens et étudiants dans les rues de Nantes",
+    "url": "https://www.ouest-france.fr/societe/manifestation/manifestation-du-10-novembre-un-peu-moins-de-2-000-enseignants-lyceens-et-etudiants-dans-les-rues-de-nantes-e53c52da-dd21-11f1-a62b-776e3051b0df",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Loire Océan",
+    "title": "Éducation nationale : entre 1 500 et 2 000 manifestants à Nantes pour la mobilisation du 10 novembre",
+    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/education-nationale-entre-1500-et-2000-manifestants-a-nantes-pour-la-mobilisation-du-10-novembre-5688276",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Infos Média Nantes",
+    "title": "À Nantes, 1 500 à 2 000 manifestants le 10 novembre : une mobilisation en recul, mais des appels à poursuivre",
+    "url": "https://infos-media-nantes.fr/nantes-manifestation-10-novembre-2026-1500-2000-education-smic/",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Rennes",
+  "dept": "35",
+  "place": "place de la Gare → centre-ville",
+  "type": "manifestation",
+  "title": "Cortège « très jeune » de deux heures à Rennes, campus de Rennes 2 fermés",
+  "summary": "Rassemblement intersyndical à 13 h place de la Gare puis déambulation de deux heures d'un cortège « très jeune » dans le calme (AFP) ; les campus de Rennes 2 restent fermés après l'évacuation policière de la veille ; une manifestation distincte est appelée par Solidaires et SUD éducation.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI",
+    "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+    "url": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Mobilisation du monde de l'éducation : entre 6 000 et 10 000 personnes ont défilé mardi à Paris",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-monde-de-l-education-entre-6-000-et-10-000-personnes-ont-defile-mardi-a-paris_8276912.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Grèves et manifestations, Éducation nationale, Gilets jaunes : à quoi faut-il s'attendre cette semaine en Bretagne ?",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/greves-et-manifestations-education-nationale-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine-en-bretagne-3446535.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "France 3 Bretagne (AFP)",
+    "title": "La police intervient à Rennes 2 pour lever le blocage de l'université",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/la-police-intervient-a-rennes-2-pour-lever-le-blocage-de-l-universite-3447123.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Grenoble",
+  "dept": "38",
+  "place": "campus de Saint-Martin-d'Hères et place Félix-Poulat → rectorat → préfecture (place de Verdun)",
+  "type": "manifestation",
+  "title": "Environ 1 500 lycéens, étudiants et enseignants défilent jusqu'au rectorat puis à la préfecture de l'Isère",
+  "summary": "Deux cortèges (étudiants et lycéens partis du campus de Saint-Martin-d'Hères et des lycées, intersyndicale de l'éducation partie de Félix-Poulat à 14 h) fusionnent vers Chavant puis passent devant le rectorat pour finir place de Verdun devant la préfecture ; environ 1 500 personnes selon ICI Isère, plus clairsemé que les 5 et 7 novembre ; sans incident ; appels à la grève les 12 et 13, marche « anti-répression » annoncée le 12, manifestations contre la vie chère les 14 et 21 ; trams et bus perturbés dès 13 h.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 1 500 personnes (estimation ICI Isère)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Isère",
+    "title": "Lycéens, étudiants et syndicats de l'éducation manifestent à nouveau à Grenoble et multiplient les appels à mobilisation",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/lyceens-etudiants-et-syndicat-de-l-education-manifestent-a-nouveau-a-grenoble-et-multiplient-les-appels-a-mobilisation-6578605",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Place Gre'net",
+    "title": "Deux nouvelles manifestations prévues mardi 10 novembre à Grenoble à l'appel des syndicats enseignants et étudiants",
+    "url": "https://www.placegrenet.fr/2026/11/09/deux-nouvelles-manifestations-prevues-mardi-10-novembre-a-grenoble-a-lappel-des-syndicats-enseignants-et-etudiants-trams-et-bus-seront-perturbes/693674",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Tours",
+  "dept": "37",
+  "place": "place de la Liberté → place Anatole-France ; lycée Balzac",
+  "type": "manifestation",
+  "title": "Un millier de professeurs, étudiants et lycéens défilent à Tours ; droit de retrait au lycée Balzac",
+  "summary": "Départ peu après 10 h de la place de la Liberté vers Anatole-France : environ 1 000 personnes selon la police, une centaine de plus selon les syndicats, jeunes en tête, cortège calme avec slogans antifascistes et anti-police (16 200 à 22 000 le 5 novembre) ; la majorité des sites de l'université restent bloqués. Au lycée Balzac, une trentaine de professeurs exercent leur droit de retrait après des menaces en ligne contre la proviseure, la découverte le 6 novembre de matériel de fabrication de cocktails Molotov en face du lycée et un feu de poubelle le 9 ; l'académie vise un retour à la normale jeudi.",
+  "participants_official": 1000,
+  "participants_organizers": 1100,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Touraine",
+    "title": "Mobilisation du 10 novembre : environ 1 000 professeurs, étudiants et lycéens défilent à Tours",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/mobilisation-du-10-novembre-environ-1-000-professeurs-etudiants-et-lyceens-defilent-a-tours-4728092",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Touraine",
+    "title": "Cocktails Molotov, menaces : à Tours, des professeurs du lycée Balzac exercent leur droit de retrait",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/info-ici-touraine-cocktails-molotov-menaces-a-tours-des-professeurs-du-lycee-balzac-exercent-leur-droit-de-retrait-8307956",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+    "url": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Saint-Étienne",
+  "dept": "42",
+  "place": "Bourse du travail → Centre-Deux → DSDEN",
+  "type": "manifestation",
+  "title": "Entre 500 (préfecture) et 1 200 (syndicats) manifestants à Saint-Étienne, six lycées de la Loire fermés",
+  "summary": "Rendez-vous à 10 h 30 devant la Bourse du travail puis cortège de lycéens, d'étudiants et de personnels pendant une heure et demie jusqu'à la DSDEN : 500 manifestants selon la préfecture de la Loire, 1 200 selon les organisations syndicales ; sans incident. Six lycées de la Loire sont fermés ce mardi (Honoré-d'Urfé, Étienne-Mimard, Claude-Fauriel et Monnet-Fourneyron à Saint-Étienne, Claude-Lebois à Saint-Chamond, Albert-Camus à Firminy).",
+  "participants_official": 500,
+  "participants_organizers": 1200,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "42info",
+    "title": "Saint-Étienne : jusqu'à 1 200 manifestants dans les rues",
+    "url": "https://42info.fr/saint-etienne-jusqua-1-200-manifestants-dans-les-rues/",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Saint-Étienne Loire",
+    "title": "Entre 500 et 1 000 personnes manifestent à Saint-Étienne pour les écoles, les collèges et les lycées",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/loire-42/saint-etienne/entre-500-et-1-000-personnes-manifestent-a-saint-etienne-pour-les-ecoles-les-colleges-et-les-lycees-2942731",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI",
+    "title": "Éducation : grève, manifestations, blocages, une nouvelle journée de mobilisation marquée par l'agression d'une élue",
+    "url": "https://www.ici.fr/infos/education/education-nationale-greve-manifestations-une-nouvelle-journee-de-mobilisation-ce-mardi-3080914",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Caen",
+  "dept": "14",
+  "place": "campus 1 (Phénix de l'université) → centre-ville",
+  "type": "manifestation",
+  "title": "Environ 800 enseignants et étudiants défilent à Caen à l'appel de l'intersyndicale de l'éducation",
+  "summary": "Rassemblement à 14 h devant le Phénix de l'université puis départ vers 14 h 30 du campus 1 : environ 800 personnes selon la première estimation d'Ouest-France, avec des étudiants dans le cortège.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 800 personnes (Ouest-France)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "VIDÉO. Manifestation du 10 novembre : à Caen, les enseignants dans la rue à l'appel de l'intersyndicale de l'Éducation",
+    "url": "https://www.ouest-france.fr/education/video-manifestation-du-10-novembre-a-caen-les-enseignants-dans-la-rue-a-lappel-de-lintersyndicale-de-leducation-bc91ac85-4642-4946-b6f8-392b52dcb4e3",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "C'est la grève",
+    "title": "Grève dans l'Éducation nationale le 10 novembre 2026",
+    "url": "https://www.cestlagreve.fr/greve/education-nationale-novembre-2026/",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Brest",
+  "dept": "29",
+  "place": "place de la Liberté",
+  "type": "manifestation",
+  "title": "Faible mobilisation de l'éducation à Brest : environ 700 personnes place de la Liberté",
+  "summary": "Départ à 11 h de la place de la Liberté : environ 700 étudiants, lycéens et enseignants selon ICI (400 sur le parvis de l'hôtel de ville selon la légende photo), dénonçant « le mépris pour la fonction publique » et la saisie des trombinoscopes dans les lycées brestois ; sans incident.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 700 (ICI Breizh Izel) ; 400 selon la légende photo",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Grève dans l'Éducation nationale : faible mobilisation à Brest et Quimper ce mardi 10 novembre",
+    "url": "https://www.ici.fr/bretagne/finistere-29/greve-dans-l-education-nationale-faible-mobilisation-a-brest-et-quimper-ce-mardi-10-novembre-6026754",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Grèves et manifestations, Éducation nationale, Gilets jaunes : à quoi faut-il s'attendre cette semaine en Bretagne ?",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/greves-et-manifestations-education-nationale-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine-en-bretagne-3446535.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Quimper",
+  "dept": "29",
+  "place": "place de la Résistance ; lycée de Cornouaille",
+  "type": "rassemblement",
+  "title": "Moins d'une centaine de personnes place de la Résistance à Quimper, tentative de blocage du lycée de Cornouaille",
+  "summary": "Rassemblement à 11 h place de la Résistance sous la pluie : moins d'une centaine d'étudiants, lycéens et enseignants ; le matin, une cinquantaine d'élèves tentent de bloquer le lycée de Cornouaille (600 au début du mouvement).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "moins d'une centaine (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Grève dans l'Éducation nationale : faible mobilisation à Brest et Quimper ce mardi 10 novembre",
+    "url": "https://www.ici.fr/bretagne/finistere-29/greve-dans-l-education-nationale-faible-mobilisation-a-brest-et-quimper-ce-mardi-10-novembre-6026754",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Grèves et manifestations, Éducation nationale, Gilets jaunes : à quoi faut-il s'attendre cette semaine en Bretagne ?",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/greves-et-manifestations-education-nationale-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine-en-bretagne-3446535.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Morlaix",
+  "dept": "29",
+  "place": "place des Otages",
+  "type": "rassemblement",
+  "title": "Rassemblement de l'éducation à 18 h 30 place des Otages à Morlaix",
+  "summary": "Les manifestants morlaisiens sont invités à rejoindre le cortège brestois le matin puis à se rassembler à 18 h 30 place des Otages ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Grève dans l'Éducation nationale : faible mobilisation à Brest et Quimper ce mardi 10 novembre",
+    "url": "https://www.ici.fr/bretagne/finistere-29/greve-dans-l-education-nationale-faible-mobilisation-a-brest-et-quimper-ce-mardi-10-novembre-6026754",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Grèves et manifestations, Éducation nationale, Gilets jaunes : à quoi faut-il s'attendre cette semaine en Bretagne ?",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/greves-et-manifestations-education-nationale-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine-en-bretagne-3446535.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Rouen",
+  "dept": "76",
+  "place": "place Joffre (rive gauche) → boulevards ; rectorat",
+  "type": "manifestation",
+  "title": "Manifestation déclarée de l'éducation à Rouen hors du centre-ville interdit, rassemblement devant le rectorat",
+  "summary": "Cortège intersyndical déclaré au départ de la place Joffre à 14 h, bouclant par les boulevards des Belges, de la Marne et de l'Yser, le centre-ville (hypercentre, quartier de la préfecture, Saint-Sever, Docks 76) étant interdit de 8 h à 20 h par arrêté préfectoral ; rassemblement statique à 17 h 30 devant le rectorat ; aucun chiffre ni incident publié ; aucune manifestation déclarée dans l'Eure.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Normandie (Rouen)",
+    "title": "Journée de grève à l'appel des syndicats étudiants et enseignants : une manifestation déclarée à Rouen",
+    "url": "https://www.ici.fr/normandie/seine-maritime-76/rouen/journee-de-greve-a-l-appel-des-syndicats-etudiants-et-enseignants-une-manifestation-declaree-a-rouen-4976835",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "InfoNormandie",
+    "title": "Lycées sous tension en Seine-Maritime : cinq interpellations et nouvelle manifestation ce mardi à Rouen",
+    "url": "https://www.infonormandie.com/Lycees-sous-tension-en-Seine-Maritime-cinq-interpellations-et-nouvelle-manifestation-ce-mardi-a-Rouen_a44105.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Poitiers",
+  "dept": "86",
+  "place": "RU Rabelais → centre-ville → préfecture → Hôtel Fumé ; lycées Victor-Hugo et du Bois-d'Amour",
+  "type": "manifestation",
+  "title": "Jusqu'à 380 manifestants à Poitiers selon la préfecture, blocage du lycée Victor-Hugo levé par la police",
+  "summary": "Départ à 14 h du restaurant universitaire Rabelais (250 à 300 personnes) vers le centre, la préfecture et l'Hôtel Fumé où se tient une AG : « environ 380 manifestants » au plus fort selon la préfecture de la Vienne ; blocages matinaux des facultés de sciences et de lettres ; vers 8 h 30 une dizaine de lycéens barrent l'entrée du lycée Victor-Hugo avec des poubelles, blocage levé par la police (la proviseure sera ensuite visée par des appels à la démission), le lycée du Bois-d'Amour est bloqué selon la FSU ; bus Vitalis perturbés.",
+  "participants_official": 380,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Poitou",
+    "title": "Mobilisation du 10 novembre à Poitiers et Niort : des manifestations pour défendre l'Éducation nationale",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/poitiers/mobilisation-du-10-novembre-a-poitiers-et-niort-des-manifestations-pour-defendre-l-education-nationale-1351068",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (ICI Poitou)",
+    "title": "L'académie de Poitiers va déposer deux plaintes pour des intimidations et une tentative d'incendie survenues au lycée Victor-Hugo",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Niort",
+  "dept": "79",
+  "place": "DSDEN, avenue de Limoges",
+  "type": "rassemblement",
+  "title": "Petite trentaine de personnes devant la DSDEN de Niort à l'appel de la FSU 79",
+  "summary": "Rassemblement à 18 h 30 devant les services départementaux de l'Éducation nationale : une petite trentaine de membres de Solidaires, de la FCPE, de la FSU, d'AESH et d'AED réclament hausses de salaires, titularisation des précaires et rénovation thermique des bâtiments ; une manifestation antifasciste est annoncée le 11 à 17 h 30 place de la Brèche.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une petite trentaine (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Poitou",
+    "title": "Mobilisation du 10 novembre à Poitiers et Niort : des manifestations pour défendre l'Éducation nationale",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/poitiers/mobilisation-du-10-novembre-a-poitiers-et-niort-des-manifestations-pour-defendre-l-education-nationale-1351068",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "La Nouvelle République",
+    "title": "Nouvelle journée d'action mardi 10 novembre dans l'Éducation nationale : une manifestation annoncée dans les Deux-Sèvres",
+    "url": "https://www.lanouvellerepublique.fr/deux-sevres/nouvelle-journee-d-action-mardi-10-novembre-dans-l-education-nationale-une-manifestation-annoncee-dans-les-deux-sevres-1794224517",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Dijon",
+  "dept": "21",
+  "place": "rectorat → centre-ville ; place Wilson",
+  "type": "rassemblement",
+  "title": "Une centaine de personnes devant le rectorat de Dijon puis en déambulation, AG place Wilson",
+  "summary": "À 14 h, une petite centaine d'étudiants, de lycéens et d'enseignants se rassemblent devant le rectorat (intersyndicale soutenue par FO, CGT et Solidaires), une délégation est reçue, puis le groupe déambule en ville et tient une AG place Wilson ; revendications : dégel du point d'indice, 15 000 postes, abrogation de Parcoursup ; préavis déposés pour les 14 et 17 novembre.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une centaine (France 3, ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "Manifestations du 10 novembre : enseignants et étudiants maintiennent la pression à Dijon avant de nouvelles grèves",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/l-intersyndicale-de-l-education-nationale-maintient-la-pression-ce-mardi-a-dijon-3447423.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Bourgogne",
+    "title": "Nouvelle mobilisation et appel à la grève dans l'Éducation nationale ce mardi à Dijon",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/dijon/nouvelle-mobilisation-et-appel-a-la-greve-dans-l-education-nationale-ce-mardi-a-dijon-1544193",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Besançon",
+  "dept": "25",
+  "place": "parc des Glacis et quais (centre-ville interdit)",
+  "type": "manifestation",
+  "title": "Besançon : le préfet du Doubs interdit la boucle aux manifestants et impose un tracé par les quais",
+  "summary": "Le préfet modifie le parcours déclaré par l'intersyndicale FO-FSU-SUD éducation-CGT Éduc'action (boucle bisontine jusqu'au parc Micaud) : centre-ville interdit de 13 h à 20 h et tracé imposé au départ et à l'arrivée du parc des Glacis par les quais, comme la semaine précédente ; les syndicats saisissent le tribunal administratif ; aucun bilan chiffré publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Besançon",
+    "title": "Mobilisation du 10 novembre : le préfet du Doubs refuse le défilé en centre-ville de Besançon et propose un autre tracé",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/doubs-25/besancon/mobilisation-du-10-novembre-le-prefet-du-doubs-refuse-le-defile-en-centre-ville-de-besancon-et-propose-un-autre-trace-6319950",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "« Pour nos conditions d'études, nos salaires, la recherche » : les syndicats d'enseignants déposent un parcours pour manifester à Besançon le 10 novembre",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/pour-nos-conditions-d-etudes-nos-salaires-la-recherche-les-syndicats-d-enseignants-depose-un-parcours-pour-manifester-a-besancon-le-10-novembre-3446421.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Valence",
+  "dept": "26",
+  "place": "DSDEN de la Drôme",
+  "type": "rassemblement",
+  "title": "Quelques dizaines d'enseignants devant la DSDEN de Valence",
+  "summary": "Rassemblement intersyndical de quelques dizaines d'enseignants devant la direction départementale de l'Éducation nationale (FSU 26) pour dénoncer classes surchargées, bâtiments dégradés, postes non pourvus et la réforme de Parcoursup ; sans incident.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "quelques dizaines (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Drôme-Ardèche",
+    "title": "Mobilisation des enseignants à Valence : « les revendications des élèves sont aussi les nôtres »",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/valence/mobilisation-des-enseignants-a-valence-les-revendications-des-eleves-sont-aussi-les-notres-5567252",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Nice",
+  "dept": "06",
+  "place": "place Garibaldi → Masséna → gare SNCF",
+  "type": "manifestation",
+  "title": "200 manifestants de l'éducation défilent à Nice, pas de cortège à Toulon",
+  "summary": "À l'appel du Snes-FSU, rejoint par sa branche varoise, un cortège part à 10 h de la place Garibaldi vers Masséna et la gare : 200 manifestants selon Nice-Matin (« nous restons mobilisés pour maintenir la pression ») ; aucun cortège à Toulon faute de délai.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "200 manifestants (Nice-Matin)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Nice-Matin",
+    "title": "« Nous restons mobilisés pour maintenir la pression » : 200 manifestants ont défilé dans les rues de Nice ce mardi",
+    "url": "https://www.nicematin.com/societe/social/nous-restons-mobilises-pour-maintenir-la-pression-200-manifestants-ont-defile-dans-les-rues-de-nice-ce-mardi-10757404",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Manifestations et grève dans l'Éducation nationale : quelle mobilisation sur la Côte d'Azur ?",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/manifestations-et-greve-dans-l-education-nationale-quelle-mobilisation-sur-la-cote-d-azur-3446940.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Nîmes",
+  "dept": "30",
+  "place": "Maison Carrée",
+  "type": "manifestation",
+  "title": "250 personnes défilent à Nîmes à l'appel de l'intersyndicale lycéenne et étudiante",
+  "summary": "Départ à 14 h de la Maison Carrée à l'appel de l'intersyndicale lycéenne, étudiante et enseignante : 250 personnes selon ICI ; réseau Tango adapté dès 13 h 30.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "250 personnes (ICI Gard Lozère)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Gard Lozère",
+    "title": "Manifestation du 10 novembre : la circulation des bus modifiée à Nîmes",
+    "url": "https://www.ici.fr/occitanie/gard-30/nimes/manifestation-du-10-novembre-la-circulation-des-bus-modifiee-a-nimes-7399317",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Bourg-en-Bresse",
+  "dept": "01",
+  "place": "préfecture de l'Ain",
+  "type": "rassemblement",
+  "title": "Rassemblement de l'intersyndicale de l'éducation de l'Ain devant la préfecture à Bourg-en-Bresse",
+  "summary": "Grève et rassemblement à 11 h 30 devant la préfecture à l'appel de l'intersyndicale de l'éducation de l'Ain, qui revendiquait 2 500 manifestants le 5 novembre ; aucun bilan chiffré publié pour le 10.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "La Rochelle",
+  "dept": "17",
+  "place": "centre-ville",
+  "type": "rassemblement",
+  "title": "Rassemblement statique de l'éducation à La Rochelle, seule manifestation déclarée en Charente-Maritime",
+  "summary": "Une seule manifestation statique déclarée dans le département (FSU-SNUipp, SNES-FSU, CGT Éduc'action) de 10 h 30 à 13 h ; arrêtés préfectoraux interdisant armes par destination, artifices et équipements de protection à La Rochelle et Puilboreau, captation d'images par drones autorisée, COD activé.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Préfecture de la Charente-Maritime",
+    "title": "Appel national à la grève mardi 10 novembre 2026 : une seule manifestation déclarée",
+    "url": "https://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Communiques-de-presse-2026/Novembre-2026/APPEL-NATIONAL-A-LA-GREVE-MARDI-10-NOVEMBRE-2026-UNE-SEULE-MANIFESTATION-DECLAREE",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Clermont-Ferrand",
+  "dept": "63",
+  "place": "place Delille → préfecture",
+  "type": "manifestation",
+  "title": "Cortège de l'éducation de la place Delille à la préfecture du Puy-de-Dôme",
+  "summary": "Manifestation de l'intersyndicale de l'éducation annoncée à 10 h place Delille avec arrivée devant la préfecture ; aucun bilan chiffré publié ; les sites universitaires de Gergovia, Carnot et La Rotonde restent bloqués.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "C'est la grève",
+    "title": "Grève dans l'Éducation nationale le 10 novembre 2026",
+    "url": "https://www.cestlagreve.fr/greve/education-nationale-novembre-2026/",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Blocage de trois sites de l'université Clermont Auvergne : les cours basculent en distanciel pour 15 jours",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/blocage-de-trois-sites-de-l-universite-clermont-auvergne-les-cours-basculent-en-distanciel-pour-15-jours-3449070.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Amiens",
+  "dept": "80",
+  "place": "lycée Louis-Thuillier (cité scolaire Sud)",
+  "type": "autre",
+  "title": "Lycée Louis-Thuillier d'Amiens évacué après un tir de mortier dans un couloir, trois personnes soignées pour acouphènes",
+  "summary": "Peu après 10 h, un tir de mortier d'artifice dans un couloir du rez-de-chaussée du bâtiment A déclenche l'alarme incendie et l'évacuation ; un élève et deux membres du personnel sont pris en charge par les pompiers pour des acouphènes ; retour en cours après une demi-heure.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Picardie",
+    "title": "Le lycée Louis-Thuillier à Amiens évacué après un tir de mortier dans un couloir",
+    "url": "https://www.ici.fr/hauts-de-france/somme-80/amiens/le-lycee-louis-thuillier-a-amiens-evacue-apres-un-tir-de-mortier-dans-un-couloir-9043584",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Aix-en-Provence",
+  "dept": "13",
+  "place": "lycée Émile-Zola",
+  "type": "autre",
+  "title": "Incendie « criminel » au lycée Émile-Zola d'Aix-en-Provence : 40 salles touchées, établissement fermé jusqu'à la fin de la semaine",
+  "summary": "Vers 5 h 40, deux conteneurs puis le bâtiment A sont incendiés (cocktail Molotov suspecté, traces d'hydrocarbures) ; 26 pompiers, murs noircis, portes détruites, système de sécurité incendie hors d'usage, « 40 salles de classe » touchées selon le président de Région François de Canson ; le parquet d'Aix ouvre une enquête pour dégradation par moyen dangereux et mise en danger de la vie d'autrui, la police exploite la vidéosurveillance ; lycée régulièrement bloqué depuis octobre mais « aucun lien » établi avec le mouvement ; fermé toute la journée puis jusqu'à la fin de la semaine avec cours à distance.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Provence",
+    "title": "Aix-en-Provence : le lycée Zola touché par un incendie",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/aix-en-provence/aix-en-provence-le-lycee-zola-touche-par-un-incendie-8539963",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Un lycée à Aix-en-Provence partiellement dégradé par un incendie apparemment volontaire",
+    "url": "https://www.europe1.fr/faits-divers/un-lycee-a-aix-en-provence-partiellement-degrade-par-un-incendie-apparemment-volontaire-1222862",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "ICI Provence",
+    "title": "Suite à l'incendie, le lycée Émile-Zola reste fermé à Aix jusqu'à la fin de la semaine",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/aix-en-provence/suite-a-l-incendie-le-lycee-emile-zola-reste-ferme-a-aix-jusqu-a-la-fin-de-la-semaine-8076725",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Chelles",
+  "dept": "77",
+  "place": "lycée Gaston-Bachelard",
+  "type": "blocage",
+  "title": "Devant le lycée Gaston-Bachelard de Chelles, une conseillère régionale touchée par une bouteille d'essence, enquête pour tentative d'homicide, trois lycéens en garde à vue",
+  "summary": "Lors d'un blocage avec feux de poubelles, la conseillère régionale LR et adjointe au maire Angela Pascoa Dos Santos, venue avec des parents pour faire reprendre les cours, est touchée à la poitrine par une bouteille fermée d'essence (souffle coupé, tombée au sol) ; le parquet de Meaux ouvre une enquête de flagrance pour tentative d'homicide volontaire sur personne dépositaire de l'autorité publique, l'auteur n'est pas identifié ; trois élèves de 15 à 17 ans sont placés en garde à vue pour violences sur policiers (sans lien avec la bouteille) ; des élèves décrivent des tirs de mortiers quotidiens dans les couloirs. Édouard Geffray se rend sur place le soir (« un comportement qui s'appelle un crime »), Laurent Nuñez, Emmanuel Macron, Yaël Braun-Pivet et Valérie Pécresse (qui chiffre à une cinquantaine les lycées franciliens perturbés) condamnent l'agression.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 3,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte... Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Mortier d'artifice, jet de bouteille d'essence sur une élue, intervention de la police : des tensions éclatent devant un lycée de Chelles",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/mortier-d-artifice-jet-de-bouteille-d-essence-sur-une-elue-intervention-de-la-police-des-tensions-eclatent-devant-un-lycee-de-chelles-3447306.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Nouvelle journée de mobilisation dans l'éducation marquée par l'agression d'une élue",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/nouvelle-journee-de-mobilisation-dans-l-education-marquee-par-l-agression-d-une-elue-acc6eea38dae312e739cdfcd8cae9350",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "lycées strasbourgeois ; place de la Bourse",
+  "type": "manifestation",
+  "title": "Strasbourg : route bloquée par 200 lycéens, mortiers sur la police, un interpellé, puis 400 manifestants place de la Bourse",
+  "summary": "Le matin, environ 200 élèves bloquent une route avec des poubelles, des mortiers sont tirés vers les forces de l'ordre, des poubelles incendiées et le tram interrompu selon la préfecture ; un lycéen est interpellé pour entrave à la circulation ; blocages également à l'université ; l'après-midi, environ 400 personnes défilent au départ de la place de la Bourse (cortège intersyndical) ; 0,89 % de grévistes dans l'académie selon le rectorat.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 400 manifestants l'après-midi (DNA)",
+  "arrests": 1,
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Blocages aux abords de lycées et manifestation intersyndicale à Strasbourg : bilan de la journée du 10 novembre 2026",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63127/448797/file/CP+-+Blocages+aux+abords+de+lyc%C3%A9es+et+manifestation+intersyndicale+%C3%A0+Strasbourg%C2%A0-+bilan+de+la+journ%C3%A9e+du+10+novembre+2026.pdf",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "DNA",
+    "title": "Plusieurs blocages depuis ce matin à l'université",
+    "url": "https://www.dna.fr/social/2026/11/10/plusieurs-blocages-depuis-ce-matin-a-l-universite",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Dembéni",
+  "dept": "976",
+  "place": "lycée de Tsararano ; collège de Dembéni ; Bouyouni, Dzoumogné, Barakani",
+  "type": "autre",
+  "title": "Reprise partielle au lycée de Tsararano, collège de Dembéni évacué et neuf interpellations de la gendarmerie à Mayotte",
+  "summary": "Seuls les terminales et les BTS, soit un tiers des élèves, reprennent au lycée de Tsararano (fouilles à l'entrée, équipe mobile de sécurité renforcée), les personnels menaçant de rétablir leur droit de retrait lundi si les cinq AED réclamés ne sont pas affectés ; le collège de Dembéni est évacué après une tentative d'intrusion et ses cours suspendus ; la gendarmerie annonce « neuf interpellations ce mardi pour des troubles à l'ordre public » à Bouyouni, Dzoumogné, Barakani et Tsararano.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 9,
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "« Ce qu'on redoute le plus, c'est un mort » : au lycée de Dembéni, une reprise partielle qui n'efface pas les inquiétudes",
+    "url": "https://la1ere.franceinfo.fr/mayotte/ce-qu-on-redoute-le-plus-c-est-un-mort-au-lycee-de-dembeni-une-reprise-partielle-qui-n-efface-pas-les-inquietudes-1756413.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois mineurs interpellés après des violences à l'intérieur d'un bus scolaire à Bouyouni",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-mineurs-interpelles-apres-des-violences-a-l-interieur-d-un-bus-scolaire-a-bouyouni-1757328.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "« Un poste de PEC, mais sans nous donner de date » : le personnel du lycée de Tsararano maintient son droit de retrait",
+    "url": "https://lejournaldemayotte.yt/articles/un-poste-de-pec-mais-sans-nous-donner-de-date-le-personnel-du-lycee-de-tsararano-maintient-son-droit-de-retrait",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Pointe-à-Pitre",
+  "dept": "971",
+  "place": "Palais de la Mutualité",
+  "type": "rassemblement",
+  "title": "Meeting intersyndical au Palais de la Mutualité pour préparer la mobilisation du 14 novembre en Guadeloupe",
+  "summary": "Premier meeting public de l'intersyndicale (UGTG, CGTG, FO, FSU, UNSA, LKP) le soir au Palais de la Mutualité devant un public clairsemé : vie chère, crise de l'eau, carburant, chlordécone et salaires ; appel à un départ en manifestation samedi 14 au matin depuis la Mutualité (rassemblement devant la mairie à 8 h 30 selon un précédent appel).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "public « si peu » nombreux selon les participants",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Guadeloupe La 1ère",
+    "title": "Injustices sociales en Guadeloupe : les organisations syndicales appellent à une large mobilisation",
+    "url": "https://la1ere.franceinfo.fr/guadeloupe/injustices-sociales-en-guadeloupe-les-organisations-syndicales-appellent-a-une-large-mobilisation-1756830.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Guadeloupe La 1ère",
+    "title": "Vie chère, salaires, eau : les syndicats appellent à la mobilisation le 14 novembre",
+    "url": "https://la1ere.franceinfo.fr/guadeloupe/vie-chere-salaires-eau-les-syndicats-appellent-a-la-mobilisation-le-14-novembre-1754988.html",
+    "date": "2026-11-05"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Grève et manifestations du mardi 10 novembre 2026 : la carte",
+    "url": "https://mavigilance.fr/jour/2026-11-10",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "autre",
+  "title": "Mercredi 11 novembre – Armistice sans appel national : polémique sur la cérémonie scolaire, 245 personnels blessés selon Geffray, plaintes des syndicats de journalistes",
+  "summary": "Jour férié sans journée d'action nationale : Emmanuel Macron préside son dernier 11-Novembre, tandis que SUD éducation et la CGT Éduc'action appellent les personnels à refuser la cérémonie d'hommage aux « Morts pour la France » imposée du CM1 à la terminale par la circulaire du 2 juillet 2026 (sans appel à la grève). Édouard Geffray déclare sur BFMTV que « 245 membres du personnel de l'Éducation nationale ont été blessés » depuis le début du mouvement et appelle à une « condamnation unanime » des violences ; Sébastien Lecornu formalise par lettre aux présidents d'université la création de 5 000 places supplémentaires en licence ; quatre syndicats de journalistes (SNJ, SNJ-CGT, CFDT-Journalistes, SGJ-FO) déposent plainte contre X pour les violences et entraves policières en manifestation et doivent être reçus le 12 par Laurent Nuñez ; à Chelles, quatre mineurs sont interpellés et un majeur incarcéré après les tirs de mortiers en classe et l'agression de l'élue, et France 2 révèle une étude du ministère de la Justice sur les 1 504 mineurs déférés (données au 9 octobre) ; un membre du Conseil national de la médiation propose un médiateur ; seuls de petits rassemblements sont recensés (plus de 300 personnes « contre la guerre » à Saint-Étienne, rassemblement annoncé à Paris gare de l'Est, préfet de la Sarthe interdisant les blocages devant un quatrième lycée du Mans, préfet de la Haute-Garonne interdisant les rassemblements non déclarés autour de la cérémonie toulousaine).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Édouard Geffray appelle à la « responsabilité collective » et à une « condamnation unanime » des violences survenues lors des mobilisations lycéennes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-survenues-lors-des-mobilisations-lyceennes_8277461.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Emmanuel Macron préside un dernier 11-Novembre marqué par une polémique",
+    "url": "https://www.france24.com/fr/france/20261111-ceremonies-du-11-novembre-une-polemique-hommage-national-education-histoire",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "SUD éducation",
+    "title": "Cérémonies du 11 novembre : c'est non !",
+    "url": "https://www.sudeducation.org/ceremonies-du-11-novembre-cest-non/",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/quatre-organisations-syndicales-de-journalistes-deposent-plainte-contre-x-apres-plusieurs-entraves-par-des-forces-de-l-ordre-lors-de-manifestations_8278373.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "France 2 (20 heures)",
+    "title": "Tirs de mortiers au lycée de Chelles : qui sont les interpellés ?",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-de-mortiers-au-lycee-de-chelles-qui-sont-les-interpelles_8278286.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« Il faudrait une réunion avec un médiateur » pour régler la crise lycéenne, propose un membre du Conseil national de la médiation",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faudrait-une-reunion-avec-un-mediateur-pour-regler-la-crise-lyceenne-propose-un-membre-du-conseil-national-de-la-mediation_8277782.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Saint-Étienne",
+  "dept": "42",
+  "place": "Bourse du travail → centre-ville",
+  "type": "manifestation",
+  "title": "Plus de 300 manifestants « contre la guerre » dans le centre de Saint-Étienne le jour de l'Armistice",
+  "summary": "Parti de la Bourse du travail peu avant 14 h, un cortège calme de plus de 300 lycéens, étudiants et militants accompagné d'une fanfare défile « contre la guerre » et réclame « plus de moyens pour l'Éducation » et moins pour l'armée.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "plus de 300 personnes (Le Progrès)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Progrès",
+    "title": "Plus de 300 manifestants contre la guerre dans le centre-ville",
+    "url": "https://www.leprogres.fr/social/2026/11/11/plus-de-300-manifestants-contre-la-guerre-dans-le-centre-ville",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place du 11-Novembre-1918 (gare de l'Est)",
+  "type": "rassemblement",
+  "title": "Rassemblement annoncé contre « la marche à la guerre » place du 11-Novembre-1918 à Paris",
+  "summary": "Le collectif « Qui veut la paix, combat la marche à la guerre » appelle à un rassemblement à 13 h 30 devant la gare de l'Est contre l'économie de guerre ; aucun compte rendu chiffré n'a été publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "L'Agenda militant",
+    "title": "Rassemblement contre l'économie de guerre et la « marche à la guerre », place du 11-Novembre-1918",
+    "url": "https://www.agendamilitant.org/a8895",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Niort",
+  "dept": "79",
+  "place": "place de la Brèche",
+  "type": "manifestation",
+  "title": "Manifestation antifasciste annoncée place de la Brèche à Niort",
+  "summary": "Une manifestation « antifasciste » est annoncée à 17 h 30 place de la Brèche dans le prolongement de la mobilisation de l'éducation de la veille ; tenue et chiffres non documentés.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Poitou",
+    "title": "Mobilisation du 10 novembre à Poitiers et Niort : des manifestations pour défendre l'Éducation nationale",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/poitiers/mobilisation-du-10-novembre-a-poitiers-et-niort-des-manifestations-pour-defendre-l-education-nationale-1351068",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Le Mans",
+  "dept": "72",
+  "place": "lycées du Mans",
+  "type": "autre",
+  "title": "La préfecture de la Sarthe interdit les blocages devant un quatrième lycée du Mans",
+  "summary": "Nouvel arrêté de la préfecture de la Sarthe interdisant les blocages aux abords d'un quatrième lycée manceau, « la liste s'allonge encore » selon actu.fr.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "actu.fr (Le Mans)",
+    "title": "La liste s'allonge encore : la préfecture de Sarthe prend de nouvelles mesures concernant les blocages de lycées",
+    "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/la-liste-sallonge-encore-la-prefecture-de-sarthe-prend-de-nouvelles-mesures-concernant-les-blocages-de-lycees_65043334.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "allées Jules-Guesde, square Boulingrin, monument de la Résistance",
+  "type": "autre",
+  "title": "Rassemblements revendicatifs non déclarés interdits autour de la cérémonie du 11-Novembre à Toulouse",
+  "summary": "Le préfet de la Haute-Garonne interdit de 10 h à 13 h les rassemblements revendicatifs non déclarés dans un secteur du centre-ville (allées Jules-Guesde, square Boulingrin) pour sécuriser la cérémonie de 11 h au monument de la Résistance (six mois de prison et 7 500 € d'amende pour les organisateurs, contravention de 4e classe pour les participants).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Commémorations du 11 novembre à Toulouse : les manifestations non déclarées interdites dans une partie du centre-ville",
+    "url": "https://www.ladepeche.fr/2026/11/10/commemorations-du-11-novembre-a-toulouse-les-manifestations-non-declarees-interdites-dans-une-partie-du-centre-ville-13646244.php",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "city": "Lifou",
+  "dept": "988",
+  "place": "collège protestant de Havila (Wé)",
+  "type": "grève",
+  "title": "Grève de quatorze agents du collège de Havila à Lifou : internat et cantine fermés du 11 au 13 novembre",
+  "summary": "Quatorze agents non enseignants du collège protestant de Havila, sans salaire d'octobre faute de versement des subventions provinciales, cessent le travail pour « soulever notre ras-le-bol » : internat et cantine fermés du mercredi soir au vendredi pour 287 internes et demi-pensionnaires et 352 élèves de six écoles primaires livrées par la cuisine du collège ; la province des îles Loyauté annonce une subvention de 12 millions de francs CFP, la grève est maintenue.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "14 agents grévistes",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Nouvelle-Calédonie La 1ère",
+    "title": "Ni internat ni cantine au collège de Havila à Lifou pour protester contre les retards de salaire",
+    "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/ni-internat-ni-cantine-au-college-de-havila-a-lifou-pour-protester-contre-les-retards-de-salaire-1756632.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Mercredi 11 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-11",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "blocage",
+  "title": "Jeudi 12 novembre – 24 lycées bloqués, bilan de Matignon (1 190 forces de l'ordre et 609 élèves et personnels blessés), judiciarisation systématique et accusation de « complicité » d'agents",
+  "summary": "Édouard Geffray annonce sur BFMTV « ce matin, nous avons 24 lycées qui sont bloqués », une centaine d'établissements en distanciel pour des raisons de sécurité et une reprise apaisée des cours dans 98 % des établissements, tout en promettant des sanctions. Après une réunion en visioconférence des cabinets de l'Éducation nationale, de l'Intérieur et de la Justice avec des proviseurs et les procureurs généraux des territoires les plus touchés, Matignon publie un communiqué : saisine « systématique » de la justice pour les actes délictueux aux abords des lycées, dans leur enceinte ou sur les réseaux sociaux (auteurs « interpellés et remis à la justice »), sécurisation des établissements « aussi longtemps que nécessaire », poursuites disciplinaires contre les fauteurs de troubles et les agents publics qui « participeraient ou encourageraient des actes illicites » ; bilan officiel de 609 blessés dans l'Éducation nationale (364 élèves, 245 personnels dont 81 chefs d'établissement et adjoints) et de 1 190 blessés parmi les forces de sécurité intérieure. Sébastien Lecornu affirme qu'« au moins 40 » membres du personnel auraient fait preuve de complicité et veut les voir poursuivis, ce que le Snes-FSU et le Snalc dénoncent comme « une forme de provocation » ; Valérie Pécresse suspend les aides régionales aux auteurs de dégradations (50 lycées franciliens concernés, 10 millions d'euros de dégâts) ; Roland Lescure recense plus de 700 demandes de prêts à taux zéro de commerçants sinistrés le 17 octobre ; Laurent Nuñez reçoit les syndicats de journalistes et demande aux préfets, par un nouveau télégramme, de « ne pas baisser la garde » avant le 14. Nouvelle vague de tirs de mortiers et d'incendies dans les lycées (Cugnaux et Pessac évacués, Mérignac, Lormont, Montpellier, Rennes-Bréquigny, Nantes, Orléans, Ingré, Saint-Jean-de-Braye, Strasbourg, Toulouse) ; blocages pour l'autonomie à Ajaccio ; facultés bloquées ou fermées à Clermont-Ferrand, Besançon et Rennes ; l'intersyndicale de la jeunesse confirme la manifestation du samedi 14 et l'ensemble des organisations de la fonction publique, l'UNSA et FO celle du 17.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "lycées bloqués : 24 (Éducation nationale) ; « au moins 100 lycées fermés » selon RMC ; une centaine d'établissements en distanciel",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI",
+    "title": "Lycées : pour mettre fin aux violences, le gouvernement demande à ce que la justice soit systématiquement saisie",
+    "url": "https://www.ici.fr/infos/education/lycees-pour-mettre-fin-aux-violences-le-gouvernement-demande-a-ce-que-la-justice-soit-systematiquement-saisie-9415642",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le gouvernement veut « mettre fin » aux violences près des lycées et demande une saisine systématique de la justice",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-veut-mettre-fin-aux-violences-pres-des-lycees-et-demande-une-saisine-systematique-de-la-justice_8279078.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Anadolu (AA)",
+    "title": "France : le gouvernement annonce des poursuites « systématiques » face aux violences dans les lycées",
+    "url": "https://www.aa.com.tr/fr/france/france-le-gouvernement-annonce-des-poursuites-syst%C3%A9matiques-face-aux-violences-dans-les-lyc%C3%A9es/4122425",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+    "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Sébastien Lecornu pointe du doigt certains agents de l'Éducation nationale « complices » de violences lors du mouvement lycéen",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Titres Presse (BFM TV)",
+    "title": "Le ministre de l'Éducation nationale dénombre 24 lycées « bloqués » ce jeudi",
+    "url": "https://www.titrespresse.com/28835762603/edouard-geffray-ministre",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Colère lycéenne : 24 établissements bloqués ce jeudi, le ministre promet des sanctions",
+    "url": "https://www.leprogres.fr/education/2026/11/12/colere-lyceenne-24-etablissements-bloques-ce-jeudi-le-ministre-promet-des-sanctions",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« C'est plus jeter de l'huile sur le feu qu'éteindre l'incendie », juge le Snalc alors que des enseignants sont accusés de complicité",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-plus-jeter-de-l-huile-sur-le-feu-qu-eteindre-l-incendie-juge-le-syndicat-national-des-lycees-et-colleges-alors-que-des-enseignants-sont-accuses-de-complicite-sur-les-violences_8280095.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Les aides de l'Île-de-France vont être suspendues pour les auteurs de dégradations dans les lycées, annonce Valérie Pécresse",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-aides-de-l-ile-de-france-vont-etre-suspendues-pour-les-auteurs-de-degradations-dans-les-lycees-annonce-valerie-pecresse_8279999.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "BFM TV",
+    "title": "Manifestation du 17 octobre : plus de 700 demandes de prêts à taux zéro de la part des commerçants sinistrés, annonce Roland Lescure",
+    "url": "https://www.bfmtv.com/politique/video-manifestation-du-17-octobre-plus-de-700-demandes-de-prets-a-taux-zero-de-la-part-des-commercants-sinistres-annonce-roland-lescure_VN-202611120373.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
+    "url": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Cugnaux",
+  "dept": "31",
+  "place": "lycée Henri-Matisse",
+  "type": "autre",
+  "title": "Lycée Matisse de Cugnaux évacué et fermé pour la deuxième fois en une semaine après des tirs de mortiers dans les classes",
+  "summary": "Des mortiers d'artifice tirés à l'intérieur de l'établissement (environ 1 500 élèves) entraînent l'évacuation et la fermeture jusqu'au vendredi matin, annoncées par le maire Aurélien Andreu-Seigné qui demande d'éviter l'avenue du Comminges ; aucun blessé ni dégradation ; deuxième évacuation en moins d'une semaine après les deux départs de feu et fumigènes du 6 novembre (600 élèves évacués).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "« Évitez la zone » : un lycée près de Toulouse à nouveau évacué et fermé après des tirs de mortiers",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/evitez-la-zone-un-lycee-pres-de-toulouse-a-nouveau-evacue-et-ferme-apres-des-tirs-de-mortiers-3448221.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Un lycée évacué pour la deuxième fois après des tirs de mortiers d'artifice dans des classes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lycee-evacue-pour-la-deuxieme-fois-apres-des-tirs-de-mortiers-d-artifice-dans-des-classes_8279348.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "actu.fr (Toulouse)",
+    "title": "Des tirs de mortier à l'intérieur du lycée : 1 500 élèves évacués, l'établissement fermé à Cugnaux",
+    "url": "https://actu.fr/occitanie/cugnaux_31157/des-tirs-de-mortier-a-l-interieur-du-lycee-1-500-eleves-evacues-l-etablissement-ferme-a-cugnaux_65044921.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Mobilisation lycéenne : six interpellations, seize établissements bloqués en Haute-Garonne, la préfecture appelle à un « retour serein en cours »",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/mobilisation-lyceenne-six-interpellations-seize-etablissements-bloques-en-haute-garonne-la-prefecture-appelle-a-un-retour-serein-en-cours-3448758.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "lycées Hessel, Saint-Sernin, Tournefeuille et seize établissements de Haute-Garonne",
+  "type": "blocage",
+  "title": "Seize établissements de Haute-Garonne touchés par des actions, six interpellations et trois blessés dont deux CRS",
+  "summary": "La préfecture compte seize établissements concernés par des actions ou mobilisations, jusqu'à 750 élèves au plus fort de la matinée, des tirs de mortiers et jets de fumigènes « y compris dans l'enceinte de plusieurs établissements » visant enseignants et forces de l'ordre ; les lycées Matisse (Cugnaux) et Hessel (Toulouse) sont fermés toute la journée, Saint-Sernin passe en distanciel et Tournefeuille reste fermé pour travaux après l'incendie du 5 novembre ; six interpellations et trois blessés (deux CRS touchés par des mortiers, un assistant d'éducation) ; préfecture et rectorat appellent au « retour serein en cours ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "750 élèves mobilisés au plus fort de la matinée (préfecture)",
+  "arrests": 6,
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Mobilisation lycéenne : six interpellations, seize établissements bloqués en Haute-Garonne, la préfecture appelle à un « retour serein en cours »",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/mobilisation-lyceenne-six-interpellations-seize-etablissements-bloques-en-haute-garonne-la-prefecture-appelle-a-un-retour-serein-en-cours-3448758.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Pessac",
+  "dept": "33",
+  "place": "lycée Pape-Clément",
+  "type": "autre",
+  "title": "Lycée Pape-Clément de Pessac : 1 600 élèves évacués après des tirs de mortiers dans un hall, établissement fermé",
+  "summary": "Le jour de sa réouverture après plusieurs semaines de blocus, le lycée Pape-Clément est évacué vers 10 h après des tirs de mortiers au sol dans le hall D (début de panique, alarmes incendie déclenchées par la fumée), sans blessé ; le rectorat ferme l'établissement pour la journée ; le maire Franck Raynal juge la situation « intolérable » ; le second lycée de Pessac, Philadelphe-de-Gerde, reprend dans le calme ; la préfète et le recteur condamnent « ces violences inacceptables ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Gironde",
+    "title": "Un lycée de Pessac évacué après des tirs de mortiers dans le hall d'un bâtiment : « intolérable », réagit le maire",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/pessac/un-lycee-de-pessac-evacue-apres-des-tirs-de-mortiers-dans-le-hall-d-un-batiment-intolerable-reagit-le-maire-9057606",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Mérignac",
+  "dept": "33",
+  "place": "lycée Fernand-Daguin",
+  "type": "autre",
+  "title": "Gaz lacrymogène projeté par des élèves dans le hall du lycée Fernand-Daguin de Mérignac, trois mineurs interpellés",
+  "summary": "Des élèves projettent du gaz lacrymogène dans le hall du lycée Fernand-Daguin (la préfecture et l'académie précisent que les forces de l'ordre n'en ont pas utilisé) ; trois mineurs sont interpellés pour « mise en danger » ; le lycée reste ouvert.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 3,
+  "sources": [
+   {
+    "outlet": "ICI Gironde",
+    "title": "Un lycée de Pessac évacué après des tirs de mortiers dans le hall d'un bâtiment : « intolérable », réagit le maire",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/pessac/un-lycee-de-pessac-evacue-apres-des-tirs-de-mortiers-dans-le-hall-d-un-batiment-intolerable-reagit-le-maire-9057606",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Lormont",
+  "dept": "33",
+  "place": "lycée Élie-Faure",
+  "type": "autre",
+  "title": "Tirs de mortiers au lycée Élie-Faure de Lormont, trois jeunes légèrement blessés",
+  "summary": "Des tirs de mortiers d'artifice au lycée Élie-Faure blessent légèrement trois jeunes ; le lycée reste ouvert ; la préfète de la Gironde et le recteur condamnent « avec la plus grande fermeté ces violences inacceptables ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Gironde",
+    "title": "Un lycée de Pessac évacué après des tirs de mortiers dans le hall d'un bâtiment : « intolérable », réagit le maire",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/pessac/un-lycee-de-pessac-evacue-apres-des-tirs-de-mortiers-dans-le-hall-d-un-batiment-intolerable-reagit-le-maire-9057606",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "lycées Jean-Mermoz, Pierre-Mendès-France, Jean-Monnet",
+  "type": "autre",
+  "title": "Départs de feu « volontaires » dans deux lycées de Montpellier, menaces de mort contre un proviseur, un mineur interpellé puis relâché",
+  "summary": "Au moins trois départs de feu volontaires le matin selon le rectorat : deux au lycée Jean-Mermoz (flammes près des toilettes, bâtiment B évacué, feu de poubelles sous le préau, une cinquantaine de CRS sur place à midi) et une tentative d'incendie à Pierre-Mendès-France ; tentative d'intrusion nocturne au lycée Jean-Monnet dont le proviseur, menacé de mort sur les réseaux sociaux, est placé sous protection fonctionnelle ; un mineur de 15 ans interpellé puis relâché ; la rectrice Carole Drucker-Godard appelle « solennellement au retour au calme » ; huit personnels de direction victimes de violences depuis le début du mouvement selon l'AFP.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 1,
+  "sources": [
+   {
+    "outlet": "franceinfo (ICI Hérault)",
+    "title": "Plusieurs lycées de Montpellier visés par des départs de feu « volontaires » jeudi matin",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plusieurs-lycees-de-montpellier-vises-par-des-departs-de-feu-volontaires-jeudi-matin_8279672.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Europe 1 (AFP)",
+    "title": "Montpellier : deux lycées visés par des incendies volontaires, un suspect interpellé",
+    "url": "https://www.europe1.fr/faits-divers/montpellier-deux-lycees-vises-par-des-incendies-volontaires-un-suspect-interpelle-1228157",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "La Semaine des Pyrénées",
+    "title": "Hérault : incendies dans plusieurs lycées de Montpellier et menaces contre un proviseur, la rectrice appelle au calme",
+    "url": "https://www.lasemainedespyrenees.fr/herault-montpellier-incendies-dans-plusieurs-lycees-et-menaces-contre-un-proviseur-la-rectrice-appelle-au-calme/",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Rennes",
+  "dept": "35",
+  "place": "lycée Bréquigny ; lycée Coëtlogon ; université Rennes 2",
+  "type": "occupation",
+  "title": "Sit-in au lycée Bréquigny de Rennes dégénérant en intrusion violente : mortiers, enseignants aspergés, fermeture jusqu'au 16 novembre",
+  "summary": "Alors que le proviseur avait rouvert à 1 500 élèves grâce à la présence passive de la police, un sit-in « blocus de l'intérieur » contre cette présence débute vers 10 h dans le bâtiment A puis dégénère : environ 200 jeunes dont des extérieurs, mortiers tirés depuis les toilettes du hall, salles et bureau de CPE dégradés, cinq professeurs aspergés avec des extincteurs, deux élèves agressés ; cours suspendus jusqu'au lundi 16 avec distanciel (« trop, c'est trop ») ; véhicules incendiés devant le lycée Coëtlogon ; le campus Villejean de Rennes 2 est à nouveau bloqué ; le président de Région Loïg Chesnais-Girard sur place ; le SNPDEN annonce un rassemblement inédit devant le rectorat.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 200 jeunes impliqués",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "« Trop, c'est trop » : les cours à nouveau suspendus dans un lycée de Rennes après une intrusion très violente",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/trop-c-est-trop-les-cours-a-nouveau-suspendus-dans-un-lycee-de-rennes-apres-une-intrusion-tres-violente-3449040.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Nantes",
+  "dept": "44",
+  "place": "lycées Carcouet, La Colinière, Les Bourdonnières",
+  "type": "autre",
+  "title": "Tirs de mortiers devant Carcouet et à l'intérieur de La Colinière à Nantes : quatre gardes à vue, un auteur identifié aux Bourdonnières",
+  "summary": "Mortiers d'artifice tirés le matin devant le lycée Carcouet (cours suspendus par le proviseur) et à l'intérieur de La Colinière, où quatre personnes dont trois élèves sont interpellées et placées en garde à vue ; une arrestation pour les tirs sur La Joliverie (Saint-Sébastien-sur-Loire) plus tôt dans la semaine ; aux Bourdonnières, fermées depuis les tirs de la semaine précédente, près de 40 professeurs ont exercé leur droit de retrait et un auteur a été identifié grâce aux vidéos ; réouverture partielle du lycée Nelson-Mandela incendié le 1er octobre prévue le 16.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 4,
+  "sources": [
+   {
+    "outlet": "ICI Loire Océan",
+    "title": "Les tirs de mortier d'artifice se multiplient devant des lycées de Nantes, des auteurs identifiés",
+    "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/nantes/les-tirs-de-mortier-d-artifice-se-multiplient-devant-des-lycees-de-nantes-des-auteurs-identifies-1292315",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Orléans",
+  "dept": "45",
+  "place": "lycées Benjamin-Franklin, Voltaire, Pothier",
+  "type": "autre",
+  "title": "Mortiers devant Benjamin-Franklin et Voltaire à Orléans : un interpellé, tram B coupé, deux lycées fermés le lendemain",
+  "summary": "Plusieurs mortiers d'artifice déclenchés le matin aux abords de Benjamin-Franklin (centre-ville) : au moins une personne suspectée d'être l'auteur des tirs interpellée, ligne B du tramway interrompue plus d'une heure, lycée fermé vendredi avec cours à distance ; devant Voltaire (La Source), tirs de mortiers et bouteilles d'essence retrouvées à l'intérieur, droit de retrait des AED et fermeture vendredi ; mortiers dans les couloirs du lycée Pothier sans blessé.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 1,
+  "sources": [
+   {
+    "outlet": "ICI Orléans",
+    "title": "Tirs de mortiers, fumigènes : plusieurs débordements dans des lycées de la métropole d'Orléans ce jeudi",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/ingre/tirs-de-mortiers-fumigenes-plusieurs-debordements-dans-des-lycees-de-la-metropole-d-orleans-ce-jeudi-8523965",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "ICI Orléans",
+    "title": "Mouvement lycéen : « Nous sommes en danger », alertent les proviseurs rassemblés devant le rectorat",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/mouvement-lyceen-nous-sommes-en-danger-alertent-les-proviseurs-rassembles-devant-le-rectorat-1223696",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Ingré",
+  "dept": "45",
+  "place": "lycée Maurice-Genevoix",
+  "type": "autre",
+  "title": "Deux tirs de mortiers à l'intérieur du lycée Maurice-Genevoix d'Ingré, droit de retrait d'enseignants",
+  "summary": "Après une arrivée calme des élèves, deux tirs de mortiers retentissent à l'intérieur de l'établissement vers 10 h 45 (évacuation dans la cour) ; l'après-midi, des enseignants exercent leur droit de retrait et des cours sont annulés ; la PEEP poursuit sa mobilisation.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Orléans",
+    "title": "Tirs de mortiers, fumigènes : plusieurs débordements dans des lycées de la métropole d'Orléans ce jeudi",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/ingre/tirs-de-mortiers-fumigenes-plusieurs-debordements-dans-des-lycees-de-la-metropole-d-orleans-ce-jeudi-8523965",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Saint-Jean-de-Braye",
+  "dept": "45",
+  "place": "lycée Jacques-Monod",
+  "type": "autre",
+  "title": "Fumigènes puis tirs de mortiers dans les couloirs du lycée Jacques-Monod de Saint-Jean-de-Braye",
+  "summary": "Fumigènes déclenchés dans la matinée puis tirs de mortiers dans les couloirs vers 13 h 30, « sans faire de blessés » ; les cours se poursuivent normalement.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Orléans",
+    "title": "Tirs de mortiers, fumigènes : plusieurs débordements dans des lycées de la métropole d'Orléans ce jeudi",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/ingre/tirs-de-mortiers-fumigenes-plusieurs-debordements-dans-des-lycees-de-la-metropole-d-orleans-ce-jeudi-8523965",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "huit établissements",
+  "type": "blocage",
+  "title": "Blocages devant huit établissements de Strasbourg, tirs de mortiers sur les forces de l'ordre et six interpellations",
+  "summary": "Point de situation de la préfecture du Bas-Rhin : blocages devant huit établissements avec atteintes aux personnes et aux biens et tirs de mortiers visant les forces de l'ordre ; six interpellations devant l'un d'eux.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 6,
+  "sources": [
+   {
+    "outlet": "Préfecture du Bas-Rhin",
+    "title": "Blocages et troubles à l'ordre public aux abords de lycées strasbourgeois : point de situation du 12 novembre 2026",
+    "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63136/448842/file/CB+-+Blocages+et+troubles+%C3%A0+l%E2%80%99ordre+public+aux+abords+de+lyc%C3%A9es+strasbourgeois+-+point+de+situation+du+12+novembre+2026.pdf",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Le Rheu",
+  "dept": "35",
+  "place": "lycée Théodore-Monod",
+  "type": "blocage",
+  "title": "Le lycée Théodore-Monod du Rheu reste fermé après la reconduction du blocage",
+  "summary": "Fermé aux élèves depuis plus d'un mois, le lycée Théodore-Monod reste fermé après la reconduction du blocage décidée à l'issue de la réunion de mardi, avec cours à distance jusqu'au vendredi 13 novembre.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Blocage reconduit après la réunion de mardi : le lycée Théodore-Monod du Rheu reste fermé",
+    "url": "https://www.ouest-france.fr/bretagne/le-rheu-35650/blocage-reconduit-apres-la-reunion-de-mardi-le-lycee-theodore-monod-du-rheu-reste-ferme-ef0d2c6a-deb8-11f1-a62b-776e3051b0df",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Ajaccio",
+  "dept": "2A",
+  "place": "lycées Fesch et Laetitia-Bonaparte",
+  "type": "blocage",
+  "title": "Lycées Fesch et Laetitia-Bonaparte d'Ajaccio bloqués pour l'autonomie de la Corse",
+  "summary": "Des lycéens bloquent les lycées Fesch et Laetitia-Bonaparte pour protester contre le rejet du texte sur l'autonomie par le Sénat fin octobre et soutenir les élus nationalistes, absents de la réunion gouvernementale du jour (« promesses formulées il y a quatre ans », « ce qu'on demande, c'est surtout d'être entendus ») ; ils appellent à une mobilisation populaire et maintiennent le blocage jusqu'au vendredi 13 ; sans incident.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI RCFM",
+    "title": "Autonomie : les lycées Fesch et Laetitia-Bonaparte à Ajaccio bloqués, les lycéens appellent à une mobilisation populaire",
+    "url": "https://www.ici.fr/corse/autonomie-les-lycees-fesch-et-laetitia-bonaparte-a-ajaccio-bloques-les-lyceens-appellent-a-une-mobilisation-populaire-9432557",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "France 3 Corse ViaStella",
+    "title": "Autonomie : des lycéens bloquent les lycées Fesch et Laetitia-Bonaparte à Ajaccio pour manifester leur soutien aux élus nationalistes",
+    "url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/autonomie-des-lyceens-bloquent-les-lycees-fesch-et-laetitia-bonaparte-a-ajaccio-pour-manifester-leur-soutien-aux-elus-nationalistes-3448155.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Clermont-Ferrand",
+  "dept": "63",
+  "place": "université Clermont Auvergne : sites Gergovia, Carnot et La Rotonde",
+  "type": "blocage",
+  "title": "Trois sites de l'université Clermont Auvergne toujours bloqués, cours basculés en distanciel pour quinze jours",
+  "summary": "Malgré l'annonce d'une reprise des cours, les sites de Gergovia, Carnot et La Rotonde restent bloqués par des barrages filtrants (blocages quasi quotidiens depuis fin septembre, ordures accumulées) ; la cellule de crise réunie ce jeudi décide le passage de tout l'enseignement de ces trois sites en distanciel pour au moins deux semaines ; une pétition de 1 500 signatures réclame un « 10 améliorable » et des examens en janvier.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Blocage de trois sites de l'université Clermont Auvergne : les cours basculent en distanciel pour 15 jours",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/blocage-de-trois-sites-de-l-universite-clermont-auvergne-les-cours-basculent-en-distanciel-pour-15-jours-3449070.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "ICI Pays d'Auvergne",
+    "title": "Blocage ou pas, cours à distance ou annulés : la confusion règne pour les étudiants à Clermont-Ferrand",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-pays-d-auvergne/blocage-ou-pas-cours-a-distance-ou-annules-la-confusion-regne-pour-les-etudiants-a-clermont-ferrand-5617072",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Besançon",
+  "dept": "25",
+  "place": "UFR SLHS (faculté des lettres)",
+  "type": "occupation",
+  "title": "Intrusion de personnes cagoulées pendant l'AG de la fac des lettres de Besançon, UFR fermée jusqu'au 18 novembre",
+  "summary": "Des personnes cagoulées pénètrent dans l'AG étudiante de la faculté des lettres, bloquée depuis plus d'un mois, et profèrent menaces et insultes ; des matelas laissent craindre une occupation nocturne ; le président Hugues Daussy ferme l'UFR SLHS (4 500 étudiants) du jeudi 22 h au mercredi 18 novembre 8 h et signale les faits au procureur ; réunion prévue mardi pour organiser la reprise des cours.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Besançon",
+    "title": "La fac des lettres à Besançon fermée suite à l'intrusion de personnes cagoulées lors de l'assemblée générale de ce jeudi",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/doubs-25/besancon/la-fac-des-lettres-a-besancon-fermee-suite-a-l-intrusion-de-personnes-cagoulees-lors-de-l-assemblee-generale-de-ce-jeudi-6786721",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Poitiers",
+  "dept": "86",
+  "place": "lycée Victor-Hugo",
+  "type": "autre",
+  "title": "Tentative d'incendie devant le lycée Victor-Hugo de Poitiers après des appels à la démission de la proviseure",
+  "summary": "En début de soirée, une tentative d'incendie vise l'entrée du lycée Victor-Hugo, dont la proviseure est ciblée par des appels à la démission sur les réseaux sociaux depuis la levée policière du blocage de mardi ; le rectorat annoncera le lendemain le dépôt de deux plaintes (intimidations et tentative d'incendie).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo (ICI Poitou)",
+    "title": "L'académie de Poitiers va déposer deux plaintes pour des intimidations et une tentative d'incendie survenues au lycée Victor-Hugo",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "cité scolaire internationale Jacques-Chirac",
+  "type": "autre",
+  "title": "Menaces de mort et messages racistes et antisémites contre des lycéens bloqueurs de la cité scolaire internationale Jacques-Chirac",
+  "summary": "Des élèves ayant bloqué la cité scolaire internationale Jacques-Chirac reçoivent des menaces de mort et des messages racistes et antisémites sur un groupe WhatsApp d'élèves de l'établissement (franceinfo).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "« Ils sont menacés car ils bloquent leur lycée »",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ils-sont-menaces-car-ils-bloquent-leur-lycee_8279351.html",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Brest",
+  "dept": "29",
+  "place": "lycées brestois",
+  "type": "autre",
+  "title": "Le procureur de Brest précise la réquisition des trombinoscopes : enquête sur les violences du 17 octobre, « ni fichage ni listing »",
+  "summary": "Le procureur indique que la réquisition des trombinoscopes du 4 novembre s'inscrit dans l'enquête contre X sur les violences du 17 octobre et ne constitue « ni fichage ni listing » ; 101 familles ont rejoint un collectif de défense des droits des élèves ; des bus Bibus sont déviés par une manifestation étudiante.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Trombinoscopes saisis dans les lycées : le procureur de Brest apporte des précisions",
+    "url": "https://www.ici.fr/bretagne/finistere-29/brest/trombinoscopes-saisis-dans-les-lycees-le-procureur-de-brest-apporte-des-precisions-8274280",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Fort-de-France",
+  "dept": "972",
+  "place": "Service d'incendie et de secours de la Martinique",
+  "type": "grève",
+  "title": "Grève illimitée des pompiers de Martinique à l'appel de FO-STIS 972",
+  "summary": "Préavis de grève illimitée prenant effet à minuit pour l'ensemble des personnels du SIS de la Martinique (professionnels, volontaires, administratifs et techniciens) : moyens, maintien des salaires, carrières bloquées de 29 agents, fin de 11 CDD, protection des agents signalant du harcèlement et enquête administrative indépendante ; continuité des secours assurée selon le syndicat.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "RCI Martinique",
+    "title": "Les pompiers de Martinique en grève illimitée à partir d'aujourd'hui",
+    "url": "https://rci.fm/martinique/infos/Social/Les-pompiers-de-Martinique-en-greve-illimitee-partir-daujourdhui",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Pointe-à-Pitre",
+  "dept": "971",
+  "place": "ensemble de la Guadeloupe",
+  "type": "autre",
+  "title": "Opération « Zéro Transaction Gwadloup » : trois jours sans dépenser du 12 au 14 novembre",
+  "summary": "Le collectif Zéro Transaction Gwadloup appelle à suspendre toute transaction financière du 12 au 14 novembre contre la vie chère, la crise de l'eau et le prix du carburant, en amont de la manifestation intersyndicale du samedi 14 à Pointe-à-Pitre.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France-Antilles Guadeloupe",
+    "title": "Zéro Transaction : trois jours sans dépenser pour se faire entendre",
+    "url": "https://guadeloupe.franceantilles.fr/actualite/social/zero-transaction-trois-jours-sans-depenser-pour-se-faire-entendre-1098409.php",
+    "date": "2026-11-03"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Jeudi 12 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-12",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Bandraboua",
+  "dept": "976",
+  "place": "Bouyouni",
+  "type": "autre",
+  "title": "Trois mineurs en garde à vue pour les violences dans un bus scolaire à Bouyouni",
+  "summary": "La gendarmerie annonce le placement en garde à vue de trois mineurs pour les violences et dégradations commises le 5 novembre dans un bus scolaire à Bouyouni, où les habitants avaient bloqué la route contre l'insécurité ; ils sont présentés au procureur le vendredi matin (poursuites ou avertissement pénal probatoire).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 3,
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois mineurs interpellés après des violences à l'intérieur d'un bus scolaire à Bouyouni",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-mineurs-interpelles-apres-des-violences-a-l-interieur-d-un-bus-scolaire-a-bouyouni-1757328.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "rassemblement",
+  "title": "Vendredi 13 novembre – rassemblements nationaux des proviseurs (SNPDEN), télégramme Nuñez-Geffray, fonction publique reçue à Matignon et CFDT ralliée au 17 novembre, dispositif de l'acte V",
+  "summary": "Première mobilisation nationale des personnels de direction depuis 2006 : à l'appel du SNPDEN-Unsa, chefs d'établissement et adjoints se rassemblent à 15 h devant les lycées et rectorats (Paris devant le Collège de France, Orléans, Caen, Sotteville-lès-Rouen, Le Havre, Évreux, Besançon, Tours, Pau, Dembéni à Mayotte) en rappelant que « 80 » d'entre eux ont été blessés et qu'une cinquantaine ont demandé à quitter leur poste ; une délégation est reçue le soir au ministère. Un télégramme de cinq pages signé Laurent Nuñez et Édouard Geffray ordonne aux préfets et recteurs une présence policière « très matinale », « l'interpellation systématique des fauteurs de troubles », des procédures disciplinaires « systématiques et rapides » contre les élèves et des retenues de salaire pour les personnels refusant d'assurer leur service. Sébastien Lecornu reçoit l'intersyndicale de la fonction publique et ouvre un mois de discussions sur cinq chantiers (bas salaires) avec un nouveau rendez-vous le 11 décembre, jugé insuffisant : la CFDT rejoint l'appel à la grève et à la manifestation du mardi 17 novembre, désormais porté par toutes les confédérations, l'intersyndicale francilienne déposant un parcours Invalides–place d'Italie. Pour l'acte V du samedi 14 (Gilets jaunes, intersyndicale de la jeunesse, LDH et organisations contre la loi « permis de tuer », marche enfantiste, mouvement climat), Laurent Nuñez annonce sur LCI « quelque 70 000 policiers et gendarmes », « entre 50 ou 60 défilés » et des « contrôles dans la profondeur » ; la préfecture de police valide l'itinéraire République–Nation déclaré par trois organisateurs et attend 30 000 à 60 000 manifestants, près de 230 actions sont recensées sur la carte des Gilets jaunes et les préfets multiplient les interdictions de centre-ville (Dijon, Besançon, Nîmes, Tours, Clermont-Ferrand, Perpignan, Lyon, Annecy, Toulon, Rouen pour le collectif identitaire « Les Normaux », Nantes, Saint-Nazaire et La Baule avec un couvre-feu des mineurs non accompagnés dans le centre de Nantes de 21 h à 6 h). Blocages et tensions persistent (Toulouse, Chambéry, Saint-Étienne avec cinq lycées de la Loire fermés, Nantes, Paris-Claude-Monet, Ajaccio, Le Rheu) ; le recteur de Toulouse recense 107 interpellations et plus de 50 blessés dans l'académie ; Rennes 2 reste fermée jusqu'au 27 novembre ; l'académie de Poitiers porte plainte ; Bruno Retailleau dénonce des « minorités bruyantes, agissantes, violentes ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "dispositif du 14 novembre : environ 70 000 policiers et gendarmes, 50 à 60 défilés (Nuñez) ; 30 000 à 60 000 manifestants attendus à Paris (préfecture de police)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+    "url": "https://france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement « ne constituent pas de véritables avancées »",
+    "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Le JDD",
+    "title": "INFO JDD. Blocus des lycées : interpellations, sanctions… le gouvernement ordonne une riposte policière massive",
+    "url": "https://www.lejdd.fr/Societe/info-jdd-blocus-des-lycees-interpellations-sanctions-le-gouvernement-ordonne-une-riposte-policiere-massive-188571",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Le Pandore et la Gendarmerie (AFP)",
+    "title": "Mobilisation du 14 novembre : Nuñez prévoit environ 70 000 policiers et gendarmes",
+    "url": "https://www.pandore-gendarmerie.org/mobilisation-14-novembre-2026-nunez-70000-policiers-gendarmes/",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts, pour la mobilisation du 14 novembre",
+    "url": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Convergence de différents mots d'ordre, important dispositif policier… À quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+    "url": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France (AFP)",
+    "title": "Blocus des lycées : « épuisés », les proviseurs se mobilisent devant le Collège de France à Paris ce vendredi",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/blocus-des-lycees-epuises-les-proviseurs-se-mobilisent-devant-le-college-de-france-a-paris-ce-vendredi-3448848.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« On n'a jamais vécu de situation aussi violente », dénonce le premier syndicat des proviseurs face à la mobilisation des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-jamais-vecu-de-situation-aussi-violente-denonce-le-premier-syndicat-des-proviseurs-face-a-la-mobilisation-des-lyceens_8280587.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Sud Radio",
+    "title": "Blocus de lycées : une cinquantaine de proviseurs jettent l'éponge",
+    "url": "https://www.sudradio.fr/societe/blocus-de-lycees-une-cinquantaine-de-proviseurs-jettent-leponge",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "« Le sentiment d'impunité de la police concerne tout le monde » : pourquoi plusieurs organisations s'unissent contre la loi « permis de tuer » ce samedi",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/le-sentiment-d-impunite-de-la-police-concerne-tout-le-monde-pourquoi-plusieurs-organisations-s-unissent-contre-la-loi-permis-de-tuer-ce-samedi-3449424.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ligue des droits de l'Homme",
+    "title": "Appel à se mobiliser contre la loi dite « présomption de légitime défense »",
+    "url": "https://www.ldh-france.org/appel-a-se-mobiliser-contre-la-loi-dite-presomption-de-legitime-defense/",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Sud Radio",
+    "title": "Mobilisation : acte V, les cheminots et d'autres cortèges dans le sillage des Gilets jaunes",
+    "url": "https://www.sudradio.fr/sud-radio/mobilisation-acte-v-les-cheminots-et-dautres-corteges-dans-le-sillage-des-gilets-jaunes",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestations du 14 novembre : « acte V » des Gilets jaunes, 70 000 policiers et gendarmes… À quoi s'attendre samedi ?",
+    "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-du-14-novembre-acte-v-des-gilets-jaunes-70-000-policiers-et-gendarmes-a-quoi-sattendre-samedi-4e532b58-df3a-11f1-9a29-f4bab172af08",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Samedi 14 novembre 2026 : interdictions préfectorales et parcours déclarés",
+    "url": "https://mavigilance.fr/jour/2026-11-14",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Collège de France ; lycée Claude-Monet",
+  "type": "rassemblement",
+  "title": "Proviseurs « épuisés » rassemblés devant le Collège de France ; au lycée Claude-Monet, des parents tentent de lever le blocus avant une dispersion par les CRS",
+  "summary": "À 15 h, les personnels de direction se rassemblent devant le Collège de France à l'appel du SNPDEN-Unsa (Bruno Bobkiewicz : « il n'y a pas d'autre moment dans l'histoire où les personnels de direction ont été agressés de façon aussi massive » ; Audrey Monchâtre, visée trois fois par des mortiers : « je ne dors plus ») avant d'être reçus au ministère. Le matin, devant le lycée Claude-Monet bloqué depuis plus d'un mois (environ 130 heures de cours perdues), des parents tentent sans succès de dialoguer avec la cinquantaine de bloqueurs arrivés avec des poubelles vers 7 h 30 ; les CRS dispersent le blocage, les parents retirent les poubelles, puis plus d'une centaine d'élèves rebloquent l'établissement. L'intersyndicale régionale (CFDT, CFE-CGC, CGT, FSU, FO, Solidaires, UNSA, Union étudiante, Unef, Fage) dépose un parcours Invalides–place d'Italie pour le 17 et la préfecture de police valide l'itinéraire République–Bastille–Nation du 14.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "lycée Claude-Monet : une cinquantaine de bloqueurs chaque jour selon les parents, plus d'une centaine après la dispersion",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Paris Île-de-France (AFP)",
+    "title": "Blocus des lycées : « épuisés », les proviseurs se mobilisent devant le Collège de France à Paris ce vendredi",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/blocus-des-lycees-epuises-les-proviseurs-se-mobilisent-devant-le-college-de-france-a-paris-ce-vendredi-3448848.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Inquiets pour la scolarité de leurs enfants, des parents veulent mettre fin aux blocages des lycées",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/inquiets-pour-la-scolarite-de-leurs-enfants-des-parents-veulent-mettre-fin-aux-blocages-des-lycees_8281094.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« On n'a jamais vécu de situation aussi violente », dénonce le premier syndicat des proviseurs face à la mobilisation des lycéens",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-jamais-vecu-de-situation-aussi-violente-denonce-le-premier-syndicat-des-proviseurs-face-a-la-mobilisation-des-lyceens_8280587.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Union étudiante",
+    "title": "Manifestation du 17 novembre : communiqué de presse de l'intersyndicale régionale Île-de-France",
+    "url": "https://union-etudiante.fr/communique-de-presse/manifestation-du-17-novembre-communique-de-presse-de-lintersyndicale-regionale-ile-de-france/",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts, pour la mobilisation du 14 novembre",
+    "url": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Orléans",
+  "dept": "45",
+  "place": "rectorat d'Orléans-Tours",
+  "type": "rassemblement",
+  "title": "Une cinquantaine de chefs d'établissement devant le rectorat d'Orléans : « nous sommes en danger »",
+  "summary": "Environ cinquante chefs d'établissement du Loiret, de l'Indre, du Cher et d'Eure-et-Loir se rassemblent devant le rectorat à l'appel du SNPDEN après les tirs de mortiers de la semaine (Benjamin-Franklin, Voltaire, Pothier, Genevoix, Monod) : « cela nous met en danger » (Valérie Baron, deux personnels blessés à Franklin) ; le recteur Jean-Philippe Agresti promet la fermeté, le préfet Hugues Moutouh annonce une sécurité renforcée avec fouilles à l'entrée de quatre lycées ; Voltaire et Benjamin-Franklin sont fermés ce vendredi avec cours à distance.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine de chefs d'établissement (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Orléans",
+    "title": "Mouvement lycéen : « Nous sommes en danger », alertent les proviseurs rassemblés devant le rectorat",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/mouvement-lyceen-nous-sommes-en-danger-alertent-les-proviseurs-rassembles-devant-le-rectorat-1223696",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Centre-Val de Loire",
+    "title": "« La crainte, c'est que cela perdure » : un appel à se mobiliser à Tours et Orléans en soutien aux proviseurs et adjoints victimes de violences",
+    "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/la-crainte-c-est-que-cela-perdure-un-appel-a-se-mobiliser-a-tours-et-orleans-en-soutien-aux-proviseurs-et-adjoints-victimes-de-violences-3447873.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "ICI Orléans",
+    "title": "Tirs de mortiers, fumigènes : plusieurs débordements dans des lycées de la métropole d'Orléans ce jeudi",
+    "url": "https://www.ici.fr/centre-val-de-loire/loiret-45/ingre/tirs-de-mortiers-fumigenes-plusieurs-debordements-dans-des-lycees-de-la-metropole-d-orleans-ce-jeudi-8523965",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Caen",
+  "dept": "14",
+  "place": "lycées Jean-Rostand et Augustin-Fresnel",
+  "type": "rassemblement",
+  "title": "Une cinquantaine de personnels de direction du Calvados rassemblés devant les lycées Rostand et Fresnel de Caen",
+  "summary": "À l'appel du SNPDEN (Fabienne Mantéca : « les collègues sont épuisés »), une cinquantaine de chefs d'établissement et adjoints de lycées et collèges du Calvados se rassemblent devant les lycées Rostand et Fresnel, touchés par des violences et des blocages ; ils réclament une présence policière devant les établissements et prévoient de fermer et passer en distanciel si la sécurité n'est plus assurée.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine (ICI)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Normandie (Caen)",
+    "title": "« Les collègues sont épuisés, nos établissements doivent être sécurisés » : les proviseurs manifestent à Caen",
+    "url": "https://www.ici.fr/normandie/calvados-14/caen/les-collegues-sont-epuises-nos-etablissements-doivent-etre-securises-les-proviseurs-manifestent-a-caen-3284273",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Sotteville-lès-Rouen",
+  "dept": "76",
+  "place": "lycée des Bruyères",
+  "type": "rassemblement",
+  "title": "Une cinquantaine de proviseurs devant le lycée des Bruyères de Sotteville-lès-Rouen : « ni ennemis de la jeunesse, ni boucliers humains »",
+  "summary": "Une cinquantaine de chefs d'établissement et personnels de direction de Seine-Maritime se rassemblent à 15 h devant le lycée des Bruyères (pancartes « Proviseurs sous tension, bientôt hors circuit ») : témoignages du CPE touché par un jet de flamme (élève exclu définitivement le matin même), du proviseur de Camille-Saint-Saëns visé par des mortiers, rappel des proviseurs blessés d'Élisa-Lemonnier et de Blaise-Pascal ; le SNPDEN-Unsa compte « 80 » chefs et adjoints blessés en France et demande la sécurisation des abords ou la fermeture temporaire des lycées.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine (ICI, France 3)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Normandie (Rouen)",
+    "title": "« Je pense que j'étais visé » : une cinquantaine de personnes manifestent en soutien aux proviseurs de lycée pris pour cible",
+    "url": "https://www.ici.fr/infos/education/je-pense-que-j-etais-vise-une-cinquantaine-de-personnes-manifeste-en-soutien-aux-proviseurs-de-lycee-pris-pour-cible-8534612",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Normandie",
+    "title": "« Certains collègues sont blessés, hospitalisés ou épuisés » : les proviseurs se mobilisent pour alerter sur la gravité de la situation",
+    "url": "https://france3-regions.franceinfo.fr/normandie/eure/certains-collegues-sont-blesses-hospitalises-ou-epuises-les-proviseurs-se-mobilisent-pour-alerter-sur-la-gravite-de-la-situation-3449034.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Évreux",
+  "dept": "27",
+  "place": "préfecture de l'Eure",
+  "type": "rassemblement",
+  "title": "Rassemblement de personnels de direction devant la préfecture de l'Eure à Évreux",
+  "summary": "Dans le cadre de la journée nationale du SNPDEN-Unsa, des chefs d'établissement dont le proviseur du lycée Modeste-Leroy se rassemblent devant la préfecture d'Évreux pour alerter sur la gravité de la situation (« certains collègues sont blessés, hospitalisés ou épuisés ») ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "« Certains collègues sont blessés, hospitalisés ou épuisés » : les proviseurs se mobilisent pour alerter sur la gravité de la situation",
+    "url": "https://france3-regions.franceinfo.fr/normandie/eure/certains-collegues-sont-blesses-hospitalises-ou-epuises-les-proviseurs-se-mobilisent-pour-alerter-sur-la-gravite-de-la-situation-3449034.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Le Havre",
+  "dept": "76",
+  "place": "lycée Porte-Océane",
+  "type": "rassemblement",
+  "title": "Proviseurs « épuisés » rassemblés devant le lycée Porte-Océane du Havre",
+  "summary": "Rassemblement de proviseurs et personnels de direction havrais devant le lycée Porte-Océane, dans le cadre de la journée nationale du SNPDEN-Unsa, face aux violences liées au mouvement lycéen ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Paris-Normandie",
+    "title": "Le Havre : « épuisés », les proviseurs rassemblés face aux violences liées au mouvement lycéen",
+    "url": "http://www.paris-normandie.fr/id759251/article/2026-11-13/le-havre-est-epuises-les-proviseurs-rassembles-face-aux-violences-liees-au",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Besançon",
+  "dept": "25",
+  "place": "centre-ville",
+  "type": "rassemblement",
+  "title": "Proviseurs et principaux rassemblés à Besançon contre les violences visant leurs collègues",
+  "summary": "Des chefs d'établissement de lycées et de collèges se rassemblent à Besançon dans le cadre de la journée nationale du SNPDEN-Unsa pour protester contre les violences subies par leurs collègues (franceinfo) ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Tours",
+  "dept": "37",
+  "place": "devant un lycée tourangeau",
+  "type": "rassemblement",
+  "title": "Rassemblement du SNPDEN-UNSA à Tours en soutien aux proviseurs et adjoints victimes de violences",
+  "summary": "Le SNPDEN-UNSA appelle les personnels de direction d'Indre-et-Loire à se rassembler à 15 h devant un lycée de Tours en soutien aux proviseurs et adjoints victimes de violences ; le préfet prend le même jour des arrêtés interdisant les manifestations dans le centre-ville le samedi 14 (acte V rassemblé à 14 h place Jean-Jaurès).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Centre-Val de Loire",
+    "title": "« La crainte, c'est que cela perdure » : un appel à se mobiliser à Tours et Orléans en soutien aux proviseurs et adjoints victimes de violences",
+    "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/la-crainte-c-est-que-cela-perdure-un-appel-a-se-mobiliser-a-tours-et-orleans-en-soutien-aux-proviseurs-et-adjoints-victimes-de-violences-3447873.html",
+    "date": "2026-11-11"
+   },
+   {
+    "outlet": "ICI Touraine",
+    "title": "Acte V, interdiction de manifester dans le centre-ville, marche pour le climat : à quoi s'attendre ce samedi à Tours ?",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/acte-v-interdiction-de-manifester-dans-le-centre-ville-marche-pour-le-climat-a-quoi-s-attendre-ce-samedi-a-tours-2343920",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Pau",
+  "dept": "64",
+  "place": "lycée Saint-John-Perse",
+  "type": "rassemblement",
+  "title": "Rassemblement de soutien aux personnels des lycées devant Saint-John-Perse à Pau",
+  "summary": "Le SNPDEN-Unsa 64 appelle à un rassemblement à 15 h devant le lycée Saint-John-Perse pour dénoncer intimidations, dégradations et agressions subies par les personnels de direction ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "La République des Pyrénées",
+    "title": "Violences dans les lycées : un rassemblement pour soutenir les personnels de lycée ce vendredi 13 novembre devant Saint-John-Perse",
+    "url": "https://www.larepubliquedespyrenees.fr/education/education/violences-dans-les-lycees-un-rassemblement-pour-soutenir-les-personnels-de-lycee-ce-vendredi-13-novembre-devant-saint-john-perse-31455862.php",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Agenda et calendrier des grèves, novembre 2026",
+    "url": "https://mavigilance.fr/agenda/",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Dembéni",
+  "dept": "976",
+  "place": "lycée de Tsararano",
+  "type": "rassemblement",
+  "title": "Une cinquantaine de chefs d'établissement de Mayotte devant le lycée de Tsararano en soutien aux proviseurs visés par les violences",
+  "summary": "À l'appel du SNPDEN, une cinquantaine de chefs d'établissement représentant la quasi-totalité des collèges et lycées de Grande-Terre et de Petite-Terre se rassemblent de 16 h à 17 h 30 devant le perron du lycée de Tsararano pour soutenir le chef du lycée et celui du collège de Dembéni, touchés par des violences depuis plusieurs jours, et réclamer « des moyens supplémentaires pour mieux sécuriser les établissements » ; le même matin, les trois mineurs placés en garde à vue pour les violences dans un bus scolaire à Bouyouni sont présentés au procureur.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une cinquantaine de chefs d'établissement (La 1ère)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Les chefs d'établissements de Mayotte font bloc contre les violences",
+    "url": "https://la1ere.franceinfo.fr/mayotte/les-chefs-d-etablissements-de-mayotte-font-bloc-contre-les-violences-1757520.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois mineurs interpellés après des violences à l'intérieur d'un bus scolaire à Bouyouni",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-mineurs-interpelles-apres-des-violences-a-l-interieur-d-un-bus-scolaire-a-bouyouni-1757328.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "lycée Déodat-de-Séverac ; académie de Toulouse",
+  "type": "blocage",
+  "title": "Blocage du lycée Déodat-de-Séverac perturbant le tram T1 ; le recteur de Toulouse recense 107 interpellations et plus de 50 blessés dans l'académie",
+  "summary": "Nouveau blocage lycéen à Déodat-de-Séverac dès 8 h 20 avec la ligne T1 du tramway partiellement interrompue ; le recteur de l'académie de Toulouse condamne « fermement » les violences qui ont visé une vingtaine de lycées de la métropole, rappelle qu'un blocage est illégal et dresse un bilan depuis le début du mouvement de « plus de 50 blessés » parmi élèves et personnels et de « 107 interpellations » ; le lycée Matisse de Cugnaux rouvre après sa fermeture de la veille.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Blocage des lycées en Haute-Garonne : tirs de mortiers, plus de 50 blessés, 107 interpellations… le recteur de l'académie de Toulouse condamne fermement les violences",
+    "url": "https://www.ladepeche.fr/2026/11/13/blocage-des-lycees-en-haute-garonne-tirs-de-mortiers-plus-de-50-blesses-107-interpellations-le-recteur-de-lacademie-de-toulouse-condamne-fermement-les-13650824.php",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "actu.fr (Toulouse)",
+    "title": "Blocages lycéens à Toulouse : la ligne de tram T1 partiellement à l'arrêt ce vendredi matin",
+    "url": "https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-a-toulouse-la-ligne-de-tram-t1-partiellement-a-larret-ce-vendredi-matin_65049864.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Chambéry",
+  "dept": "73",
+  "place": "lycée Vaugelas",
+  "type": "blocage",
+  "title": "Blocus du lycée Vaugelas à Chambéry par une centaine de personnes, échauffourées avec la police dès 7 h 30",
+  "summary": "Une centaine de lycéens, d'enseignants et de syndicalistes bloquent les entrées du lycée Vaugelas en centre-ville ; des échauffourées éclatent vers 7 h 30 lorsque la police tente de dégager une entrée (Le Dauphiné Libéré).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une centaine de personnes (Le Dauphiné)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Dauphiné Libéré",
+    "title": "Blocus en cours au lycée Vaugelas : une centaine de personnes mobilisées",
+    "url": "https://www.ledauphine.com/education/2026/11/13/blocus-en-cours-au-lycee-vaugelas-une-centaine-de-personnes-mobilisees",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Blocus des lycées : les blocages, jour par jour",
+    "url": "https://mavigilance.fr/themes/blocus",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Saint-Étienne",
+  "dept": "42",
+  "place": "lycée Claude-Fauriel",
+  "type": "blocage",
+  "title": "Matinée mouvementée devant le lycée Fauriel : tirs de mortiers et dispersion par la police, cinq lycées de la Loire fermés",
+  "summary": "Une centaine de jeunes se rassemblent vers 9 h 30 devant le lycée Fauriel ; des mortiers, attribués par des témoins à des personnes extérieures, visent l'entrée comme la veille et la police dégage les abords ; cinq lycées de la Loire (Saint-Étienne, Firminy, Saint-Chamond) restent fermés au moins jusqu'à lundi, des parents se disant « abandonnés ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "une centaine de jeunes (Le Progrès)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Progrès",
+    "title": "Matinée mouvementée devant le lycée Fauriel",
+    "url": "https://www.leprogres.fr/education/2026/11/13/matinee-mouvementee-devant-le-lycee-fauriel",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Cinq lycées fermés dans la Loire : « en tant que parents, on se sent abandonnés »",
+    "url": "https://www.leprogres.fr/education/2026/11/13/cinq-lycees-fermes-dans-la-loire-en-tant-que-parents-on-se-sent-abandonnes",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Agenda et calendrier des grèves, novembre 2026",
+    "url": "https://mavigilance.fr/agenda/",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Nantes",
+  "dept": "44",
+  "place": "lycées des Bourdonnières, Jules-Verne et autres",
+  "type": "blocage",
+  "title": "Lycées nantais fermés ou bloqués après les tirs de mortiers ; le préfet annonce périmètres interdits et couvre-feu des mineurs pour le 14",
+  "summary": "Plusieurs lycées nantais restent fermés (Les Bourdonnières jusqu'à ce vendredi, Jules-Verne ouvrant selon les blocages) après les tirs de mortiers devant les établissements, certains proviseurs ayant fermé une semaine entière ; parents FCPE et PEEP « dépités » (moins d'une semaine de cours depuis la Toussaint pour certains élèves). Le préfet de la Loire-Atlantique annonce pour le samedi 14 l'interdiction des manifestations non déclarées dans les hypercentres de Nantes et Saint-Nazaire (10 h–22 h) et de La Baule (9 h–18 h), où les Gilets jaunes nazairiens comptent se rendre, un couvre-feu des mineurs non accompagnés dans le centre de Nantes du samedi 21 h au dimanche 6 h et l'interdiction des artifices, carburants et armes par destination dans tout le département jusqu'au 18.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ICI Loire Océan",
+    "title": "À Nantes, des parents dépités et inquiets face aux blocages et fermetures de lycées qui durent",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-loire-ocean/a-nantes-des-parents-depites-et-inquiets-face-aux-blocages-et-fermetures-de-lycees-qui-durent-8553176",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Actu44",
+    "title": "Rassemblements de samedi : périmètres interdits, couvre-feu pour les mineurs et transports perturbés",
+    "url": "https://www.actu44.fr/rassemblements-de-samedi-perimetres-interdits-couvre-feu-pour-les-mineurs-et-transports-perturbes/",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Pour contourner l'interdiction de manifester en ville, les Gilets jaunes de Saint-Nazaire veulent se rendre à La Baule",
+    "url": "https://www.ouest-france.fr/societe/manifestation/pour-contourner-linterdiction-de-manifester-en-ville-les-gilets-jaunes-de-saint-nazaire-veulent-se-rendre-a-la-baule-846db06a-dd04-11f1-86b6-0a2fbb1d8ed9",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Samedi 14 novembre 2026 : interdictions préfectorales et parcours déclarés",
+    "url": "https://mavigilance.fr/jour/2026-11-14",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Rennes",
+  "dept": "35",
+  "place": "rectorat ; lycée Bréquigny ; université Rennes 2",
+  "type": "rassemblement",
+  "title": "Rassemblement inédit du SNPDEN devant le rectorat de Rennes ; Rennes 2 fermée jusqu'au 27 novembre au moins",
+  "summary": "Le SNPDEN rassemble les personnels de direction devant le rectorat au lendemain de l'intrusion violente au lycée Bréquigny (fermé jusqu'au 16), dont le proviseur maintient une réunion avec les élèves ce vendredi matin ; la présidence de Rennes 2 annonce que le campus Villejean, fermé depuis le 5 octobre après occupations et dégradations, restera inaccessible au moins jusqu'au 27 novembre en raison d'un « climat actuel » toujours très tendu ; le lycée Théodore-Monod du Rheu reste en distanciel.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "« Trop, c'est trop » : les cours à nouveau suspendus dans un lycée de Rennes après une intrusion très violente",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/trop-c-est-trop-les-cours-a-nouveau-suspendus-dans-un-lycee-de-rennes-apres-une-intrusion-tres-violente-3449040.html",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Blocage reconduit après la réunion de mardi : le lycée Théodore-Monod du Rheu reste fermé",
+    "url": "https://www.ouest-france.fr/bretagne/le-rheu-35650/blocage-reconduit-apres-la-reunion-de-mardi-le-lycee-theodore-monod-du-rheu-reste-ferme-ef0d2c6a-deb8-11f1-a62b-776e3051b0df",
+    "date": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "préfecture du Rhône ; université Lyon 2",
+  "type": "autre",
+  "title": "Le préfet du Rhône interdit tout rassemblement revendicatif dans le centre de Lyon le 14 et valide un parcours Manufacture des Tabacs–Jean-Macé",
+  "summary": "Le préfet Étienne Guyot annonce pour le samedi 14 l'interdiction de tout rassemblement revendicatif de 10 h à 20 h dans un périmètre incluant la place Bellecour, un dispositif renforcé (Centaure, hélicoptère, drones, Sentinelle, contrôles et fouilles sur réquisition) et valide la marche des collectifs Enfantiste 69 et climat de la Manufacture des Tabacs à la place Jean-Macé à 14 h ; les cours de l'université Lyon 2 sont suspendus depuis plus d'un mois.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Nouvelle manifestation sous haute surveillance ce samedi à Lyon : parcours, horaires, interdictions… ce qu'il faut savoir",
+    "url": "https://www.lyonmag.com/article/154917/nouvelle-manifestation-sous-haute-surveillance-ce-samedi-a-lyon-parcours-horaires-interdictions-ce-qu-il-faut-savoir",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "« On a l'impression d'être confinés » : à Lyon, les blocus universitaires pèsent sur le moral des étudiants",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/on-a-l-impression-d-etre-confines-a-lyon-les-blocus-universitaires-pesent-sur-le-moral-des-etudiants-3447414.html",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Samedi 14 novembre 2026 : interdictions préfectorales et parcours déclarés",
+    "url": "https://mavigilance.fr/jour/2026-11-14",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Poitiers",
+  "dept": "86",
+  "place": "lycée Victor-Hugo",
+  "type": "autre",
+  "title": "L'académie de Poitiers annonce deux plaintes pour intimidations et tentative d'incendie au lycée Victor-Hugo",
+  "summary": "Le recteur Nicolas Castoldi annonce le dépôt de deux plaintes : pour les intimidations visant la proviseure du lycée Victor-Hugo (appels à la démission après la levée policière du blocage de mardi) et pour la tentative d'incendie de jeudi soir (« on déposera plainte chaque fois qu'il y a des pressions, des intimidations et parfois des violences physiques »).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo (ICI Poitou)",
+    "title": "L'académie de Poitiers va déposer deux plaintes pour des intimidations et une tentative d'incendie survenues au lycée Victor-Hugo",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Aubervilliers",
+  "dept": "93",
+  "place": "place de la mairie",
+  "type": "rassemblement",
+  "title": "Rassemblement de SUD éducation 93 contre la répression des élèves à Aubervilliers",
+  "summary": "SUD éducation 93 appelle à un rassemblement à 18 h sur la place de la mairie d'Aubervilliers contre la répression des élèves mobilisés (sanctions disciplinaires et interpellations) ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "SUD éducation 93 (Bluesky)",
+    "title": "Rassemblement à 18 h contre la répression d'élèves, Aubervilliers",
+    "url": "https://bsky.app/profile/sudeducation93.bsky.social/post/3n257b4f6nk2d",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Vendredi 13 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-13",
+    "date": "2026-11-13"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Agenda et calendrier des grèves, novembre 2026",
+    "url": "https://mavigilance.fr/agenda/",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "city": "Fontenay-le-Comte",
+  "dept": "85",
+  "place": "square Coindreau",
+  "type": "rassemblement",
+  "title": "Rassemblement de midi au square Coindreau pour que les lycéens fontenaisiens puissent manifester sans être pénalisés",
+  "summary": "Un rassemblement est organisé entre 12 h et 14 h au square Coindreau, pendant la pause méridienne, pour permettre aux lycéens de Fontenay-le-Comte de continuer à porter leurs revendications sans risquer de sanctions ; aucun chiffre publié.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Un rassemblement au plus près des lycéens fontenaisiens s'organise pour qu'ils participent à la vie démocratique",
+    "url": "https://www.ouest-france.fr/societe/manifestation/un-rassemblement-au-plus-pres-des-lyceens-fontenaisiens-sorganise-pour-quils-participent-a-la-vie-democratique-ce05ab08-dce9-11f1-a62b-776e3051b0df",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+]
