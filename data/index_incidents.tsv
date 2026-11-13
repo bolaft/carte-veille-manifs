@@ -5,7 +5,7 @@ date	city	dept	category	title
 2026-09-28	Rosny-sous-Bois	93	autre	Un jeune en situation de handicap tasé dans le dos pendant son menottage
 2026-09-28	Saint-Ouen-l'Aumône	95	grenade	Eden, 14 ans, mâchoire fracturée par un tir de lance-grenades Cougar à bout portant
 2026-09-29	Argenteuil	95	gaz	Gaz lacrymogènes tirés sur des élèves pacifiques malgré l'interposition du maire Paul Vannier
-2026-09-29	Saint-Denis	93	garde-à-vue	Mohamed, 16 ans, 48 heures de garde à vue à quatre dans une cellule pour trois, un repas par jour, « sale petit Arabe »
+2026-09-29	Saint-Denis	93	répression	Mohamed, 16 ans, 48 heures de garde à vue à quatre dans une cellule pour trois, un repas par jour, « sale petit Arabe »
 2026-09-29	Saint-Denis	93	entrave-presse	Deux journalistes de BFM TV pris à partie devant le lycée Paul-Éluard
 2026-09-29	Sevran	93	coups	Charge de la police à cheval, gaz et insultes racistes devant le lycée Blaise-Cendrars ; trois élèves en garde à vue
 2026-09-29	Sevran	93	lbd	Lycéen touché aux jambes par un tir de LBD devant le lycée Blaise-Cendrars
@@ -19,26 +19,34 @@ date	city	dept	category	title
 2026-10-01	Argenteuil	95	lbd	Lycéen de 16 ans grièvement blessé à l'œil gauche par un tir de LBD
 2026-10-01	Belfort	90	véhicule	Une voiture banalisée de la BAC fonce vers des jeunes près du lycée Raoul-Follereau
 2026-10-01	Fontenay-sous-Bois	94	garde-à-vue	John, 17 ans : coups, insultes racistes et plus de trente heures en sous-vêtements
+2026-10-01	France		propagande	Matignon attribue le blocus des lycées à « LFI et ses proxys de l'ultragauche » sur la foi d'une note de renseignement qui ne le dit pas
 2026-10-01	Le Tampon	974	interpellation	Un mineur maintenu au sol, genou sur le cou, par un gendarme ; enquête pénale du parquet de Saint-Pierre
 2026-10-01	Lyon	69	nasse-dispersion	Manifestation lycéenne vers le rectorat dispersée au gaz par les CRS, jeunes nassés
 2026-10-01	Marseille	13	entrave-presse	Un correspondant de M6 blessé au front et sa caméra détruite à Marseille
 2026-10-01	Martigues	13	lbd	Sofia H., 16 ans, deux fractures sous l'œil gauche par un projectile ; information judiciaire
 2026-10-01	Metz	57	interpellation	Une lycéenne de 14 ans maintenue au sol, mains sur les cheveux puis la poitrine ; enquête classée sans suite
+2026-10-01	Montpellier	34	répression	Hérault : interdiction du port de masques, lunettes, casques et genouillères autour des lycées, validée par le TA de Montpellier puis par le Conseil d'État
 2026-10-01	Paris	75	interpellation	Karl, 15 ans, interpellé par trois policiers en civil, genou sur le cou, frappé dans la voiture, 48 h de garde à vue
 2026-10-01	Paris	75	entrave-presse	Un reporter indépendant contrôlé 25 minutes et sa caméra vérifiée
 2026-10-01	Rennes	35	coups	Des lycéens assis par terre délogés à coups de matraque
+2026-10-01	Saint-Ouen-l'Aumône	95	autre	Le Défenseur des droits se saisit d'office du tir de lance-grenades sur Eden, 14 ans
 2026-10-01	Savigny-sur-Orge	91	garde-à-vue	Adam, 16 ans : perquisition sans mandat, gifles pour obtenir le code de son téléphone, cellule sans matelas
 2026-10-01	Tournefeuille	31	interpellation	Leïla, 14 ans, tirée par le col et traînée sur la route, insultée, puis placée en garde à vue
 2026-10-01	Troyes	10	véhicule	Une voiture banalisée fonce vers des lycéens pendant que ses occupants gazent par les fenêtres
-2026-10-01	Vitry-sur-Seine	94	garde-à-vue	Un lycéen de 15 ans gardé douze heures sans avocat ni médecin, un sénateur trompé sur sa localisation
+2026-10-01	Vitry-sur-Seine	94	répression	Un lycéen de 15 ans gardé douze heures sans avocat ni médecin, un sénateur trompé sur sa localisation
 2026-10-02	Antony	92	garde-à-vue	Théo et Ali, 17 ans : gifles, menaces, 24 heures de garde à vue et un OPJ qui refuse l'appel aux parents
-2026-10-02	Aubervilliers	93	autre	Un homme en civil présenté comme policier frappe à la matraque la vitrine d'un fast-food où des lycéens s'étaient réfugi
+2026-10-02	Aubervilliers	93	autre	Un homme en civil présenté comme policier frappe à la matraque la vitrine d'un fast-food où des lycéens s'étaient réfugiés
 2026-10-02	Belfort	90	coups	Un commandant de police en civil accusé d'avoir tenté de noyer un lycéen de 17 ans lors de son interpellation
 2026-10-02	Belfort	90	véhicule	Une voiture banalisée de la BAC coupe la route à des manifestants et manque de les plaquer contre un bâtiment
 2026-10-02	Besançon	25	véhicule	Un motard de la police nationale avance quatre fois contre un cycliste pour le faire reculer
-2026-10-02	Céret	66	garde-à-vue	Elio, lycéen : sept heures de garde à vue pour des jets de citrons, propos sur son vote et fichage avant l'arrivée de l'
+2026-10-02	Céret	66	répression	Elio, lycéen : sept heures de garde à vue pour des jets de citrons, propos sur son vote et fichage avant l'arrivée de l'avocate
+2026-10-02	France		répression	Politique pénale de fermeté : Darmanin instruit les parquets, veut faire payer les parents et généraliser la confiscation des téléphones
+2026-10-02	France		répression	« Cessons de réprimer la jeunesse pour la faire taire » : le Syndicat de la magistrature dénonce la « brutalisation » du mouvement, la hiérarchie du parquet riposte
+2026-10-02	France		autre	Amnesty International France dénonce un usage disproportionné de la force et demande la suspension des tirs de LBD contre les lycéens
+2026-10-02	France		autre	Le Syndicat de la magistrature appelle à « cesser de réprimer la jeunesse pour la faire taire »
 2026-10-02	France		garde-à-vue	Violences, insultes racistes et sexistes, fouilles à nu : témoignages de lycéens mineurs en garde à vue
 2026-10-02	Fréjus	83	entrave-presse	Un journaliste de Var-Matin frappé à coups de matraque malgré sa carte de presse
+2026-10-02	Gien	45	propagande	Vidéos TikTok affirmant que l'armée a « ramené le tank » contre les lycéens (plus de 3,5 millions de vues cumulées)
 2026-10-02	Le Blanc-Mesnil	93	véhicule	Un policier municipal à moto monte sur le trottoir et heurte un lycéen devant le lycée Mozart
 2026-10-02	Le Tampon	974	interpellation	Un lycéen mineur plaqué au sol, genou sur le cou, lors d'une interpellation devant le lycée Roland-Garros (La Réunion)
 2026-10-02	Lyon	69	entrave-presse	Le téléphone d'une journaliste de Lyon Mag projeté au sol par un CRS
@@ -46,146 +54,386 @@ date	city	dept	category	title
 2026-10-02	Montélimar	26	véhicule	Une voiture de police traverse à vive allure un rond-point au milieu d'une centaine d'adolescents
 2026-10-02	Port-de-Bouc	13	véhicule	Le chef de poste de la police municipale fonce en voiture sur trois lycéens ; suspendu
 2026-10-02	Reims	51	grenade	Un policier de la BAC en civil et masqué filmé lançant une grenade lacrymogène vers des manifestants
+2026-10-02	Reims	51	répression	Marne : le préfet interdit les rassemblements aux abords des lycées de Reims du 2 au 6 octobre, sept établissements fermés
+2026-10-02	Rouen	76	répression	Audience express à Rouen : un lycéen de 18 ans condamné pour outrage à un stage de citoyenneté, relaxé des violences faute de preuves
+2026-10-02	Troyes	10	propagande	La préfecture de l'Aube présente la vidéo d'une voiture de police gazant des lycéens comme « isolée de son contexte » ; de nouvelles vidéos contredisent sa version
+2026-10-02	Épinal	88	répression	Épinal : l'interdiction préfectorale de tout rassemblement autour de cinq lycées suspendue par le tribunal administratif de Nancy pour imprécision
+2026-10-03	Belfort	90	propagande	Rumeur d'une « noyade » d'un lycéen par un policier à Belfort : le procureur dénonce une « prétendue vérité diffusée en quelques clics », la défense maintient
 2026-10-03	Strasbourg	67	gaz	Gazages massifs : six détresses respiratoires ou pertes de connaissance selon les secouristes de rue
+2026-10-04	France		propagande	Comptes étrangers d'extrême droite (Alex Jones, Tommy Robinson, Visegrad24, RadioGenoa, British Intel) recyclent de vieilles vidéos pour décrire une « guerre civile » en 
+2026-10-04	France		autre	52 avocats de la Conférence du stage dénoncent une « répression disproportionnée et violente » contre les lycéens
 2026-10-05	Bourgoin-Jallieu	38	véhicule	Une voiture de police banalisée fonce à plusieurs reprises vers des lycéens dans le parc des Lilattes
 2026-10-05	Caen	14	autre	Tesnim, 17 ans, poussée avec saisie de la poitrine ; signalement au procureur par une eurodéputée
 2026-10-05	Créteil	94	véhicule	Des motos de la BRAV-M lancées à 58-77 km/h sur une voie piétonne au milieu de groupes de jeunes
 2026-10-05	Dunkerque	59	véhicule	Un 4×4 de la police nationale fonce à plusieurs reprises sur des lycéens dressant une barricade
+2026-10-05	France		répression	Premier bilan judiciaire du ministère de la Justice : 5 060 gardes à vue, dont 87 % de mineurs, 14 détentions provisoires
+2026-10-05	France		répression	Projet de loi « casseurs-payeurs » : présenté en Conseil des ministres le 16 septembre, son examen est accéléré au Sénat pour le 27 octobre en réponse au mouvement lycéen
+2026-10-05	France		autre	Amnesty International appelle les autorités à « apaiser les tensions » à la veille des manifestations lycéennes du 6 octobre
+2026-10-05	France		autre	La Commission européenne (Roxana Mînzatu) devant le Parlement européen : les lycéens ont droit à un maintien de l'ordre « proportionné et légal »
+2026-10-05	France		autre	La LDH dénonce « une dérive globale par rapport à l'État de droit » dans la gestion policière du mouvement lycéen
+2026-10-05	France		autre	Le Syndicat des avocats de France critique un maintien de l'ordre qui « ne privilégie absolument pas une désescalade »
 2026-10-05	Lens	62	grenade	Evan, 15 ans, perd la main gauche dans l'explosion d'une grenade assourdissante près du lycée Auguste-Béhal
 2026-10-05	Metz	57	gaz	Des élèves installant des chaises dans la rue gazés en quelques minutes
-2026-10-05	Nanterre	92	autre	Le préfet des Hauts-de-Seine convoque trois familles de lycéens interpellés et publie des photos de la réunion
+2026-10-05	Montpellier	34	autre	L'Observatoire des libertés publiques de Montpellier liste des « faits préoccupants » lors des blocages des 1er et 2 octobre
+2026-10-05	Nanterre	92	répression	Le préfet des Hauts-de-Seine convoque trois familles de lycéens interpellés et publie des photos de la réunion
 2026-10-05	Orléans	45	coups	Charge visant enseignants et élus, un conseiller municipal PCF poussé au sol et insulté
 2026-10-05	Paris	75	coups	Mohammed, 17 ans, matraqué à la tête par un policier en civil sans aucun signe distinctif
-2026-10-05	Paris	75	nasse-dispersion	CRS appelés en pleine assemblée générale : nasse de quatre heures, un technicien CGT frappé au visage avec une bombe lac
-2026-10-06	Angoulême	16	autre	La préfecture demande aux conducteurs de bus de signaler par un code « tout déplacement important de groupes de jeunes »
+2026-10-05	Paris	75	nasse-dispersion	CRS appelés en pleine assemblée générale : nasse de quatre heures, un technicien CGT frappé au visage avec une bombe lacrymogène
+2026-10-05	Rouen	76	répression	Fermetures administratives de lycées et « continuité pédagogique » en distanciel pour casser les regroupements : 23 lycées sur 72 fermés en Seine-Maritime le 5 octobre
+2026-10-05	Tours	37	répression	Le SAF obtient la suspension des arrêtés interdisant les rassemblements autour des lycées de Tours (et des drones)
+2026-10-06	Angoulême	16	répression	La préfecture demande aux conducteurs de bus de signaler par un code « tout déplacement important de groupes de jeunes »
 2026-10-06	Dijon	21	grenade	Traumatisme crânien, palet dans le dos, jambe blessée par une grenade : des adolescents soignés par une doctorante
-2026-10-06	Le Bourget	93	garde-à-vue	Deux mineurs encerclés puis gardés 24 heures (prolongées) pour refus de donner le code de leur téléphone
+2026-10-06	Dunkerque	59	propagande	Doutes sur l'authenticité de la vidéo du 4×4 de police fonçant sur des lycéens à Dunkerque : France 3 confirme qu'elle n'est ni ancienne ni générée par IA
+2026-10-06	France		propagande	Donald Trump attribue le mouvement lycéen à « l'islam » et à une « immigration de masse hors de contrôle »
+2026-10-06	France		propagande	Téhéran dénonce la « violente répression » des lycéens ; Paris parle de « campagne de désinformation » et convoque l'ambassadeur d'Iran
+2026-10-06	France		autre	La CNCDH appelle à la désescalade et s'inquiète de l'instruction du ministre de l'Intérieur aux préfets
+2026-10-06	Le Bourget	93	répression	Deux mineurs encerclés puis gardés 24 heures (prolongées) pour refus de donner le code de leur téléphone
 2026-10-06	Montpellier	34	entrave-presse	Le journaliste indépendant Samuel Clauzier frappé à trois reprises par des CRS
-2026-10-06	Montreuil	93	interpellation	Un élève de sixième de 11 ans interpellé en pleurs
+2026-10-06	Montreuil	93	répression	Un élève de sixième de 11 ans interpellé en pleurs
 2026-10-06	Paris	75	gaz	Palets lacrymogènes brûlant lycéens et étudiants à Nation, pompiers gazés, matraquages à la tête boulevard Voltaire
 2026-10-06	Paris	75	entrave-presse	Mike Strachinescu (L'Humanité) saisi à la gorge à deux reprises par un CRS
 2026-10-06	Paris	75	entrave-presse	Miguel Martinez (Canal Catorce) reçoit plusieurs coups de matraque lors d'une charge
+2026-10-06	Paris	75	propagande	Manon Aubry (LFI) affirme que la police utilise des boucliers stroboscopiques « pour empêcher journalistes et citoyens de filmer » (700 000 vues)
+2026-10-06	Paris	75	répression	Le barreau de Paris s'alarme du « recours massif » à la garde à vue de mineurs : seul un tiers des gardés à vue est poursuivi
+2026-10-06	Paris	75	autre	Deux observateurs de l'Observatoire parisien des libertés publiques blessés par une grenade assourdissante à Nation
+2026-10-06	Paris	75	autre	Le Conseil de l'Ordre des avocats de Paris s'inquiète du recours massif à la garde à vue de mineurs
 2026-10-06	Paris	75	gaz	Le maire de Saint-Denis Bally Bagayoko touché par du gaz lacrymogène dans le cortège parisien
 2026-10-06	Rennes	35	coups	Une travailleuse sociale giflée par un policier après un échange de quelques mots
 2026-10-06	Strasbourg	67	lbd	Un jeune touché au visage par un tir de LBD de la CSI ; enquête du parquet
-2026-10-06	Strasbourg	67	interpellation	Laura, lycéenne, interpellée par des CRS pour sa pancarte « On veut le bac pas la BAC / ACAB » et poursuivie pour outrag
-2026-10-06	Strasbourg	67	garde-à-vue	Ali M., street medic de 18 ans : 53 heures de garde à vue sur une accusation jugée floue
-2026-10-07	France		garde-à-vue	Gardes à vue massives de lycéens mineurs : insultes, humiliations, propos racistes et sexistes dénoncés par les avocats
+2026-10-06	Strasbourg	67	répression	Laura, lycéenne, interpellée par des CRS pour sa pancarte « On veut le bac pas la BAC / ACAB » et poursuivie pour outrage
+2026-10-06	Strasbourg	67	répression	Ali M., street medic de 18 ans : 53 heures de garde à vue sur une accusation jugée floue
+2026-10-07	Arpajon	91	répression	Essonne : le tribunal administratif de Versailles valide l'interdiction de rassemblement devant trois lycées pour la journée du 8 octobre
+2026-10-07	France		répression	Gardes à vue massives de lycéens mineurs : insultes, humiliations, propos racistes et sexistes dénoncés par les avocats
+2026-10-07	France		propagande	Fausse vidéo générée par IA d'un jeune menotté frappé par un policier (« La bavure en direct ! », 650 000 vues) et fausse photo d'une policière frappée à la tête
+2026-10-07	France		autre	Amnesty International France réclame l'interdiction définitive de toutes les grenades assourdissantes
+2026-10-07	France		autre	L'UNICEF France appelle à la désescalade et au respect des droits des enfants mobilisés
+2026-10-07	Gennevilliers	92	répression	Un lycéen arrêté en plein cours au lycée Galilée de Gennevilliers : la direction ouvre les trombinoscopes à la police et fait chercher l'élève en classe
 2026-10-07	Marseille	13	coups	Enzo, 17 ans, frappé à la tête d'un coup de matraque par un CRS devant son lycée (six points de suture)
 2026-10-07	Martigues	13	lbd	Une lycéenne de 17 ans blessée à l'œil et au nez par un projectile lors d'un blocus à Martigues
+2026-10-07	Paris	75	répression	Arrêté de la préfecture de police interdisant les équipements de protection à 100 mètres des lycées : saisies de lunettes de piscine, de sérum physiologique et de boules 
+2026-10-07	Saint-Pierre	974	répression	La Réunion : quinze mineurs déférés sous contrôle judiciaire avec couvre-feu et interdiction de manifester, convoqués devant le juge des enfants
+2026-10-07	Toulouse	31	répression	Haute-Garonne : l'arrêté interdisant les manifestations devant 45 lycées désavoué par le tribunal administratif de Toulouse
+2026-10-08	France		répression	6 877 gardes à vue en trois semaines, plus que pendant les dix mois des Gilets jaunes : le bilan du 8 octobre
 2026-10-08	Nancy	54	grenade	Un policier filmé effectuant un tir tendu au lanceur Cougar lors de la manifestation lycéenne
-2026-10-08	Paris	75	coups	Charge de la 12e compagnie d'intervention : Marine, 26 ans, renversée au bouclier et frappée à la tête, un lycéen de 18 
+2026-10-08	Paris	75	coups	Charge de la 12e compagnie d'intervention : Marine, 26 ans, renversée au bouclier et frappée à la tête, un lycéen de 18 ans au crâne ouvert
 2026-10-08	Paris	75	coups	Coup de genou d'un policier sur un manifestant de 18 ans place de la Bastille (ITT supérieure à 8 jours)
 2026-10-08	Paris	75	coups	Un policier enfonce sa matraque entre les fesses d'un manifestant de 19 ans ; plainte pour agression sexuelle
 2026-10-08	Paris	75	autre	Cécile, 31 ans : main entre les jambes d'un CRS cagoulé ; parquet de Paris, IGPN saisie
 2026-10-08	Paris	75	entrave-presse	Le photographe Patrick Wack (Wall Street Journal) touché à l'oreille par un tir de LBD à bout portant
 2026-10-08	Toulouse	31	coups	Idriss, 20 ans, nez fracturé par un coup de matraque lors d'une charge
-2026-10-10	Aix-en-Provence	13	extrême-droite	« On cherche de l'arabe » : trois étudiants agressés par des militants du Maquis et des Jeunes d'Oc ; une policière met 
-2026-10-10	France		autre	« Bismillah c'est les ténèbres » : des lycéens soupçonnent des policiers d'infiltrer leurs groupes Snapchat sous de faux
+2026-10-09	France		répression	« L'État de droit ne se négocie pas » : le Conseil national des barreaux rappelle le droit des mineurs à un avocat à tous les stades
+2026-10-09	France		autre	Des avocats (CAJ, Legal Team Paris, SAF) dénoncent « insultes et pressions » contre des mineurs en garde à vue
+2026-10-09	France		autre	LDH, FIDH et OMCT dénoncent la « violente répression du mouvement lycéen » et saisissent l'opinion internationale
+2026-10-09	France		autre	Le Haut-Commissariat de l'ONU aux droits de l'homme suit « avec inquiétude » les incidents liés aux manifestations lycéennes
+2026-10-09	France		autre	RSF recense au moins douze journalistes agressés ou intimidés lors des mobilisations lycéennes
+2026-10-09	Paris	75	extrême-droite	« Waffen Assas » : les bloqueurs de Panthéon-Assas attaqués les 9 et 13 octobre par des militants d'ultradroite (héritiers du GUD, Cocarde étudiante)
+2026-10-10	Aix-en-Provence	13	extrême-droite	« On cherche de l'arabe » : trois étudiants agressés par des militants du Maquis et des Jeunes d'Oc ; une policière met en doute le caractère raciste
+2026-10-10	France		répression	« Bismillah c'est les ténèbres » : des lycéens soupçonnent des policiers d'infiltrer leurs groupes Snapchat sous de faux profils
+2026-10-10	France		propagande	L'eurodéputé RN Matthieu Valet prend un sketch de L'Humanité sur un policier infiltré pour un reportage et dénonce des « fake news »
+2026-10-10	France		propagande	Bilans fluctuants et opaques des policiers blessés (761, 997, 1 144, puis 53 et 267) : des chiffres officiels invérifiables contestés par des médias militants et des parl
+2026-10-10	France		autre	Le Défenseur des droits fait état de 28 saisines et appelle à « concilier la sécurité et la protection des droits »
+2026-10-12	Bordeaux	33	autre	L'Observatoire girondin des libertés publiques alerte sur la BAC intégrée au dispositif et la saturation de Bordeaux en gaz lacrymogène
+2026-10-12	France		propagande	Fausses pancartes de lycéens truffées de fautes générées par IA (« On veux juste étudié… »), relayées par un élu RN pour discréditer le mouvement
+2026-10-12	France		autre	La Fédération européenne des journalistes exige des sanctions immédiates après treize incidents visant des journalistes
+2026-10-12	Montpellier	34	répression	Drones autorisés autour de sept lycées bloqués de Montpellier : le tribunal administratif rejette le référé-liberté
+2026-10-12	Montpellier	34	autre	L'Observatoire des libertés publiques de Montpellier publie un rapport sur la police municipale dans le maintien de l'ordre (sept. 2025 – oct. 2026)
+2026-10-12	Strasbourg	67	autre	L'Observatoire strasbourgeois des libertés publiques dénonce des « pratiques violentes » et des entraves à l'observation le 6 octobre
+2026-10-13	Dieppe	76	répression	Un lycéen de Dieppe en garde à vue pour avoir crié « Nique la police »
+2026-10-13	France		autre	La plateforme de signalement de la LDH recueille une centaine de témoignages de violences policières en une semaine
+2026-10-13	France		autre	Le Conseil national des barreaux : « l'État de droit ne se négocie pas, il se respecte »
 2026-10-13	Lyon	69	coups	Des CRS chargent la banderole de l'intersyndicale enseignante et frappent des membres du service d'ordre
 2026-10-13	Paris	75	entrave-presse	Anthony Monnerot (Line Press) blessé à la jambe par une grenade GL-304
 2026-10-13	Paris	75	grenade	Une manifestante blessée à la cuisse par un éclat de grenade
+2026-10-13	Paris	75	répression	Manifestation lycéenne du 13 octobre : la préfecture de police autorise les drones par arrêté (n° 2026-01324) et ferme cinq stations de métro
 2026-10-13	Paris	75	grenade	Grenades assourdissantes GL-304 place Vauban : un policier semble grièvement blessé par l'explosion de l'une d'elles
 2026-10-13	Toulouse	31	autre	Matis, 27 ans, plaqué contre un mur et touché aux fesses et au sexe par des policiers en civil
+2026-10-14	France		propagande	Le ministre Philippe Baptiste affirme que seuls « 38 » bacheliers sont restés sans solution sur Parcoursup en 2025 : un chiffre exact mais trompeur
+2026-10-14	France		répression	Près de 8 000 gardes à vue en un mois : 7 950 GAV dont 6 773 mineurs, 1 263 classements sans suite et 26 détentions provisoires
+2026-10-14	France		autre	Human Rights Watch : les manifestations lycéennes « accueillies par un recours excessif à la force »
+2026-10-14	Lille	59	extrême-droite	Paul, 19 ans, étudiant à ESPOL, roué de coups de pied par des militants revendiqués de la Cocarde lilloise et de Génération Zemmour ; enquête pour violences en réunion
+2026-10-14	Nancy	54	autre	Des observateurs de la LDH à Nancy dénoncent un tir tendu de lance-grenades et d'avoir été bousculés par la police (8 octobre)
 2026-10-14	Saint-Denis	93	coups	Élèves plaqués contre un mur et matraqués, gazés sans sommation, fouilles de téléphones et menaces
-2026-10-15	France		autre	Confiscations de pancartes par la police : le ministre reconnaît des saisies injustifiées
-2026-10-15	Saint-Denis	93	interpellation	Des policiers de la BAC en civil entrent dans le lycée Paul-Éluard pour interpeller un élève ; les personnels s'interpos
-2026-10-15	Seine-Saint-Denis (commune non précisée)	93	garde-à-vue	Une lycéenne de 17 ans interpellée à son domicile et placée en garde à vue
+2026-10-15	France		propagande	Fausses citations « officielles » attribuant des menaces contre les manifestants à Sébastien Lecornu, Catherine Vautrin et au préfet Patrice Faure (compte TikTok Gurumedi
+2026-10-15	France		répression	Confiscations de pancartes par la police : le ministre reconnaît des saisies injustifiées
+2026-10-15	Lyon	69	répression	Lyon : la préfecture du Rhône interdit les deux manifestations lycéennes et étudiantes du 15 octobre, après avoir autorisé les drones dès le 6 octobre
+2026-10-15	Saint-Denis	93	interpellation	Des policiers en civil interpellent un élève dans l'enceinte du lycée Paul-Éluard
+2026-10-15	Saint-Denis	93	répression	Des policiers de la BAC en civil entrent dans le lycée Paul-Éluard pour interpeller un élève ; les personnels s'interposent
+2026-10-15	Seine-Saint-Denis (commune non précisée)	93	répression	Une lycéenne de 17 ans interpellée à son domicile et placée en garde à vue
 2026-10-15	Strasbourg	67	gaz	Évacuation de l'entrée du lycée par la force et au gaz ; menaces de la direction de transmettre des noms à la police
+2026-10-15	Strasbourg	67	répression	Touché par un tir de LBD, un étudiant strasbourgeois est condamné pour des doigts d'honneur adressés à la police
+2026-10-15	Strasbourg	67	autre	L'Oslib documente des interpellations dissimulées par la BAC et des grenades GL-304 lancées dans les jambes des manifestants (13 octobre)
+2026-10-16	Paris	75	répression	17 octobre à Paris : secteurs interdits autour des lieux de pouvoir et parcours imposé vers la place de Clichy faute d'accord avec les organisateurs
 2026-10-17	Besançon	25	coups	Une manifestante pacifiste gazée sans sommation puis frappée au sol à coups de matraque et de pied
 2026-10-17	Besançon	25	coups	Un jeune homme plaqué au sol et frappé de cinq coups de matraque ; enquête confiée à la cellule déontologie
 2026-10-17	Bordeaux	33	gaz	Grenades et gaz sur des familles, un adolescent de 14 ans gazé à plusieurs reprises, charge de CRS devant la mairie
 2026-10-17	Clermont-Ferrand	63	lbd	Un manifestant s'effondre, touché au visage par un tir de LBD (« J'ai cru qu'il était mort »)
+2026-10-17	Créteil	94	propagande	Influenceurs poursuivis pour des appels ou propos « illicites » autour du 17 octobre (Rayan PSN : « le 17, c'est war zone » ; Manon Delcourt)
 2026-10-17	Dijon	21	grenade	Un lycéen de 16 ans blessé à l'œil et à la jambe place Darcy ; IGGN saisie, IGPN co-saisie
+2026-10-17	France		propagande	Laurent Nuñez assure que « le dispositif n'était pas sous-dimensionné » le 17 octobre ; Gérald Darmanin admet deux jours plus tard « nous avons failli, incontestablement 
+2026-10-17	France		propagande	Sur LCI, l'ex-instructeur du RAID Bruno Pomart qualifie les émeutiers de « révolutionnaires d'Allah » ; la chaîne se désolidarise
+2026-10-17	France		répression	Dépêche du 17 octobre : Darmanin exige des parquets une réponse judiciaire « extrêmement ferme », puis salue les premières détentions provisoires
 2026-10-17	France		entrave-presse	Une trentaine de journalistes agressés ou empêchés de travailler depuis le début des mobilisations (RSF)
 2026-10-17	Grenoble	38	coups	Un homme matraqué puis relâché, filmé depuis un balcon
 2026-10-17	Grenoble	38	grenade	Plusieurs manifestants et passants blessés à Grenoble les 17 et 24 octobre (grenade de désencerclement, matraque)
-2026-10-17	Limoges	87	autre	Des policiers accusés à tort d'avoir volé des chaussures dans un magasin Lacoste pillé (enquête pour dénonciation calomn
 2026-10-17	Lyon	69	grenade	Matthieu, 23 ans : plaie de 6 à 8 cm à la cuisse et éclat métallique, 21 jours d'ITT
 2026-10-17	Lyon	69	coups	Série de matraquages filmés à Lyon : coups à la tête, clé de cou, trois agrafes rue Grenette
-2026-10-17	Marseille	13	grenade	Oliv, 21 ans, mollet déchiré par un éclat de grenade de désencerclement sur la Canebière ; un jeune homme blessé à l'œil
+2026-10-17	Marseille	13	grenade	Oliv, 21 ans, mollet déchiré par un éclat de grenade de désencerclement sur la Canebière ; un jeune homme blessé à l'œil sur le Vieux-Port
 2026-10-17	Marseille	13	grenade	Trois autres blessés graves par grenades GM2L le même soir : quadruple fracture du pied, cheville délabrée, tibia ouvert
 2026-10-17	Marseille	13	autre	Un jeune homme blessé à l'œil sur le Vieux-Port
 2026-10-17	Marseille	13	gaz	Gaz lacrymogènes tirés sur le cortège à la gare Saint-Charles
 2026-10-17	Metz	57	grenade	Policiers en civil lançant des grenades lacrymogènes dans le cortège et interpellations musclées à Metz
 2026-10-17	Montpellier	34	lbd	Le photojournaliste Ricardo Parreira touché à la jambe par un tir de LBD (deux jours d'ITT)
-2026-10-17	Mulhouse	68	grenade	Maïssa, 17 ans, sortie d'un kebab, perd l'œil gauche après un tir tendu de grenade lacrymogène ; IGPN saisie, plainte le
+2026-10-17	Mulhouse	68	grenade	Maïssa, 17 ans, sortie d'un kebab, perd l'œil gauche après un tir tendu de grenade lacrymogène ; IGPN saisie, plainte le 28 octobre
 2026-10-17	Nantes	44	coups	Un manifestant isolé renversé et frappé par un CRS place du Commerce
 2026-10-17	Nice	06	extrême-droite	Un homme passé à tabac par 20 à 30 militants d'extrême droite cagoulés et en gilets jaunes
 2026-10-17	Paris	75	extrême-droite	Des militants proches du GUD parmi les casseurs des barricades près de l'Élysée
 2026-10-17	Paris	75	gaz	Premiers tirs de gaz de la BRAV-M sur une foule sans menace, l'Orchestre du Nouveau Monde gazé en pleine répétition
 2026-10-17	Paris	75	grenade	Le photographe Ahmed B., 25 ans, artère fémorale sectionnée par un éclat de grenade ; enquête IGPN pour mutilation
 2026-10-17	Paris	75	gaz	Liam, 17 ans, touché à la tête par une grenade lacrymogène tirée à courte distance par un CRS
-2026-10-17	Paris	75	coups	Rafael, 17 ans, encerclé et roué de coups par une compagnie d'intervention ; enquête IGPN pour violences avec arme en ré
+2026-10-17	Paris	75	coups	Rafael, 17 ans, encerclé et roué de coups par une compagnie d'intervention ; enquête IGPN pour violences avec arme en réunion
 2026-10-17	Paris	75	gaz	Alaric, 19 ans, brûlé au second degré par une grenade lacrymogène tirée en tir tendu
 2026-10-17	Paris	75	coups	Annaelle, 24 ans, frappée à la tête par-derrière après un tir de la BRAV-M : traumatisme crânien, deux agrafes
 2026-10-17	Paris	75	coups	Thomas, 20 ans, crâne ouvert par un coup de matraque : six agrafes ; enquête IGPN pour violences par PDAP
-2026-10-17	Paris	75	coups	Des salariés d'un restaurant qui abritaient des manifestants gazés frappés par la 12e compagnie d'intervention après l'e
-2026-10-17	Paris	75	interpellation	Issa, 17 ans, frappé, menotté puis utilisé comme « bouclier humain » pendant près d'une heure par des policiers en civil
-2026-10-17	Paris	75	coups	Yani, 15 ans, frappé et dépouillé (AirPods, casquette, chaussures) par des policiers d'une compagnie d'intervention ; en
-2026-10-17	Paris	75	coups	Groupe d'amis violentés vers 21 h : bras fracturé sous une roue de la BRAV-M, triple fracture du visage, plaie de 10 cm 
+2026-10-17	Paris	75	coups	Des salariés d'un restaurant qui abritaient des manifestants gazés frappés par la 12e compagnie d'intervention après l'enfoncement de la vitrine
+2026-10-17	Paris	75	interpellation	Issa, 17 ans, frappé, menotté puis utilisé comme « bouclier humain » pendant près d'une heure par des policiers en civil cagoulés
+2026-10-17	Paris	75	coups	Yani, 15 ans, frappé et dépouillé (AirPods, casquette, chaussures) par des policiers d'une compagnie d'intervention ; enquête pour vol par PDAP
+2026-10-17	Paris	75	coups	Groupe d'amis violentés vers 21 h : bras fracturé sous une roue de la BRAV-M, triple fracture du visage, plaie de 10 cm au crâne
 2026-10-17	Paris	75	autre	Bienvenido, 18 ans, encerclé par sept CRS : tentative alléguée de le contraindre à une fellation avec une matraque
 2026-10-17	Paris	75	lbd	Un jeune homme de 20 ans, non émeutier, doigt cassé et main ouverte par un tir de LBD (six semaines d'arrêt)
 2026-10-17	Paris	75	coups	Soirée du 17 octobre : série de matraquages filmés de personnes au sol ou plaquées, sans interpellation
 2026-10-17	Paris	75	entrave-presse	Mathias Enthoven, cofondateur de Blast, hospitalisé après un éclat de grenade de désencerclement dans l'abdomen
 2026-10-17	Paris	75	entrave-presse	Journalistes mis en joue au LBD, fouillés, privés de leurs protections ou tenus à l'écart des opérations
-2026-10-17	Paris	75	autre	Douze manifestants étrangers placés en centre de rétention après le 17 octobre, un expulsé
-2026-10-17	Paris	75	garde-à-vue	Après les 557 gardes à vue parisiennes : cellules bondées, pressions pour renoncer à l'avocat, matelas et toilettes manq
+2026-10-17	Paris	75	répression	Douze manifestants étrangers placés en centre de rétention après le 17 octobre, un expulsé
+2026-10-17	Paris	75	répression	Après les 557 gardes à vue parisiennes : cellules bondées, pressions pour renoncer à l'avocat, matelas et toilettes manquants
 2026-10-17	Paris	75	décès	Mort d'un manifestant de 59 ans, Christophe M., boulevard de Magenta
 2026-10-17	Paris	75	coups	Un manifestant blessé au crâne près de la gare du Nord dépose plainte ; enquête IGPN
 2026-10-17	Paris	75	interpellation	Antoine, street medic de 26 ans, frappé par des CRS et traîné inconscient au sol ; enquête IGPN
 2026-10-17	Paris	75	coups	Un homme plaqué contre une devanture et frappé à coups de matraque, la tête projetée sur l'asphalte (23 h 14)
+2026-10-17	Paris	75	propagande	Le « couple d'octogénaires dépouillés et dénudés » : une information de source policière lancée sur BFMTV, illustrée par une image générée par IA vue 6 à 10 millions de f
+2026-10-17	Paris	75	propagande	Image aérienne de « Paris en feu » générée par IA (plus de 500 000 likes sur Instagram, hashtags #civilwar et #ww3)
 2026-10-17	Perpignan	66	coups	Un policier donne un coup de pied dans la tête d'un manifestant tombé au sol lors d'une charge
-2026-10-17	Rouen	76	extrême-droite	« Marche des Normands » identitaire : contre-manifestants antifascistes roués de coups, un prestataire du RN identifié s
-2026-10-17	Saint-Étienne	42	grenade	Un adolescent de 17 ans a la main droite arrachée par une grenade ; IGPN et IGGN co-saisies, plainte contre Laurent Nuñe
+2026-10-17	Rouen	76	extrême-droite	« Marche des Normands » identitaire : contre-manifestants antifascistes roués de coups, un prestataire du RN identifié sur les images
+2026-10-17	Saint-Étienne	42	grenade	Un adolescent de 17 ans a la main droite arrachée par une grenade ; IGPN et IGGN co-saisies, plainte contre Laurent Nuñez devant la CJR
 2026-10-17	Strasbourg	67	lbd	Un homme de 27 ans perd l'usage de l'œil droit après un tir de LBD près du pont du Corbeau ; enquête IGPN
 2026-10-17	Strasbourg	67	coups	Un manifestant plaqué contre un fourgon, coup de genou au ventre et coup de poing à l'arrière de la tête
+2026-10-17	Toulouse	31	répression	17 octobre à Toulouse : rassemblements non déclarés interdits dans le centre de 7 h à 22 h, artifices et carburant prohibés, captation d'images et drones autorisés
 2026-10-17	Tours	37	extrême-droite	Des militants d'extrême droite proches des hooligans posent devant la basilique Saint-Martin avec des slogans xénophobes
-2026-10-18	Bobigny	93	garde-à-vue	Des mineurs enfermés dans le froid et l'insalubrité au dépôt de Bobigny
+2026-10-18	Bobigny	93	répression	Des mineurs enfermés dans le froid et l'insalubrité au dépôt de Bobigny
+2026-10-18	France		propagande	L'exécutif impute les violences du 17 octobre à des « factieux » et « groupes d'ultragauche » organisés ; la procureure de Paris ne peut « absolument pas confirmer »
+2026-10-18	France		propagande	Sur CNews, la journaliste du JDD Lara Tchekov affirme « selon la DGSI » que des émeutiers islamistes détenaient kalachnikovs et pistolets-mitrailleurs Scorpion : « complè
+2026-10-18	France		propagande	« La France brûle ! » : Donald Trump et JD Vance imputent les émeutes à l'immigration et exploitent les images des violences en meeting ; Macron dénonce une « manipulatio
+2026-10-18	France		propagande	Vidéos étrangères (manifestation pro-UE en Géorgie de 2024, défilé militaire) et images retouchées présentées comme les émeutes françaises du 17 octobre
+2026-10-18	France		propagande	« Policiers déguisés en casseurs » : des vidéos de Paris, Metz et Reims présentées comme la preuve de provocations policières
+2026-10-18	Limoges	87	propagande	Le Média accuse « deux policiers » de piller des chaussures dans une boutique Lacoste (3 millions de vues) : saisie judiciaire selon le parquet, enquête pour dénonciation
+2026-10-18	Limoges	87	propagande	Après l'incendie de la mairie de Limoges, David Lisnard évoque des « camps d'entraînement de terroristes » sur le plateau de Millevaches ; le PNAT n'a aucun signalement
+2026-10-18	Marseille	13	propagande	La préfecture des Bouches-du-Rhône avance « 30 000 pilleurs » à Marseille ; la mairie parle d'un chiffre « ridicule » et de 1 000 à 1 500 pilleurs
+2026-10-18	Marseille	13	propagande	Paul Amar affirme sur CNews que les pilleurs marseillais ont incendié « tous les commerces appartenant à des Juifs » en épargnant ceux des musulmans
 2026-10-18	Paris	75	coups	Un CRS assène deux coups de poing au visage d'un manifestant interpellé, en direct sur LCI
-2026-10-18	Paris	75	garde-à-vue	Commissariats saturés et conditions de garde à vue « contraires à la dignité humaine » à Paris
+2026-10-18	Paris	75	propagande	Fausse rumeur de la mort d'un « street medic » frappé par des CRS place de la République
+2026-10-18	Paris	75	propagande	La « Panthère rose » des manifestations : des photomontages IA d'un artiste présentés comme des images du 17 octobre
+2026-10-18	Paris	75	propagande	L'intrusion dans la synagogue Ohalei Yaakov attribuée aux manifestants du 17 octobre et à « l'islamo-gauchisme » (Éric Ciotti)
+2026-10-18	Paris	75	propagande	Une vidéo de manifestants criant « 17 octobre » présentée comme des militants d'Urgence Palestine scandant « Vive le 7 octobre »
+2026-10-18	Paris	75	répression	Commissariats saturés et conditions de garde à vue « contraires à la dignité humaine » à Paris
+2026-10-19	Bordeaux	33	répression	Bordeaux : couvre-feu pour les mineurs non accompagnés de 22 h à 7 h dans l'hypercentre du 20 au 26 octobre, manifestations renvoyées hors du centre commerçant
+2026-10-19	France		propagande	« On nous demande d'écrire que LFI est derrière le mouvement » : Mediapart révèle des consignes au renseignement territorial pour fabriquer un bouc émissaire
+2026-10-19	France		propagande	Jordan Bardella désigne les pilleurs du 17 octobre comme « l'armée du crime », slogan de l'Affiche rouge de la propagande nazie et vichyste
+2026-10-19	France		propagande	Éric Zemmour (« horde de barbares maghrébins et africains », « la plupart » des auteurs binationaux) et Marion Maréchal lient les violences à l'immigration : « aucune pre
+2026-10-19	France		répression	Qualification de « criminalité organisée » pour porter les gardes à vue à 72 heures : l'instruction de Darmanin à tous les parquets
+2026-10-19	France		répression	Circulaire Jeanbrun-Darmanin : les revenus tirés de la revente de produits volés déduits des aides sociales (APL, CAF)
+2026-10-19	France		répression	Télégramme et note de Laurent Nuñez aux préfets : interdire les manifestations « à risque » du 24 octobre, arrêtés périmétriques et couvre-feux partiels
+2026-10-19	France		répression	Drones et hélicoptères généralisés au-dessus des cortèges depuis le 17 octobre : arrêtés publiés au dernier moment, loi Ripost de juillet 2026 et critiques de La Quadratu
+2026-10-19	France		autre	Débat d'urgence au Parlement européen sur les émeutes en France : l'hémicycle se divise sur les violences et le droit de manifester
+2026-10-19	France		autre	LDH : « l'urgence d'une refondation du contrat social » après les « violences indiscriminées et disproportionnées » du 17 octobre
+2026-10-19	France		répression	LDH et SAF contestent jusqu'au Conseil d'État l'interdiction des équipements de protection individuelle dans l'Hérault
+2026-10-19	France		répression	La Commission européenne : « ceux qui manifestent pacifiquement ne doivent pas être confondus avec ceux qui commettent des violences »
+2026-10-19	Grenoble	38	répression	Dix hommes jugés en comparution immédiate à Grenoble pour les pillages du 17 octobre : jusqu'à huit mois ferme
+2026-10-19	Lille	59	répression	Nord : couvre-feu pour les mineurs de 20 h à 6 h instauré dès le 19 octobre à Lille, Douai, Wattignies et Denain
 2026-10-19	Lyon	69	extrême-droite	Défilé identitaire après un rassemblement « pour les commerçants » : le préfet, « furieux », saisit le procureur
+2026-10-19	Lyon	69	répression	Lyon : couvre-feu de 21 h à 6 h sur la Presqu'île et interdiction des rassemblements dès 16 h, reconduits soir après soir par le préfet du Rhône
+2026-10-19	Marseille	13	répression	Marseille : tout rassemblement interdit sur l'ensemble de la commune de 12 h à 20 h le lundi 19 octobre après les pillages du week-end
+2026-10-19	Metz	57	répression	Six hommes en comparution immédiate à Metz après le 17 octobre : des peines de sursis, pas de mandat de dépôt
 2026-10-19	Paris	75	autre	Deux mineurs palpés par des CRS, main entre les jambes de l'un d'eux pendant dix secondes
-2026-10-20	Bobigny	93	garde-à-vue	Dix-sept mineurs sans matelas dans des cellules froides, bouteilles d'urine, protections hygiéniques insuffisantes
-2026-10-21	Basse-Terre	971	véhicule	Wendy Olibrice, 23 ans, grièvement blessé après avoir été percuté par un véhicule de gendarmerie lors de la levée de bar
-2026-10-23	Trappes	78	extrême-droite	Attentat raciste de Trappes–La Verrière : un mort et sept blessés, le tireur dit « venger les commerçants pillés le 17 o
-2026-10-24	Avignon	84	extrême-droite	Des groupes néonazis et royalistes en tête de cortège : les étudiants dénoncent des provocations envers la police et des
-2026-10-24	Bordeaux	33	extrême-droite	Rixe sur les quais : un manifestant roué de coups par des hommes armés de barres de fer et de battes ; polémique sur l'i
-2026-10-24	Brest	29	extrême-droite	Trois jeunes manifestants attaqués à l'aube par huit hommes cagoulés armés de matraques ; saluts nazis devant le monumen
-2026-10-24	Clermont-Ferrand	63	extrême-droite	Des individus en noir envahissent une terrasse de café et font des saluts nazis (fait rapporté par le PS, non recoupé pa
+2026-10-19	Paris	75	propagande	Sébastien Lecornu affirme sur BFMTV qu'« il n'y a pas eu de personne tuée » le 17 octobre, alors que deux hommes sont morts en marge des violences parisiennes
+2026-10-19	Paris	75	répression	Comparutions immédiates du 17 octobre à Paris : 300 déférés en deux jours, mandats de dépôt requis « quasi systématiquement » contre des prévenus sans casier
+2026-10-19	Paris	75	répression	Couvre-feu nocturne à Paris (23 h-6 h) place de la République et aux Halles, majeurs comme mineurs, reconduit chaque nuit jusqu'au 26 octobre
+2026-10-19	Rouen	76	propagande	Jordan Bardella impute les violences à « l'ultragauche » alors qu'un prestataire du RN apparaît sur les images des affrontements identitaires de Rouen
+2026-10-20	Bobigny	93	répression	Dix-sept mineurs sans matelas dans des cellules froides, bouteilles d'urine, protections hygiéniques insuffisantes
+2026-10-20	France		propagande	Marine Le Pen affirme que « lorsqu'il y a une plainte, il y a une enquête de l'IGPN » : faux
+2026-10-20	France		autre	Volker Türk (ONU) : « préoccupé par les informations faisant état d'un recours inutile et excessif à la force contre des manifestants, y compris des enfants »
+2026-10-20	Lille	59	autre	L'OL3P de Lille : des forces de l'ordre « dépassées et désorganisées » et des « armes mutilantes » en nombre inhabituel le 17 octobre
+2026-10-20	Marseille	13	répression	Comparutions immédiates à Marseille : six mois ferme pour trois joggings, mais « l'incarcération est demeurée l'exception » malgré la présence du procureur
+2026-10-20	Paris	75	répression	« La justice ne doit pas devenir le bras armé de la répression » : cinquante avocats dénoncent une « répression historique » et une justice politique
+2026-10-20	Paris	75	autre	L'Observatoire parisien des libertés publiques dénonce la « mise en danger délibérée » d'une personne inconsciente par des CRS (18 octobre)
+2026-10-20	Val-d'Oise	95	propagande	La police nationale du Val-d'Oise publie une photo de « saisie » de biens pillés retouchée par intelligence artificielle
+2026-10-21	Avignon	84	répression	Une lycéenne de 15 ans convoquée par la procureure d'Avignon pour une pancarte « ACAB » : avertissement pénal probatoire et stage de citoyenneté refusés
+2026-10-21	Basse-Terre	971	véhicule	Wendy Olibrice, 23 ans, grièvement blessé après avoir été percuté par un véhicule de gendarmerie lors de la levée de barrages (Guadeloupe)
+2026-10-21	Bobigny	93	autre	Le barreau de Seine-Saint-Denis dénonce une nuit « indigne » pour 17 mineurs déférés au dépôt de Bobigny
+2026-10-21	France		propagande	Alix Bouilhaguet (franceinfo) affirme que Jean-Luc Mélenchon n'a « jamais nettement condamné » les pillages et l'incendie de Limoges : excuses à l'antenne puis procédure 
+2026-10-21	France		répression	Matignon convoque Meta, Snap, TikTok, Reddit, Discord et Google : « signalement prioritaire » et retrait accéléré des contenus appelant à la violence dès le 22 octobre
+2026-10-21	France		répression	La commission des lois du Sénat durcit le texte « casseurs-payeurs » : RSA saisissable, drones sans plafond, interdiction du territoire, interdictions visant les « profil
+2026-10-21	France		autre	Des soignants (USPCS) réclament l'interdiction des LBD et des grenades après la réautorisation des grenades assourdissantes
+2026-10-21	France		autre	RSF : une trentaine de journalistes agressés ou empêchés de travailler, plus de la moitié le 17 octobre
+2026-10-21	Grenoble	38	répression	Grenoble : interdiction de tout rassemblement dans l'hypercentre du 22 au 25 octobre, confirmée par le tribunal administratif ; FO empêché de distribuer des tracts
+2026-10-21	Lille	59	répression	Lille : toute manifestation revendicative interdite le jeudi 22 octobre de 7 h à 22 h dans le centre et à Wattignies, après 61 interpellations le week-end
+2026-10-21	Paris	75	répression	Manifestation Interfac du 22 octobre : interdite par la préfecture de police, réautorisée par le tribunal administratif, puis privée de sa marche vers Bastille par un nou
+2026-10-21	Toulouse	31	répression	Toulouse : couvre-feu nocturne de 23 h 59 à 5 h dans l'hypercentre pendant quatre nuits (22-25 octobre), 750 euros d'amende
+2026-10-22	Caen	14	répression	Caen : interdiction de manifester dans l'hypercentre le 24 octobre et arrêt total des transports Twisto ; lettre ouverte de la CGT, de la FSU et de Solidaires, recours de
+2026-10-22	Caen	14	répression	Caen : plus d'une dizaine d'arrêtés drones depuis fin septembre, publiés la veille pour le lendemain, la LDH prépare des recours
+2026-10-22	France		propagande	Excès, « fake news » et dérapages télévisés depuis le 17 octobre : l'Arcom appelle les chaînes « à la plus grande vigilance »
+2026-10-22	France		répression	Circulaire du 22 octobre : Darmanin demande aux procureurs de requérir interdiction de manifester, privation du droit de vote, « bannissement numérique » et information d
+2026-10-22	France		répression	Macron annonce l'interdiction des rassemblements non syndicaux « partout où on le peut » ; le Conseil d'État rejette les référés-libertés le 23 octobre
+2026-10-22	France		répression	Révélations de Blast : Lecornu a demandé à Orange, Free, Bouygues et SFR de se préparer à couper TikTok, Instagram, Snapchat puis X par filtrage DNS pour le 24 octobre
+2026-10-22	France		répression	La LDH juge « parfaitement illégale » l'interdiction annoncée par Emmanuel Macron des manifestations non syndicales
+2026-10-22	France		autre	« L'armée contre la jeunesse » : la LDH saisit le Comité des droits de l'enfant de l'ONU et demande une mission d'observation du Haut-Commissariat
+2026-10-22	Le Mans	72	répression	Le Mans : le préfet de la Sarthe interdit les manifestations en centre-ville pour le 24 octobre, arrêté attaqué par la LDH
+2026-10-22	Lille	59	répression	Lille : interdiction de tout rassemblement dans le centre le 24 octobre de 7 h à 22 h, confirmée en référé-liberté par le tribunal administratif, cortège syndical relégué
+2026-10-22	Lyon	69	répression	Lyon : « toute manifestation » interdite le samedi 24 octobre de 10 h à 23 h dans une large partie du centre ; près de 10 000 personnes défilent malgré tout, 36 interpell
+2026-10-22	Marseille	13	répression	Bouches-du-Rhône : toutes les manifestations du 24 octobre interdites dans le département ; le tribunal administratif maintient l'interdiction à Marseille mais la lève da
+2026-10-22	Montpellier	34	autre	Les Street Médics de Montpellier recensent une soixantaine de blessés le 17 octobre et dénoncent des tirs visant des secouristes identifiés
+2026-10-22	Nice	06	répression	Nice : regroupements et manifestations revendicatives interdits de 8 h à minuit le 24 octobre, équipements de protection prohibés et couvre-feu municipal des mineurs de 2
+2026-10-22	Paris	75	répression	L'influenceuse Manon Delcourt interpellée à Orly, 26 heures de garde à vue et contrôle judiciaire avec interdiction de manifester et d'utiliser X pour ses publications su
+2026-10-22	Toulouse	31	autre	L'Observatoire toulousain des pratiques policières publie son rapport sur la manifestation du 17 octobre : des grenades tirées sur des manifestants « sans la moindre mena
+2026-10-23	Avignon	84	répression	Avignon : intra-muros et remparts interdits le 24 octobre, couvre-feu des mineurs dès 18 h ; recours rejetés par le TA de Nîmes, 500 manifestants et 57 interpellations
+2026-10-23	Besançon	25	répression	Besançon : tout rassemblement interdit dans la boucle le 24 octobre faute de déclaration ; le référé-liberté de l'intersyndicale et de la LDH rejeté sans audience
+2026-10-23	France		propagande	L'exécutif impute l'organisation et l'amplification des violences aux réseaux sociaux et envisage de suspendre l'accès à TikTok : une étude sur un million de vidéos concl
+2026-10-23	France		répression	Plus d'une centaine de villes sous interdiction de manifester ou couvre-feu pour le 24 octobre : la LDH attaque huit arrêtés, Amnesty dénonce une « surenchère sécuritaire
+2026-10-23	France		répression	Amnesty International France dénonce une « surenchère uniquement sécuritaire » et de graves entraves au droit de manifester
+2026-10-23	France		répression	La LDH conteste devant les tribunaux administratifs les arrêtés d'interdiction de manifester du 24 octobre
+2026-10-23	France		autre	Le Défenseur des droits : 55 saisines, dont 21 mettant en cause la déontologie des forces de sécurité envers des mineurs
+2026-10-23	France		autre	Le SNJ : « Les journalistes ne sont pas des cibles » et refuse les réquisitions judiciaires d'images
+2026-10-23	Metz	57	répression	Metz : la manifestation déclarée par la CGT interdite faute d'accord sur le parcours ; le tribunal administratif de Strasbourg rejette les référés et confirme l'interdict
+2026-10-23	Montpellier	34	répression	Hérault : manifestation déclarée interdite, centre de Montpellier bouclé de 8 h à 22 h, couvre-feu des mineurs à Montpellier et Béziers, tramways à l'arrêt, équipements d
+2026-10-23	Nancy	54	répression	Nancy : manifestation interdite dans le centre le 24 octobre, deux recours rejetés par le tribunal administratif, réseau Stan à l'arrêt ; 3 700 personnes défilent
+2026-10-23	Paris	75	répression	24 octobre à Paris : parcours Bastille-Nation remplacé par un tracé périphérique, recours rejeté, contrôles massifs dans les gares et aux péages, quatorze drones autorisé
+2026-10-23	Reims	51	répression	Reims : rassemblements non déclarés interdits dans le centre les 24 et 31 octobre par les préfets de la Marne et des Ardennes, des cortèges défilent malgré tout
+2026-10-23	Rennes	35	répression	Rennes : manifestation du 24 octobre interdite dans l'hypercentre par la préfète d'Ille-et-Vilaine, un syndicat dépose finalement un parcours hors périmètre
+2026-10-23	Saint-Étienne	42	répression	Loire : rassemblements revendicatifs de plus de cinq personnes interdits à Saint-Étienne et Roanne, circulation des mineurs restreinte de 19 h à 6 h et drones autorisés
+2026-10-23	Toulouse	31	répression	24 octobre à Toulouse : rassemblements non déclarés interdits de 7 h à 22 h, « équipements de dissimulation et d'attaque » prohibés dans tout le département, drones et ca
+2026-10-23	Tours	37	répression	Tours : cortèges interdits dans trois secteurs de Tours et Saint-Pierre-des-Corps le 24 octobre ; 5 500 personnes défilent malgré l'interdiction
+2026-10-23	Trappes	78	extrême-droite	Attentat raciste de Trappes–La Verrière : un mort et sept blessés, le tireur dit « venger les commerçants pillés le 17 octobre » (acte d'un particulier, sans lien avec la
+2026-10-23	Trappes	78	propagande	Après l'attentat raciste de Trappes, un homonyme innocent et un homme converti sont désignés comme le tireur sur les réseaux sociaux ; une photo d'interpellation retouché
+2026-10-24	Avignon	84	extrême-droite	Des groupes néonazis et royalistes en tête de cortège : les étudiants dénoncent des provocations envers la police et des jets de pierres
+2026-10-24	Bordeaux	33	extrême-droite	Rixe sur les quais : un manifestant roué de coups par des hommes armés de barres de fer et de battes ; polémique sur l'implication de l'ultradroite et de forains
+2026-10-24	Brest	29	extrême-droite	Trois jeunes manifestants attaqués à l'aube par huit hommes cagoulés armés de matraques ; saluts nazis devant le monument aux morts
+2026-10-24	Clermont-Ferrand	63	extrême-droite	Des individus en noir envahissent une terrasse de café et font des saluts nazis (fait rapporté par le PS, non recoupé par la presse locale dans ce corpus)
 2026-10-24	Clermont-Ferrand	63	grenade	Un manifestant grièvement blessé à la main place de Jaude ; le parquet évoque l'hypothèse d'une grenade policière
-2026-10-24	Dijon	21	extrême-droite	Une vingtaine de supporters du DFCO rattachés à l'ultradroite s'en prennent aux manifestants ; enquête pour violences av
-2026-10-24	France		extrême-droite	Agressions d'ultradroite dans une quinzaine de villes et accusations de complaisance policière : la controverse national
+2026-10-24	Clermont-Ferrand	63	propagande	La « main arrachée » d'un manifestant à Clermont-Ferrand : une information reprise jusque dans une dépêche AFP (« deux doigts perdus ») démentie par les secouristes
+2026-10-24	Dijon	21	extrême-droite	Une vingtaine de supporters du DFCO rattachés à l'ultradroite s'en prennent aux manifestants ; enquête pour violences avec arme en réunion, saluts nazis sur une vidéo
+2026-10-24	France		répression	« Une vingtaine d'interdictions de paraître » notifiées à des manifestants sur le fondement de la loi de mars 2026 sur les JO 2030, selon Nuñez devant la commission d'enq
+2026-10-24	France		répression	Le commissaire aux droits de l'homme du Conseil de l'Europe appelle les États à protéger la liberté de réunion pacifique et à privilégier la désescalade
+2026-10-24	France		extrême-droite	Agressions d'ultradroite dans une quinzaine de villes et accusations de complaisance policière : la controverse nationale
+2026-10-24	Grenoble	38	répression	Grenoble : couvre-feu général de 18 h à 6 h dans le centre et trois zones commerciales le soir du 24 octobre
 2026-10-24	Grenoble	38	grenade	Blessés par grenades de désencerclement à Grenoble
 2026-10-24	Lille	59	extrême-droite	Présence de groupes d'ultradroite signalée à Lille
-2026-10-24	Lorient	56	extrême-droite	« Entraide citoyenne Lorient » : des hommes cagoulés à brassard blanc patrouillent malgré l'interdiction ; enquête du pa
-2026-10-24	Lyon	69	extrême-droite	Une vingtaine de militants d'ultradroite défilent rive gauche malgré l'interdiction ; chants nationalistes et saluts naz
-2026-10-24	Lyon	69	grenade	Rassemblement hors périmètre d'interdiction gazé d'entrée ; un passant grièvement blessé par un éclat de grenade, un str
-2026-10-24	Marseille	13	autre	Les CRS saisissent casques, masques FFP2, lunettes et sérum physiologique des manifestants au départ du cortège
-2026-10-24	Montpellier	34	extrême-droite	« Milice d'extrême droite » (Alpha Rise / Jeunes d'Oc) aux côtés des CRS : enquête du parquet, rapport de l'Observatoire
-2026-10-24	Nancy	54	extrême-droite	« Les Templiers de Nancy » attaquent le cortège intersyndical et se replient derrière les gendarmes : double enquête du 
+2026-10-24	Lorient	56	extrême-droite	« Entraide citoyenne Lorient » : des hommes cagoulés à brassard blanc patrouillent malgré l'interdiction ; enquête du parquet, le maire mis en cause par Bon Pote
+2026-10-24	Lyon	69	extrême-droite	Une vingtaine de militants d'ultradroite défilent rive gauche malgré l'interdiction ; chants nationalistes et saluts nazis signalés, la préfecture « étudie les images »
+2026-10-24	Lyon	69	grenade	Rassemblement hors périmètre d'interdiction gazé d'entrée ; un passant grièvement blessé par un éclat de grenade, un street medic touché au thorax
+2026-10-24	Marseille	13	répression	Les CRS saisissent casques, masques FFP2, lunettes et sérum physiologique des manifestants au départ du cortège
+2026-10-24	Montpellier	34	extrême-droite	« Milice d'extrême droite » (Alpha Rise / Jeunes d'Oc) aux côtés des CRS : enquête du parquet, rapport de l'Observatoire des libertés publiques, saisine de la LDH
+2026-10-24	Nancy	54	extrême-droite	« Les Templiers de Nancy » attaquent le cortège intersyndical et se replient derrière les gendarmes : double enquête du parquet (violences et déontologie policière)
 2026-10-24	Nantes	44	extrême-droite	Présence de groupes d'ultradroite signalée à Nantes
-2026-10-24	Nice	06	extrême-droite	« Touche pas à ma ville » : une centaine de militants d'ultradroite masqués attaquent des manifestants ; 11 interpellés,
+2026-10-24	Nice	06	extrême-droite	« Touche pas à ma ville » : une centaine de militants d'ultradroite masqués attaquent des manifestants ; 11 interpellés, procès renvoyé au 26 novembre, soupçons de coordi
 2026-10-24	Paris	75	autre	Fouilles de jeunes femmes avec palpation des seins sous le soutien-gorge par des policières de la BRAV-M
-2026-10-24	Paris	75	autre	Stanislas, 18 ans, étudiant luxembourgeois arrivé à trois ans : comparution annulée, puis OQTF et enfermement au CRA de 
+2026-10-24	Paris	75	répression	Stanislas, 18 ans, étudiant luxembourgeois arrivé à trois ans : comparution annulée, puis OQTF et enfermement au CRA de Vincennes
+2026-10-24	Paris	75	propagande	CNews diffuse des images de Tirana comme « Porte d'Italie (Paris) » en commentant de « futurs casseurs » ; franceinfo présente des canons à eau albanais comme un direct d
 2026-10-24	Poitiers	86	grenade	Un étudiant de 19 ans gravement blessé à l'œil gauche à Poitiers
 2026-10-24	Reims	51	grenade	Un manifestant grièvement blessé au tibia par une grenade GM2L rue Gambetta ; enquête IGPN
-2026-10-24	Reims	51	grenade	Maxine, 19 ans, étudiante en médecine et street medic, trois points de suture au front après l'explosion d'une grenade a
+2026-10-24	Reims	51	grenade	Maxine, 19 ans, étudiante en médecine et street medic, trois points de suture au front après l'explosion d'une grenade assourdissante
 2026-10-24	Rennes	35	extrême-droite	Présence de groupes d'ultradroite signalée à Rennes
-2026-10-24	Rouen	76	extrême-droite	Des identitaires masqués frappent un homme au sol près du palais de justice ; la police contrôle les victimes, enquête p
+2026-10-24	Rouen	76	extrême-droite	Des identitaires masqués frappent un homme au sol près du palais de justice ; la police contrôle les victimes, enquête pour violences aggravées
 2026-10-24	Rouen	76	grenade	Un motard de la police dégoupille et lance une grenade lacrymogène aux pieds d'une mère et de ses enfants
-2026-10-24	Strasbourg	67	coups	Un blessé à la jambe, son aidant et deux street medics chargés, frappés et placés en garde à vue ; enquête pour violence
-2026-10-24	Toulouse	31	extrême-droite	« Mob Toulouse » : une soixantaine de nationalistes (emblèmes Action française) face aux manifestants ; les policiers s'
-2026-10-24	Toulouse	31	grenade	Tedy, 20 ans, deux doigts amputés par une grenade assourdissante ; les secouristes comptent 28 blessés, la préfecture tr
-2026-10-24	Tours	37	extrême-droite	Une trentaine de militants de « Des Tours et des Lys » affrontent des manifestants près des Halles ; intervention de la 
-2026-10-29	France		extrême-droite	« Aucune complaisance des forces de l'ordre » : Laurent Nuñez au Sénat ; le ministère admet que l'ultradroite n'a « pas 
+2026-10-24	Strasbourg	67	coups	Un blessé à la jambe, son aidant et deux street medics chargés, frappés et placés en garde à vue ; enquête pour violences par PDAP
+2026-10-24	Toulouse	31	extrême-droite	« Mob Toulouse » : une soixantaine de nationalistes (emblèmes Action française) face aux manifestants ; les policiers s'interposent, « on ne les protège pas »
+2026-10-24	Toulouse	31	grenade	Tedy, 20 ans, deux doigts amputés par une grenade assourdissante ; les secouristes comptent 28 blessés, la préfecture trois
+2026-10-24	Tours	37	extrême-droite	Une trentaine de militants de « Des Tours et des Lys » affrontent des manifestants près des Halles ; intervention de la BAC, pas de blessé
+2026-10-25	France		propagande	Laurent Nuñez qualifie de « rumeurs » les accusations de complaisance policière envers les groupes d'ultradroite du 24 octobre, contredit par des vidéos et des enquêtes
+2026-10-25	Orléans	45	propagande	Interrompu au congrès du RN à Orléans, Jordan Bardella accuse « l'ultragauche » : il s'agissait de militants de l'UEJF
+2026-10-26	France		répression	Amnesty International France demande le rejet du projet de loi « casseurs-payeurs », « texte rétrograde » contraire aux obligations internationales
+2026-10-26	France		autre	Flagrant déni : la nouvelle « filière déontologie » de l'IGPN à l'épreuve du mouvement de la jeunesse
+2026-10-26	Toulouse	31	autre	« La police et la gendarmerie mutilent » : l'Observatoire toulousain réclame l'interdiction totale des grenades explosives et des LBD après la main déchiquetée d'un manif
+2026-10-26	Trappes	78	propagande	Le Monde affirme que des « tracts du RN » ont été retrouvés dans la voiture du tireur de Trappes : correction le jour même, démenti du PNAT, plainte en diffamation du RN
+2026-10-26	Trappes	78	propagande	Une photo de 2018 présentée comme la preuve de l'engagement propalestinien et « ultragauche » du tireur de Trappes
+2026-10-27	France		propagande	« Plus d'un milliard d'euros de dégâts » : un chiffre provisoire de CCI France et des assureurs, concurrencé par d'autres estimations aux périmètres différents
+2026-10-27	France		répression	Le Sénat adopte « casseurs-payeurs » par 229 voix contre 105 : responsabilité solidaire à 10 000 euros, délit de participation à une manifestation interdite, interdiction
+2026-10-27	France		autre	Le SNJ-CGT : « Halte à la violence contre les journalistes, halte à la haine dans les médias ! »
+2026-10-27	Lyon	69	répression	Lyon : la préfecture interdit une manifestation annoncée le mardi 27 octobre vers la place Jean-Macé
+2026-10-28	France		propagande	Jean-Noël Barrot affirme que « deux tiers » des contenus liant les pillages à l'immigration viennent de l'étranger ; des rapports européen et français décrivent une explo
+2026-10-28	France		autre	Quatre rapporteurs spéciaux de l'ONU « consternés » par la répression des manifestations lycéennes et étudiantes
+2026-10-28	Montpellier	34	autre	L'Observatoire des libertés publiques de Montpellier documente un « groupe de type milice » d'extrême droite agissant aux côtés des CRS le 24 octobre
+2026-10-29	France		extrême-droite	« Aucune complaisance des forces de l'ordre » : Laurent Nuñez au Sénat ; le ministère admet que l'ultradroite n'a « pas systématiquement été interpellée », le PS et la LD
+2026-10-29	France		répression	31 octobre : Nuñez annonce 70 000 policiers et gendarmes, confirme l'interdiction des rassemblements dans les centres-villes et menace d'un an de prison les porteurs de m
+2026-10-29	Le Plessis-Robinson	92	répression	Forum et manifestation d'Objectif Remigration interdits à la demande du ministre de l'Intérieur, Martin Sellner arrêté à Beauvais et expulsé
+2026-10-29	Lyon	69	répression	Lyon, 31 octobre : manifestations interdites de 10 h à 23 h dans un vaste périmètre du centre, couvre-feu des mineurs sur la Presqu'île, équipements de protection et arti
+2026-10-29	Metz	57	répression	Moselle, 31 octobre : le cortège CGT est cette fois autorisé à Metz, mais tout rassemblement est interdit dans onze communes du samedi 20 h au dimanche 5 h
+2026-10-29	Paris	75	répression	31 octobre à Paris : la préfecture interdit les parcours de la CGT et des Gilets jaunes, le tribunal administratif suspend, le Conseil d'État rétablit le tracé des Maréch
+2026-10-30	Avignon	84	répression	Avignon, 31 octobre : nouvelle interdiction de l'intra-muros validée par le TA de Nîmes, 400 manifestants tolérés jusqu'à midi et 43 verbalisations
+2026-10-30	France		répression	Une soixantaine de MICAS antiterroristes pour empêcher des militants de manifester le 31 octobre : notifications la veille, référés non audiencés, « bascule autoritaire »
+2026-10-30	Grenoble	38	répression	Grenoble, 31 octobre : rassemblements interdits du vendredi 18 h au dimanche 6 h, couvre-feu de 23 h à 6 h et interdiction de masquer son visage jusqu'au lundi 8 h
+2026-10-30	Lyon	69	extrême-droite	Rassemblement nocturne cagoulé de la « jeunesse nationaliste contre l'extrême gauche » devant la mairie du 8e : Grégory Doucet saisit le procureur
+2026-10-30	Marseille	13	répression	Bouches-du-Rhône, 31 octobre : cinq arrêtés interdisent les rassemblements non déclarés dans huit communes du vendredi 18 h au lundi 5 h, couvre-feu des mineurs 23 h-5 h,
+2026-10-30	Paris	75	répression	Nuits du 31 octobre au 2 novembre : nouveau couvre-feu général de 23 h à 6 h à République et aux Halles (arrêté n° 2026-01485), mineurs non accompagnés interdits dès 21 h
+2026-10-30	Paris	75	répression	Seize manifestants étrangers enfermés au CRA de Vincennes depuis le début du mouvement : la préfecture de police mobilise OQTF et interdictions de circulation contre des 
+2026-10-30	Toulouse	31	répression	Toulouse, 31 octobre : tout rassemblement interdit faute de déclaration, du samedi 7 h au dimanche 5 h ; 2 400 personnes nassées et dispersées, 28 interpellations
 2026-10-31	Marseille	13	coups	Rémi Aubert, podologue de 39 ans, défiguré par des CRS (six à huit dents perdues, nez cassé) ; enquête IGPN
-2026-10-31	Nice	06	extrême-droite	Acte III : Alpha Rise annule son action, aucun brassard blanc dans les rues ; un militant niçois avait revendiqué des « 
-2026-10-31	Nîmes	30	extrême-droite	Un manifestant d'origine maghrébine frappé par un homme en noir, un syndicaliste de Solidaires au nez cassé en s'interpo
-2026-10-31	Tours	37	grenade	Le tiktokeur Enzo Gingembre, 22 ans, blessé à l'œil gauche par un éclat de grenade de désencerclement ; enquête du parqu
-2026-11-03	France		autre	Disclose recense au moins quinze manifestant·es victimes de violences sexuelles commises par des policiers depuis fin se
+2026-10-31	Metz	57	répression	Metz : un bus du réseau Le Met' réquisitionné par le préfet pour conduire 22 mineurs à l'hôtel de police après la manifestation du 31 octobre
+2026-10-31	Nice	06	extrême-droite	Acte III : Alpha Rise annule son action, aucun brassard blanc dans les rues ; un militant niçois avait revendiqué des « liens » avec la police dans une story supprimée
+2026-10-31	Nîmes	30	extrême-droite	Un manifestant d'origine maghrébine frappé par un homme en noir, un syndicaliste de Solidaires au nez cassé en s'interposant ; l'agresseur présumé interpellé
+2026-10-31	Tours	37	grenade	Le tiktokeur Enzo Gingembre, 22 ans, blessé à l'œil gauche par un éclat de grenade de désencerclement ; enquête du parquet
+2026-11-02	France		propagande	« Les vidéos des manifestations disparaissent des réseaux » : une impression de censure en partie confirmée par les données et par les demandes du gouvernement aux platef
+2026-11-02	Montpellier	34	répression	Une infirmière scolaire de 53 ans placée en garde à vue pour outrage après s'être interposée entre policiers et lycéens, dossier classé sans suite le soir même
+2026-11-02	Rennes	35	répression	Rennes : la manifestation lycéenne du 3 novembre interdite par arrêté pris la veille au soir, cortège dispersé et lycéens « nassés » puis contrôlés
+2026-11-02	Strasbourg	67	répression	Strasbourg : le préfet du Bas-Rhin interdit pour toute la semaine les rassemblements revendicatifs dans un rayon de 50 mètres autour de onze lycées
+2026-11-03	France		autre	Disclose recense au moins quinze manifestant·es victimes de violences sexuelles commises par des policiers depuis fin septembre
+2026-11-03	France		répression	4 914 gardes à vue, 1 820 défèrements et 329 incarcérations depuis le 17 octobre : le bilan de Darmanin
+2026-11-03	Lyon	69	répression	Grève du 5 novembre à Lyon : près de la moitié de la ville interdite aux manifestants de 9 h à 20 h, arrivée à Bellecour refusée, recours de l'intersyndicale rejeté par l
+2026-11-03	Paris	75	propagande	Faux courriel et fausse capture attribués à la direction de Louis-le-Grand menaçant les bloqueurs d'une « mention sur Parcoursup »
+2026-11-03	Paris	75	répression	« Journée noire » du 3 novembre : la préfecture de police interdit le parcours de l'Interfac du Panthéon au Medef, deux cortèges non déclarés encadrés et immobilisés une 
 2026-11-03	Paris	75	nasse-dispersion	Deux cortèges lycéens non déclarés encadrés et immobilisés pendant une heure à Paris
 2026-11-03	Rennes	35	nasse-dispersion	La police disperse à Rennes quelques centaines de lycéens défilant dans le calme malgré une interdiction
+2026-11-03	Versailles	78	répression	Procédures disciplinaires annoncées par le rectorat de Versailles après des tirs de mortiers, « près de 1 000 plaintes » déposées par l'Éducation nationale et « sanctions
+2026-11-04	Brest	29	répression	Brest : la police judiciaire réquisitionne les trombinoscopes de trois lycées, soit 4 500 élèves, sans prévenir les proviseurs ; saisine de la CNIL par la CGT et la LDH
+2026-11-04	Lille	59	répression	Lycée Baggio à Lille : conseil de discipline annoncé par l'académie et plainte du ministre pour « mise en danger de la vie d'autrui » après un tir de mortier dans la cour
+2026-11-04	Lyon	69	répression	LDH, CGT du Rhône et SAF échouent en référé contre l'interdiction de la place Bellecour pour la manifestation du 5 novembre
+2026-11-04	Paris	75	répression	5 novembre à Paris : la préfecture de police interdit le parcours intersyndical Bastille-Concorde et impose République-Nation, le tribunal administratif rejette le référé
+2026-11-04	Toulouse	31	répression	Toulouse : le cortège intersyndical du 5 novembre interdit en centre-ville, le tribunal administratif donne raison au préfet
+2026-11-05	Annecy	74	répression	Haute-Savoie : le tribunal administratif de Grenoble juge disproportionné l'arrêté autorisant la surveillance par drones de huit communes
+2026-11-05	Belfort	90	répression	Belfort : rassemblements interdits en centre-ville le 5 novembre et port d'équipements de protection interdit dans tout le Territoire de Belfort
+2026-11-05	Lyon	69	entrave-presse	Un photographe de l'AFP, brassard presse au bras, a le péroné fracturé lors d'une charge contre la tête du cortège
 2026-11-05	Lyon	69	nasse-dispersion	Jeunes manifestants pris en étau et frappés lors des charges avenue Berthelot et place Jean-Macé (grève du 5 novembre)
+2026-11-05	Nancy	54	répression	Nancy : l'arrêté interdisant casques, lunettes et masques à gaz le 7 novembre visait expressément les street medics ; le tribunal administratif le suspend pour eux seuls 
+2026-11-05	Nantes	44	véhicule	Place du Pilori, un policier motocycliste percute une terrasse puis ses collègues gazent clients et passants ; la police nationale dément avoir « foncé pour semer la terr
+2026-11-05	Paris	75	entrave-presse	Céline Martelet (Politis) et Cerise Sudry-Le Dû (Divergence Images) matraquées à la tête place de la Nation malgré leurs brassards presse ; plainte annoncée
+2026-11-05	Strasbourg	67	répression	Strasbourg : 62 manifestants dont 16 mineurs interpellés en bloc et transportés au commissariat dans un bus de la CTS réquisitionné par le parquet
+2026-11-05	Toulouse	31	lbd	Un manifestant a la mâchoire fracturée par un tir de LBD près du sit-in du pont des Catalans ; appel à témoins
 2026-11-05	Toulouse	31	nasse-dispersion	Cortège intersyndical bloqué au pont des Catalans : charges de CRS, gaz lacrymogènes et plusieurs blessés
-2026-11-05	Villeurbanne	69	extrême-droite	Face aux appels de l'ultradroite (Yvan Benedetti, UDJ), le préfet du Rhône interdit la conférence du député LFI Raphaël 
+2026-11-05	Villeurbanne	69	répression	Villeurbanne : le préfet du Rhône interdit la conférence du député LFI Raphaël Arnault après mise en demeure du maire, le tribunal administratif l'autorise finalement
+2026-11-06	Aurillac	15	répression	Aurillac : interdiction temporaire de rassemblement dans plusieurs rues du centre du 7 novembre 8 h au 8 novembre 8 h
+2026-11-06	Brest	29	répression	Finistère, 7 novembre : rassemblements interdits dans les centres de Brest (8 h-6 h) et de Quimper (6 h-6 h) faute de déclaration, six mois de prison encourus par les org
+2026-11-06	Caen	14	répression	Caen, 7 novembre : tout rassemblement interdit dans le centre-ville jusqu'aux rives de l'Orne de 12 h à 18 h, trois appels à manifester maintenus
+2026-11-06	France		autre	Un collectif d'avocats annonce saisir la Cour de justice de la République contre Laurent Nuñez pour « complicité par instigation » des mutilations par grenades et LBD (au
+2026-11-06	France		autre	La direction de l'AFP dénonce « les violences commises par les forces de l'ordre » contre ses journalistes ; Politis annonce une plainte
+2026-11-06	France		autre	RSF porte à 58 le nombre de journalistes entravés depuis le début des mobilisations, dont 40 cas imputés aux forces de l'ordre
+2026-11-06	Le Mans	72	répression	Le Mans, 7 novembre : manifestations non déclarées interdites de 8 h à 8 h et casques, masques, lunettes, cagoules et foulards prohibés dans un rayon de 200 mètres
+2026-11-06	Lyon	69	répression	Lyon, 7 novembre : rassemblements revendicatifs interdits de 10 h à 20 h dans le centre, équipements de protection, artifices et jerricans prohibés dans tout le Rhône, co
+2026-11-06	Marseille	13	répression	Bouches-du-Rhône, 6-9 novembre : rassemblements non déclarés interdits dans huit communes du vendredi 18 h au lundi 5 h, casques, gants et lunettes prohibés, une seule ma
+2026-11-06	Nantes	44	répression	Nantes, 7 novembre : centre-ville interdit par la préfecture, amendes pour lunettes de piscine, protège-tibias et bombes de peinture, une cinquantaine d'interpellations
+2026-11-06	Paris	75	répression	Acte IV : la préfecture de police interdit cinq rassemblements de Gilets jaunes dont le sit-in de la Concorde (arrêté n° 2026-01552), deux porte-parole interpellés et tre
+2026-11-06	Paris	75	autre	L'Observatoire parisien des libertés publiques : « La Préfecture de police a cherché l'affrontement » le 24 octobre
+2026-11-06	Pau	64	répression	Deux lycéens interpellés et menottés dans l'enceinte du lycée Saint-John-Perse, avec l'aval du procureur, après des tirs de mortiers sur des policiers
+2026-11-06	Reims	51	répression	Reims, 7 novembre : troisième interdiction consécutive des rassemblements non déclarés dans le centre, de 7 h à 23 h 59, tramway suspendu
+2026-11-06	Rennes	35	répression	Rennes : après l'interdiction du rassemblement lycéen du 5 novembre, toute manifestation interdite le 7 novembre dans un périmètre du centre, le rassemblement de l'Union 
+2026-11-06	Tours	37	répression	Tours, 7 novembre : le Vieux-Tours interdit aux manifestations, les cortèges contraints de s'arrêter place Jean-Jaurès ; la marche aux flambeaux identitaire également int
+2026-11-07	Angers	49	gaz	Cortège non autorisé de 3 300 à 10 000 personnes : grenades lacrymogènes boulevard Foch et dispersion massive au gaz sur le Mail
+2026-11-07	Besançon	25	gaz	Tirs de gaz lacrymogènes sur le pont ferroviaire de Rivotte et au pont de Bregille pour une manifestation interdite en centre-ville : 17 interpellations, six policiers bl
+2026-11-07	Bordeaux	33	gaz	Place de la Victoire vidée aux grenades lacrymogènes après la dispersion, blindés Centaure, RAID et BRI déployés : quatre blessés dont trois civils, quinze interpellation
+2026-11-07	France		répression	Acte IV « pour la jeunesse et contre la vie chère » : 70 000 policiers et gendarmes, centres-villes interdits, près de 40 000 contrôles préventifs et 360 interpellations
+2026-11-07	France		répression	7 novembre : près de 40 000 contrôles préventifs dans les gares et sur les axes à la demande de Nuñez, dont 8 147 contrôles et 259 verbalisations à Paris
+2026-11-07	Nancy	54	nasse-dispersion	Cortège non déclaré bloqué dès le départ place Maginot, gaz lacrymogènes rue Saint-Jean : deux blessés légers dont un gendarme, sept interpellations
+2026-11-07	Nancy	54	répression	Le tribunal administratif suspend l'arrêté préfectoral qui interdisait expressément aux street medics casques, lunettes et masques
+2026-11-07	Nantes	44	gaz	Centre-ville interdit : gaz lacrymogènes et canon à eau sur plusieurs milliers de manifestants, 50 interpellations, amendes pour lunettes de piscine et protège-tibias, pa
+2026-11-07	Paris	75	nasse-dispersion	Fin de cortège place de la Nation : charges et gaz lacrymogènes sur la place, le duplex de France 24 interrompu par les gaz
+2026-11-07	Paris	75	répression	Deux porte-parole des Gilets jaunes, Azelma Sigaux et Benjamin Ball, interpellés avant le sit-in interdit de la Concorde et placés en garde à vue
+2026-11-07	Rennes	35	nasse-dispersion	Manifestation non déclarée de 5 500 personnes bloquée sur l'esplanade Charles-de-Gaulle, accès au centre barrés, gaz lacrymogènes vers la gare
+2026-11-07	Toulouse	31	nasse-dispersion	Cortège non autorisé coupé en deux et encerclé par les cars de CRS, charge boulevard Bonrepos, gaz et canons à eau ; la FSU dénonce des violences contre le service d'ordr
+2026-11-08	Lyon	69	autre	Le SNJ Rhône-Ain-Loire dénonce une « flambée inédite de violences policières contre les journalistes à Lyon » et interpelle le ministère de l'Intérieur
+2026-11-09	France		autre	La LDH appelle à manifester le 14 novembre contre la loi dite « présomption de légitime défense » des policiers

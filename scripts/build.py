@@ -20,7 +20,7 @@ PAGES = '--pages' in sys.argv  # GitHub Pages build: local sprites and photos, e
 MEDIA_DIR = os.path.join(S, 'media')
 
 OVERSEAS = {'971', '972', '973', '974', '976', '988', '987', '975', '978', '977', '986'}
-DAY0, DAY1 = datetime.date(2026, 8, 31), datetime.date(2026, 11, 9)
+DAY0, DAY1 = datetime.date(2026, 8, 31), datetime.date(2026, 11, 13)
 KEYDAYS = {
     '2026-08-31': 'Début du mouvement à Mayotte', '2026-09-18': 'Grève au lycée Saint-Exupéry de Créteil',
     '2026-09-29': 'Grève de la fonction publique', '2026-10-01': 'Acte II lycéen', '2026-10-06': 'Acte III lycéen',
