@@ -1,0 +1,506 @@
+[
+ {
+  "date": "2026-11-09",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "blocage",
+  "title": "Lundi 9 novembre – une cinquantaine de lycées d'Île-de-France perturbés par des blocages et des tirs de mortiers, bilan des blessés par Édouard Geffray",
+  "summary": "Lundi de la deuxième semaine après la rentrée de la Toussaint : une cinquantaine de lycées d'Île-de-France sont perturbés par des blocages et des tirs de mortiers d'artifice, certains à l'intérieur des établissements ; la région recense une quarantaine de tirs dont une quinzaine à l'intérieur et six blessés dans les établissements (quatre élèves, une assistante d'éducation, une CPE), surtout en Seine-et-Marne (Chelles, Noisiel, Savigny-le-Temple, Longperrier, Fontainebleau) mais aussi à Noisy-le-Sec et Choisy-le-Roi ; un lycéen est blessé à la tête à Écully (Rhône) et, selon le ministre, un proviseur à la tête à Bègles. Sur France 2, Édouard Geffray déclare qu'« une cinquantaine d'élèves » ont été blessés par leurs camarades pendant la semaine de la rentrée, certains avec une perte d'audition due à des éclats de mortiers, et que plus de 200 personnels ont été blessés ; il qualifie les blocages d'illégaux, menace les bloqueurs de sanctions disciplinaires et annonce des stages de rattrapage pendant les petites vacances. Selon Le Moniteur de Seine-et-Marne, des discussions se tiennent le même jour à Matignon entre Sébastien Lecornu et des syndicats lycéens.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "~50 lycées d'Île-de-France perturbés (région) ; ~40 tirs de mortiers dont ~15 à l'intérieur ; 6 blessés dans les établissements (BFMTV)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "« Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades » durant la semaine de la rentrée, selon le ministre de l'Éducation nationale",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "L'Indépendant (via Titres Presse)",
+    "title": "Des feux d'artifice dans les couloirs, des alertes confinement, deux élèves blessés…",
+    "url": "https://www.titrespresse.com/28549122603/ile-feux-artifice",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Chelles",
+  "dept": "77",
+  "place": "lycées Jehan-de-Chelles et Louis-Lumière",
+  "type": "blocage",
+  "title": "Tirs de mortiers à l'intérieur des lycées Jehan-de-Chelles et Louis-Lumière : alerte confinement, deux élèves blessés, trois mineurs interpellés",
+  "summary": "Au lycée Jehan-de-Chelles, des feux d'artifice sont tirés dans un couloir vers des élèves qui prennent la fuite et d'autres allumés dans une salle de classe ; plusieurs élèves souffrent d'acouphènes, une sirène d'alerte confinement retentit et l'établissement est ensuite fermé. Au lycée Louis-Lumière, deux élèves sont légèrement blessés par des mortiers d'artifice tirés vers midi et trois élèves mineurs sont interpellés selon BFMTV. Les cours sont suspendus dans les lycées touchés, selon Le Moniteur de Seine-et-Marne. L'arrêté préfectoral encadrant l'achat, la vente, l'usage et le transport d'artifices, pris le vendredi précédent, avait été levé lundi à 6 h.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 3,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "L'Indépendant (via Titres Presse)",
+    "title": "Des feux d'artifice dans les couloirs, des alertes confinement, deux élèves blessés…",
+    "url": "https://www.titrespresse.com/28549122603/ile-feux-artifice",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Noisiel",
+  "dept": "77",
+  "place": "lycée Simone-Veil",
+  "type": "blocage",
+  "title": "Tirs de mortiers à l'intérieur du lycée Simone-Veil de Noisiel, cours suspendus",
+  "summary": "Le lycée Simone-Veil de Noisiel figure parmi les établissements de Seine-et-Marne touchés par des incidents en série le lundi 9 novembre : des tirs de mortiers d'artifice ont lieu à l'intérieur de l'établissement et les cours sont suspendus, selon Le Moniteur de Seine-et-Marne.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Savigny-le-Temple",
+  "dept": "77",
+  "place": "lycée de Savigny-le-Temple",
+  "type": "blocage",
+  "title": "Incidents au lycée de Savigny-le-Temple lors des blocages du 9 novembre",
+  "summary": "Le lycée de Savigny-le-Temple est cité par Le Moniteur de Seine-et-Marne parmi les établissements du département touchés par des incidents (blocages, tirs de mortiers d'artifice) le lundi 9 novembre, journée où une cinquantaine de lycées franciliens sont perturbés ; le journal ne détaille pas les faits dans cet établissement.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Longperrier",
+  "dept": "77",
+  "place": "lycée Charles-de-Gaulle",
+  "type": "blocage",
+  "title": "Tentative d'incendie maîtrisée au lycée Charles-de-Gaulle de Longperrier",
+  "summary": "En marge des blocages et tirs de mortiers du lundi 9 novembre en Seine-et-Marne, une tentative d'incendie est maîtrisée au lycée Charles-de-Gaulle de Longperrier, selon la région Île-de-France citée par BFMTV ; l'établissement figure aussi parmi ceux cités par Le Moniteur de Seine-et-Marne.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Fontainebleau",
+  "dept": "77",
+  "place": "lycée de Fontainebleau",
+  "type": "blocage",
+  "title": "Incidents au lycée de Fontainebleau lors des blocages du 9 novembre",
+  "summary": "Le lycée de Fontainebleau est cité par Le Moniteur de Seine-et-Marne parmi les établissements du département touchés par des incidents (blocages, tirs de mortiers d'artifice) le lundi 9 novembre, journée où une cinquantaine de lycées franciliens sont perturbés ; le journal ne détaille pas les faits dans cet établissement.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Moniteur de Seine-et-Marne (mesinfos.fr)",
+    "title": "Incidents en série dans plusieurs lycées de Seine-et-Marne",
+    "url": "https://mesinfos.fr/ile-de-france/incidents-en-serie-dans-plusieurs-lycees-de-seine-et-marne-342909.html",
+    "date": "2026-11-09"
+   },
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Noisy-le-Sec",
+  "dept": "93",
+  "place": "lycée Théodore-Monod",
+  "type": "blocage",
+  "title": "Loge d'entrée et portail saccagés au lycée Théodore-Monod de Noisy-le-Sec",
+  "summary": "Parmi les actes violents rapportés par la région Île-de-France pour le lundi 9 novembre, une loge d'entrée et un portail sont saccagés au lycée Théodore-Monod de Noisy-le-Sec, selon BFMTV.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Choisy-le-Roi",
+  "dept": "94",
+  "place": "lycée Jacques-Brel",
+  "type": "blocage",
+  "title": "Portail détruit au lycée Jacques-Brel de Choisy-le-Roi",
+  "summary": "Parmi les actes violents rapportés par la région Île-de-France pour le lundi 9 novembre, un portail est détruit au lycée Jacques-Brel de Choisy-le-Roi, selon BFMTV.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Écully",
+  "dept": "69",
+  "place": "",
+  "type": "blocage",
+  "title": "Un lycéen blessé à la tête par des tirs de mortiers d'artifice à Écully",
+  "summary": "Des mortiers d'artifice sont allumés le lundi 9 novembre à Écully, dans la métropole de Lyon, où un lycéen est blessé à la tête, selon BFMTV, qui souligne que les violences aux abords et à l'intérieur des lycées ne se limitent pas à l'Île-de-France.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV (via Yahoo Actualités)",
+    "title": "Feux d'artifice dans les couloirs, alerte confinement… tirs de mortier à l'intérieur d'un lycée de Seine-et-Marne",
+    "url": "https://fr.news.yahoo.com/feux-dartifice-couloirs-alerte-confinement-071726079.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "city": "Bègles",
+  "dept": "33",
+  "place": "",
+  "type": "blocage",
+  "title": "Un proviseur blessé à la tête à Bègles, cité par Édouard Geffray",
+  "summary": "Le ministre de l'Éducation nationale Édouard Geffray cite, parmi les dizaines de personnels blessés depuis la rentrée de la Toussaint, un proviseur blessé à la tête à Bègles le lundi 9 novembre, selon franceinfo.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "grève",
+  "title": "Mardi 10 novembre – journée de mobilisation de l'intersyndicale éducation-jeunesse : 49 lycées bloqués, 1,6 % d'enseignants grévistes, le gouvernement « hausse le ton »",
+  "summary": "Journée de mobilisation appelée par l'intersyndicale de l'éducation, de l'enseignement supérieur et des organisations de jeunesse, marquée par un net essoufflement : 49 lycées bloqués à 9 h 30 (1,3 % des quelque 3 700 établissements selon le ministère de l'Éducation), 1,6 % d'enseignants en grève et 2 000 à 4 000 manifestants à Paris selon les services de renseignement (Le Figaro). La journée est dominée par les violences visant les établissements : incendie présenté comme criminel au lycée Émile-Zola d'Aix-en-Provence, élue aspergée d'essence devant le lycée Gaston-Bachelard de Chelles, évacuation du lycée Louis-Thuillier d'Amiens après un tir de mortier ayant déclenché l'alarme incendie, trois personnes prises en charge (Courrier picard, cité par la chronologie). Édouard Geffray dénonce des « comportements criminels » et Laurent Nuñez des « violences urbaines » appelant « la réponse la plus ferme et déterminée » ; Emmanuel Macron apporte son soutien à l'élue et aux personnels ; Valérie Pécresse chiffre à une centaine les tirs de mortiers en Île-de-France (près de la moitié à l'intérieur des lycées), à une vingtaine les blessés et à 10 millions d'euros les dégâts ; l'USL « condamne fermement » les violences tout en y voyant la conséquence de « l'absence de réponse de l'exécutif ». France Universités dénonce les menaces visant les présidents d'université et réclame des États généraux de la jeunesse.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "49 lycées bloqués à 9 h 30, soit 1,3 % (ministère de l'Éducation) ; 1,6 % d'enseignants grévistes ; Paris : 2 000 à 4 000 manifestants selon les renseignements (Le Figaro)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Tirs de mortiers, incendies, violences sur les proviseurs… Le mouvement lycéen se radicalise alors que les discussions sont dans l'impasse",
+    "url": "https://www.lefigaro.fr/actualite-france/mortiers-tires-a-l-interieur-des-lycees-incendies-violences-sur-les-proviseurs-le-mouvement-lyceen-se-radicalise-alors-que-les-discussions-sont-dans-l-impasse-20261112",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Le Figaro",
+    "title": "Seine-et-Marne : une élue aspergée d'essence devant un lycée de Chelles, une enquête ouverte pour tentative d'homicide volontaire",
+    "url": "https://www.lefigaro.fr/actualite-france/seine-et-marne-une-elue-aspergee-d-essence-devant-un-lycee-de-chelles-une-enquete-ouverte-et-un-suspect-interpelle-20261110",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "La mobilisation des lycéens s'est poursuivie ce mardi, le gouvernement hausse le ton face aux violences",
+    "url": "https://www.ouest-france.fr/education/la-mobilisation-des-lyceens-sest-poursuivie-ce-mardi-le-gouvernement-hausse-le-ton-face-aux-violences-1d9d9250-dd28-11f1-86b6-0a2fbb1d8ed9",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France Universités",
+    "title": "Menaces et insultes à l'encontre des présidentes et présidents d'université : cela suffit !",
+    "url": "https://franceuniversites.fr/actualite/menaces-et-insultes-a-lencontre-des-presidentes-et-presidents-duniversite-cela-suffit/",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Paris",
+  "dept": "75",
+  "place": "",
+  "type": "manifestation",
+  "title": "Manifestation parisienne de la journée de mobilisation éducation-jeunesse : 2 000 à 4 000 personnes selon les renseignements",
+  "summary": "À Paris, entre 2 000 et 4 000 personnes défilent le mardi 10 novembre à l'appel de l'intersyndicale de l'éducation, de l'enseignement supérieur et des organisations de jeunesse, selon les estimations des services de renseignement citées par Le Figaro, loin des 56 000 personnes comptées par la préfecture de police le 6 octobre ; le quotidien y voit « le net essoufflement » du mouvement lycéen.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "2 000 à 4 000 selon les services de renseignement (Le Figaro)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Tirs de mortiers, incendies, violences sur les proviseurs… Le mouvement lycéen se radicalise alors que les discussions sont dans l'impasse",
+    "url": "https://www.lefigaro.fr/actualite-france/mortiers-tires-a-l-interieur-des-lycees-incendies-violences-sur-les-proviseurs-le-mouvement-lyceen-se-radicalise-alors-que-les-discussions-sont-dans-l-impasse-20261112",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Aix-en-Provence",
+  "dept": "13",
+  "place": "lycées Émile-Zola et Cézanne",
+  "type": "blocage",
+  "title": "Incendie « criminel » au lycée Émile-Zola d'Aix-en-Provence, le lycée Cézanne évacué par les gendarmes mobiles",
+  "summary": "Vers 5 h 40, un incendie se déclare au lycée Émile-Zola, dans le sud de la ville : deux conteneurs incendiés à l'extérieur puis une poubelle devant une salle de classe du bâtiment A, bouteilles en plastique et traces d'hydrocarbures relevées ; 26 sapeurs-pompiers maîtrisent le feu, sans blessé. L'établissement, régulièrement bloqué depuis octobre, est fermé et passe en visioconférence ; le recteur Benoît Delaunay évoque 40 salles de classe inutilisables et le président de la région Sud François de Canson « trois ou quatre mois » avant une réouverture ; le parquet d'Aix-en-Provence est saisi et la police exploite la vidéosurveillance. De Canson dénonce des « voyous » et demande au ministre de l'Intérieur des moyens pour sécuriser les lycées ; la maire Sophie Joissains parle d'un acte « d'une extrême gravité » si l'origine volontaire est confirmée ; aucun lien avec le mouvement lycéen n'est établi. Le même jour, journée de grève du 10 novembre, des gendarmes mobiles font évacuer le lycée Cézanne après des perturbations et le déclenchement d'alarmes incendie (Les Nouvelles Publications).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ici Provence",
+    "title": "Aix-en-Provence : le lycée Zola touché par un incendie",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/aix-en-provence/aix-en-provence-le-lycee-zola-touche-par-un-incendie-8539963",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "« La bêtise de quelques-uns » : un feu se déclare à l'aube dans un lycée d'Aix-en-Provence, le président de Région dénonce un incendie volontaire",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/un-incendie-se-declare-a-l-aube-dans-un-lycee-d-aix-en-provence-le-feu-a-rapidement-ete-maitrise-3447120.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Quartz France (AFP)",
+    "title": "Le lycée Émile Zola d'Aix-en-Provence est fermé après un incendie, sans blessé",
+    "url": "https://fr.qz.com/incendie-lycee-emile-zola-aix-provence-111026",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Orange Actualités (6Medias)",
+    "title": "Aix-en-Provence : un incendie volontaire se déclare au lycée Émile Zola, l'établissement fermé ce mardi",
+    "url": "https://actu.orange.fr/societe/fait-divers/aix-en-provence-un-incendie-volontaire-se-declare-au-lycee-emile-zola-l-etablissement-ferme-ce-mardi-6medias-CNT000002tEpdJ.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "« Quelques voyous » : un incendie dégrade un lycée d'Aix-en-Provence, la piste volontaire envisagée",
+    "url": "https://www.ouest-france.fr/education/ecole/quelques-voyous-un-incendie-degrade-un-lycee-daix-en-provence-la-piste-volontaire-envisagee-64d7853e-dcee-11f1-a62b-776e3051b0df",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Les Nouvelles Publications (mesinfos.fr)",
+    "title": "Grève du 10 novembre à Aix-en-Provence : les gendarmes mobiles font évacuer le lycée Cézanne",
+    "url": "https://mesinfos.fr/13080-aix-en-provence/greve-du-10-novembre-a-aix-en-provence-les-gendarmes-mobiles-font-evacuer-le-lycee-cezanne-342974.html",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "city": "Chelles",
+  "dept": "77",
+  "place": "lycée Gaston-Bachelard",
+  "type": "blocage",
+  "title": "Blocus du lycée Gaston-Bachelard : une conseillère régionale aspergée d'essence, enquête pour tentative d'homicide, trois lycéens en garde à vue",
+  "summary": "Pendant le blocus du lycée Gaston-Bachelard, où des poubelles sont incendiées et un mortier d'artifice tiré, Angéla Avond (Pascoa Dos Santos), adjointe au maire de Chelles et conseillère régionale LR venue avec des parents d'élèves soutenir la reprise des cours, reçoit sur le torse une bouteille fermée et pleine d'essence qui lui coupe le souffle ; elle porte plainte et le parquet de Meaux ouvre une enquête de flagrance pour « tentative d'homicide volontaire sur une personne dépositaire de l'autorité publique », confiée au SIPJ de Seine-et-Marne. Trois lycéens de 15 à 17 ans sont placés en garde à vue pour participation à un attroupement, violences contre des policiers visés par des tirs de mortiers et dégradations par moyens incendiaires, mais aucun pour l'agression de l'élue, dont l'auteur n'est pas identifié ; les témoignages d'élèves divergent sur le fait qu'elle ait été visée. Valérie Pécresse annonce que la Région se porte partie civile, le maire Brice Rabaste demande une réunion d'urgence avec la préfecture, et Emmanuel Macron, Laurent Nuñez, Édouard Geffray, Yaël Braun-Pivet et Bruno Retailleau condamnent l'agression.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 3,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Mortier d'artifice, jet de bouteille d'essence sur une élue, intervention de la police : des tensions éclatent devant un lycée de Chelles",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/seine-et-marne/mortier-d-artifice-jet-de-bouteille-d-essence-sur-une-elue-intervention-de-la-police-des-tensions-eclatent-devant-un-lycee-de-chelles-3447306.html",
+    "date": "2026-11-10"
+   },
+   {
+    "outlet": "Le Figaro",
+    "title": "Seine-et-Marne : une élue aspergée d'essence devant un lycée de Chelles, une enquête ouverte pour tentative d'homicide volontaire",
+    "url": "https://www.lefigaro.fr/actualite-france/seine-et-marne-une-elue-aspergee-d-essence-devant-un-lycee-de-chelles-une-enquete-ouverte-et-un-suspect-interpelle-20261110",
+    "date": "2026-11-10"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Orléans",
+  "dept": "45",
+  "place": "lycées Voltaire et Benjamin-Franklin",
+  "type": "blocage",
+  "title": "Tirs de mortiers devant les lycées Voltaire et Benjamin-Franklin d'Orléans : les deux établissements ferment et passent en distanciel",
+  "summary": "Le jeudi 12 novembre, les lycées Voltaire et Benjamin-Franklin sont visés par des tirs de mortiers d'artifice ; en réponse, les deux établissements ferment leurs portes et basculent les cours en distanciel. D'autres établissements de l'agglomération orléanaise sont également ciblés le même jour (Saint-Jean-de-Braye, Ingré), selon Ouest-France.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Des tirs de mortiers devant des lycées à Orléans entraînent la fermeture de deux établissements",
+    "url": "https://www.ouest-france.fr/education/ecole/des-tirs-de-mortiers-devant-des-lycees-a-orleans-entrainent-la-fermeture-de-deux-etablissements-4c8042f8-df52-11f1-8a68-1e9f9f2c4ff6",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Saint-Jean-de-Braye",
+  "dept": "45",
+  "place": "lycée Jacques-Monod",
+  "type": "blocage",
+  "title": "Tirs de mortiers et fumigènes au lycée Jacques-Monod de Saint-Jean-de-Braye",
+  "summary": "Des tirs de mortiers d'artifice et l'utilisation de fumigènes sont signalés le jeudi 12 novembre au lycée Jacques-Monod de Saint-Jean-de-Braye, sans interruption des cours, dans une journée marquée par des tirs de mortiers devant plusieurs lycées de l'agglomération d'Orléans, selon Ouest-France.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Des tirs de mortiers devant des lycées à Orléans entraînent la fermeture de deux établissements",
+    "url": "https://www.ouest-france.fr/education/ecole/des-tirs-de-mortiers-devant-des-lycees-a-orleans-entrainent-la-fermeture-de-deux-etablissements-4c8042f8-df52-11f1-8a68-1e9f9f2c4ff6",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "Ingré",
+  "dept": "45",
+  "place": "lycée Maurice-Genevoix",
+  "type": "blocage",
+  "title": "Deux incidents au lycée Maurice-Genevoix d'Ingré : élèves évacués dans la cour, droit de retrait d'enseignants",
+  "summary": "Le jeudi 12 novembre, deux incidents éclatent au lycée Maurice-Genevoix d'Ingré ; les élèves sont évacués dans la cour mais l'établissement reste ouvert ; certains enseignants exercent leur droit de retrait, ce qui entraîne l'annulation de plusieurs cours, selon Ouest-France.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Des tirs de mortiers devant des lycées à Orléans entraînent la fermeture de deux établissements",
+    "url": "https://www.ouest-france.fr/education/ecole/des-tirs-de-mortiers-devant-des-lycees-a-orleans-entrainent-la-fermeture-de-deux-etablissements-4c8042f8-df52-11f1-8a68-1e9f9f2c4ff6",
+    "date": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "autre",
+  "title": "Jeudi 12 novembre – blocages « résiduels », 245 personnels de l'Éducation nationale blessés depuis le début du mouvement selon Édouard Geffray, discussions « dans l'impasse »",
+  "summary": "Le ministre de l'Éducation nationale indique que 245 personnels de l'Éducation nationale ont été blessés depuis le début du mouvement et qualifie de « résiduel » le nombre d'établissements bloqués ; Le Figaro décrit une « radicalisation des violences » visant l'institution scolaire (agressions de proviseurs, départs d'incendie, tirs de mortiers devenus quotidiens dans certains lycées de Lille, Marseille, Paris, Lyon ou Grenoble) alors que les discussions entre le gouvernement et les organisations lycéennes sont « dans l'impasse ». Dans l'agglomération d'Orléans, des tirs de mortiers entraînent le même jour la fermeture de deux lycées.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "245 personnels blessés depuis le début du mouvement (ministère de l'Éducation nationale)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Figaro",
+    "title": "Tirs de mortiers, incendies, violences sur les proviseurs… Le mouvement lycéen se radicalise alors que les discussions sont dans l'impasse",
+    "url": "https://www.lefigaro.fr/actualite-france/mortiers-tires-a-l-interieur-des-lycees-incendies-violences-sur-les-proviseurs-le-mouvement-lyceen-se-radicalise-alors-que-les-discussions-sont-dans-l-impasse-20261112",
+    "date": "2026-11-12"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Des tirs de mortiers devant des lycées à Orléans entraînent la fermeture de deux établissements",
+    "url": "https://www.ouest-france.fr/education/ecole/des-tirs-de-mortiers-devant-des-lycees-a-orleans-entrainent-la-fermeture-de-deux-etablissements-4c8042f8-df52-11f1-8a68-1e9f9f2c4ff6",
+    "date": "2026-11-13"
+   }
+  ]
+ }
+]
