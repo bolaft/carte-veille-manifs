@@ -1,0 +1,354 @@
+[
+ {
+  "date": "2026-10-17",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place de la Nation",
+  "category": "autre",
+  "title": "Un adolescent de 15 ans blessé par une balle de plomb place de la Nation avant l'arrivée du cortège du 17 octobre : enquête pour tentative de meurtre révélée le 24 novembre",
+  "summary": "Mediapart révèle le 24 novembre, plus d'un mois après les faits, que « Marius » (prénom modifié), 15 ans, un keffieh autour du cou, attendait avec trois amis mineurs place de la Nation pour rejoindre le cortège de la grande journée du 17 octobre lorsque, une trentaine de minutes avant l'arrivée des manifestants, il a reçu une balle de plomb dans le thorax qui a perforé son poumon droit, tirée probablement depuis un point en hauteur. Le parquet de Paris a ouvert une enquête pour tentative de meurtre confiée à la police judiciaire ; il ne s'exprime pas sur un éventuel mobile raciste. Selon le ministère public cité par L'Humanité, « un groupe de quatre mineurs se trouvait au niveau de la place de la Nation dans l'attente d'intégrer le cortège » quand, « bien avant l'arrivée » de celui-ci, l'un des jeunes a « soudainement » été touché.",
+  "victim": "« Marius » (prénom modifié), 15 ans, lycéen",
+  "investigation": "Enquête du parquet de Paris pour tentative de meurtre, confiée à la police judiciaire ; tireur, arme et mobile non identifiés (24 nov.)",
+  "status_date": "2026-11-25",
+  "sources": [
+   {
+    "outlet": "Mediapart",
+    "title": "Manifestation du 17 octobre : un adolescent blessé par balle place de la Nation, une enquête ouverte pour tentative de meurtre",
+    "url": "https://www.mediapart.fr/journal/france/241126/manifestation-du-17-octobre-un-adolescent-blesse-par-balle-place-de-la-nation-une-enquete-ouverte-pour-tentative-de-meurtre",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "L'Humanité",
+    "title": "Mobilisation lycéenne : une enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
+    "url": "https://www.humanite.fr/societe/manifestation/mobilisation-lyceenne-une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "propagande",
+  "title": "Nombre de lycées bloqués : le ministère (« une dizaine », soit 0,3 %, le 13 novembre) accusé par le SNPDEN-Unsa, l'USL et le Snes-FSU de minorer la mobilisation (« pas moins de 1 000 établissements impactés »)",
+  "summary": "Le 14 novembre, franceinfo (« Vrai ou faux ») et Le HuffPost documentent l'écart entre les décomptes du ministère de l'Éducation nationale et ceux des syndicats. Depuis la rentrée de la Toussaint, le ministère ne compte que les lycées « totalement bloqués à l'instant T » — 81 le 5 novembre, 41 à 48 le 6, 49 (1,3 %) le 10, 24 le 12 et « une dizaine » (0,3 %) le 13 — sans les barrages filtrants, les fermetures préventives décidées par les proviseurs ou les préfets ni les établissements passés en distanciel, alors qu'avant les vacances il communiquait sur les lycées « perturbés ». L'Union syndicale lycéenne compte 500 établissements bloqués ou fermés le 10 novembre, le SNPDEN-Unsa (conférence de presse du 13 novembre) « pas moins de 1 000 établissements impactés directement » la semaine précédente, chiffre partagé par le Snes-FSU, et plus de 50 lycées fermés dans la seule académie de Versailles le 6 novembre contre 48 annoncés pour tout le pays ; le préfet de Seine-Saint-Denis dit avoir fermé la moitié des lycées de son département (31). Un proviseur parisien parle de « mensonge par omission » ; l'USL dénonce une stratégie de fermetures préventives visant les lycées les plus mobilisés. Édouard Geffray, qui évoquait une mobilisation « résiduelle » (« 10 ou 20 à tout casser »), reconnaît qu'« une centaine de lycées » sont passés en distanciel le 10 novembre et une « nuance » entre établissements bloqués et fermés pour raisons de sécurité.",
+  "victim": "",
+  "investigation": "Vérifications franceinfo et HuffPost (14 nov.) ; conférence de presse du SNPDEN-Unsa (13 nov.)",
+  "status_date": "2026-11-14",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "VRAI OU FAUX. Le ministère de l'Education nationale minimise-t-il le nombre de lycées bloqués ?",
+    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-ministere-de-l-education-nationale-minimise-t-il-le-nombre-de-lycees-bloques_8280680.html",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Le HuffPost",
+    "title": "Le gouvernement minore-t-il le nombre de lycées bloqués depuis la rentrée de la Toussaint ?",
+    "url": "https://www.huffingtonpost.fr/politique/article/le-gouvernement-minore-t-il-le-nombre-de-lycees-bloques-depuis-la-rentree-de-la-toussaint_357755.html",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-15",
+  "city": "Paris",
+  "dept": "75",
+  "place": "abords de dix lycées et de cinq sites universitaires",
+  "category": "répression",
+  "title": "Arrêté de la préfecture de police interdisant tout rassemblement non déclaré à moins de 100 m de dix lycées et de cinq sites universitaires parisiens (et d'établissements des 92, 93 et 94), suspendu par le tribunal administratif le 17 novembre",
+  "summary": "Le dimanche 15 novembre, en vue de la journée de grève du 17, la préfecture de police de Paris prend un arrêté interdisant tout rassemblement ou cortège non déclaré dans un rayon de 100 mètres autour de dix lycées et de cinq sites universitaires de la capitale, ainsi que d'établissements du Val-de-Marne, des Hauts-de-Seine et de la Seine-Saint-Denis. Saisi en urgence par plusieurs associations, dont l'Unef, le tribunal administratif de Paris suspend l'exécution de l'arrêté dans l'après-midi du mardi 17 novembre (franceinfo et AFP, cités par Sortiraparis) : les rassemblements près de ces établissements ne sont plus interdits par principe et restent soumis au régime ordinaire de déclaration.",
+  "victim": "",
+  "investigation": "Référé : suspension de l'arrêté par le tribunal administratif de Paris le 17 novembre",
+  "status_date": "2026-11-17",
+  "sources": [
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 17 strike in Paris: a roundup of the mobilization (28,000 protesters in Paris, 175,000 according to the CGT)",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357817-november-17-strike-in-paris-a-look-at-the-turnout",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Assemblée nationale (commission d'enquête sur le 17 octobre)",
+  "category": "autre",
+  "title": "Commission d'enquête sur le 17 octobre : le maire de Paris Emmanuel Grégoire décrit un est parisien « défavorisé » et des pillages « systématiques » sans intervention policière",
+  "summary": "Auditionné le 16 novembre par la commission d'enquête de l'Assemblée nationale créée après les violences du 17 octobre, le maire de Paris Emmanuel Grégoire (PS) fait part d'un « sentiment profondément troublant » : des commerçants attestent de « pillages systématiques, boutique après boutique, dans certains secteurs pendant plusieurs heures, sans qu'il n'y ait un policier qui intervienne pour les arrêter ». Il lui a « semblé qu'à un moment, l'est parisien avait été défavorisé par rapport à l'ouest parisien », notamment la protection du « triangle d'or » (Assemblée nationale, Élysée, Matignon). Il déplore ne pas avoir été informé d'un « niveau de menace exceptionnel », rappelle que le maintien de l'ordre relève de l'État et que le maire de Paris « n'a pas de prérogatives de police », et indique que 500 agents de la police municipale étaient déployés ce jour-là ; il dit comprendre les Parisiens qui ont eu « le sentiment d'être abandonnés ».",
+  "victim": "",
+  "investigation": "Commission d'enquête de l'Assemblée nationale sur les événements du 17 octobre (auditions en cours)",
+  "status_date": "2026-11-16",
+  "sources": [
+   {
+    "outlet": "LCP - Assemblée nationale",
+    "title": "17 octobre : face aux violences et aux pillages, l'est de Paris a été « défavorisé » par rapport à l'ouest, estime le maire Emmanuel Grégoire",
+    "url": "https://lcp.fr/actualites/17-octobre-face-aux-violences-et-aux-pillages-l-est-de-paris-a-ete-defavorise-par",
+    "date": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Assemblée nationale (conférence de presse)",
+  "category": "gaz",
+  "title": "« Lacrymos de sang » : 10 000 témoignages de troubles gynécologiques après exposition aux gaz lacrymogènes présentés à l'Assemblée nationale, demande de suspension de leur usage",
+  "summary": "Le collectif Lacrymos de sang (militantes et soignantes) a recueilli, par questionnaire déclaratif diffusé en ligne et en manifestation, 10 358 réponses entre le 8 et le 31 octobre (9 480 témoignages traités) auprès de femmes de 15 à 62 ans de l'Hexagone et des outre-mer : neuf personnes exposées sur dix déclarent des troubles gynécologiques (douleurs utérines ou ovariennes, cycles avancés ou retardés, saignements abondants, y compris chez des femmes ménopausées), contre trois sur dix parmi les manifestantes non exposées, les symptômes survenant dans les 24 heures dans les trois quarts des cas ; sur 47 femmes enceintes exposées, la moitié de celles au premier trimestre rapportent une fausse couche (15 au total), proportion deux fois supérieure à la normale. Révélés par France Inter et présentés le 17 novembre lors d'une conférence de presse à l'Assemblée nationale avec des élus et des médecins, ces résultats s'accompagnent d'une demande de suspension de l'usage des gaz lacrymogènes dans le maintien de l'ordre au nom du principe de précaution, dans l'attente d'expertises indépendantes sur les perturbateurs endocriniens qu'ils contiennent, de financement de la recherche et de réparation pour les victimes ; des parlementaires d'opposition reprennent la demande de suspension. Le 2 novembre, Laurent Nuñez avait déclaré n'avoir « pas connaissance » de leur nocivité et refusé une suspension par précaution.",
+  "victim": "Femmes exposées aux gaz lacrymogènes lors des manifestations (9 480 témoignages traités)",
+  "investigation": "Étude déclarative du collectif (8–31 oct.) ; demande de suspension et d'expertises indépendantes adressée au gouvernement",
+  "status_date": "2026-11-18",
+  "statement": {
+   "org": "Lacrymos de sang",
+   "kind": "ONG"
+  },
+  "sources": [
+   {
+    "outlet": "France Inter",
+    "title": "Un collectif demande « la suspension de l'usage des gaz lacrymogènes », responsables de « troubles gynécologiques »",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/le-collectif-lacrymos-de-sang-alerte-sur-les-consequences-des-gaz-lacrymogenes-6945307",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Le Monde",
+    "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins demandent leur interdiction",
+    "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "RFI",
+    "title": "Women in France report painful periods after exposure to tear gas at protests",
+    "url": "https://www.rfi.fr/en/france/20261115-women-in-france-report-painful-periods-after-exposure-to-tear-gas-at-protests",
+    "date": "2026-11-15"
+   },
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "Fears over impact of tear gas on women's health prompt calls for ban",
+    "url": "https://www.lemonde.fr/en/environment/article/2026/11/18/fears-over-impact-of-tear-gas-on-women-s-health-prompt-calls-for-ban_6783098_114.html",
+    "date": "2026-11-18"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "« Il faut que les pouvoirs publics s'en emparent » : quels effets les gaz lacrymogènes ont-ils sur la santé des femmes ?",
+    "url": "https://www.ouest-france.fr/sante/il-faut-que-les-pouvoirs-publics-sen-emparent-quels-effets-les-gaz-lacrymogenes-ont-ils-sur-la-sante-des-femmes-60f437a0-dea6-11f1-86b6-0a2fbb1d8ed9",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Grève du 17 novembre : un millier de CRS absents pour « consultations médicales », 30 compagnies sur 63 touchées, la CRS 8 indisponible — les syndicats de police dénoncent l'épuisement des unités",
+  "summary": "Le 17 novembre, selon un décompte du Monde à partir de chiffres syndicaux repris par The Times et BFMTV, près de 1 000 à 1 200 des quelque 13 000 CRS appelés à encadrer les manifestations sont absents pour des « consultations » médicales, les agents invoquant surmenage, attaques violentes et éloignement de leurs familles depuis fin septembre et des « troubles psychosociaux » ; 30 compagnies sur 63 sont touchées et certaines, dont la CRS 8, ne peuvent être engagées. Pour Yoann Maras (Alliance Police nationale), « c'est le signe d'une exaspération générale des CRS, épuisés et surmenés depuis la fin septembre. Le ministre de l'Intérieur était prévenu. » Le lendemain, Alliance manifeste place Beauvau pour la prime de risque.",
+  "victim": "",
+  "investigation": "",
+  "status_date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "After two months of protests, anger rises among French riot police",
+    "url": "https://www.lemonde.fr/en/france/article/2026/11/17/after-two-months-of-protests-anger-rises-among-french-riot-police_6782824_7.html",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "The Times",
+    "title": "More than 1,000 French riot police call in sick",
+    "url": "https://www.thetimes.com/world/europe/article/french-police-off-sick-after-protests-7qx3l6k20",
+    "date": "2026-11-18"
+   },
+   {
+    "outlet": "Anadolu Agency",
+    "title": "French police rally in Paris for higher risk allowance, better working conditions",
+    "url": "https://www.aa.com.tr/en/europe/french-police-rally-in-paris-for-higher-risk-allowance-better-working-conditions/4129488",
+    "date": "2026-11-18"
+   },
+   {
+    "outlet": "TVC News",
+    "title": "French Police Set Up Protest Tents Outside Interior Ministry Over Working Conditions",
+    "url": "https://www.tvcnews.tv/french-police-set-up-protest-tents-outside-interior-ministry-over-working-conditions/",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "Gérald Darmanin : environ 15 000 interpellations depuis le début des mobilisations, dont 7 184 depuis le 17 octobre (4 523 majeurs et 2 661 mineurs)",
+  "summary": "Le 18 novembre, le ministre de la Justice Gérald Darmanin annonce qu'environ 15 000 personnes ont été interpellées depuis le début des mobilisations : 7 184 depuis le 17 octobre en lien avec les manifestations contre la vie chère, dont 4 523 majeurs et 2 661 mineurs, auxquelles s'ajoutent quelque 8 000 interpellations lors du mouvement lycéen de septembre-octobre. Ce bilan prolonge celui du 3 novembre (4 914 gardes à vue, 1 820 défèrements et 329 incarcérations depuis le 17 octobre) et illustre l'ampleur de la réponse pénale dénoncée par les organisations de défense des droits.",
+  "victim": "",
+  "investigation": "Bilan du ministère de la Justice (18 nov.)",
+  "status_date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "French justice minister says 15,000 people arrested during recent protests",
+    "url": "https://www.lemonde.fr/en/france/article/2026/11/18/french-justice-minister-says-15-000-people-arrested-during-recent-protests_6783592_7.html",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "répression",
+  "title": "3 000 conseils de discipline « à l'occasion du mouvement lycéen » entre septembre et le 1er novembre selon Édouard Geffray, après le télégramme du 13 novembre demandant aux recteurs de systématiser les sanctions",
+  "summary": "Le ministre de l'Éducation nationale Édouard Geffray indique le 18 novembre que 3 000 élèves sont passés en conseil de discipline « à l'occasion du mouvement lycéen » entre septembre et le 1er novembre, soit avant la reprise des blocages à la rentrée de la Toussaint. Ce chiffre s'inscrit dans la politique de fermeté affichée par le télégramme du 13 novembre, par lequel le gouvernement demande aux recteurs de renforcer et de systématiser les sanctions disciplinaires contre les élèves et les personnels participant à des blocages, et dans les mesures annoncées par la région Île-de-France (suppression d'aides régionales aux élèves auteurs de dégradations), dénoncées comme une « double peine » par leurs opposants.",
+  "victim": "Lycéens mobilisés (3 000 conseils de discipline)",
+  "investigation": "Procédures disciplinaires dans les établissements ; télégramme ministériel du 13 novembre aux recteurs",
+  "status_date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Mobilisation lycéenne : 3 000 conseils de discipline entre septembre et le 1er novembre, selon le ministre de l'éducation nationale, Edouard Geffray",
+    "url": "https://www.lemonde.fr/campus/article/2026/11/18/mobilisation-lyceenne-3-000-conseils-de-discipline-entre-septembre-et-le-1er-novembre-selon-le-ministre-de-l-education-nationale-edouard-geffray_6813158_4401467.html",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "category": "autre",
+  "title": "Le Défenseur des droits François-Noël Buffet, saisi 106 fois depuis le début de la mobilisation (dont 67 allégations de violences), appelle le gouvernement à « se reposer la question » du maintien de l'ordre",
+  "summary": "Le mercredi 18 novembre, le Défenseur des droits François-Noël Buffet, qui a succédé à Claire Hédon en juillet et n'avait pas pris publiquement la parole depuis le début du mouvement, indique avoir reçu 106 réclamations liées à la mobilisation sociale, dont 67 pour des « allégations de violences » de la part des forces de l'ordre, les autres portant sur des « confiscations de matériel », des « propos déplacés d'agents » ou le non-port du RIO (numéro d'identification individuel). Il estime que le gouvernement doit « sans doute se reposer la question » de « la façon dont on maintient l'ordre », sans entrer dans les détails, promet de rendre « un avis » sur chaque réclamation après une instruction contradictoire et de dénoncer « clairement » d'éventuelles « failles ». L'Humanité souligne que l'ancien sénateur LR, critiqué pour ses positions conservatrices lors de sa nomination, a attendu deux mois pour s'exprimer.",
+  "victim": "",
+  "investigation": "106 réclamations en cours d'instruction par le Défenseur des droits (dont 67 pour violences)",
+  "status_date": "2026-11-18",
+  "statement": {
+   "org": "Défenseur des droits",
+   "kind": "autorité indépendante"
+  },
+  "sources": [
+   {
+    "outlet": "L'Humanité",
+    "title": "Mobilisation sociale : après 106 saisines pour violences policières, le Défenseur des droits appelle (enfin) à se « reposer la question » du maintien de l'ordre",
+    "url": "https://www.humanite.fr/societe/defenseur-des-droits/mobilisation-sociale-apres-106-saisines-pour-violences-policieres-le-defenseur-des-droits-appelle-enfin-a-se-reposer-la-question-du-maintien-de-lordre",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "city": "Limoges",
+  "dept": "87",
+  "place": "hôtel de ville",
+  "category": "répression",
+  "title": "Incendie de la mairie de Limoges : un suspect a passé quatorze jours en détention provisoire parce que la police n'avait pas vérifié son alibi, selon son avocat",
+  "summary": "Après l'incendie de l'hôtel de ville de Limoges le 17 octobre, deux premiers suspects sont mis en examen le 23 octobre et placés en détention provisoire ; le plus âgé est remis en liberté sous contrôle judiciaire début novembre. Le 18 novembre, La Voix du Nord rapporte que, selon son avocat, cet homme a passé quatorze jours en prison parce que les enquêteurs n'avaient pas vérifié son alibi.",
+  "victim": "Suspect remis en liberté sous contrôle judiciaire début novembre (le plus âgé des deux mis en examen)",
+  "investigation": "Information judiciaire sur l'incendie de l'hôtel de ville ; remise en liberté sous contrôle judiciaire début novembre",
+  "status_date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "La Voix du Nord",
+    "title": "Un suspect de l'incendie de la mairie de Limoges a fait 14 jours de prison parce que la police n'a pas vérifié son alibi, selon son avocat",
+    "url": "https://www.lavoixdunord.fr/1756141/article/2026-11-18/un-suspect-de-l-incendie-de-la-mairie-de-limoges-fait-14-jours-de-prison-parce",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "city": "France",
+  "dept": "",
+  "place": "Sénat",
+  "category": "répression",
+  "title": "Le Sénat adopte définitivement (205 voix contre 110) la proposition de loi « présomption de légitime défense » des forces de l'ordre ; la gauche saisit le Conseil constitutionnel",
+  "summary": "Après une séance houleuse entamée le jeudi 19 novembre et suspendue à 0 h 30 (trois motions de rejet repoussées, accusations d'obstruction par le RN, « ce texte va plus loin que l'Italie de Mussolini » pour un sénateur de gauche), le Sénat adopte le vendredi 20 novembre au soir, par 205 voix contre 110 et sans modification du texte voté par l'Assemblée nationale le 7 juillet, la proposition de loi du député LR Éric Pauget. Réécrit par le gouvernement, le texte n'instaure pas une présomption de légitime défense mais une « présomption d'usage légal des armes » : policiers et gendarmes qui font usage de leur arme « sont présumés avoir agi » dans le cadre de la loi, présomption réversible par tout élément de preuve contraire, ce qui met fin au placement automatique en garde à vue du tireur au profit d'une audition libre. Il est voté par LR, le groupe RN-UDR (UNT) et la quasi-totalité de l'Union centriste (55 pour, 2 contre, 4 abstentions), les macronistes du RDPI s'abstenant, la gauche votant unanimement contre et la majorité du RDSE (12 contre, 3 pour, 3 abstentions). Laurent Nuñez salue « une marque de confiance » envers les forces de l'ordre très sollicitées « face à la colère sociale et lycéenne » et réfute tout « permis de tuer » ; la gauche sénatoriale (Patrick Kanner) puis Mathilde Panot (LFI) et Boris Vallaud (PS) annoncent dans la soirée saisir le Conseil constitutionnel. Le texte, combattu dans la rue (appel de la LDH pour le 14 novembre, pétition de 732 086 signatures classée en juillet) et critiqué par la Défenseure des droits Claire Hédon et la CNCDH, est adopté « à la veille d'une nouvelle journée de mobilisation sociale ».",
+  "victim": "",
+  "investigation": "Saisine du Conseil constitutionnel annoncée par les groupes de gauche (20–21 nov.) ; promulgation en attente",
+  "status_date": "2026-11-21",
+  "sources": [
+   {
+    "outlet": "Public Sénat",
+    "title": "La proposition de loi instaurant une présomption de légitime défense pour les forces de l'ordre définitivement adoptée par le Parlement, après le vote du Sénat",
+    "url": "https://www.publicsenat.fr/actualites/politique/la-proposition-de-loi-instaurant-une-presomption-de-legitime-defense-pour-les-forces-de-lordre-definitivement-adoptee-par-le-parlement-apres-le-vote-du-senat",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "La Provence (avec AFP)",
+    "title": "« Permis de tuer » ou « marque de confiance » ? La loi sur l'usage des armes par la police adoptée, la gauche saisit le Conseil constitutionnel et la rue gronde",
+    "url": "https://www.laprovence.com/article/societe/1403650457098614/loi-sur-lusage-des-armes-par-la-police-le-texte-controverse-adopte-la-gauche-saisit-le-conseil-constitutionnel?id=1403650457098614",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Reuters",
+    "title": "French Senate approves police shootings law dubbed 'licence to kill' by critics",
+    "url": "https://www.reuters.com/world/french-senate-approves-police-shootings-law-dubbed-licence-kill-by-critics-2026-11-20/",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "Public Sénat",
+    "title": "« Ce texte va plus loin que l'Italie de Mussolini » : au Sénat, des débats électriques autour de l'instauration d'une « présomption d'usage légal des armes » par les forces de l'ordre",
+    "url": "https://www.publicsenat.fr/actualites/parlementaire/ce-texte-va-plus-loin-que-litalie-de-mussolini-au-senat-des-debats-electriques-autour-de-linstauration-dune-presomption-de-legitime-defense",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "centre-ville",
+  "category": "répression",
+  "title": "Acte VI à Lyon : interdiction des manifestations sur un large périmètre, cortèges non autorisés dispersés aux gaz lacrymogènes",
+  "summary": "Pour le sixième samedi consécutif, la préfecture du Rhône interdit les manifestations sur un large périmètre du centre de Lyon. Dans l'après-midi du 21 novembre, plusieurs cortèges non autorisés tentent de rejoindre le centre-ville et sont dispersés par les forces de l'ordre à l'aide de gaz lacrymogènes, selon un journaliste de l'AFP ; des manifestants tentent d'incendier des véhicules et des poubelles.",
+  "victim": "",
+  "investigation": "",
+  "status_date": "2026-11-21",
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France's sixth consecutive Saturday of protests draw lower turnout",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Paris",
+  "dept": "75",
+  "place": "",
+  "category": "extrême-droite",
+  "title": "Mediapart publie les messages internes du GUD : deux ans après sa dissolution, les mêmes militants continuent les violences et planifient leurs actions sur Telegram",
+  "summary": "Dans une enquête en deux volets (21 et 23 novembre) fondée sur plusieurs centaines de messages internes et sur les rapports d'expertise des téléphones saisis dans l'information judiciaire ouverte après le passage à tabac d'un militant de la CGT en février 2025 (une trentaine de mis en examen pour violences aggravées en réunion), Mediapart montre que, deux ans après la dissolution du Groupe union défense, les mêmes hommes — reformés sous le nom de Hussards Paris, « GUD déguisé » selon l'un d'eux — continuent de perpétrer les mêmes violences, de « déverser la même haine » et de planifier leurs actions sur Telegram ; Marc de Cacqueray-Valménier et Gabriel Loustau, présenté par les services de renseignement comme le dirigeant de la mouvance néonazie parisienne et condamné à six mois ferme pour des violences en avril 2026, apparaissent comme les principaux donneurs d'ordres, et le groupe se livre à un « prosélytisme violent » en faveur du RN qui le tient officiellement à l'écart. Ces révélations éclairent les violences d'ultradroite du mouvement d'automne : agressions à coups de barres de fer des étudiants mobilisés à Paris-Panthéon-Assas par un groupe se revendiquant des « Waffen Assas » en octobre, tags « Assas est à nous GUD », et présence de militants proches du GUD parmi les casseurs du 17 octobre.",
+  "victim": "",
+  "investigation": "Information judiciaire (agression de février 2025, une trentaine de mis en examen) ; expertises téléphoniques consultées par Mediapart",
+  "status_date": "2026-11-23",
+  "sources": [
+   {
+    "outlet": "Mediapart",
+    "title": "Le GUD n'est pas mort, il déverse sa haine et planifie ses actions sur Telegram",
+    "url": "https://www.mediapart.fr/journal/france/211126/le-gud-n-est-pas-mort-il-deverse-sa-haine-et-planifie-ses-actions-sur-telegram",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Mediapart",
+    "title": "Officiellement tenus à l'écart par le RN, les néonazis du GUD lui restent fidèles",
+    "url": "https://www.mediapart.fr/journal/france/231126/officiellement-tenus-l-ecart-par-le-rn-les-neonazis-du-gud-lui-restent-fideles",
+    "date": "2026-11-23"
+   }
+  ]
+ }
+]

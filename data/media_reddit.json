@@ -609,6 +609,25 @@
 },
 {
 "kind": "event",
+"date": "2026-11-14",
+"city": "Strasbourg",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xyejk2",
+"vid": "1rb3rv5un42i1",
+"url": "https://www.reddit.com/r/france/comments/1xyejk2/des_policiers_frappent_de_nombreuses_fois_un/",
+"thumb_remote": "",
+"score": 2130,
+"outlet": "r/France · u/ijic",
+"title": "Des policiers frappent de nombreuses fois un manifestant au visage et l'interpellent (14/11/26, Strasbourg, via Cerveaux non disponibles)",
+"caption": "Des policiers frappent de nombreuses fois un manifestant au visage et l'interpellent (14/11/26, Strasbourg, via Cerveaux non disponibles) — publié sur r/France le 17/11 à 08h50 (2130 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-10-08",
 "city": "Paris",
 "title_prefix": "",
@@ -779,6 +798,25 @@
 ]
 },
 {
+"kind": "event",
+"date": "2026-11-17",
+"city": "Perpignan",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xzn743",
+"vid": "mqq41el72f2i1",
+"url": "https://www.reddit.com/r/france/comments/1xzn743/la_police_impose_à_une_manifestante_de_retirer_sa/",
+"thumb_remote": "",
+"score": 1652,
+"outlet": "r/France · u/Alarming-Estimate-19",
+"title": "La police impose à une manifestante de retirer sa chasuble PCF - Perpignan 17 novembre - YouTube @Cerveaux Non Disponibles",
+"caption": "La police impose à une manifestante de retirer sa chasuble PCF - Perpignan 17 novembre - YouTube @Cerveaux Non Disponibles — publié sur r/France le 18/11 à 19h44 (1652 votes)."
+}
+]
+},
+{
 "kind": "incident",
 "date": "2026-10-16",
 "city": "Paris",
@@ -912,6 +950,25 @@
 ]
 },
 {
+"kind": "incident",
+"date": "2026-11-17",
+"city": "Nantes",
+"title_prefix": "Camions syndicaux « sciemment visés », r",
+"media": [
+{
+"type": "reddit",
+"id": "1xywx83",
+"vid": "y77sakp5r82i1",
+"url": "https://www.reddit.com/r/france/comments/1xywx83/17112026_nantes_la_police_matraque_des/",
+"thumb_remote": "",
+"score": 1280,
+"outlet": "r/France · u/SiIverwings",
+"title": "[17/11/2026] Nantes - La police matraque des syndicalistes",
+"caption": "[17/11/2026] Nantes - La police matraque des syndicalistes — publié sur r/France le 17/11 à 22h32 (1280 votes)."
+}
+]
+},
+{
 "kind": "event",
 "date": "2026-10-06",
 "city": "Rennes",
@@ -989,6 +1046,63 @@
 },
 {
 "kind": "event",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xx7qga",
+"vid": "4nym643vju1i1",
+"url": "https://www.reddit.com/r/france/comments/1xx7qga/des_policiers_bousculent_et_frappent_au_visage_un/",
+"thumb_remote": "",
+"score": 1134,
+"outlet": "r/France · u/ijic",
+"title": "Des policiers bousculent et frappent au visage un journaliste leur demandant leur numéro d'identification (14/11/26, Paris, Hicham Madani, journaliste)",
+"caption": "Des policiers bousculent et frappent au visage un journaliste leur demandant leur numéro d'identification (14/11/26, Paris, Hicham Madani, journaliste) — publié sur r/France le 15/11 à 22h47 (1134 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-21",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y1z5ir",
+"vid": "q03m7e5ydz2i1",
+"url": "https://www.reddit.com/r/france/comments/1y1z5ir/21112026_paris_violences_policières_de_la_bravm/",
+"thumb_remote": "",
+"score": 1112,
+"outlet": "r/France · u/Niafron",
+"title": "[21/11/2026] - Paris - Violences policières de la BRAV-M et des CI envers des manifestants pacifiques",
+"caption": "[21/11/2026] - Paris - Violences policières de la BRAV-M et des CI envers des manifestants pacifiques — publié sur r/France le 21/11 à 16h05 (1112 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-21",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y1zovk",
+"vid": "nbyplnbaiz2i1",
+"url": "https://www.reddit.com/r/paris/comments/1y1zovk/une_manifestante_pleure_la_mort_des_services/",
+"thumb_remote": "",
+"score": 1083,
+"outlet": "r/Paris · u/Excellent-Aioli-4169",
+"title": "Une manifestante pleure la mort des services publics",
+"caption": "Une manifestante pleure la mort des services publics — publié sur r/Paris le 21/11 à 16h30 (1083 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-11-05",
 "city": "Lyon",
 "title_prefix": "",
@@ -1003,6 +1117,25 @@
 "outlet": "r/France · u/Niafron",
 "title": "[05/11/2026] - Lyon - Violences Policières - La police agresse des manifestants bloqués et crée un mouvement de foule dangereux",
 "caption": "[05/11/2026] - Lyon - Violences Policières - La police agresse des manifestants bloqués et crée un mouvement de foule dangereux — publié sur r/France le 05/11 à 16h03 (1067 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-14",
+"city": "Lyon",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y4ibxr",
+"vid": "ax8iiowpbl3i1",
+"url": "https://www.reddit.com/r/france/comments/1y4ibxr/un_policier_menace_un_journaliste_américain_de/",
+"thumb_remote": "",
+"score": 1040,
+"outlet": "r/France · u/ijic",
+"title": "Un policier menace un journaliste américain de lui mettre sa photo dans le cul (14/11/26, Lyon, Dan McArdle via Street press)",
+"caption": "Un policier menace un journaliste américain de lui mettre sa photo dans le cul (14/11/26, Lyon, Dan McArdle via Street press) — publié sur r/France le 24/11 à 17h54 (1040 votes)."
 }
 ]
 },
@@ -1097,6 +1230,25 @@
 },
 {
 "kind": "event",
+"date": "2026-11-14",
+"city": "Lyon",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xx80ek",
+"vid": "i72oy8e8lu1i1",
+"url": "https://www.reddit.com/r/france/comments/1xx80ek/des_policiers_bousculent_et_frappent_une/",
+"thumb_remote": "",
+"score": 915,
+"outlet": "r/France · u/ijic",
+"title": "Des policiers bousculent et frappent une journaliste et réclament des cartes de presse non-obligatoires (14/11/26, Lyon, Emrah Oprukcu, journaliste)",
+"caption": "Des policiers bousculent et frappent une journaliste et réclament des cartes de presse non-obligatoires (14/11/26, Lyon, Emrah Oprukcu, journaliste) — publié sur r/France le 15/11 à 22h59 (915 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-10-17",
 "city": "Toulouse",
 "title_prefix": "",
@@ -1108,6 +1260,25 @@
 "outlet": "YouTube, partagé sur r/France par u/Folivao",
 "title": "17 octobre 2026 - La police gaze des enfants (dont un de 9 ans) réfugiés dans un bar LGBT+ à Toulouse (La Gougnotte)",
 "caption": "17 octobre 2026 - La police gaze des enfants (dont un de 9 ans) réfugiés dans un bar LGBT+ à Toulouse (La Gougnotte) — publié sur r/France le 19/10 à 09h59 (888 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-21",
+"city": "Limoges",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y28ogd",
+"vid": "id59q7tdf13i1",
+"url": "https://www.reddit.com/r/france/comments/1y28ogd/21112026_limoges_des_policiers_bloquent_des/",
+"thumb_remote": "",
+"score": 842,
+"outlet": "r/France · u/Niafron",
+"title": "[21/11/2026] - Limoges - Des policiers bloquent des personnes dans une nasse tout en exigeant qu'elles se \"dispersent\", les agressent et les gazent",
+"caption": "[21/11/2026] - Limoges - Des policiers bloquent des personnes dans une nasse tout en exigeant qu'elles se \"dispersent\", les agressent et les gazent — publié sur r/France le 21/11 à 22h58 (842 votes)."
 }
 ]
 },
@@ -1281,6 +1452,44 @@
 },
 {
 "kind": "event",
+"date": "2026-11-21",
+"city": "Toulouse",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y1w84z",
+"vid": "ysib3n8noy2i1",
+"url": "https://www.reddit.com/r/france/comments/1y1w84z/a_toulouse_un_policier_vole_le_vélo_dun_cycliste/",
+"thumb_remote": "",
+"score": 664,
+"outlet": "r/France · u/Slomiow",
+"title": "A Toulouse, un policier vole le vélo d'un cycliste pour poursuivre un lycéen",
+"caption": "A Toulouse, un policier vole le vélo d'un cycliste pour poursuivre un lycéen — publié sur r/France le 21/11 à 13h44 (664 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-20",
+"city": "Toulouse",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y1f4z1",
+"vid": "p21zm6fkut2i1",
+"url": "https://www.reddit.com/r/toulouse/comments/1y1f4z1/un_policier_vole_le_vélo_dune_cycliste_pour/",
+"thumb_remote": "",
+"score": 664,
+"outlet": "r/Toulouse · u/Irkam",
+"title": "Un policier vole le vélo d'une cycliste pour poursuivre des lycéens",
+"caption": "Un policier vole le vélo d'une cycliste pour poursuivre des lycéens — publié sur r/Toulouse le 20/11 à 22h18 (664 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-11-05",
 "city": "Paris",
 "title_prefix": "",
@@ -1311,6 +1520,22 @@
 "outlet": "r/France · u/Enough-Barracuda-590",
 "title": "[Nancy] Des fachos attaquent les manifestants avec la police",
 "caption": "[Nancy] Des fachos attaquent les manifestants avec la police — publié sur r/France le 26/10 à 19h05 (642 votes)."
+}
+]
+},
+{
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Dijon",
+"title_prefix": "Dijon : un rassemblement non déclaré dis",
+"media": [
+{
+"type": "youtube",
+"id": "wmgMJ139KFQ",
+"url": "https://www.youtube.com/watch?v=wmgMJ139KFQ",
+"outlet": "YouTube, partagé sur r/France par u/AcadiaNo5063",
+"title": "Cette vidéo contredit la version des policiers dans une interpellation violente à Corbeil-Essonnes",
+"caption": "Cette vidéo contredit la version des policiers dans une interpellation violente à Corbeil-Essonnes — publié sur r/France le 01/10 à 12h48 (618 votes)."
 }
 ]
 },
@@ -1641,6 +1866,25 @@
 "outlet": "YouTube, partagé sur r/France par u/Alarming-Estimate-19",
 "title": "Franceinfo - Une professeure dénonce des violences policières à Nanterre - 03 octobre 2026",
 "caption": "Franceinfo - Une professeure dénonce des violences policières à Nanterre - 03 octobre 2026 — publié sur r/France le 03/10 à 16h10 (369 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-21",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y4i7y3",
+"vid": "brub5erual3i1",
+"url": "https://www.reddit.com/r/france/comments/1y4i7y3/des_manifestants_aident_une_journaliste_prise_à/",
+"thumb_remote": "",
+"score": 364,
+"outlet": "r/France · u/ijic",
+"title": "Des manifestants aident une journaliste prise à partie par des policiers (21/11/26, Paris, Felix Det, journaliste)",
+"caption": "Des manifestants aident une journaliste prise à partie par des policiers (21/11/26, Paris, Felix Det, journaliste) — publié sur r/France le 24/11 à 17h49 (364 votes)."
 }
 ]
 },
@@ -1988,6 +2232,44 @@
 },
 {
 "kind": "event",
+"date": "2026-11-14",
+"city": "Marseille",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xwjshk",
+"vid": "ver0u30rqo1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwjshk/marseille_14_novembre_un_crs_violente_une/",
+"thumb_remote": "",
+"score": 258,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Marseille 14 Novembre] Un CRS violente une personne âgée souhaitant simplement traverser une rue",
+"caption": "[Marseille 14 Novembre] Un CRS violente une personne âgée souhaitant simplement traverser une rue — publié sur r/quefaitlapolice le 15/11 à 03h13 (258 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-16",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y0fd79",
+"vid": "swpi5znztl2i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1y0fd79/paris_16_novembre_des_policiers_en_survêtement/",
+"thumb_remote": "",
+"score": 258,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 16 Novembre] Des policiers en survêtement noir cagoulés cassent un blocus. Un lycéen subit un étranglement pendant plusieurs dizaines de secondes",
+"caption": "[Paris 16 Novembre] Des policiers en survêtement noir cagoulés cassent un blocus. Un lycéen subit un étranglement pendant plusieurs dizaines de secondes — publié sur r/quefaitlapolice le 19/11 à 18h30 (258 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-10-31",
 "city": "Montpellier",
 "title_prefix": "",
@@ -2139,6 +2421,25 @@
 ]
 },
 {
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "Dispersion houleuse place de la Nation :",
+"media": [
+{
+"type": "reddit",
+"id": "1xwfzuq",
+"vid": "sfdjstfitn1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwfzuq/paris_14_novembre_autre_angle_de_la_charge_ultra/",
+"thumb_remote": "",
+"score": 228,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 14 Novembre] Autre angle de la charge ultra violente près de Nation : les personnes se retrouvent en tas parterre roués de coups de matraque sur la tête.",
+"caption": "[Paris 14 Novembre] Autre angle de la charge ultra violente près de Nation : les personnes se retrouvent en tas parterre roués de coups de matraque sur la tête. Cette charge est menée avec plusieurs haut gradés de la PP  — publié sur r/quefaitlapolice le 15/11 à 00h07 (228 votes)."
+}
+]
+},
+{
 "kind": "event",
 "date": "2026-11-02",
 "city": "France",
@@ -2234,10 +2535,10 @@
 ]
 },
 {
-"kind": "event",
+"kind": "incident",
 "date": "2026-11-07",
 "city": "Strasbourg",
-"title_prefix": "",
+"title_prefix": "Une grenade lacrymogène jetée par des po",
 "media": [
 {
 "type": "reddit",
@@ -2378,6 +2679,25 @@
 "outlet": "r/quefaitlapolice · u/Niafron",
 "title": "[01/10/2026] - Avignon - Lycée Philippe de Girard - Violences Policières - Coup de pied à la tête sur un jeune au sol sans arrestation",
 "caption": "[01/10/2026] - Avignon - Lycée Philippe de Girard - Violences Policières - Coup de pied à la tête sur un jeune au sol sans arrestation — publié sur r/quefaitlapolice le 01/10 à 10h01 (198 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xwezmd",
+"vid": "9vbllhualn1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwezmd/paris_14_novembre_une_enfant_de_12_ans_est/",
+"thumb_remote": "",
+"score": 191,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 14 Novembre] Une enfant de 12 ans est embarqué dans un fourgon de police",
+"caption": "[Paris 14 Novembre] Une enfant de 12 ans est embarqué dans un fourgon de police — publié sur r/quefaitlapolice le 14/11 à 23h21 (191 votes)."
 }
 ]
 },
@@ -2535,6 +2855,44 @@
 },
 {
 "kind": "incident",
+"date": "2026-11-14",
+"city": "Bordeaux",
+"title_prefix": "Bordeaux : gaz lacrymogène dans la rue S",
+"media": [
+{
+"type": "reddit",
+"id": "1xwatr4",
+"vid": "rxpculfyom1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwatr4/14112026_bordeaux_une_grenade_explose_directement/",
+"thumb_remote": "",
+"score": 179,
+"outlet": "r/quefaitlapolice · u/Niafron",
+"title": "[14/11/2026] - Bordeaux - Une grenade explose directement au visage d'un manifestant.",
+"caption": "[14/11/2026] - Bordeaux - Une grenade explose directement au visage d'un manifestant. — publié sur r/quefaitlapolice le 14/11 à 20h20 (179 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-13",
+"city": "France",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xvha0s",
+"vid": "bs8suktslf1i1",
+"url": "https://www.reddit.com/r/france/comments/1xvha0s/tu_ne_tueras_point_sauf_si_tu_es_policier_journal/",
+"thumb_remote": "",
+"score": 178,
+"outlet": "r/France · u/Alarming-Estimate-19",
+"title": "Tu ne tueras point... sauf si tu es policier - Journal l'Humanité - 13 novembre 2026",
+"caption": "Tu ne tueras point... sauf si tu es policier - Journal l'Humanité - 13 novembre 2026 — publié sur r/France le 13/11 à 20h29 (178 votes)."
+}
+]
+},
+{
+"kind": "incident",
 "date": "2026-10-01",
 "city": "Tournefeuille",
 "title_prefix": "Leïla",
@@ -2554,6 +2912,41 @@
 },
 {
 "kind": "event",
+"date": "2026-11-21",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "youtube",
+"id": "Aq902oqFGP4",
+"url": "https://www.youtube.com/watch?v=Aq902oqFGP4",
+"outlet": "YouTube, partagé sur r/France par u/Niouk_",
+"title": "Le policier qui a tué mon fils au JO de Paris - StreetPress",
+"caption": "Le policier qui a tué mon fils au JO de Paris - StreetPress — publié sur r/France le 21/11 à 20h44 (171 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-14",
+"city": "Lyon",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y4hixg",
+"vid": "icvbjxye6l3i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1y4hixg/lyon_14_novembre_je_vais_te_la_mettre_dans_le_cul/",
+"thumb_remote": "",
+"score": 171,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Lyon 14 Novembre] \"Je vais te la mettre dans le cul\" : Un CRS menace un journaliste américain",
+"caption": "[Lyon 14 Novembre] \"Je vais te la mettre dans le cul\" : Un CRS menace un journaliste américain — publié sur r/quefaitlapolice le 24/11 à 17h22 (171 votes)."
+}
+]
+},
+{
+"kind": "event",
 "date": "2026-10-17",
 "city": "Bordeaux",
 "title_prefix": "",
@@ -2568,6 +2961,25 @@
 "outlet": "r/Bordeaux · u/Immediate_Name_8439",
 "title": "Manif du 17 Octobre 2026",
 "caption": "Manif du 17 Octobre 2026 — publié sur r/Bordeaux le 19/10 à 16h43 (170 votes)."
+}
+]
+},
+{
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "Dispersion houleuse place de la Nation :",
+"media": [
+{
+"type": "reddit",
+"id": "1xwjp4v",
+"vid": "4zw6y46vpo1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwjp4v/paris_14_novembre_un_policier_rate_complètement/",
+"thumb_remote": "",
+"score": 169,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 14 Novembre] Un policier rate complètement son lancer de grenade assourdissante qui atterrit sur 2 journalistes",
+"caption": "[Paris 14 Novembre] Un policier rate complètement son lancer de grenade assourdissante qui atterrit sur 2 journalistes — publié sur r/quefaitlapolice le 15/11 à 03h08 (169 votes)."
 }
 ]
 },
@@ -2668,6 +3080,63 @@
 },
 {
 "kind": "incident",
+"date": "2026-11-21",
+"city": "Paris",
+"title_prefix": "Acte VI, place de la Nation : charges à ",
+"media": [
+{
+"type": "reddit",
+"id": "1y1yt2l",
+"vid": "swt345h8bz2i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1y1yt2l/21112026_paris_intervention_brutale_des_ci_et/",
+"thumb_remote": "",
+"score": 153,
+"outlet": "r/quefaitlapolice · u/Niafron",
+"title": "[21/11/2026] - Paris - Intervention brutale des CI et BRAV-M dans le cortège parisien",
+"caption": "[21/11/2026] - Paris - Intervention brutale des CI et BRAV-M dans le cortège parisien — publié sur r/quefaitlapolice le 21/11 à 15h50 (153 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-21",
+"city": "Toulouse",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1y23t8p",
+"vid": "sre1wk9hd03i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1y23t8p/toulouse_21_novembre_la_police_gaze_une_aire_de/",
+"thumb_remote": "",
+"score": 152,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Toulouse 21 Novembre] La police gaze une aire de jeux pour enfants",
+"caption": "[Toulouse 21 Novembre] La police gaze une aire de jeux pour enfants — publié sur r/quefaitlapolice le 21/11 à 19h24 (152 votes)."
+}
+]
+},
+{
+"kind": "event",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "",
+"media": [
+{
+"type": "reddit",
+"id": "1xwjmgj",
+"vid": "wcyr7sr5po1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwjmgj/paris_14_novembre_un_policier_saute_sur_des_gens/",
+"thumb_remote": "",
+"score": 150,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 14 Novembre] Un policier saute sur des gens dans les escaliers du métro les faisant tomber dans un mouvement de foule dangereux",
+"caption": "[Paris 14 Novembre] Un policier saute sur des gens dans les escaliers du métro les faisant tomber dans un mouvement de foule dangereux — publié sur r/quefaitlapolice le 15/11 à 03h04 (150 votes)."
+}
+]
+},
+{
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Besançon",
 "title_prefix": "Un jeune homme plaqué",
@@ -2706,6 +3175,25 @@
 },
 {
 "kind": "incident",
+"date": "2026-11-14",
+"city": "Nantes",
+"title_prefix": "Nantes, 14 novembre : 54 interpellations",
+"media": [
+{
+"type": "reddit",
+"id": "1xwepv0",
+"vid": "oobpfge4jn1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwepv0/nantes_14_novembre_interpellation_par_des_crs/",
+"thumb_remote": "",
+"score": 143,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Nantes 14 Novembre] Interpellation par des CRS. Durant 5mn, la personne est brutalisée (coups, plaquage ventral, étranglement). Coups de matraque, balayette, g",
+"caption": "[Nantes 14 Novembre] Interpellation par des CRS. Durant 5mn, la personne est brutalisée (coups, plaquage ventral, étranglement). Coups de matraque, balayette, grenades et tirs de LBD sur plusieurs témoins. — publié sur r/quefaitlapolice le 14/11 à 23h09 (143 votes)."
+}
+]
+},
+{
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Grenoble",
 "title_prefix": "Plusieurs manifestants et passants bless",
@@ -2736,6 +3224,25 @@
 "outlet": "r/quefaitlapolice · u/Bubbly_Sherbert4600",
 "title": "05/10/2026 - La police intervient violemment à la Sorbonne Nouvelle à Paris",
 "caption": "05/10/2026 - La police intervient violemment à la Sorbonne Nouvelle à Paris — publié sur r/quefaitlapolice le 05/10 à 19h24 (138 votes)."
+}
+]
+},
+{
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "Dispersion houleuse place de la Nation :",
+"media": [
+{
+"type": "reddit",
+"id": "1xw59mb",
+"vid": "qj3plcpskl1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xw59mb/14112026_paris_place_de_la_nation_plusieurs/",
+"thumb_remote": "",
+"score": 136,
+"outlet": "r/quefaitlapolice · u/Niafron",
+"title": "[14/11/2026] - Paris, place de la Nation - Plusieurs blessés suite à des coups de matraque à la tête par la police",
+"caption": "[14/11/2026] - Paris, place de la Nation - Plusieurs blessés suite à des coups de matraque à la tête par la police — publié sur r/quefaitlapolice le 14/11 à 16h35 (136 votes)."
 }
 ]
 },
@@ -2847,6 +3354,25 @@
 "outlet": "YouTube, partagé sur r/France par u/Alarming-Estimate-19",
 "title": "StreetPress - Un policier tase un homme à bout portant - 25 septembre 2026",
 "caption": "StreetPress - Un policier tase un homme à bout portant - 25 septembre 2026 — publié sur r/France le 29/09 à 13h57 (121 votes)."
+}
+]
+},
+{
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Paris",
+"title_prefix": "Dispersion houleuse place de la Nation :",
+"media": [
+{
+"type": "reddit",
+"id": "1xweu9d",
+"vid": "1m39eyo3kn1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xweu9d/paris_14_novembre_un_éclat_dune_grenade_gl304_est/",
+"thumb_remote": "",
+"score": 121,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Paris 14 Novembre] Un éclat d'une grenade GL-304 est projeté à quelques centimètres de la tête du journaliste Clément Lanot",
+"caption": "[Paris 14 Novembre] Un éclat d'une grenade GL-304 est projeté à quelques centimètres de la tête du journaliste Clément Lanot — publié sur r/quefaitlapolice le 14/11 à 23h14 (121 votes)."
 }
 ]
 },
@@ -3024,6 +3550,25 @@
 },
 {
 "kind": "incident",
+"date": "2026-11-14",
+"city": "Rouen",
+"title_prefix": "Rouen, 14 novembre : le centre-ville int",
+"media": [
+{
+"type": "reddit",
+"id": "1xwgsjc",
+"vid": "rj82hjf30o1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwgsjc/rouen_14_novembre_une_grenade_lacrymogène_lancée/",
+"thumb_remote": "",
+"score": 79,
+"outlet": "r/quefaitlapolice · u/ManuMacs",
+"title": "[Rouen 14 Novembre] Une grenade lacrymogène lancée par des gendarmes explose à l'intérieur d'un bar. Le patron fera évacuer les clients par l'arrière du bar",
+"caption": "[Rouen 14 Novembre] Une grenade lacrymogène lancée par des gendarmes explose à l'intérieur d'un bar. Le patron fera évacuer les clients par l'arrière du bar — publié sur r/quefaitlapolice le 15/11 à 00h44 (79 votes)."
+}
+]
+},
+{
+"kind": "incident",
 "date": "2026-10-17",
 "city": "Paris",
 "title_prefix": "Premiers tirs de gaz de la BRAV-M sur un",
@@ -3178,6 +3723,25 @@
 "outlet": "r/Rennes · u/New-Beyond8563",
 "title": "Manifestation à Rennes",
 "caption": "Manifestation à Rennes — publié sur r/Rennes le 08/11 à 22h16 (31 votes)."
+}
+]
+},
+{
+"kind": "incident",
+"date": "2026-11-14",
+"city": "Bordeaux",
+"title_prefix": "Bordeaux : gaz lacrymogène dans la rue S",
+"media": [
+{
+"type": "reddit",
+"id": "1xwritw",
+"vid": "mvj1qaqsyq1i1",
+"url": "https://www.reddit.com/r/quefaitlapolice/comments/1xwritw/bordeaux_14_novembre_grenade_lancée_en_cloche_qui/",
+"thumb_remote": "",
+"score": 21,
+"outlet": "r/quefaitlapolice · u/Alioxx",
+"title": "[Bordeaux - 14 novembre] Grenade lancée en cloche qui explose au niveau du visage de manifestants",
+"caption": "[Bordeaux - 14 novembre] Grenade lancée en cloche qui explose au niveau du visage de manifestants — publié sur r/quefaitlapolice le 15/11 à 10h42 (21 votes)."
 }
 ]
 }

@@ -1,0 +1,695 @@
+[
+ {
+  "date": "2026-11-14",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "manifestation",
+  "title": "Acte V « vie chère » (samedi 14 novembre) : 106 000 manifestants selon l'Intérieur, 200 000 selon l'intersyndicale jeunesse, 219 interpellations",
+  "summary": "Cinquième samedi consécutif de manifestations nationales, à l'appel de la coordination des Gilets jaunes et des organisations de jeunesse (intersyndicale jeunesse, Union syndicale lycéenne, Union étudiante), soutenues par des syndicats, contre la vie chère, pour l'éducation et contre la proposition de loi « présomption de légitime défense » des forces de l'ordre, examinée au Sénat la semaine suivante (la LDH avait appelé à des rassemblements ce jour-là). Le ministère de l'Intérieur recense 106 000 manifestants dans 137 actions (24 000 à Paris), en baisse par rapport aux 146 000 du 7 novembre, pour 200 000 selon les organisateurs (près de 100 000 à Paris) ; environ 70 000 policiers et gendarmes sont déployés. À 18 h, le ministère fait état de 219 interpellations et de 10 policiers légèrement blessés et juge la situation « globalement maîtrisée », tout en citant des incidents à Marseille, Grenoble, Lyon, Bordeaux et Poitiers. Les syndicats, qui ont rejeté la hausse du SMIC de 0,6 % (« des miettes ») proposée par le gouvernement, appellent à la grève du mardi 17 novembre.",
+  "participants_official": 106000,
+  "participants_organizers": 200000,
+  "participants_note": "137 actions recensées par l'Intérieur ; 10 policiers légèrement blessés ; 70 000 policiers et gendarmes déployés",
+  "arrests": 219,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "France sees fifth consecutive Saturday of nationwide protests",
+    "url": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "French social unrest: Between concessions and tough talk, PM Lecornu struggles to end crisis",
+    "url": "https://www.lemonde.fr/en/politics/article/2026/11/14/french-social-unrest-between-concessions-and-tough-talk-pm-lecornu-struggles-to-end-crisis_6780688_5.html",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Paris",
+  "dept": "75",
+  "place": "République → Bastille → Nation",
+  "type": "manifestation",
+  "title": "Acte V à Paris : 24 000 manifestants selon la préfecture, près de 100 000 selon l'intersyndicale jeunesse, 45 interpellations, cortège « sans incident »",
+  "summary": "Le cortège de l'intersyndicale et des organisations de jeunesse part de la place de la République vers la Nation via la Bastille, où une foule se rassemble au pied de la colonne de Juillet ; un orchestre bénévole joue place de la République, une marionnette géante de « Lord Macron » et un cheval de Troie défilent, les manifestants scandent « No justice, no peace ». La préfecture de police compte 24 000 manifestants (près de 100 000 selon les organisateurs) et décrit une manifestation « sans incident » ; des tensions sont signalées à la dispersion place de la Nation et deux cortèges sauvages d'une centaine de personnes chacun se forment dans la capitale. Le parquet de Paris recense 45 interpellations.",
+  "participants_official": 24000,
+  "participants_organizers": 100000,
+  "participants_note": "",
+  "arrests": 45,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 21 protest in Paris: what to expect this Saturday? The latest developments",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/358378-november-21-protest-in-paris-what-to-expect-this-saturday-the-latest",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "Euronews",
+    "title": "France sees fifth consecutive Saturday of nationwide protests",
+    "url": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "centre-ville",
+  "type": "manifestation",
+  "title": "Marseille : 3 500 manifestants défilent malgré l'interdiction préfectorale, gaz lacrymogènes, canon à eau et feux sur une place du centre",
+  "summary": "Alors que la préfecture des Bouches-du-Rhône avait interdit toute manifestation ce week-end faute de déclaration, quelque 3 500 personnes descendent dans la rue selon la préfecture. Les médias locaux cités par l'AFP rapportent l'usage de gaz lacrymogènes et d'un canon à eau par la police et des feux allumés sur une place du centre ; le ministère de l'Intérieur cite Marseille parmi les villes où des incidents ont eu lieu.",
+  "participants_official": 3500,
+  "participants_organizers": null,
+  "participants_note": "3 500 selon la préfecture",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "centre-ville",
+  "type": "manifestation",
+  "title": "Lyon : environ 8 000 manifestants malgré l'interdiction du centre, feux de poubelles, charges et gaz, une équipe de BFMTV agressée",
+  "summary": "Cinquième samedi d'interdiction des rassemblements revendicatifs dans le centre de Lyon. Les médias locaux cités par l'AFP évaluent à environ 8 000 le nombre de manifestants ; des images montrent des manifestants masqués devant des barricades de poubelles en feu, des charges de police et des tirs de gaz lacrymogène. Une équipe de BFMTV est prise à partie par des manifestants violents ; la police intervient pour la protéger et le préfet du Rhône Étienne Guyot condamne l'agression.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 8 000 selon les médias locaux (AFP)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Nantes",
+  "dept": "44",
+  "place": "",
+  "type": "manifestation",
+  "title": "Nantes : 52 interpellations dès le début d'après-midi, près de la moitié du total national, gaz lacrymogènes",
+  "summary": "Le centre-ville étant interdit aux manifestants par la préfecture de Loire-Atlantique, la manifestation nantaise donne lieu à l'usage de gaz lacrymogènes et à des interpellations par les CRS ; la préfecture fait état de 52 interpellations depuis le début de l'après-midi, soit près de la moitié de celles recensées à ce moment sur l'ensemble du territoire.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": 52,
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Bordeaux",
+  "dept": "33",
+  "place": "",
+  "type": "manifestation",
+  "title": "Bordeaux : manifestation de l'acte V, gaz lacrymogènes et incidents signalés par le ministère de l'Intérieur",
+  "summary": "Manifestation contre la vie chère dans le cadre de l'acte V ; l'AFP rapporte l'usage de gaz lacrymogènes et le ministère de l'Intérieur cite Bordeaux parmi les villes où des incidents ont eu lieu. France 24 décrit une manifestante de 72 ans entonnant une chanson protestataire dans le cortège.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Montpellier",
+  "dept": "34",
+  "place": "",
+  "type": "manifestation",
+  "title": "Montpellier : manifestation contre la vie chère et les coupes dans les services publics (acte V)",
+  "summary": "Des manifestants défilent à Montpellier contre la hausse du coût de la vie et les coupes dans les services publics, dans le cadre du cinquième samedi de mobilisation nationale (photographie EPA publiée par Al Jazeera).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP et Reuters)",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "city": "Toulouse",
+  "dept": "31",
+  "place": "",
+  "type": "manifestation",
+  "title": "Toulouse : des milliers de manifestants pour l'acte V, dénonciation de la répression des mineurs",
+  "summary": "Des milliers de personnes défilent à Toulouse pour le cinquième samedi de mobilisation ; une juriste en droit d'asile de 28 ans interrogée par l'AFP juge « inacceptable » la répression des manifestants, « surtout quand des enfants sont impliqués ».",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "« des milliers » selon l'AFP (Euronews)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "France sees fifth consecutive Saturday of nationwide protests",
+    "url": "https://www.euronews.com/2026/11/14/france-sees-fifth-consecutive-saturday-of-nationwide-protests",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "France 24",
+    "title": "'No justice, no peace': Fifth round of protests sweep across France",
+    "url": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
+    "date": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "grève",
+  "title": "Grève de la fonction publique et journée de mobilisation du mardi 17 novembre : 146 000 manifestants (Intérieur), plus de 500 000 (CGT), 2,59 % de grévistes",
+  "summary": "Après l'échec des discussions du 13 novembre avec Sébastien Lecornu (conférence sociale du 9 novembre boycottée par les huit syndicats représentatifs), l'intersyndicale de la fonction publique (CGT, UNSA, FSU, Solidaires, CFE-CGC, FA-FP) appelle les 5,8 millions d'agents publics à la grève pour le dégel du point d'indice, les salaires et la fin du jour de carence ; lycéens, étudiants, salariés du privé et Gilets jaunes (huitième anniversaire du mouvement) se joignent à 50 à 60 cortèges, encadrés par quelque 70 000 policiers et gendarmes, la vente de pétards étant temporairement interdite. Le gouvernement recense 2,59 % de grévistes dans la fonction publique, 3,14 % dans l'Éducation nationale (3,76 % des enseignants, 9,28 % des personnels de vie scolaire) et 27 % d'établissements du supérieur perturbés ; l'Union syndicale lycéenne compte 350 lycées à l'arrêt sur 3 700. Perturbations à la SNCF (TER, RER D, lignes J, N, R), à La Poste, dans les télécoms, l'énergie et la santé. L'Intérieur compte 146 000 manifestants (28 000 à Paris), contre 575 000 le 5 novembre ; la CGT plus de 500 000 (175 000 à Paris). Journée largement pacifique, avec des affrontements à Nantes.",
+  "participants_official": 146000,
+  "participants_organizers": 500000,
+  "participants_note": "taux de grève : 2,59 % fonction publique, 3,14 % Éducation nationale, 3,76 % enseignants, 9,28 % vie scolaire ; 27 % des établissements du supérieur perturbés (gouvernement) ; 350 lycées à l'arrêt sur 3 700 (USL)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Le Monde",
+    "title": "Grève de la fonction publique du 17 novembre : 2,59 % des agents en grève, 27 % des établissements du supérieur perturbés, selon le gouvernement",
+    "url": "https://www.lemonde.fr/societe/article/2026/11/17/greve-de-la-fonction-publique-du-17-novembre-environ-3-de-grevistes-dans-l-education-nationale-27-des-etablissements-du-superieur-perturbes_6812991_3224.html",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+    "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Fresh French protests draw 146,000, says interior ministry, 500,000 say unions (live)",
+    "url": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Al Jazeera (avec AFP)",
+    "title": "More than 100,000 take part in France pay protests",
+    "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "French public-sector workers strike again over pay",
+    "url": "https://www.lemonde.fr/en/france/article/2026/11/17/france-s-public-sector-strikes-again-over-pay_6782818_7.html",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 17 strike in Paris: a roundup of the mobilization (28,000 protesters in Paris, 175,000 according to the CGT)",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357817-november-17-strike-in-paris-a-look-at-the-turnout",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Coordination des Gilets jaunes (17octobregiletjaune.net)",
+    "title": "Du 17 au 22 novembre, les Gilets jaunes fêtent leurs huit ans ! (communiqué)",
+    "url": "https://17octobregiletjaune.net/actualites/du-17-au-22-novembre-les-gilets-jaunes-fetent-leurs-huit-ans",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "The Connexion",
+    "title": "France faces public-sector and rail strikes on November 17",
+    "url": "https://www.connexionfrance.com/news/unions-call-for-a-second-round-of-interprofessional-strike-action-on-november-17-what-is-expected/828372",
+    "date": "2026-11-16"
+   },
+   {
+    "outlet": "Riviera Radio",
+    "title": "Nationwide strike in France on 17 November: Demonstrations and disruption expected on the French Riviera",
+    "url": "https://www.rivieraradio.mc/article/nationwide-strike-in-france-on-17-november-demonstrations-and-disruption-expecte-5HjdmQm_2/",
+    "date": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Paris",
+  "dept": "75",
+  "place": "Nation → place d'Italie",
+  "type": "manifestation",
+  "title": "Grève du 17 novembre à Paris : 28 000 manifestants selon la préfecture de police, 175 000 selon la CGT, cortège festif de Nation à la place d'Italie",
+  "summary": "Le cortège intersyndical, rejoint par des étudiants, des personnels universitaires et des Gilets jaunes, part vers 14 h de la place de la Nation vers la place d'Italie par le boulevard Diderot, le pont d'Austerlitz et le boulevard de l'Hôpital, dans une ambiance calme et festive voulue « joyeuse » par les organisateurs (musique, camions syndicaux, batucadas). La préfecture de police compte 28 000 manifestants, la CGT 175 000. Dix-sept stations de métro et de RER sont fermées à la demande de la préfecture ; le même après-midi, le tribunal administratif suspend l'arrêté interdisant les rassemblements non déclarés autour de lycées et d'universités de la capitale.",
+  "participants_official": 28000,
+  "participants_organizers": 175000,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 17 strike in Paris: a roundup of the mobilization (28,000 protesters in Paris, 175,000 according to the CGT)",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357817-november-17-strike-in-paris-a-look-at-the-turnout",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Fresh French protests draw 146,000, says interior ministry, 500,000 say unions (live)",
+    "url": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+    "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Al Jazeera (avec AFP)",
+    "title": "More than 100,000 take part in France pay protests",
+    "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Le Monde (édition anglaise)",
+    "title": "French public-sector workers strike again over pay",
+    "url": "https://www.lemonde.fr/en/france/article/2026/11/17/france-s-public-sector-strikes-again-over-pay_6782818_7.html",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Nantes",
+  "dept": "44",
+  "place": "",
+  "type": "manifestation",
+  "title": "Nantes, 17 novembre : affrontements avec la police, tirs de mortiers, gaz lacrymogènes et canon à eau",
+  "summary": "En début d'après-midi, la manifestation nantaise de la journée de grève donne lieu à des affrontements avec les forces de l'ordre : tirs de mortiers d'artifice d'un côté, gaz lacrymogènes et canon à eau de l'autre, selon France 24.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Fresh French protests draw 146,000, says interior ministry, 500,000 say unions (live)",
+    "url": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "",
+  "type": "manifestation",
+  "title": "Lyon, 17 novembre : des milliers de manifestants derrière la banderole « Assez de sacrifices pour les travailleurs »",
+  "summary": "Des milliers de personnes se rassemblent à Lyon pour la journée de grève de la fonction publique derrière une banderole « Assez de sacrifices pour les travailleurs », après un rassemblement dansant avant le départ du cortège (France 24).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "« des milliers » (France 24)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+    "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Fresh French protests draw 146,000, says interior ministry, 500,000 say unions (live)",
+    "url": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Strasbourg",
+  "dept": "67",
+  "place": "",
+  "type": "manifestation",
+  "title": "Strasbourg, 17 novembre : manifestation de la journée de grève de la fonction publique",
+  "summary": "Manifestation strasbourgeoise de la journée nationale de grève et de manifestations contre la vie chère et pour les salaires de la fonction publique ; des photographies d'agence (AFP) publiées par Al Jazeera et France 24 montrent le cortège, dont un manifestant agitant un drapeau tricolore dans la fumée.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP)",
+    "title": "More than 100,000 take part in France pay protests",
+    "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "France 24",
+    "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+    "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Lille",
+  "dept": "59",
+  "place": "",
+  "type": "manifestation",
+  "title": "Lille, 17 novembre : cortège de la journée de grève, avec les Jeunes communistes",
+  "summary": "Manifestation lilloise de la journée de grève de la fonction publique, au cours de laquelle défilent notamment des militants des Jeunes communistes (photographie d'agence publiée par France 24).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+    "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Bordeaux",
+  "dept": "33",
+  "place": "",
+  "type": "manifestation",
+  "title": "Bordeaux, 17 novembre : rassemblement de la journée de grève de la fonction publique contre la vie chère",
+  "summary": "Rassemblement et manifestation à Bordeaux dans le cadre de la journée nationale de grève de la fonction publique et de manifestations contre la hausse du coût de la vie (photographie AFP publiée par Al Jazeera).",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Al Jazeera (avec AFP)",
+    "title": "More than 100,000 take part in France pay protests",
+    "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "city": "Paris",
+  "dept": "75",
+  "place": "place Beauvau (ministère de l'Intérieur)",
+  "type": "rassemblement",
+  "title": "Des policiers d'Alliance défilent jusqu'à la place Beauvau et plantent des tentes devant le ministère de l'Intérieur pour réclamer une hausse de leur prime de risque",
+  "summary": "Au lendemain d'une journée marquée par l'épuisement des CRS, des dizaines de policiers répondent à l'appel d'Alliance Police nationale et défilent dans le centre de Paris derrière une banderole « La République, c'est nous ! » jusqu'au ministère de l'Intérieur, où ils installent des tentes. Ils réclament le relèvement immédiat de l'indemnité de risque, inchangée depuis 2019, de 28,8 % à au moins 35 % et de meilleures conditions de travail après des semaines de maintien de l'ordre face aux mobilisations lycéennes et sociales. Laurent Nuñez reçoit une délégation menée par le secrétaire général Fabien Vanhemelryck — qui chiffre à 2 600 les policiers et gendarmes blessés depuis le début du mouvement — et propose, au nom des contraintes budgétaires, une hausse par étapes à 33,5 % d'ici 2029 à partir d'avril 2027, jugée insuffisante par le syndicat.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "« des dizaines » de policiers (BFMTV via Anadolu)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Anadolu Agency",
+    "title": "French police rally in Paris for higher risk allowance, better working conditions",
+    "url": "https://www.aa.com.tr/en/europe/french-police-rally-in-paris-for-higher-risk-allowance-better-working-conditions/4129488",
+    "date": "2026-11-18"
+   },
+   {
+    "outlet": "TVC News",
+    "title": "French Police Set Up Protest Tents Outside Interior Ministry Over Working Conditions",
+    "url": "https://www.tvcnews.tv/french-police-set-up-protest-tents-outside-interior-ministry-over-working-conditions/",
+    "date": "2026-11-18"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "France",
+  "dept": "",
+  "place": "",
+  "type": "manifestation",
+  "title": "Acte VI « vie chère » (samedi 21 novembre), huit ans des Gilets jaunes et journée internationale : 82 500 manifestants (Intérieur), 150 000 (organisateurs), 7 interpellations",
+  "summary": "Sixième samedi consécutif de mobilisation, présenté par la coordination des Gilets jaunes comme un acte VI « international » coordonné avec les mouvements sociaux de sept pays européens (539 mobilisations annoncées en Europe) et point d'orgue des trois jours (20–22 novembre) de retour sur les ronds-points et les péages pour le huitième anniversaire du mouvement ; les intersyndicales, les organisations de jeunesse et l'association Droit au logement se joignent aux cortèges. Au lendemain de l'adoption définitive de la loi sur la « présomption de légitime défense », Laurent Nuñez déploie environ 70 000 policiers et gendarmes et demande aux préfets une vigilance particulière envers « les groupes les plus hostiles aux forces de l'ordre ». Le point de situation de 14 h du ministère fait état de 7 interpellations et d'une situation « globalement calme, sans incident notable » ; le bilan de la journée est de 82 500 manifestants (21 500 à Paris), en baisse par rapport aux 106 000 du 14 novembre, contre 150 000 selon les organisateurs (45 000 à Paris). Manifestations non autorisées dispersées à Lyon.",
+  "participants_official": 82500,
+  "participants_organizers": 150000,
+  "participants_note": "70 000 policiers et gendarmes ; 7 interpellations au point de 14 h",
+  "arrests": 7,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "RFI",
+    "title": "Students and unions unite for sixth weekend of protests across France",
+    "url": "https://www.rfi.fr/en/france/20261121-students-and-unions-unite-for-sixth-weekend-of-protests-across-france",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France's sixth consecutive Saturday of protests draw lower turnout",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Coordination des Gilets jaunes (17octobregiletjaune.net)",
+    "title": "Du 17 au 22 novembre, les Gilets jaunes fêtent leurs huit ans ! (communiqué)",
+    "url": "https://17octobregiletjaune.net/actualites/du-17-au-22-novembre-les-gilets-jaunes-fetent-leurs-huit-ans",
+    "date": "2026-11-14"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 21 protest in Paris: what to expect this Saturday? The latest developments",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/358378-november-21-protest-in-paris-what-to-expect-this-saturday-the-latest",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "La Provence (avec AFP)",
+    "title": "« Permis de tuer » ou « marque de confiance » ? La loi sur l'usage des armes par la police adoptée, la gauche saisit le Conseil constitutionnel et la rue gronde",
+    "url": "https://www.laprovence.com/article/societe/1403650457098614/loi-sur-lusage-des-armes-par-la-police-le-texte-controverse-adopte-la-gauche-saisit-le-conseil-constitutionnel?id=1403650457098614",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Paris",
+  "dept": "75",
+  "place": "République → Nation (boulevard Voltaire)",
+  "type": "manifestation",
+  "title": "Acte VI à Paris : 21 500 manifestants selon l'Intérieur, 45 000 selon les organisateurs, cortège festif de République à Nation, 16 stations de métro fermées",
+  "summary": "Seul parcours autorisé, celui de l'intersyndicale d'Île-de-France de la place de la République à la Nation par le boulevard Voltaire, la préfecture de police ayant refusé le 19 novembre le parcours Bastille–Concorde demandé par les Gilets jaunes, qui rejoignent le cortège unitaire avec les organisations de jeunesse et le DAL (conférence de presse de Jean-Baptiste Eyraud avant le départ). Plusieurs milliers de personnes convergent place de la République dans une ambiance festive (orchestre, food trucks, déguisements) ; la RATP ferme 16 stations de métro et de RER (secteur Concorde–Étoile et axe République–Nation) et les contrôles sont renforcés dans les gares. L'Intérieur compte 21 500 manifestants, les organisateurs 45 000 ; la manifestation est « globalement calme » selon le ministère.",
+  "participants_official": 21500,
+  "participants_organizers": 45000,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "RFI",
+    "title": "Students and unions unite for sixth weekend of protests across France",
+    "url": "https://www.rfi.fr/en/france/20261121-students-and-unions-unite-for-sixth-weekend-of-protests-across-france",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 21 demonstration: 16 metro stations closed this Saturday",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/358879-november-21-protest-16-metro-stations-closed-this-saturday",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "Sortiraparis",
+    "title": "November 21 protest in Paris: what to expect this Saturday? The latest developments",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/358378-november-21-protest-in-paris-what-to-expect-this-saturday-the-latest",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Marseille",
+  "dept": "13",
+  "place": "",
+  "type": "manifestation",
+  "title": "Marseille, acte VI : 4 600 manifestants selon la police, cortège pacifique scindé en deux dont une partie non autorisée",
+  "summary": "La police compte 4 600 manifestants à Marseille pour le sixième samedi de mobilisation ; le cortège, pacifique, se scinde en deux, l'une des deux parties se transformant en manifestation non autorisée (France 24).",
+  "participants_official": 4600,
+  "participants_organizers": null,
+  "participants_note": "4 600 selon la police",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France's sixth consecutive Saturday of protests draw lower turnout",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Lille",
+  "dept": "59",
+  "place": "",
+  "type": "manifestation",
+  "title": "Lille, acte VI : environ 5 000 personnes rassemblées autour d'un orchestre",
+  "summary": "Environ 5 000 personnes se rassemblent à Lille pour l'acte VI et chantent avec un orchestre, selon France 24, qui ne précise pas la source du décompte.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "environ 5 000 (France 24, source non précisée)",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France's sixth consecutive Saturday of protests draw lower turnout",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "centre-ville",
+  "type": "manifestation",
+  "title": "Lyon, acte VI : manifestations interdites sur un large périmètre, cortèges sauvages dispersés aux gaz lacrymogènes, tentatives d'incendie de véhicules et de poubelles",
+  "summary": "Les manifestations étant interdites sur un large périmètre du centre de Lyon, plusieurs cortèges non autorisés tentent dans l'après-midi de rejoindre le centre-ville et sont dispersés par les forces de l'ordre à l'aide de gaz lacrymogènes, selon un journaliste de l'AFP ; des manifestants tentent d'incendier des véhicules et des poubelles.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "participants_note": "",
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 24",
+    "title": "French interior ministry says 82,500 people protest across country, unions claim 150,000 (live)",
+    "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24",
+    "title": "France's sixth consecutive Saturday of protests draw lower turnout",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "date": "2026-11-21"
+   }
+  ]
+ }
+]

@@ -1342,5 +1342,109 @@
    "metric": "autre"
   },
   "note": "plaintes déposées par l’Éducation nationale, pas des poursuites engagées"
+ },
+ {
+  "kind": "media",
+  "stage": "merged",
+  "match": {
+   "date": "2026-11-13",
+   "city": "France",
+   "url": "https://www.reddit.com/r/france/comments/1xvha0s/tu_ne_tueras_point_sauf_si_tu_es_policier_journal/"
+  },
+  "drop": true,
+  "note": "une du journal, pas un document sur un événement"
+ },
+ {
+  "kind": "media",
+  "stage": "merged",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Dijon",
+   "url": "https://www.youtube.com/watch?v=wmgMJ139KFQ"
+  },
+  "drop": true,
+  "note": "vidéo sur Corbeil-Essonnes, sans rapport avec Dijon"
+ },
+ {
+  "kind": "media",
+  "stage": "merged",
+  "match": {
+   "date": "2026-11-21",
+   "city": "Paris",
+   "url": "https://www.youtube.com/watch?v=Aq902oqFGP4"
+  },
+  "drop": true,
+  "note": "affaire sans rapport avec le mouvement"
+ },
+ {
+  "kind": "media",
+  "stage": "merged",
+  "match": {
+   "date": "2026-11-21",
+   "city": "Toulouse",
+   "url": "https://www.reddit.com/r/france/comments/1y1w84z/a_toulouse_un_policier_vole_le_vélo_dun_cycliste/"
+  },
+  "drop": true,
+  "note": "même clip déjà rattaché au 20 novembre"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-18",
+   "city": "France",
+   "title_prefix": "Le Défenseur des droits François-Noël Buffet, saisi 106 fois"
+  },
+  "drop": true,
+  "note": "doublon de la carte « Le Défenseur des droits … annonce 106 saisines »"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-20",
+   "city": "France",
+   "title_prefix": "Le Sénat adopte définitivement (205"
+  },
+  "drop": true,
+  "note": "doublon de la carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-21",
+   "city": "Lyon",
+   "title_prefix": "Acte VI à Lyon : interdiction"
+  },
+  "drop": true,
+  "note": "doublon de la carte « Lyon, sixième samedi d’interdiction »"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "France",
+   "title_prefix": "Nombre de lycées bloqués"
+  },
+  "drop": true,
+  "note": "doublon de la carte « 41 », « 49 » ou « 81 » lycées bloqués"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-17",
+   "city": "France",
+   "title_prefix": "Grève du 17 novembre : un millier de CRS"
+  },
+  "drop": true,
+  "note": "absences de CRS : ni violence ni mesure de répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-18",
+   "city": "France",
+   "title_prefix": "Gérald Darmanin : environ 15 000"
+  },
+  "drop": true,
+  "note": "reprise des chiffres de l’audition du 17 novembre (gardes à vue), déjà sur carte"
  }
 ]
