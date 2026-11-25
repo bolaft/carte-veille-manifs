@@ -27,6 +27,7 @@ KEYDAYS = {
     '2026-10-08': 'Journée d’action de l’éducation', '2026-10-13': 'Acte V lycéen', '2026-10-17': 'Journée « vie chère »',
     '2026-10-24': 'Acte II « vie chère »', '2026-10-31': 'Acte III « vie chère »', '2026-11-03': 'Journée noire des lycées',
     '2026-11-05': 'Grève interprofessionnelle', '2026-11-07': 'Acte IV « vie chère »', '2026-11-10': 'Grève de l’éducation et de la jeunesse',
+    '2026-11-14': 'Acte V « vie chère »', '2026-11-17': 'Grève de la fonction publique', '2026-11-20': 'Vote de la loi « présomption de légitime défense »', '2026-11-21': 'Acte VI « vie chère »',
 }
 TYPE_ALIASES = {'manif': 'manifestation', 'manifestation': 'manifestation', 'rassemblement': 'rassemblement', 'grève': 'grève', 'greve': 'grève',
                 'blocage': 'blocage', 'blocus': 'blocage', 'occupation': 'occupation', 'émeute': 'émeute', 'emeute': 'émeute', 'pillage': 'émeute', 'autre': 'autre'}
@@ -304,6 +305,7 @@ for s in st_raw:
         elif any(w in ql + ' ' + al for w in ('17 octobre', 'depuis samedi', 'week end', 'depuis le 17', 'violences du week')): series = 'oct17'
         elif metric in ('gardes_a_vue', 'poursuites', 'deferrements', 'incarcerations', 'peines_emprisonnement', 'mineurs_part_gav', 'alternatives_poursuites', 'detentions_provisoires'): series = 'oct17'
         else: series = 'lyceen'
+        if _st.get('series'): series = _st['series']  # forced by an override (e.g. a lycéen-phase figure quoted after 17 Oct)
     src = clean_sources(s.get('sources'))
     key = (date, metric, scope, str(s.get('city') or ''), auth, series)
     rec = stats.get(key)

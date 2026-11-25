@@ -126,5 +126,95 @@
     "date": "2026-11-13"
    }
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "city": "Bron",
+  "dept": "69",
+  "place": "lycée Jean-Paul-Sartre",
+  "type": "autre",
+  "title": "Tirs de mortiers à l'intérieur du lycée Jean-Paul-Sartre de Bron : les enseignants exercent leur droit de retrait",
+  "summary": "Après des tirs de mortiers d'artifice à l'intérieur du lycée Jean-Paul-Sartre de Bron, les enseignants exercent leur droit de retrait le 24 novembre, selon BFM Lyon.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFM Lyon",
+    "title": "Tirs de mortiers au lycée Sartre : droit de retrait",
+    "url": "https://www.dailymotion.com/video/xbzp5ce",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "city": "Lyon",
+  "dept": "69",
+  "place": "université Lyon 2, université Lyon 1",
+  "type": "blocage",
+  "title": "Nouveaux blocages à l'université Lyon 2 ; Lyon 1 bloquée depuis plus de six semaines",
+  "summary": "Le 25 novembre au matin, de nouveaux blocages touchent plusieurs établissements du Rhône, notamment l'université Lumière Lyon 2 ; à l'université Claude-Bernard Lyon 1, bloquée depuis plus de six semaines, les cours se font en grande partie à distance.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFM Lyon",
+    "title": "Université de Lyon 2 : des blocages en cours",
+    "url": "https://www.dailymotion.com/video/xbzpgma",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "BFM Lyon",
+    "title": "Lyon 1 : un étudiant bloqué et sans fac depuis plus de 6 semaines",
+    "url": "https://www.dailymotion.com/video/xbzp55u",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Rouen",
+  "dept": "76",
+  "type": "manifestation",
+  "title": "Grève de la fonction publique : le cortège rouennais passe finalement par le centre-ville",
+  "summary": "Le 17 novembre, journée de grève de la fonction publique, la manifestation rouennaise a finalement pu traverser le centre-ville, selon les images d'Actu Rouen et de la radio associative HDR.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Actu Rouen",
+    "title": "Manifestation du 17 novembre à Rouen",
+    "url": "https://www.youtube.com/watch?v=jjEd5DjPNFU",
+    "date": "2026-11-17"
+   },
+   {
+    "outlet": "Radio HDR",
+    "title": "17 novembre 2026, nouvelle journée de mobilisation à Rouen",
+    "url": "https://www.youtube.com/watch?v=pLi5hTKOg8Q",
+    "date": "2026-11-17"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "city": "Limoges",
+  "dept": "87",
+  "type": "manifestation",
+  "title": "Des milliers de manifestants à Limoges pour la grève de la fonction publique et les salaires",
+  "summary": "Le 17 novembre, des milliers de personnes défilent à Limoges pour demander une hausse des salaires, lors de la journée de grève de la fonction publique élargie à toutes les confédérations, selon ici Limousin.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "ici Limousin",
+    "title": "Des milliers de manifestants ce mardi 17 novembre à Limoges pour demander une hausse des salaires",
+    "url": "https://www.dailymotion.com/video/xbxiyjq",
+    "date": "2026-11-17"
+   }
+  ]
  }
 ]

@@ -912,5 +912,435 @@
   },
   "drop": true,
   "note": "doublon de la carte répression « Rouen, 14 novembre : la manifestation des identitaires »"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-15",
+   "city": "Besançon",
+   "title_prefix": "Besançon : suites judiciaires"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-15",
+   "city": "Bordeaux",
+   "title_prefix": "Bordeaux : 14 gardes à vue"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-15",
+   "city": "Lyon",
+   "title_prefix": "Lyon : le préfet interdit la Presqu"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-15",
+   "city": "Paris",
+   "title_prefix": "Paris : la préfecture de police publie"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-15",
+   "city": "Saint-Denis",
+   "title_prefix": "Saint-Denis : le proviseur"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-16",
+   "city": "Bordeaux",
+   "title_prefix": "Gironde : regroupements interdits"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-16",
+   "city": "Fontainebleau",
+   "title_prefix": "Fontainebleau : le lycée François-Couperin rouvre"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-16",
+   "city": "Lyon",
+   "title_prefix": "Lyon : le tribunal administratif suspend"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-16",
+   "city": "Nouméa",
+   "title_prefix": "Nouvelle-Calédonie : le gouvernement adopte"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-17",
+   "city": "Aubervilliers",
+   "title_prefix": "Seine-Saint-Denis : arrêtés journaliers"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-17",
+   "city": "Cachan",
+   "title_prefix": "Cachan : cinq maires"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-18",
+   "city": "Rouen",
+   "title_prefix": "Rouen : l'élève soupçonné"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-19",
+   "city": "Grenoble",
+   "title_prefix": "Grenoble : une professeure de SES"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-19",
+   "city": "Montélimar",
+   "title_prefix": "Montélimar : 66 des 81 CRS"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-19",
+   "city": "Strasbourg",
+   "title_prefix": "Strasbourg : enquête IGPN"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-19",
+   "city": "Vitry-sur-Seine",
+   "title_prefix": "Lycée Jean-Macé de Vitry-sur-Seine fermé"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-20",
+   "city": "Rouen",
+   "title_prefix": "Seine-Maritime : cinq mineurs déférés"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-20",
+   "city": "Saint-Denis",
+   "title_prefix": "Seine-Saint-Denis : arrêté préfectoral"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-21",
+   "city": "Toulon",
+   "title_prefix": "Toulon : centre-ville interdit"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-22",
+   "city": "Nantes",
+   "title_prefix": "Nantes : après l'acte VI"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-22",
+   "city": "Toulouse",
+   "title_prefix": "Toulouse : périmètres de protection"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-23",
+   "city": "Paris",
+   "title_prefix": "Paris : les élus de Mayotte"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-23",
+   "city": "Poitiers",
+   "title_prefix": "Université de Poitiers : reprise"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-24",
+   "city": "Rennes",
+   "title_prefix": "Rennes : deux conseils de discipline"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-24",
+   "city": "Strasbourg",
+   "title_prefix": "Strasbourg : l'Observatoire des libertés"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-24",
+   "city": "Tournefeuille",
+   "title_prefix": "Tournefeuille : le lycée incendié"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-25",
+   "city": "Tournefeuille",
+   "title_prefix": "Tournefeuille : rentrée des classes"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "France",
+   "title_prefix": "Acte V : 404 interpellations et 50"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Paris",
+   "title_prefix": "Paris, acte V : 126 interpellations"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Nantes",
+   "title_prefix": "Nantes sous couvre-feu des mineurs"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Montpellier",
+   "title_prefix": "Montpellier : 14 interpellations"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Rouen",
+   "title_prefix": "Rouen : une ligne de CRS"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-17",
+   "city": "Strasbourg",
+   "title_prefix": "Université de Strasbourg : gendarmes mobiles"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-20",
+   "city": "France",
+   "title_prefix": "Le Sénat adopte définitivement"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-23",
+   "city": "Paris",
+   "title_prefix": "Commission d'enquête de l'Assemblée sur le 17 octobre"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-20",
+   "city": "Carhaix-Plouguer",
+   "title_prefix": "Après Brest, la gendarmerie réquisitionne"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-23",
+   "city": "Strasbourg",
+   "title_prefix": "Pancartes de lycéens saisies dans un bar"
+  },
+  "drop": true,
+  "note": "doublon d’une carte de la passe répression"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-14",
+   "city": "Poitiers",
+   "title_prefix": "Poitiers : 27 interpellations"
+  },
+  "set": {
+   "category": "répression"
+  },
+  "note": "application des arrêtés, pas une violence"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-17",
+   "city": "Lyon",
+   "title_prefix": "Lyon : Chloé"
+  },
+  "set": {
+   "date": "2026-11-05"
+  },
+  "note": "faits du 5 novembre, publiés le 17"
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-17",
+   "metric": "gardes_a_vue",
+   "value": 8000
+  },
+  "set": {
+   "series": "lyceen"
+  },
+  "note": "bilan du mouvement lycéen (« à peu près le même nombre »), pas le cumul depuis le 17 octobre"
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-17",
+   "metric": "detentions_provisoires",
+   "value": 3
+  },
+  "set": {
+   "series": "lyceen"
+  },
+  "note": "bilan du mouvement lycéen"
+ },
+ {
+  "kind": "stat",
+  "match": {
+   "date": "2026-11-18",
+   "metric": "poursuites",
+   "value": 1000
+  },
+  "set": {
+   "metric": "autre"
+  },
+  "note": "plaintes déposées par l’Éducation nationale, pas des poursuites engagées"
  }
 ]

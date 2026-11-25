@@ -539,22 +539,6 @@
   ]
  },
  {
-  "kind": "incident",
-  "date": "2026-11-25",
-  "city": "La Rochelle",
-  "title_prefix": "",
-  "media": [
-   {
-    "type": "dailymotion",
-    "id": "xbzou3y",
-    "url": "https://www.dailymotion.com/video/xbzou3y",
-    "title": "Etudiant menacé à La Rochelle : il porte plainte",
-    "outlet": "CNEWS",
-    "caption": "CNEWS : à La Rochelle, un étudiant qui s'est opposé au blocage de sa faculté dénonce des menaces et des incitations à la violence reçues en ligne et porte plainte."
-   }
-  ]
- },
- {
   "kind": "event",
   "date": "2026-11-25",
   "city": "France",

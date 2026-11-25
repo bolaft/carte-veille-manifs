@@ -334,5 +334,285 @@
   "nom": "Haut-Rhin (Colmar)",
   "dept": "68",
   "manual": true
+ },
+ "Allonnes|72": {
+  "lat": 47.9693,
+  "lon": 0.1579,
+  "nom": "Allonnes",
+  "dept": "72",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Auxerre|89": {
+  "lat": 47.7961,
+  "lon": 3.5706,
+  "nom": "Auxerre",
+  "dept": "89",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Bagnolet|93": {
+  "lat": 48.8688,
+  "lon": 2.4174,
+  "nom": "Bagnolet",
+  "dept": "93",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Beynost|01": {
+  "lat": 45.84,
+  "lon": 5.0009,
+  "nom": "Beynost",
+  "dept": "01",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Blagnac|31": {
+  "lat": 43.6343,
+  "lon": 1.3986,
+  "nom": "Blagnac",
+  "dept": "31",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Breil-sur-Roya|06": {
+  "lat": 43.9375,
+  "lon": 7.514,
+  "nom": "Breil-sur-Roya",
+  "dept": "06",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Figeac|46": {
+  "lat": 44.6092,
+  "lon": 2.0324,
+  "nom": "Figeac",
+  "dept": "46",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Goussainville|95": {
+  "lat": 49.0323,
+  "lon": 2.4734,
+  "nom": "Goussainville",
+  "dept": "95",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Harfleur|76": {
+  "lat": 49.5075,
+  "lon": 0.2001,
+  "nom": "Harfleur",
+  "dept": "76",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Hazebrouck|59": {
+  "lat": 50.7226,
+  "lon": 2.536,
+  "nom": "Hazebrouck",
+  "dept": "59",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "La Baule-Escoublac|44": {
+  "lat": 47.2844,
+  "lon": -2.3952,
+  "nom": "La Baule-Escoublac",
+  "dept": "44",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "La Celle-Saint-Cloud|78": {
+  "lat": 48.8479,
+  "lon": 2.1361,
+  "nom": "La Celle-Saint-Cloud",
+  "dept": "78",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Le Puy-en-Velay|43": {
+  "lat": 45.046,
+  "lon": 3.8856,
+  "nom": "Le Puy-en-Velay",
+  "dept": "43",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Lisieux|14": {
+  "lat": 49.1461,
+  "lon": 0.2255,
+  "nom": "Lisieux",
+  "dept": "14",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Menton|06": {
+  "lat": 43.7753,
+  "lon": 7.5029,
+  "nom": "Menton",
+  "dept": "06",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Meyzieu|69": {
+  "lat": 45.7765,
+  "lon": 5.0045,
+  "nom": "Meyzieu",
+  "dept": "69",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Millau|12": {
+  "lat": 44.1007,
+  "lon": 3.0778,
+  "nom": "Millau",
+  "dept": "12",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Montauban|82": {
+  "lat": 44.0176,
+  "lon": 1.355,
+  "nom": "Montauban",
+  "dept": "82",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Muret|31": {
+  "lat": 43.4606,
+  "lon": 1.3258,
+  "nom": "Muret",
+  "dept": "31",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Mâcon|71": {
+  "lat": 46.3037,
+  "lon": 4.8322,
+  "nom": "Mâcon",
+  "dept": "71",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Ouangani|976": {
+  "lat": -12.8498,
+  "lon": 45.1399,
+  "nom": "Ouangani",
+  "dept": "976",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Pontivy|56": {
+  "lat": 48.0648,
+  "lon": -2.9676,
+  "nom": "Pontivy",
+  "dept": "56",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Saint-Cloud|92": {
+  "lat": 48.8437,
+  "lon": 2.2193,
+  "nom": "Saint-Cloud",
+  "dept": "92",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Saint-Philbert-de-Grand-Lieu|44": {
+  "lat": 47.0359,
+  "lon": -1.6405,
+  "nom": "Saint-Philbert-de-Grand-Lieu",
+  "dept": "44",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Sartrouville|78": {
+  "lat": 48.9409,
+  "lon": 2.1585,
+  "nom": "Sartrouville",
+  "dept": "78",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Sens|89": {
+  "lat": 48.1979,
+  "lon": 3.2826,
+  "nom": "Sens",
+  "dept": "89",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Tarbes|65": {
+  "lat": 43.2329,
+  "lon": 0.0781,
+  "nom": "Tarbes",
+  "dept": "65",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Albertville|73": {
+  "lat": 45.6755,
+  "lon": 6.3925,
+  "nom": "Albertville",
+  "dept": "73",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Béthune|62": {
+  "lat": 50.5309,
+  "lon": 2.6389,
+  "nom": "Béthune",
+  "dept": "62",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Foix|09": {
+  "lat": 42.9639,
+  "lon": 1.6054,
+  "nom": "Foix",
+  "dept": "09",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Le Palais|56": {
+  "lat": 47.3471,
+  "lon": -3.1549,
+  "nom": "Le Palais",
+  "dept": "56",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Mont-de-Marsan|40": {
+  "lat": 43.8911,
+  "lon": -0.501,
+  "nom": "Mont-de-Marsan",
+  "dept": "40",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Rodez|12": {
+  "lat": 44.3511,
+  "lon": 2.5728,
+  "nom": "Rodez",
+  "dept": "12",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Saint-Malo|35": {
+  "lat": 48.6495,
+  "lon": -2.026,
+  "nom": "Saint-Malo",
+  "dept": "35",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Bron|69": {
+  "lat": 45.7338,
+  "lon": 4.9092,
+  "nom": "Bron",
+  "dept": "69",
+  "manual": true,
+  "src": "nominatim"
  }
 }
