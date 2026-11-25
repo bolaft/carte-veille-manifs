@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2026-11-10",
+    "city": "France",
+    "title_prefix": "« Présomption de légitime défense » des policiers : la commission des lois du Sénat adopte",
+    "investigation": "Séance du 19 nov. : exception d'irrecevabilité (CRCE-K) rejetée 246-95, question préalable (GEST) 242-96, renvoi en commission (SER) 226-98 ; amendements de suppression rejetés 214-108 ; séance levée à 0 h 30. Le 20 nov., le Sénat adopte l'ensemble sans modification par 205 voix contre 110 et 27 abstentions (scrutin n° 145 : LR 122 pour, UC 55 pour/2 contre/4 abst., RN-UDR 15 pour, RDPI 16 abstentions, PS 62, CRCE-K 18, écologistes 15 et RDSE 12 contre) : adoption définitive dans les termes de l'Assemblée du 7 juillet. La gauche annonce une saisine du Conseil constitutionnel (non déposée au 21 nov.) ; tribune collective LDH-CGT-CFDT-Solidaires-Unef-SAF-FSU-SM dans L'Humanité le 18 nov. ; Amnesty International France met en garde le 24 nov. contre un risque d'« impunité policière ».",
+    "status_date": "2026-11-24",
+    "sources": [
+      {
+        "outlet": "Sénat (scrutins publics)",
+        "title": "Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions – scrutins",
+        "url": "https://www.senat.fr/scrutin-public/dossiers/ppl25-866_scr.html",
+        "date": "2026-11-20"
+      },
+      {
+        "outlet": "Legiwatch",
+        "title": "Sénat : adoption de la présomption de légitime défense policière",
+        "url": "https://www.legiwatch.fr/actualites/reconnaitre-presomption-legitime-defense-forces-ordre-exercice-senat-adopte-2026-11-20/",
+        "date": "2026-11-21"
+      },
+      {
+        "outlet": "NosParlementaires",
+        "title": "Présomption de légitime défense : la loi adoptée par le Sénat",
+        "url": "https://nosparlementaires.fr/actualites/presomption-legitime-defense-senat-calendrier-navette",
+        "date": "2026-11-21"
+      },
+      {
+        "outlet": "Le Club des juristes",
+        "title": "Le Parlement adopte la proposition de loi sur la présomption de légitime défense des forces de l'ordre",
+        "url": "https://www.leclubdesjuristes.com/en-bref/le-parlement-adopte-la-proposition-de-loi-sur-la-presomption-de-legitime-defense-des-forces-de-lordre-18547/",
+        "date": "2026-11-23"
+      },
+      {
+        "outlet": "Amnesty International France",
+        "title": "En adoptant la loi sur la « présomption de légitime défense » des forces de l'ordre, le Sénat pourrait favoriser l'impunité policière en France",
+        "url": "https://www.amnesty.fr/communiques/en-adoptant-la-loi-sur-la-presomption-de-legitime-defense-des-forces-de-lordre-le-senat-pourrait-favoriser-limpunite-policiere-en-france/",
+        "date": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Lyon",
+    "title_prefix": "Lyon : un musicien de la CGT spectacle",
+    "investigation": "TA de Lyon, 17 nov. 2026 : la MICAS du 30 oct. visant Sébastien L. pour les 31 oct. et 1er nov. est annulée, le tribunal relevant « l'absence d'éléments établissant l'existence d'une menace d'une particulière gravité pour la sécurité et l'ordre public » et tout lien avec le terrorisme ou son apologie, « la seule affiliation de l'intéressé auprès d'une organisation syndicale » ou sa qualité d'animateur de radio associative ne suffisant pas ; l'État est condamné à lui verser 1 500 euros. Le ministère de l'Intérieur n'avait envoyé personne à l'audience du 13 nov. (Mes Agnès Bouquin et Olivier Forray : « un bazooka pour aller tuer un moustique »). Selon Le Monde, les TA de Paris, Grenoble et Lyon ont annulé des MICAS dans trois affaires concernant sept personnes ; Mediapart compte dix décisions d'annulation.",
+    "status_date": "2026-11-20",
+    "sources": [
+      {
+        "outlet": "Rue89Lyon",
+        "title": "Mesure antiterroriste contre un syndicaliste à Lyon : la justice désavoue le gouvernement",
+        "url": "https://www.rue89lyon.fr/2026/11/18/mesure-antiterroriste-utilisee-contre-syndicaliste-annulee-justice/",
+        "date": "2026-11-18"
+      },
+      {
+        "outlet": "NVO",
+        "title": "Une mesure administrative l'empêchait de manifester : à Lyon, la justice donne raison au militant CGT",
+        "url": "https://nvo.fr/une-mesure-administrative-lempechait-de-manifester-a-lyon-la-justice-donne-raison-au-militant-cgt/",
+        "date": "2026-11-19"
+      },
+      {
+        "outlet": "Epoch Times (citant Le Monde)",
+        "title": "Lyon : la justice annule l'interdiction de manifester d'un militant d'ultragauche visé par une mesure de surveillance antiterroriste",
+        "url": "https://www.epochtimes.fr/lyon-la-justice-annule-linterdiction-de-manifester-dun-militant-dultragauche-allant-contre-la-loi-antiterroriste-3397278.html",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "city": "France",
+    "title_prefix": "Une soixantaine de MICAS antiterroristes",
+    "investigation": "Annulations au fond : TA de Lyon, 17 nov. 2026 (musicien de la CGT spectacle, 1 500 euros de frais à la charge de l'État, « absence de menace d'une particulière gravité ») ; selon Le Monde, les TA de Paris, Grenoble et Lyon ont annulé les MICAS de sept personnes dans trois affaires liées au 31 oct., et Mediapart dénombre dix décisions d'annulation (NVO, 19 nov.) ; le ministère ne communique toujours pas le nombre total de mesures ni d'éventuels appels.",
+    "status_date": "2026-11-20",
+    "sources": [
+      {
+        "outlet": "Rue89Lyon",
+        "title": "Mesure antiterroriste contre un syndicaliste à Lyon : la justice désavoue le gouvernement",
+        "url": "https://www.rue89lyon.fr/2026/11/18/mesure-antiterroriste-utilisee-contre-syndicaliste-annulee-justice/",
+        "date": "2026-11-18"
+      },
+      {
+        "outlet": "NVO",
+        "title": "Une mesure administrative l'empêchait de manifester : à Lyon, la justice donne raison au militant CGT",
+        "url": "https://nvo.fr/une-mesure-administrative-lempechait-de-manifester-a-lyon-la-justice-donne-raison-au-militant-cgt/",
+        "date": "2026-11-19"
+      },
+      {
+        "outlet": "Epoch Times (citant Le Monde)",
+        "title": "Lyon : la justice annule l'interdiction de manifester d'un militant d'ultragauche visé par une mesure de surveillance antiterroriste",
+        "url": "https://www.epochtimes.fr/lyon-la-justice-annule-linterdiction-de-manifester-dun-militant-dultragauche-allant-contre-la-loi-antiterroriste-3397278.html",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "city": "France",
+    "title_prefix": "MICAS contre des manifestants : premières audiences au fond",
+    "investigation": "Premiers jugements : le TA de Lyon annule le 17 nov. la MICAS d'un musicien de la CGT spectacle (menace d'une particulière gravité non établie, 1 500 euros de frais) ; d'après Le Monde, trois affaires concernant sept personnes ont abouti à des annulations devant les TA de Paris, Grenoble et Lyon ; Mediapart compte dix décisions d'annulation au 19 nov.",
+    "status_date": "2026-11-20",
+    "sources": [
+      {
+        "outlet": "Rue89Lyon",
+        "title": "Mesure antiterroriste contre un syndicaliste à Lyon : la justice désavoue le gouvernement",
+        "url": "https://www.rue89lyon.fr/2026/11/18/mesure-antiterroriste-utilisee-contre-syndicaliste-annulee-justice/",
+        "date": "2026-11-18"
+      },
+      {
+        "outlet": "NVO",
+        "title": "Une mesure administrative l'empêchait de manifester : à Lyon, la justice donne raison au militant CGT",
+        "url": "https://nvo.fr/une-mesure-administrative-lempechait-de-manifester-a-lyon-la-justice-donne-raison-au-militant-cgt/",
+        "date": "2026-11-19"
+      },
+      {
+        "outlet": "Epoch Times (citant Le Monde)",
+        "title": "Lyon : la justice annule l'interdiction de manifester d'un militant d'ultragauche visé par une mesure de surveillance antiterroriste",
+        "url": "https://www.epochtimes.fr/lyon-la-justice-annule-linterdiction-de-manifester-dun-militant-dultragauche-allant-contre-la-loi-antiterroriste-3397278.html",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "France",
+    "title_prefix": "Acte V du 14 novembre : Nuñez reconduit",
+    "investigation": "Bilan du 14 nov. : 106 000 manifestants selon l'Intérieur (200 000 selon les organisateurs), 404 interpellations dont 134 à Paris (79 gardes à vue selon le parquet, 43 mineurs interpellés), 50 policiers et gendarmes blessés, situation « globalement maîtrisée » ; application des interdictions de centres-villes : 54 interpellations à Nantes, 14 à Montpellier (et une trentaine de verbalisations pour équipements), 13 à Rouen, 12 à Marseille, 6 à Besançon, 5 à Strasbourg (45 verbalisations pour non-respect du périmètre), 4 à Caen, aucune à Dijon ; pas de chiffre national de contrôles préventifs publié.",
+    "status_date": "2026-11-15",
+    "sources": [
+      {
+        "outlet": "AFP (via Boursorama)",
+        "title": "Manifestations de samedi : plus de 400 interpellations en France",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/manifestations-de-samedi-plus-de-400-interpellations-en-france-c59c4c62260b12e8177be9e293c306b9",
+        "date": "2026-11-15"
+      },
+      {
+        "outlet": "Le JDD",
+        "title": "Manifestations du samedi 14 novembre : 400 interpellations, cinquante policiers et gendarmes blessés… le bilan des autorités",
+        "url": "https://www.lejdd.fr/Societe/manifestations-du-samedi-14-novembre-400-interpellations-cinquante-policiers-et-gendarmes-blesses-le-bilan-des-autorites-188778",
+        "date": "2026-11-15"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Manifestations du 14 novembre : la mobilisation est restée « globalement maîtrisée », malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
+        "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "France",
+    "title_prefix": "Télégramme Nuñez–Geffray du 13 novembre",
+    "investigation": "Mise en œuvre : le 16 nov., 25 lycées perturbés en Île-de-France et 20 % des établissements du supérieur selon le ministère ; les ministres demandent aux recteurs et préfets de « renforcer et de systématiser les sanctions disciplinaires » (JDD) ; au lycée Montgrand de Marseille, des CRS entrent dans l'établissement le 16 nov. et dix élèves sont convoqués (exclusions, deux conseils de discipline, selon Révolution permanente) ; le 17 nov., le TA de Paris suspend l'arrêté du préfet de police interdisant les rassemblements à moins de 100 m de quinze établissements, et une dizaine de policiers ouvrent les grilles du lycée René-Descartes à Rennes sur décision de justice ; le 18 nov., Geffray annonce sur RMC « une quinzaine » de procédures disciplinaires contre des agents ; 3 000 élèves sont passés en conseil de discipline pour des blocus entre septembre et le 1er nov. (franceinfo, 19 nov.) ; une professeure de SES de Grenoble est convoquée au rectorat le 26 nov. après un devoir sur la mobilisation lycéenne.",
+    "status_date": "2026-11-19",
+    "sources": [
+      {
+        "outlet": "Le JDD",
+        "title": "Grève du 17 novembre et colère lycéenne : les rendez-vous, les perturbations et la réponse du gouvernement",
+        "url": "https://www.lejdd.fr/Societe/greve-du-17-novembre-et-colere-lyceenne-les-rendez-vous-les-perturbations-et-la-reponse-du-gouvernement-188895",
+        "date": "2026-11-16"
+      },
+      {
+        "outlet": "Le Café pédagogique",
+        "title": "Le tribunal administratif suspend l'interdiction de rassemblement devant les lycées parisiens",
+        "url": "https://www.cafepedagogique.net/2026/11/18/le-tribunal-administratif-suspend-linterdiction-de-rassemblement-devant-les-lycees-parisiens/",
+        "date": "2026-11-18"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Lycées bloqués : la justice ordonne la reprise des cours dans un établissement de Rennes",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lycees-bloques-la-justice-ordonne-la-reprise-des-cours-dans-un-etablissement-de-rennes_8286644.html",
+        "date": "2026-11-17"
+      },
+      {
+        "outlet": "franceinfo (Vrai ou Faux)",
+        "title": "Des membres du personnel de l'Éducation nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ?",
+        "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html",
+        "date": "2026-11-19"
+      },
+      {
+        "outlet": "franceinfo (C quoi l'info ?)",
+        "title": "Ces lycéens sont exclus de leur lycée à cause des blocus",
+        "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/ces-lyceens-sont-exclus-de-leur-lycee-a-cause-des-blocus_8290028.html",
+        "date": "2026-11-19"
+      },
+      {
+        "outlet": "franceinfo",
+        "title": "Professeure d'économie convoquée après un devoir sur le mouvement lycéen : « Notre collègue n'a fait que son travail », selon le Snes-FSU",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeure-d-economie-convoquee-apres-un-devoir-sur-le-mouvement-lyceen-notre-collegue-n-a-fait-que-son-travail-selon-le-snes-fsu_8290724.html",
+        "date": "2026-11-19"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Nantes",
+    "title_prefix": "Loire-Atlantique, 14 novembre : accès au centre-ville interdit",
+    "investigation": "Application le 14 nov. : environ 4 000 manifestants ; des groupes tentant de rejoindre l'hypercentre interdit sont repoussés au gaz lacrymogène et au canon à eau du Miroir d'eau vers l'allée Baco ; 52 interpellations annoncées par le préfet sur X à 17 h 35, 54 au bilan du lendemain, plus d'une cinquantaine de gardes à vue ; l'élu nantais William Autain est verbalisé pour s'être trouvé en centre-ville et dénonce une « escalade sécuritaire ».",
+    "status_date": "2026-11-15",
+    "sources": [
+      {
+        "outlet": "Nantes Infos",
+        "title": "Nantes : environ 4 000 manifestants mobilisés le 14 novembre, 52 interpellations annoncées",
+        "url": "https://nantes-infos.fr/nantes-environ-4-000-manifestants-mobilises-le-14-novembre-52-interpellations-annoncees/",
+        "date": "2026-11-14"
+      },
+      {
+        "outlet": "Infos Média Nantes",
+        "title": "Manifestations du 14 novembre à Nantes : tensions, dispersions et 54 interpellations",
+        "url": "https://infos-media-nantes.fr/nantes-manifestations-14-novembre-2026-bilan-interpellations/",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Marseille",
+    "title_prefix": "Bouches-du-Rhône, 14 novembre : « aucune manifestation autorisée »",
+    "investigation": "Application le 14 nov. : 3 500 personnes défilent malgré l'interdiction des Réformés vers la Belle-de-Mai, gaz lacrymogène à Belsunce et Saint-Charles, cinq stations de métro fermées dès 14 h ; 12 interpellations et huit policiers légèrement blessés selon La Provence ; à Toulon, le rassemblement autorisé ne réunit que 160 personnes « dans le calme » ; une trentaine de personnes à Aix-en-Provence.",
+    "status_date": "2026-11-15",
+    "sources": [
+      {
+        "outlet": "Destimed",
+        "title": "Marseille. Malgré l'interdiction préfectorale, 3 500 manifestants dans les rues samedi",
+        "url": "https://www.destimed.fr/marseille-malgre-linterdiction-prefectorale-3-500-manifestants-dans-les-rues-samedi/",
+        "date": "2026-11-15"
+      },
+      {
+        "outlet": "ICI Provence",
+        "title": "Manifestations du 14 novembre : mobilisation en baisse à Marseille",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/mobilisation-en-baisse-a-marseille-1837358",
+        "date": "2026-11-14"
+      },
+      {
+        "outlet": "La Provence",
+        "title": "Manifestations du 14 novembre à Marseille : 12 interpellations et 8 policiers légèrement blessés",
+        "url": "https://www.laprovence.com/article/faits-divers-justice/1263521353580714/manifestations-du-14-novembre-a-marseille-12-interpellations-et-8-policiers-legerement-blesses",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Toulon",
+    "title_prefix": "Toulon, 14 novembre : centre-ville interdit",
+    "investigation": "Le 14 nov., le seul rassemblement autorisé, déclaré, réunit 160 personnes, « une affluence divisée par deux en une semaine », et se déroule « dans le calme » selon la préfecture du Var.",
+    "status_date": "2026-11-14",
+    "sources": [
+      {
+        "outlet": "ICI Provence",
+        "title": "Manifestations du 14 novembre : mobilisation en baisse à Marseille",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/mobilisation-en-baisse-a-marseille-1837358",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Caen",
+    "title_prefix": "Caen, 14 novembre : rassemblements interdits",
+    "investigation": "Application le 14 nov. : un peu plus de 4 000 manifestants selon la police ; après le cortège Saint-Pierre–Saint-Sauveur, un groupe tente vers 15 h 45 d'entrer dans le centre interdit et est bloqué après sommations, jets de bouteilles et de pierres, heurts jusqu'en début de soirée près du centre et du campus 1 ; quatre interpellations pour jets de projectiles, outrages et tentatives d'effraction « dans le périmètre interdit du centre-ville ».",
+    "status_date": "2026-11-15",
+    "sources": [
+      {
+        "outlet": "France 3 Normandie",
+        "title": "Manifestation du 14 novembre : un acte V de la mobilisation sociale aux revendications multiples",
+        "url": "https://france3-regions.franceinfo.fr/normandie/manifestation-du-14-novembre-un-acte-v-de-la-mobilisation-sociale-aux-revendications-multiples-3449619.html",
+        "date": "2026-11-14"
+      },
+      {
+        "outlet": "Tendance Ouest",
+        "title": "Calvados. 4 000 manifestants réunis à Caen selon les chiffres de la police",
+        "url": "https://www.tendanceouest.com/actualite-444204-calvados-4000-manifestants-reunis-a-caen-selon-les-chiffres-de-la-police",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "city": "Rouen",
+    "title_prefix": "Rouen, 14 novembre : la manifestation des identitaires",
+    "investigation": "Le 14 nov., la marche des Normaux reste interdite ; le cortège social (1 570 personnes selon la préfecture, 3 000 selon la CGT) doit contourner le centre-ville interdit, une ligne de CRS bloque la rue Jean-Lecanuet, gaz lacrymogène à répétition près du rectorat et de la place Cauchoise, 13 interpellations, un policier et un gendarme légèrement blessés ; la préfecture estime que le parcours déclaré « n'a pas été respecté ».",
+    "status_date": "2026-11-14",
+    "sources": [
+      {
+        "outlet": "France 3 Normandie",
+        "title": "Manifestation du 14 novembre : un acte V de la mobilisation sociale aux revendications multiples",
+        "url": "https://france3-regions.franceinfo.fr/normandie/manifestation-du-14-novembre-un-acte-v-de-la-mobilisation-sociale-aux-revendications-multiples-3449619.html",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "city": "France",
+    "title_prefix": "4 914 gardes à vue, 1 820 défèrements",
+    "investigation": "Nouveau bilan du garde des Sceaux devant la commission d'enquête de l'Assemblée le 17 nov. : 7 184 gardes à vue depuis le 17 oct. (4 523 majeurs, 2 661 mineurs), 3 053 poursuites, 1 217 alternatives aux poursuites, 2 301 défèrements, 209 détentions provisoires de majeurs et 5 de mineurs, 466 peines d'emprisonnement dont 195 fermes et 111 avec mandat de dépôt, 186 écroués et 356 personnes privées de liberté au 16 nov., 263 procédures en bande organisée ; environ 8 000 gardes à vue supplémentaires pour le mouvement lycéen, avec trois détentions provisoires et 1 513 mesures alternatives.",
+    "status_date": "2026-11-17",
+    "sources": [
+      {
+        "outlet": "La Croix (avec AFP)",
+        "title": "Manifestations : 7 184 gardes à vue et 356 personnes incarcérées depuis le 17 octobre",
+        "url": "https://www.la-croix.com/societe/manifestations-7-184-gardes-a-vue-et-356-personnes-incarcerees-depuis-le-17-octobre-20261118",
+        "date": "2026-11-18"
+      },
+      {
+        "outlet": "LCP",
+        "title": "17 octobre : Gérald Darmanin assume le recours à la qualification de « criminalité organisée »",
+        "url": "https://lcp.fr/actualites/17-octobre-gerald-darmanin-assume-le-recours-a-la-qualification-de-criminalite-organisee",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "city": "Lyon",
+    "title_prefix": "Lyon, 14 novembre : cinquième samedi consécutif",
+    "investigation": "Le 15 nov., la préfecture du Rhône prend un nouvel arrêté interdisant à l'intersyndicale d'atteindre la Presqu'île et Bellecour pour la manifestation du 17 nov. ; saisi en référé par les syndicats, le TA de Lyon suspend l'interdiction dans la soirée du 16 nov. et le cortège (7 000 à 12 000 personnes) rejoint Bellecour par la rue de la Barre le 17 nov., première fois en six ans. Le 14 nov., une équipe de BFMTV a été agressée par des manifestants en marge du cortège (enquête du parquet, un suspect interpellé).",
+    "status_date": "2026-11-17",
+    "sources": [
+      {
+        "outlet": "Rue89Lyon",
+        "title": "Une nouvelle manifestation prévue à Lyon mardi 17 novembre",
+        "url": "https://www.rue89lyon.fr/2026/11/16/nouvelle-manifestation-prevue-lyon-mardi-17-novembre/",
+        "date": "2026-11-16"
+      },
+      {
+        "outlet": "Rue89Lyon",
+        "title": "À Lyon, la manifestation retrouve Bellecour après un mois de dérives sécuritaires",
+        "url": "https://www.rue89lyon.fr/2026/11/17/a-lyon-la-manifestation-retrouve-bellecour-apres-un-mois-de-derives-securitaires/",
+        "date": "2026-11-17"
+      },
+      {
+        "outlet": "Le JDD",
+        "title": "« Une volonté de lynchage » : des journalistes de BFMTV agressés en marge de la manifestation à Lyon",
+        "url": "https://www.lejdd.fr/Societe/une-volonte-de-lynchage-des-journalistes-de-bfmtv-agresses-en-marge-de-la-manifestation-a-lyon-188772",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "city": "Strasbourg",
+    "title_prefix": "Seize arrêtés et 23 jours de drones depuis le 29 septembre",
+    "investigation": "Nouveaux arrêtés : le 14 nov., périmètre autorisé De Lattre–République et ellipse insulaire interdite (5 interpellations, 45 verbalisations pour non-respect du périmètre) ; le 17 nov., interdiction de tout cortège non déclaré sur l'ensemble du ban communal hors un périmètre restreint, avec nouvelle autorisation de drones de surveillance.",
+    "status_date": "2026-11-17",
+    "sources": [
+      {
+        "outlet": "Préfecture du Bas-Rhin (communiqué)",
+        "title": "Manifestation non déclarée à Strasbourg le samedi 14 novembre",
+        "url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/63149/448907/file/manifestation+non+d%C3%A9clar%C3%A9e+-+14.11.pdf",
+        "date": "2026-11-14"
+      },
+      {
+        "outlet": "Rue89 Strasbourg",
+        "title": "Grève de la fonction publique et manifestation mardi 17 novembre",
+        "url": "https://www.rue89strasbourg.com/greve-fonction-publique-manifestation-402564",
+        "date": "2026-11-16"
+      }
+    ]
+  }
+]
