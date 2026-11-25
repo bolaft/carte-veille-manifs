@@ -1,0 +1,1251 @@
+[
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_eleves",
+  "value": 11,
+  "scope": "jour",
+  "city": "",
+  "authority": "Région Île-de-France (citée par franceinfo)",
+  "quote": "« Environ onze élèves » blessés ou choqués à Argenteuil et Tremblay-en-France le jeudi 19 novembre, et deux enseignants blessés à Argenteuil (l'un souffre d'acouphènes) ; la Région compte sept tirs de mortiers à l'intérieur de lycées franciliens.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_personnels",
+  "value": 2,
+  "scope": "jour",
+  "city": "",
+  "authority": "Région Île-de-France (citée par franceinfo)",
+  "quote": "Deux enseignants blessés dans un lycée d'Argenteuil par des tirs de mortiers d'artifice le 19 novembre ; cours des classes pré-bac suspendus et droit de retrait.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Violences autour de lycées : des tirs de mortiers dans des établissements à Amiens, Argenteuil, Goussainville et Lyon, des blessés légers",
+    "url": "https://www.europe1.fr/faits-divers/violences-autour-de-lycees-des-tirs-de-mortiers-dans-des-etablissements-a-amiens-argenteuil-goussainville-et-lyon-des-blesses-legers-1240378",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "autre",
+  "value": 7,
+  "scope": "jour",
+  "city": "",
+  "authority": "Région Île-de-France (citée par franceinfo et CNEWS)",
+  "quote": "Sept tirs de mortiers à l'intérieur de lycées d'Île-de-France recensés par la Région le 19 novembre (CNEWS cite en soirée « 21 tirs de mortiers, dont 12 à l'intérieur » et 17 personnes blessées ou en état de choc).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "CNEWS",
+    "title": "Goussainville, Stains, Pantin… plusieurs lycées d'Île-de-France touchés par des tirs de mortiers",
+    "url": "https://www.cnews.fr/faits-divers/2026-11-19/goussainville-stains-pantin-plusieurs-lycees-dile-de-france-touches-par-de",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_eleves",
+  "value": 9,
+  "scope": "ville",
+  "city": "Amiens",
+  "authority": "Préfecture de la Somme",
+  "quote": "« Neuf élèves légèrement blessés » (acouphènes, une légère brûlure) et « un enseignant en état de choc » après des tirs de mortiers devant la cité scolaire Sud d'Amiens ; le procureur recense le lendemain « une vingtaine de victimes ».",
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "De nouveaux tirs de mortiers devant la cité scolaire Sud d'Amiens : neuf élèves légèrement blessés et un enseignant en état de choc",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/de-nouveaux-tirs-de-mortiers-devant-la-cite-scolaire-sud-d-amiens-neuf-eleves-legerement-blesses-et-un-enseignant-en-etat-de-choc-3452493.html",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Tirs de mortiers devant la cité scolaire d'Amiens : un lycéen placé en garde à vue",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/tirs-de-mortiers-devant-la-cite-scolaire-d-amiens-un-lyceen-place-en-garde-a-vue-3453078.html",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "gardes_a_vue",
+  "value": 1,
+  "scope": "ville",
+  "city": "Amiens",
+  "authority": "Procureur de la République (conférence de presse du 20 novembre)",
+  "quote": "Un lycéen majeur de la cité scolaire placé en garde à vue, « une vingtaine de victimes » répertoriées, sept déjà entendues ; « trois personnes seraient à l'origine des tirs » selon la préfecture.",
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "Tirs de mortiers devant la cité scolaire d'Amiens : un lycéen placé en garde à vue",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/tirs-de-mortiers-devant-la-cite-scolaire-d-amiens-un-lyceen-place-en-garde-a-vue-3453078.html",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_eleves",
+  "value": 8,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture de police du Rhône",
+  "quote": "« Huit personnes légèrement blessées », dont un proviseur (brûlures à la main), une conseillère principale d'éducation (épaule), quatre élèves de La Martinière-Monplaisir et un élève du lycée Beltrame de Meyzieu ; « ces actes de violence constituent une atteinte inadmissible à l'intégrité physique des personnes de l'Éducation nationale ».",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Tirs de mortier d'artifice dans les lycées ce jeudi matin : huit personnes blessées",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/tirs-de-mortier-d-artifice-dans-les-lycees-ce-jeudi-matin-huit-personnes-blessees-3452520.html",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "interpellations",
+  "value": 5,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture de police du Rhône",
+  "quote": "Cinq personnes interpellées après les tirs de mortiers du 19 novembre dans les lycées de Lyon, Meyzieu et Vaulx-en-Velin.",
+  "sources": [
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Tirs de mortier d'artifice dans les lycées ce jeudi matin : huit personnes blessées",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/tirs-de-mortier-d-artifice-dans-les-lycees-ce-jeudi-matin-huit-personnes-blessees-3452520.html",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Violences autour de lycées : des tirs de mortiers dans des établissements à Amiens, Argenteuil, Goussainville et Lyon, des blessés légers",
+    "url": "https://www.europe1.fr/faits-divers/violences-autour-de-lycees-des-tirs-de-mortiers-dans-des-etablissements-a-amiens-argenteuil-goussainville-et-lyon-des-blesses-legers-1240378",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_forces_ordre",
+  "value": 6,
+  "scope": "ville",
+  "city": "Goussainville",
+  "authority": "Parquet de Pontoise / CNEWS / Europe 1",
+  "quote": "Six policiers blessés, « dont un brûlé à la jambe par un cocktail Molotov », lors d'affrontements aux abords d'un lycée de Goussainville ; enquête ouverte et deux gardes à vue.",
+  "sources": [
+   {
+    "outlet": "CNEWS",
+    "title": "Goussainville, Stains, Pantin… plusieurs lycées d'Île-de-France touchés par des tirs de mortiers",
+    "url": "https://www.cnews.fr/faits-divers/2026-11-19/goussainville-stains-pantin-plusieurs-lycees-dile-de-france-touches-par-de",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Violences autour de lycées : des tirs de mortiers dans des établissements à Amiens, Argenteuil, Goussainville et Lyon, des blessés légers",
+    "url": "https://www.europe1.fr/faits-divers/violences-autour-de-lycees-des-tirs-de-mortiers-dans-des-etablissements-a-amiens-argenteuil-goussainville-et-lyon-des-blesses-legers-1240378",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "gardes_a_vue",
+  "value": 2,
+  "scope": "ville",
+  "city": "Goussainville",
+  "authority": "Parquet de Pontoise (confirmé à CNEWS)",
+  "quote": "Deux personnes placées en garde à vue après les affrontements du 19 novembre à Goussainville.",
+  "sources": [
+   {
+    "outlet": "CNEWS",
+    "title": "Goussainville, Stains, Pantin… plusieurs lycées d'Île-de-France touchés par des tirs de mortiers",
+    "url": "https://www.cnews.fr/faits-divers/2026-11-19/goussainville-stains-pantin-plusieurs-lycees-dile-de-france-touches-par-de",
+    "date": "2026-11-19"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Violences autour de lycées : des tirs de mortiers dans des établissements à Amiens, Argenteuil, Goussainville et Lyon, des blessés légers",
+    "url": "https://www.europe1.fr/faits-divers/violences-autour-de-lycees-des-tirs-de-mortiers-dans-des-etablissements-a-amiens-argenteuil-goussainville-et-lyon-des-blesses-legers-1240378",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "blesses_personnels",
+  "value": 1,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "« Un surveillant du lycée Roland-Garros a été légèrement blessé par un tir de mortier d'artifice, dans la matinée, et il y a eu une interpellation ».",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Nouveaux tirs de mortier d'artifice près d'un établissement scolaire de Toulouse, un surveillant a été légèrement blessé et un jeune interpellé",
+    "url": "https://www.ladepeche.fr/2026/11/19/nouveaux-tirs-de-mortier-dartifice-pres-dun-etablissement-scolaire-de-toulouse-un-surveillant-vise-et-un-jeune-interpelle-13660956.php",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "interpellations",
+  "value": 1,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "Une interpellation en marge du tir de mortier visant un assistant d'éducation du lycée Roland-Garros.",
+  "sources": [
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Nouveaux tirs de mortier d'artifice près d'un établissement scolaire de Toulouse, un surveillant a été légèrement blessé et un jeune interpellé",
+    "url": "https://www.ladepeche.fr/2026/11/19/nouveaux-tirs-de-mortier-dartifice-pres-dun-etablissement-scolaire-de-toulouse-un-surveillant-vise-et-un-jeune-interpelle-13660956.php",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "enquetes_igpn_iggn",
+  "value": 1,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Parquet de Strasbourg",
+  "quote": "Enquête confiée à l'IGPN après le jet d'une grenade lacrymogène par des policiers sur la terrasse d'un café place d'Austerlitz le 7 novembre en marge d'une manifestation (signalement du député Emmanuel Fernandes le 9 novembre).",
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Gaz lacrymogène sur la terrasse d'un café le samedi 7 novembre : le parquet de Strasbourg saisit l'IGPN",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/gaz-lacrymogene-sur-la-terrasse-d-un-cafe-le-samedi-7-novembre-le-parquet-de-strasbourg-saisit-l-igpn-3452760.html",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "metric": "autre",
+  "value": 66,
+  "scope": "ville",
+  "city": "Montélimar",
+  "authority": "Le Dauphiné libéré (compagnie de CRS de Montélimar)",
+  "quote": "66 des 81 CRS actifs devant partir en mission de sécurisation à Bordeaux consultent le médecin ; environ 1 200 CRS s'étaient mis en arrêt ou avaient consulté un médecin le 17 novembre selon le quotidien.",
+  "sources": [
+   {
+    "outlet": "Le Dauphiné Libéré",
+    "title": "Ras-le-bol des CRS : missionnés à Bordeaux, ils consultent le médecin pour contourner l'interdiction de grève",
+    "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/19/ras-le-bol-des-crs-missionnes-a-bordeaux-ils-consultent-le-medecin-pour-contourner-l-interdiction-de-greve",
+    "date": "2026-11-19"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "metric": "deferrements",
+  "value": 5,
+  "scope": "ville",
+  "city": "Rouen",
+  "authority": "Procureur de la République de Rouen, Sébastien Gallois",
+  "quote": "Cinq mineurs identifiés et interpellés après « trois épisodes d'usages de mortier » dans les lycées Gustave-Flaubert (Rouen), Marcel-Sembat (Sotteville-lès-Rouen, proviseure « légèrement blessée à la main ») et Bernard-Palissy (Maromme) du 16 au 18 novembre, déférés en vue d'audiences devant le tribunal pour enfants (17 décembre 2026, 19 janvier et 18 février 2027).",
+  "sources": [
+   {
+    "outlet": "France 3 Normandie",
+    "title": "Blocage des lycées : cinq mineurs suspectés d'avoir utilisé des mortiers interpellés en Seine-Maritime",
+    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/blocage-des-lycees-cinq-mineurs-suspectes-d-avoir-utilise-des-mortiers-interpelles-en-seine-maritime-3453522.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "metric": "autre",
+  "value": 70000,
+  "scope": "jour",
+  "city": "",
+  "authority": "Laurent Nuñez, ministre de l'Intérieur",
+  "quote": "Dispositif « exactement le même que les précédents samedis », soit « à peu près 70 000 policiers et gendarmes qui vont être mobilisés sur l'ensemble du territoire national » pour le 21 novembre ; télégramme aux préfets : ne « tolérer aucun débordement et agir avec la plus grande fermeté ».",
+  "sources": [
+   {
+    "outlet": "Le Parisien (AFP)",
+    "title": "« Agir avec la plus grande fermeté » : Laurent Nuñez appelle les préfets à la vigilance avant une nouvelle mobilisation",
+    "url": "https://www.leparisien.fr/societe/agir-avec-la-plus-grande-fermete-laurent-nunez-appelle-les-prefets-a-la-vigilance-avant-une-nouvelle-mobilisation-20-11-2026-2U3DW6B65NFZLKWXUJQLVHRX7Q.php",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Organisations présentes, dispositif de sécurité… À quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
+    "url": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "metric": "autre",
+  "value": 205,
+  "scope": "jour",
+  "city": "",
+  "authority": "Sénat (scrutin n° 145)",
+  "quote": "Proposition de loi « reconnaissant une présomption de légitime défense des forces de l'ordre » (présomption d'usage légal de l'arme) adoptée sans modification par 205 voix pour, 110 contre et 27 abstentions ; adoption définitive, saisine du Conseil constitutionnel annoncée par la gauche.",
+  "sources": [
+   {
+    "outlet": "Legiwatch",
+    "title": "Sénat : adoption de la présomption de légitime défense policière",
+    "url": "https://www.legiwatch.fr/actualites/reconnaitre-presomption-legitime-defense-forces-ordre-exercice-senat-adopte-2026-11-20/",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Politique Matin",
+    "title": "Usage des armes : le Sénat adopte le texte par 205 voix contre 110, une saisine constitutionnelle annoncée",
+    "url": "https://www.politiquematin.fr/senat-presomption-usage-armes-vote-205-110-20-novembre-2026-2033",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "ICI (Radio France)",
+    "title": "La présomption d'usage légal des armes par les forces de l'ordre définitivement adoptée au Parlement",
+    "url": "https://www.ici.fr/infos/societe/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-4919475",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "metric": "autre",
+  "value": 207,
+  "scope": "cumul",
+  "city": "",
+  "authority": "France Assureurs (bilan au 12 novembre, publié le 20)",
+  "quote": "Le coût des dommages assurés des violences urbaines des 17 et 18 octobre « pourrait atteindre 207 millions d'euros » pour 5 280 sinistres, dont 198 millions pour les biens professionnels ; le décret ouvrant une aide de 1 000 à 10 000 euros aux entreprises de moins de 50 salariés paraît au Journal officiel.",
+  "sources": [
+   {
+    "outlet": "Euronews",
+    "title": "Violences urbaines du 17 et 18 octobre : le coût des dégradations pourrait dépasser les 200 millions d'euros",
+    "url": "https://fr.euronews.com/2026/11/20/violences-urbaines-du-17-et-18-octobre-le-cout-des-degradations-pourrait-depasser-les-200-",
+    "date": "2026-11-20"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le gouvernement précise les conditions d'accès aux aides pour les commerçants touchés par les événements du 17 octobre",
+    "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-precise-les-conditions-d-acces-aux-aides-pour-les-commercants-touches-par-les-evenements-du-17-octobre_8291621.html",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "metric": "interdictions_de_manifester",
+  "value": 30,
+  "scope": "ville",
+  "city": "Saint-Denis",
+  "authority": "Préfecture de la Seine-Saint-Denis (arrêté du 20 novembre)",
+  "quote": "Interdiction de « tout attroupement de plus de vingt personnes de nature à porter atteinte à l'ordre, à la sécurité ou à la tranquillité publique » aux abords d'une trentaine d'établissements scolaires et universitaires de Seine-Saint-Denis du 23 au 27 novembre inclus.",
+  "sources": [
+   {
+    "outlet": "Solidaires 93",
+    "title": "Dépôt d'un référé-liberté contre les interdictions préfectorales de rassemblement devant une trentaine d'établissements scolaires et universitaires en Seine-Saint-Denis",
+    "url": "https://solidaires93.org/depot-dun-refere-liberte-contre-les-interdictions-prefectorales-de-rassemblement-devant-une-trentaine-detablissements-scolaires-et-universitaires-en-seine-saint-denis-nous-ne/",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "SUD éducation 93",
+    "title": "Mouvement social : suivi de la mobilisation et de la répression, semaine du 23 au 28 novembre",
+    "url": "https://www.sudeducation93.org/mouvement-social-suivi-de-la-mobilisation-et-de-la-repression-semaine-du-23-au-28-novembre/",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "autre",
+  "value": 82500,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "82 500 manifestants en France (hors outre-mer) pour l'acte VI du samedi 21 novembre, contre 106 000 le 14 novembre et 550 000 le 17 octobre ; 150 000 selon la CGT.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère pour le sixième samedi d'affilée",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Le JDD",
+    "title": "Manifestations du samedi 21 novembre : participants, interpellations, incidents… Le bilan des autorités",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-samedi-21-novembre-participants-interpellations-incidents-le-bilan-des-autorites-189360",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "Europe 1",
+    "title": "Mobilisation du 21 novembre : 82 500 manifestants selon les autorités, 150 000 selon les syndicats",
+    "url": "https://www.europe1.fr/societe/mobilisation-du-21-novembre-82500-manifestants-selon-les-autorites-150000-selon-les-syndicats-1241815",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 24 (AFP)",
+    "title": "Entre 80 000 et 150 000 personnes mobilisées pour un sixième samedi de manifestations en France",
+    "url": "https://www.france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "autre",
+  "value": 112,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur",
+  "quote": "112 actions recensées sur le territoire le 21 novembre, contre 137 le 14 novembre et 430 le 17 octobre ; « une grande partie des rassemblements n'étaient pas à l'initiative des organisations syndicales ».",
+  "sources": [
+   {
+    "outlet": "Le JDD",
+    "title": "Manifestations du samedi 21 novembre : participants, interpellations, incidents… Le bilan des autorités",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-samedi-21-novembre-participants-interpellations-incidents-le-bilan-des-autorites-189360",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Manifestations du samedi 21 novembre 2026 : la carte et les faits",
+    "url": "https://mavigilance.fr/jour/2026-11-21",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 144,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (bilan provisoire à 18 h)",
+  "quote": "144 interpellations en France à 18 h, bilan provisoire ; franceinfo évoque « environ 150 » vers 20 h ; « tensions et débordements » à Grenoble, Marseille, Lille, Nantes, Lyon et Bordeaux attribués à des « groupes à risque » de plusieurs centaines d'individus « issus de l'ultragauche ou animés par celle-ci ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère pour le sixième samedi d'affilée",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Le JDD",
+    "title": "Manifestations du samedi 21 novembre : participants, interpellations, incidents… Le bilan des autorités",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-samedi-21-novembre-participants-interpellations-incidents-le-bilan-des-autorites-189360",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "CNEWS",
+    "title": "Manifestation du 21 novembre : 82 500 personnes dans les rues, dont 21 500 à Paris",
+    "url": "https://cnews.fr/france/2026-11-21/manifestation-du-21-novembre-82500-personnes-dans-les-rues-dont-21-500-paris",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "autre",
+  "value": 2200,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Intérieur (point de 14 h)",
+  "quote": "À 14 h, 44 actions recensées et 2 200 participants hors Paris (9 800 le 14 novembre et 72 600 le 17 octobre à la même heure), 7 interpellations, mobilisation « globalement calme » et « en nette diminution par rapport aux précédentes journées ».",
+  "sources": [
+   {
+    "outlet": "Jean-Marc Morandini (direct)",
+    "title": "EN DIRECT – Manifs 21 nov. : le ministère de l'Intérieur a recensé 2 200 manifestants partout en France à 14 h hors Paris",
+    "url": "https://www.jeanmarcmorandini.com/article-657938-en-direct-manifs-21-nov-le-ministere-de-l-interieur-a-recense-2200-manifestants-partout-en-france-a-14h-hors-paris-un-chiffre-en-baisse.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère pour le sixième samedi d'affilée",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Entrevue",
+    "title": "Manifestations du 21 novembre : 21 500 participants à Paris, la mobilisation continue de reculer",
+    "url": "https://entrevue.fr/societe/manifestations-du-21-novembre-21-500-participants-a-paris-la-mobilisation/",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "autre",
+  "value": 21500,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris",
+  "quote": "21 500 manifestants sur le parcours République–Nation (24 000 le 14 novembre, 46 000 le 7 novembre) ; 45 000 selon l'intersyndicale jeunesse.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère pour le sixième samedi d'affilée",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Entrevue",
+    "title": "Manifestations du 21 novembre : 21 500 participants à Paris, la mobilisation continue de reculer",
+    "url": "https://entrevue.fr/societe/manifestations-du-21-novembre-21-500-participants-a-paris-la-mobilisation/",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestations du 21 novembre : « Nous n'avons obtenu que des miettes », les manifestants moins nombreux mais toujours en colère",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestations-du-21-novembre-nous-n-avons-obtenu-que-des-miettes-les-manifestants-moins-nombreux-mais-toujours-en-colere-3453750.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 33,
+  "scope": "ville",
+  "city": "Lille",
+  "authority": "Préfecture du Nord",
+  "quote": "33 personnes interpellées à Lille, « deux policiers légèrement blessés », 400 à 500 personnes « hostiles » en tête du cortège de 5 000 manifestants.",
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "« Un ensemble de ras-le-bol » : la manifestation du 21 novembre à Lille contre la vie chère rassemble 5 000 personnes selon les autorités",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/manifestation-du-21-novembre-a-lille-horaire-parcours-tout-ce-qu-il-faut-savoir-pour-ce-sixieme-samedi-de-mobilisation-3453639.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "blesses_forces_ordre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Lille",
+  "authority": "Préfecture du Nord",
+  "quote": "Deux policiers « légèrement blessés » à Lille le 21 novembre.",
+  "sources": [
+   {
+    "outlet": "France 3 Hauts-de-France",
+    "title": "« Un ensemble de ras-le-bol » : la manifestation du 21 novembre à Lille contre la vie chère rassemble 5 000 personnes selon les autorités",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/manifestation-du-21-novembre-a-lille-horaire-parcours-tout-ce-qu-il-faut-savoir-pour-ce-sixieme-samedi-de-mobilisation-3453639.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 17,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde (communiqué)",
+  "quote": "« 17 personnes ont été interpellées » pour port de mortiers, fumigènes et artifices, détention de couteaux (deux cas), matériel interdit par l'arrêté préfectoral et violences sur personnes dépositaires de l'autorité publique ; « 9 blessés parmi les forces de l'ordre » ; la préfète « condamne avec la plus grande fermeté ces violences et ces dégradations ».",
+  "sources": [
+   {
+    "outlet": "Préfecture de la Gironde",
+    "title": "Manifestation intersyndicale du 21 novembre à Bordeaux (communiqué de presse)",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Novembre-2026/Manifestation-intersyndicale-du-21-novembre-a-Bordeaux",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "blesses_forces_ordre",
+  "value": 9,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Préfecture de la Gironde / ministère de l'Intérieur",
+  "quote": "Bilan provisoire de « 9 blessés parmi les forces de l'ordre » à Bordeaux (brûlures aux jambes, acouphènes) après les heurts de la Victoire et des Capucins.",
+  "sources": [
+   {
+    "outlet": "Préfecture de la Gironde",
+    "title": "Manifestation intersyndicale du 21 novembre à Bordeaux (communiqué de presse)",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Novembre-2026/Manifestation-intersyndicale-du-21-novembre-a-Bordeaux",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Le JDD",
+    "title": "Manifestations du samedi 21 novembre : participants, interpellations, incidents… Le bilan des autorités",
+    "url": "https://www.lejdd.fr/Societe/manifestations-du-samedi-21-novembre-participants-interpellations-incidents-le-bilan-des-autorites-189360",
+    "date": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "deferrements",
+  "value": 9,
+  "scope": "ville",
+  "city": "Bordeaux",
+  "authority": "Parquet de Bordeaux (via Sud Ouest, 23 novembre)",
+  "quote": "Sur les 17 interpellés placés en garde à vue, neuf déférés au parquet, deux ordonnances pénales, deux compositions pénales, deux convocations par officier de police judiciaire et un classement sans suite.",
+  "sources": [
+   {
+    "outlet": "Sud Ouest",
+    "title": "Manifestation du 21 novembre à Bordeaux : neuf individus déférés au parquet",
+    "url": "https://www.sudouest.fr/gironde/bordeaux/manifestation-du-21-novembre-a-bordeaux-neuf-individus-deferes-au-parquet-31629463.php",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 20,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne (bilan de 18 h 15)",
+  "quote": "20 interpellations, « quelques feux de poubelles », sept blessés légers parmi les participants à un attroupement et six policiers blessés (dont un au visage) ; 3 300 manifestants dans des cortèges non déclarés ; « des tentatives de barricades ont été empêchées ».",
+  "sources": [
+   {
+    "outlet": "ICI Occitanie",
+    "title": "Mobilisation du 21 novembre à Toulouse contre la vie chère : 3 300 manifestants ont marché, certains dans l'hypercentre",
+    "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/mobilisation-du-21-novembre-a-toulouse-contre-la-vie-chere-3-300-manifestants-ont-marche-certains-dans-l-hypercentre-4164131",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "EN IMAGES. Mobilisation contre la vie chère du 21 novembre : un cortège repoussé par les forces de l'ordre à Toulouse, des incidents à proximité du Capitole",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/en-images-mobilisation-contre-la-vie-chere-du-21-novembre-un-cortege-repousse-par-les-forces-de-l-ordre-a-toulouse-des-incidents-a-proximite-du-capitole-3453690.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "blesses_forces_ordre",
+  "value": 6,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "Six policiers blessés à Toulouse le 21 novembre, dont un à la mâchoire et un au doigt lors d'une interpellation.",
+  "sources": [
+   {
+    "outlet": "ICI Occitanie",
+    "title": "Mobilisation du 21 novembre à Toulouse contre la vie chère : 3 300 manifestants ont marché, certains dans l'hypercentre",
+    "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/mobilisation-du-21-novembre-a-toulouse-contre-la-vie-chere-3-300-manifestants-ont-marche-certains-dans-l-hypercentre-4164131",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "EN IMAGES. Mobilisation contre la vie chère du 21 novembre : un cortège repoussé par les forces de l'ordre à Toulouse, des incidents à proximité du Capitole",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/en-images-mobilisation-contre-la-vie-chere-du-21-novembre-un-cortege-repousse-par-les-forces-de-l-ordre-a-toulouse-des-incidents-a-proximite-du-capitole-3453690.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "blesses_manifestants",
+  "value": 7,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Préfecture de la Haute-Garonne",
+  "quote": "« Sept blessés légers » parmi les participants à un attroupement ; La Dépêche rapporte en outre une femme de 30 ans blessée à la tête par un tir de LBD.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "EN IMAGES. Mobilisation contre la vie chère du 21 novembre : un cortège repoussé par les forces de l'ordre à Toulouse, des incidents à proximité du Capitole",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/en-images-mobilisation-contre-la-vie-chere-du-21-novembre-un-cortege-repousse-par-les-forces-de-l-ordre-a-toulouse-des-incidents-a-proximite-du-capitole-3453690.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "La Dépêche du Midi",
+    "title": "Manifestation du 21 novembre à Toulouse : une colère intacte et un centre-ville noyé sous les gaz lacrymogènes",
+    "url": "https://www.ladepeche.fr/2026/11/21/manifestation-du-21-novembre-a-toulouse-une-colere-intacte-et-un-centre-ville-noye-sous-les-gaz-lacrymogenes-13664715.php",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 22,
+  "scope": "ville",
+  "city": "Rouen",
+  "authority": "Préfecture de la Seine-Maritime",
+  "quote": "22 interpellations, dont deux mineurs, après des rassemblements non déclarés d'environ 450 personnes interdits en centre-ville, dispersés au gaz lacrymogène.",
+  "sources": [
+   {
+    "outlet": "ICI Normandie",
+    "title": "Mobilisation du 21 novembre : plusieurs centaines de manifestants à Rouen et au Havre, 22 interpellations",
+    "url": "https://www.ici.fr/normandie/seine-maritime-76/le-havre/mobilisation-du-21-novembre-plusieurs-centaines-de-manifestants-a-rouen-et-au-havre-22-interpellations-8074667",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 16,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Préfecture de la Loire-Atlantique / parquet de Nantes",
+  "quote": "16 interpellations à Nantes (attroupement, outrages, dégradations) pour près de 5 000 manifestants ; le parquet annonce le 22 novembre que trois personnes seront jugées et quatorze interdites de paraître en centre-ville pendant six mois.",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestations du samedi 21 novembre : environ 5 000 participants à Nantes, 16 interpellations",
+    "url": "https://www.ouest-france.fr/societe/manifestation/manifestations-du-samedi-21-novembre-environ-5-000-participants-a-nantes-16-interpellations-d2f39e52-e5d3-11f1-afa7-9a0bb82a33d1",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Observatoire des violences",
+    "title": "Bilan du 21 novembre : la violence d'extrême gauche persiste",
+    "url": "https://www.observatoire-violences.fr/articles/bilan-du-21-novembre-la-violence-dextreme-gauche-persiste",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestation du 21 novembre à Nantes : 14 interpellés interdits de paraître en centre-ville ces six prochains mois",
+    "url": "https://www.ouest-france.fr/societe/faits-divers/manifestation-du-21-novembre-a-nantes-14-interpelles-interdits-de-paraitre-en-centre-ville-ces-six-prochains-mois-a0334270-e681-11f1-afa7-9a0bb82a33d1",
+    "date": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-22",
+  "metric": "interdictions_de_manifester",
+  "value": 14,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Parquet de Nantes (via Ouest-France)",
+  "quote": "Quatorze interpellés de la manifestation du 21 novembre interdits de paraître en centre-ville pendant six mois ; trois personnes seront jugées.",
+  "sources": [
+   {
+    "outlet": "Ouest-France",
+    "title": "Manifestation du 21 novembre à Nantes : 14 interpellés interdits de paraître en centre-ville ces six prochains mois",
+    "url": "https://www.ouest-france.fr/societe/faits-divers/manifestation-du-21-novembre-a-nantes-14-interpelles-interdits-de-paraitre-en-centre-ville-ces-six-prochains-mois-a0334270-e681-11f1-afa7-9a0bb82a33d1",
+    "date": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 15,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône (8 à 18 h) / Lyon Mag (15 à 21 h)",
+  "quote": "Le préfet Étienne Guyot fait état de huit interpellations à 18 h, les forces de l'ordre ayant « réussi à disperser de nombreux groupes hostiles » sans « violence contre les personnes » ; Lyon Mag porte le bilan à 15 interpellations à 21 h 04 ; 4 000 manifestants.",
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Lyon : jusqu'à 4 000 manifestants ce samedi, la Presqu'île préservée",
+    "url": "https://www.lyonmag.com/article/155069/lyon-jusqu-a-4000-manifestants-ce-samedi-la-presqu-ile-preservee",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère pour le sixième samedi d'affilée",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 13,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "13 interpellations (outrages, violences sur personne dépositaire de l'autorité publique, jets de projectiles, feux de poubelles, attroupement) et un fonctionnaire blessé après les heurts de fin de journée de groupes de 200 à 300 personnes dans le centre interdit ; saisie de masques et de neuf pétards ; 3 500 manifestants (bilan provisoire de deux interpellations à 18 h).",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "Mobilisation du 21 novembre : un cortège de 3 500 personnes contre la vie chère a bravé l'interdiction de manifester",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/mobilisation-du-21-novembre-un-cortege-de-3500-personnes-contre-la-vie-chere-a-brave-l-interdiction-de-manifester-3453864.html",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "Actu.fr Montpellier",
+    "title": "Bilan provisoire de la manifestation : deux interpellations à Montpellier",
+    "url": "https://actu.fr/occitanie/montpellier_34172/bilan-provisoire-de-la-manifestation-deux-interpellations-a-montpellier_65085827.html",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 10,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfecture de police des Bouches-du-Rhône (bilan provisoire)",
+  "quote": "Dix interpellations, une cinquantaine de feux de poubelle, deux véhicules incendiés volontairement et sept brûlés par propagation, 15 vitrines dégradées « sans pillage » ; 4 600 manifestants, « la situation est désormais sous contrôle » (22 h 30).",
+  "sources": [
+   {
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur",
+    "title": "Dix personnes interpellées, deux véhicules volontairement incendiés et une cinquantaine de poubelles brûlées en marge de la mobilisation du 21 novembre à Marseille",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/dix-personnes-interpellees-deux-vehicules-volontairement-incendiees-et-une-cinquantaine-de-poubelles-brulees-en-marge-de-la-mobilisation-du-21-novembre-a-marseille-3453975.html",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "Maritima",
+    "title": "Manifestation contre « la vie chère » à Marseille : 4 600 participants et des tensions dans les 4e et 5e arrondissements ce samedi",
+    "url": "https://maritima.fr/actualites/social/marseille/16961/manifestation-contre-la-vie-chere-a-marseille-4-600-participants-et-des-tensions-dans-les-4e-et-5e-arrondissements-ce-samedi",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "gardes_a_vue",
+  "value": 7,
+  "scope": "ville",
+  "city": "Tours",
+  "authority": "Préfecture d'Indre-et-Loire",
+  "quote": "Sept personnes en garde à vue en fin de journée après les tentatives de blocage de l'A10 par « environ 200 personnes masquées et très hostiles », les vitres brisées d'un McDonald's et des dégradations d'horodateurs, d'abribus et du centre des impôts ; 1 800 manifestants.",
+  "sources": [
+   {
+    "outlet": "ICI Touraine",
+    "title": "Tentatives de bloquer l'A10, vitres cassées : sept personnes en garde à vue après l'Acte VI de la mobilisation à Tours",
+    "url": "https://www.ici.fr/centre-val-de-loire/indre-et-loire-37/tours/blocage-de-l-a10-vitres-cassees-sept-personnes-interpellees-lors-de-l-acte-vi-de-la-mobilisation-a-tours-7493602",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 6,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Préfecture du Doubs",
+  "quote": "Six personnes interpellées rue de Belfort après des tirs de projectiles et de gaz lacrymogène ; près de 1 600 manifestants dans une manifestation non déclarée, 300 empêchés de rejoindre le rond-point de Chalezeule.",
+  "sources": [
+   {
+    "outlet": "ICI Besançon",
+    "title": "EN IMAGES. L'acte VI de la mobilisation contre la vie chère à Besançon rassemble près de 2 000 manifestants",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/doubs-25/besancon/en-images-l-acte-vi-de-la-mobilisation-contre-la-vie-chere-a-besancon-rassemble-pres-de-2000-manifestants-5200588",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "macommune.info",
+    "title": "Manifestation du 21 novembre 2026 : un rassemblement marqué par des tensions et six interpellations à Besançon",
+    "url": "https://www.macommune.info/manifestation-du-21-novembre-2026-un-rassemblement-marque-par-des-tensions-et-six-interpellations-a-besancon/",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 4,
+  "scope": "ville",
+  "city": "Chambéry",
+  "authority": "Préfecture de la Savoie",
+  "quote": "Quatre interpellations à Chambéry, où plus de 400 manifestants ont défilé malgré l'interdiction et des tirs de gaz lacrymogènes.",
+  "sources": [
+   {
+    "outlet": "ICI Pays de Savoie",
+    "title": "Mobilisation du 21 novembre : des manifestations en Savoie et Haute-Savoie contre la vie chère et pour la jeunesse",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/savoie-73/mobilisation-du-21-novembre-des-manifestations-en-savoie-et-haute-savoie-contre-la-vie-chere-et-pour-la-jeunesse-7357257",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 3,
+  "scope": "ville",
+  "city": "Nancy",
+  "authority": "Préfecture de Meurthe-et-Moselle",
+  "quote": "Trois interpellations pour « outrage et rébellion et jet de projectiles sur les forces de l'ordre », 38 verbalisations pour participation à une manifestation interdite, deux interventions du SDIS 54, aucun blessé ; près de 1 300 manifestants.",
+  "sources": [
+   {
+    "outlet": "ICI Lorraine",
+    "title": "Plus de 1 300 manifestants dans les rues de Nancy malgré l'interdiction préfectorale",
+    "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/plus-de-1-300-manifestants-dans-les-rues-de-nancy-malgre-l-interdiction-prefectorale-3929977",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 3,
+  "scope": "ville",
+  "city": "Caen",
+  "authority": "Préfecture du Calvados",
+  "quote": "Trois personnes interpellées pour détention et jets de projectiles après un affrontement avenue Albert-Sorel ; entre 1 000 et 2 000 manifestants selon la préfecture et la mairie.",
+  "sources": [
+   {
+    "outlet": "ICI Normandie",
+    "title": "Mobilisation du 21 novembre : baisse de la participation à Caen, entre 1 000 et 2 000 manifestants",
+    "url": "https://www.ici.fr/normandie/calvados-14/caen/mobilisation-du-21-novembre-baisse-de-la-participation-a-caen-entre-1-000-et-2-000-manifestants-1770028",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 2,
+  "scope": "ville",
+  "city": "Strasbourg",
+  "authority": "Préfecture du Bas-Rhin",
+  "quote": "Au moins deux personnes interpellées pour participation à un attroupement, dégradations et jets de mortiers lors des affrontements de l'Esplanade ; un policier blessé par un jet de pavé ; 2 400 manifestants selon les forces de l'ordre.",
+  "sources": [
+   {
+    "outlet": "DNA",
+    "title": "Manifestation du 21 novembre : un policier blessé et deux personnes interpellées après des affrontements à Strasbourg",
+    "url": "https://www.dna.fr/education/2026/11/21/quelques-centaines-de-manifestants-pour-l-acte-vi-de-la-contestation",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "blesses_forces_ordre",
+  "value": 1,
+  "scope": "ville",
+  "city": "Brest",
+  "authority": "Sous-préfet de Brest, Laurent Pidoux / préfecture du Finistère",
+  "quote": "Un gendarme blessé à l'œil ; neuf commerces touchés par des jets de peinture et cinq vitres détériorées ; une interpellation et plusieurs procès-verbaux ; jusqu'à 1 200 manifestants.",
+  "sources": [
+   {
+    "outlet": "ICI Breizh Izel",
+    "title": "Mobilisation du 21 novembre : environ 1 400 manifestants comptabilisés dans le Finistère",
+    "url": "https://www.ici.fr/bretagne/finistere-29/mobilisation-du-21-novembre-environ-1-400-manifestants-comptabilises-dans-le-finistere-9240268",
+    "date": "2026-11-22"
+   },
+   {
+    "outlet": "Brest Infos",
+    "title": "Brest : environ 1 500 personnes mobilisées contre la vie chère, une participation en baisse malgré une détermination intacte",
+    "url": "https://brest-infos.fr/brest-environ-1-500-personnes-mobilisees-contre-la-vie-chere-une-participation-en-baisse-malgre-une-determination-intacte/",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "metric": "interpellations",
+  "value": 0,
+  "scope": "ville",
+  "city": "Dijon",
+  "authority": "Direction départementale de la police nationale de la Côte-d'Or",
+  "quote": "Vers 17 h 30, « pas d'interpellation » et « pas eu d'infraction constatée » malgré de nombreux usages de gaz lacrymogènes ; 600 manifestants selon la préfecture, niveau le plus bas depuis le 17 octobre.",
+  "sources": [
+   {
+    "outlet": "Le Bien Public",
+    "title": "Manif contre la vie chère : « À la fin du mois, je ne sais pas comment me nourrir »",
+    "url": "https://www.bienpublic.com/social/2026/11/21/manif-contre-la-vie-chere-a-la-fin-du-mois-je-ne-sais-pas-comment-me-nourrir",
+    "date": "2026-11-21"
+   },
+   {
+    "outlet": "ICI Bourgogne",
+    "title": "Mobilisation contre la vie chère : environ 200 manifestants au départ de la place de la République à Dijon",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/dijon/mobilisation-contre-la-vie-chere-environ-200-manifestants-au-depart-de-la-place-de-la-republique-a-dijon-8827760",
+    "date": "2026-11-21"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "blesses_eleves",
+  "value": 98,
+  "scope": "jour",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (LCI)",
+  "quote": "« Il y a eu 98 élèves qui ont été blessés la semaine dernière », dans le cadre de violences « territorialement très limitées, mais qui sont très fortes malheureusement » (tirs de mortiers, « mouvements de foule, de panique ») ; « on n'a jamais eu autant d'élèves blessés, alors qu'il n'y a jamais eu aussi peu de lycées bloqués ».",
+  "sources": [
+   {
+    "outlet": "L'Est Républicain (AFP)",
+    "title": "Lycées bloqués : « 98 élèves blessés » la semaine dernière, « 280 professionnels » depuis le début",
+    "url": "https://www.estrepublicain.fr/social/2026/11/23/mobilisation-lyceenne-98-eleves-blesses-la-semaine-derniere-280-professionnels-depuis-le-debut-du-mouvement",
+    "date": "2026-11-23"
+   },
+   {
+    "outlet": "TF1 Info (LCI)",
+    "title": "Lyon : des tirs de mortiers d'artifice sèment la panique dans un lycée, trois personnes blessées",
+    "url": "https://www.tf1info.fr/justice-faits-divers/video-lyon-des-tirs-de-mortiers-d-artifice-sement-la-panique-dans-un-lycee-trois-personnes-blessees-2477799.html",
+    "date": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "blesses_personnels",
+  "value": 280,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (LCI)",
+  "quote": "« Une trentaine de professionnels » blessés la semaine précédente et « ce sont au total 280 professionnels qui ont été blessés depuis le début du mouvement ».",
+  "sources": [
+   {
+    "outlet": "L'Est Républicain (AFP)",
+    "title": "Lycées bloqués : « 98 élèves blessés » la semaine dernière, « 280 professionnels » depuis le début",
+    "url": "https://www.estrepublicain.fr/social/2026/11/23/mobilisation-lyceenne-98-eleves-blesses-la-semaine-derniere-280-professionnels-depuis-le-debut-du-mouvement",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "autre",
+  "value": 40,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Éducation nationale (cité par ICI Hérault) / USL",
+  "quote": "Le ministère compte « une quarantaine » de lycées bloqués, le nombre le plus faible depuis le début du mouvement selon le ministre, alors que l'Union syndicale lycéenne évoque « un millier de lycées encore bloqués la semaine dernière » et « une forme de regain du mouvement ».",
+  "sources": [
+   {
+    "outlet": "ICI Hérault",
+    "title": "À Montpellier, après deux mois sans cours, quelles conséquences pour la scolarité des lycéens ?",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/a-montpellier-apres-deux-mois-sans-cours-quelles-consequences-pour-la-scolarite-des-lyceens-5404045",
+    "date": "2026-11-23"
+   },
+   {
+    "outlet": "L'Est Républicain (AFP)",
+    "title": "Lycées bloqués : « 98 élèves blessés » la semaine dernière, « 280 professionnels » depuis le début",
+    "url": "https://www.estrepublicain.fr/social/2026/11/23/mobilisation-lyceenne-98-eleves-blesses-la-semaine-derniere-280-professionnels-depuis-le-debut-du-mouvement",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "autre",
+  "value": 15,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (LCI)",
+  "quote": "« Une quinzaine de procédures disciplinaires » engagées au 1er novembre « contre des professeurs ou des personnels de l'Éducation nationale », « évidemment infinitésimal par rapport à la masse des personnels ».",
+  "sources": [
+   {
+    "outlet": "L'Est Républicain (AFP)",
+    "title": "Lycées bloqués : « 98 élèves blessés » la semaine dernière, « 280 professionnels » depuis le début",
+    "url": "https://www.estrepublicain.fr/social/2026/11/23/mobilisation-lyceenne-98-eleves-blesses-la-semaine-derniere-280-professionnels-depuis-le-debut-du-mouvement",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "interpellations",
+  "value": 13,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Université Paul-Valéry / préfecture de l'Hérault",
+  "quote": "Treize jeunes interpellés après des tentatives d'intrusion tôt le matin lors de la réouverture du campus Paul-Valéry sous protection policière ; deux campus annexes restent bloqués.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "« Le blocage est illégal » : après six semaines de blocus et cinq jours de fermeture administrative, l'université Paul-Valéry de Montpellier rouvre ses portes aux étudiants",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/le-blocage-est-illegal-apres-six-semaines-de-blocus-et-cinq-jours-de-fermeture-administrative-l-universite-paul-valery-de-montpellier-rouvre-ses-portes-aux-etudiants-3454206.html",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "blesses_eleves",
+  "value": 3,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "TF1 Info / LCI (lycée La Martinière-Monplaisir)",
+  "quote": "Trois personnes blessées et une quarantaine de lycéens pris en charge par l'infirmerie après des tirs de mortiers dans le hall et les couloirs du lycée La Martinière-Monplaisir ; deux individus arrêtés, « ils seraient élèves au sein du lycée ».",
+  "sources": [
+   {
+    "outlet": "TF1 Info (LCI)",
+    "title": "Lyon : des tirs de mortiers d'artifice sèment la panique dans un lycée, trois personnes blessées",
+    "url": "https://www.tf1info.fr/justice-faits-divers/video-lyon-des-tirs-de-mortiers-d-artifice-sement-la-panique-dans-un-lycee-trois-personnes-blessees-2477799.html",
+    "date": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "interpellations",
+  "value": 10,
+  "scope": "ville",
+  "city": "Mamoudzou",
+  "authority": "Police nationale de Mayotte",
+  "quote": "« Dix interpellations » ces dernières semaines de personnes soupçonnées d'avoir participé à des barrages, des jets de projectiles et des affrontements entre bandes, déférées devant le parquet ; déferrements en hausse de 67 % depuis le début de l'année ; un sixième escadron de gendarmerie et 20 policiers réunionnais annoncés en renfort.",
+  "sources": [
+   {
+    "outlet": "Outre-mer La 1ère (Mayotte)",
+    "title": "Dix interpellations par la police ces dernières semaines pour des barrages et des affrontements entre bandes",
+    "url": "https://la1ere.franceinfo.fr/mayotte/dix-interpellations-par-la-police-ces-dernieres-semaines-pour-des-barrages-et-des-affrontements-entre-bande-1760912.html",
+    "date": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "autre",
+  "value": 17,
+  "scope": "ville",
+  "city": "Seine-et-Marne",
+  "authority": "James Chéron, vice-président de la Région Île-de-France chargé des lycées (mesinfos)",
+  "quote": "En Seine-et-Marne, 55 lycées publics dont 25 concernés par des mouvements lycéens et 17 touchés par des dégradations ; au moins dix millions d'euros pour réparer les dégâts en Île-de-France ; « une vingtaine » d'établissements franciliens perturbés, « dont six avec des tirs de mortier à l'intérieur et des blessés ».",
+  "sources": [
+   {
+    "outlet": "mesinfos",
+    "title": "James Chéron : « Dix millions d'euros pour réparer les dégâts »",
+    "url": "https://mesinfos.fr/ile-de-france/james-cheron-dix-millions-d-euros-pour-reparer-les-degats-343683.html",
+    "date": "2026-11-23"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "autre",
+  "value": 50000,
+  "scope": "ville",
+  "city": "Lille",
+  "authority": "Université de Lille (lettre du président Régis Bordet)",
+  "quote": "« Environ 50 000 étudiants » de l'université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre, la plupart des campus restant fermés jusqu'au 18 décembre après plusieurs semaines de blocages.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Environ 50 000 étudiants de l'université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html",
+    "date": "2026-11-23"
+   },
+   {
+    "outlet": "HorizonActu",
+    "title": "Université de Lille : plusieurs campus resteront fermés jusqu'à la fin de l'année 2026, les cours à distance maintenus",
+    "url": "https://www.horizonactu.fr/actualite-50582-universite-de-lille-plusieurs-campus-resteront-fermes-jusqu-a-la-fin-de-l-annee-2026-les-cours-a-distance-maintenus",
+    "date": "2026-11-22"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "metric": "blesses_forces_ordre",
+  "value": 300,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Directeur général de la gendarmerie nationale (RTL)",
+  "quote": "« Plus de 300 gendarmes blessés depuis la mi-septembre », dont « 50 assez sérieusement » ayant nécessité une hospitalisation, « un niveau de violence assez inédit » ; l'IGGN est saisie de sept enquêtes.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale",
+    "url": "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "CNEWS",
+    "title": "Manifestations à répétition : plus de 300 gendarmes blessés depuis mi-septembre, selon le patron de la gendarmerie",
+    "url": "https://cnews.fr/faits-divers/2026-11-24/manifestations-repetition-plus-de-300-gendarmes-blesses-depuis-mi-septembre",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "Le Parisien (AFP)",
+    "title": "« Agir avec la plus grande fermeté » : Laurent Nuñez appelle les préfets à la vigilance avant une nouvelle mobilisation",
+    "url": "https://www.leparisien.fr/societe/agir-avec-la-plus-grande-fermete-laurent-nunez-appelle-les-prefets-a-la-vigilance-avant-une-nouvelle-mobilisation-20-11-2026-2U3DW6B65NFZLKWXUJQLVHRX7Q.php",
+    "date": "2026-11-20"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "metric": "enquetes_igpn_iggn",
+  "value": 7,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Directeur général de la gendarmerie nationale (RTL)",
+  "quote": "Sept enquêtes confiées à l'Inspection générale de la gendarmerie nationale depuis le début du mouvement.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale",
+    "url": "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "CNEWS",
+    "title": "Manifestations à répétition : plus de 300 gendarmes blessés depuis mi-septembre, selon le patron de la gendarmerie",
+    "url": "https://cnews.fr/faits-divers/2026-11-24/manifestations-repetition-plus-de-300-gendarmes-blesses-depuis-mi-septembre",
+    "date": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "metric": "autre",
+  "value": 141,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Inspection générale de l'éducation, du sport et de la recherche (rapport n° 26-27 218A remis au ministre)",
+  "quote": "« Mission flash conduite au cours de la semaine du 9 novembre 2026 » ayant « donné lieu à 19 notes académiques » ; synthèse du « reflet de l'analyse du mouvement portée par les proviseurs des 141 lycées identifiés par les académies » comme bloqués et durablement perturbés, soit « cinq à six semaines de cours perturbés » ; sept recommandations.",
+  "sources": [
+   {
+    "outlet": "Ministère de l'Éducation nationale (IGÉSR)",
+    "title": "Synthèse nationale des notes académiques des correspondants territoriaux de l'inspection générale (CTIG) relatives aux lycées bloqués et durablement perturbés",
+    "url": "https://www.education.gouv.fr/igesr/synthese-nationale-des-notes-academiques-des-correspondants-territoriaux-de-l-inspection-generale-506871",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "IGÉSR (rapport n° 26-27 218A)",
+    "title": "Synthèse nationale des notes académiques des CTIG relatives aux lycées bloqués et durablement perturbés (PDF)",
+    "url": "https://www.education.gouv.fr/sites/default/files/document/synth-se-nationale-des-notes-acad-miques-des-ctig-relatives-aux-lyc-es-bloqu-s-et-durablement-perturb-s-523491.pdf",
+    "date": "2026-11-24"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Mouvement lycéen : bons élèves, milieux privilégiés… L'Inspection générale de l'Éducation nationale esquisse un profil des « meneurs »",
+    "url": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/mouvement-lyceen-bons-eleves-milieux-privilegies-l-inspection-generale-de-l-education-nationale-esquisse-un-profil-des-meneurs_8295899.html",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "metric": "autre",
+  "value": 200,
+  "scope": "ville",
+  "city": "Montpellier",
+  "authority": "Préfecture de l'Hérault",
+  "quote": "Groupes de bloqueurs « estimés entre 150 et 200 » sur le campus Paul-Valéry ; la préfecture « condamne avec la plus grande fermeté les actes de menace, d'intimidation et de violence » envers les personnels ; fermeture administrative jusqu'au 7 décembre.",
+  "sources": [
+   {
+    "outlet": "ICI Hérault",
+    "title": "Montpellier : l'université Paul-Valéry à nouveau fermée après des blocages",
+    "url": "https://www.ici.fr/occitanie/herault-34/montpellier/montpellier-l-universite-paul-valery-a-nouveau-fermee-apres-des-blocages-8519175",
+    "date": "2026-11-24"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "metric": "autre",
+  "value": 1000,
+  "scope": "ville",
+  "city": "Besançon",
+  "authority": "Université Marie-et-Louis-Pasteur (président Hugues Daussy)",
+  "quote": "Plus de 1 000 des 4 300 étudiants de l'UFR SLHS (61,5 % des votants, 43 % de participation) se sont prononcés pour la reprise des cours ; le président dénonce un « régime de la terreur » et des assemblées générales « tyranniques » ; fermeture administrative jusqu'au 1er décembre.",
+  "sources": [
+   {
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "title": "« C'est un régime de la terreur » : le président de l'université de Franche-Comté dénonce les méthodes des étudiants bloqueurs à Besançon",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/c-est-un-regime-de-la-terreur-le-president-de-l-universite-de-franche-comte-denonce-les-methodes-des-etudiants-bloqueurs-a-besancon-3455204.html",
+    "date": "2026-11-24"
+   }
+  ]
+ }
+]
