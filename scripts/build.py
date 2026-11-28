@@ -556,7 +556,10 @@ data = {'days': days, 'keydays': KEYDAYS, 'defaultDay': '2026-10-17', 'events': 
 json.dump(data, open(os.path.join(D, 'merged.json'), 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 topo = open(os.path.join(D, 'france.topo.json'), encoding='utf-8').read()
 tpl = open(os.path.join(S, 'app', 'template.html'), encoding='utf-8').read()
-out = tpl.replace('__TOPO__', topo).replace('__DATA__', json.dumps(data, ensure_ascii=False, separators=(',', ':'))).replace('__EMBED__', 'true' if (STANDALONE or PAGES) else 'false')
+page_data = {k: v for k, v in data.items() if k != 'stats'}  # official figures stay in merged.json (admin tool) but are no longer shown on the page
+out = tpl.replace('__TOPO__', topo).replace('__DATA__', json.dumps(page_data, ensure_ascii=False, separators=(',', ':'))).replace('__EMBED__', 'true' if (STANDALONE or PAGES) else 'false')
+if STANDALONE or PAGES:  # served as a file of its own: needs a document skeleton (the hosted artifact gets one when published)
+    out = '<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n' + out.replace('<div class="app">', '</head>\n<body>\n<div class="app">', 1) + '\n</body>\n</html>\n'
 if LOCAL:
     out = out.replace('https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js', 'file://' + os.path.join(S, 'app', 'vendor', 'd3.min.js'))
     out = out.replace('https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js', 'file://' + os.path.join(S, 'app', 'vendor', 'topojson-client.min.js'))  # vendored copies for offline checks (not committed)

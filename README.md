@@ -1,6 +1,6 @@
 # Carte de veille des manifestations — automne 2026
 
-Carte interactive, jour par jour, des mobilisations et des faits de violences policières recensés dans la presse en France (Hexagone et outre-mer), du blocage du lycée du Nord à Acoua (Mayotte, 31 août 2026) à l’acte IV du 7 novembre 2026.
+Carte interactive, jour par jour, des mobilisations et des faits de violences policières recensés dans la presse en France (Hexagone et outre-mer), depuis le blocage du lycée du Nord à Acoua (Mayotte, 31 août 2026).
 
 **Page en ligne :** https://bolaft.github.io/carte-veille-manifs/
 
@@ -12,8 +12,15 @@ Carte interactive, jour par jour, des mobilisations et des faits de violences po
 - **Extrême droite** : agressions de groupes militants et accusations de passivité ou de coordination policière, en distinguant l’établi de l’allégué.
 - **Propagande, fake news** : affirmations fausses ou trompeuses (responsables politiques, médias, images générées par IA, vidéos tronquées) et leur démenti.
 - **Déclarations** d’organisations internationales, d’autorités indépendantes et d’ONG (ONU, Conseil de l’Europe, Commission et Parlement européens, Défenseur des droits, CNCDH, Amnesty, HRW, RSF, LDH, barreaux, syndicats de magistrats), classées selon leur objet.
-- **Compteur** des bilans officiels (interpellations, gardes à vue, poursuites) à la date affichée. Le ministère de la Justice publie deux séries qui ne se recouvrent pas (bilan du mouvement lycéen arrêté au 13 octobre, puis bilan « depuis le 17 octobre ») et l’Intérieur ne publie plus de cumul après le 7 octobre : lorsque plusieurs bilans officiels sont additionnés, le chiffre est précédé de « ≥ ».
+- **Chiffres officiels** (interpellations, gardes à vue, poursuites…) : toujours recensés dans `data/stats_*.json` et gérés par l’outil d’administration, mais plus affichés sur la page.
 - **Médias** : vidéos de presse (YouTube, Dailymotion), photos libres de Wikimedia Commons (créditées), clips publiés sur r/France, r/quefaitlapolice et les subreddits de villes (lien vers la publication d’origine).
+
+## Explorer la carte
+
+- **Survoler une ville** affiche tout ce qui y est recensé ce jour-là : la manifestation et ses effectifs, le nombre de signalements par catégorie, les cinq premiers titres et le nombre de vidéos. Le chiffre à côté d’une ville indique combien de faits elle compte.
+- **Cliquer une ville** ouvre son fil par-dessus la carte, du côté opposé à la ville : une publication par fait, avec les vidéos et photos en tête (carrousel à faire défiler), le texte, les suites judiciaires et les sources. Dans la version autonome et sur la page publique, les vidéos se lancent sans le son quand elles apparaissent dans le fil. Les flèches passent d’une ville à l’autre, de la plus fournie à la moins fournie ; Échap ou un clic sur la carte ferme le fil. Le bouton « France entière », sous la date, ouvre les annonces et bilans nationaux.
+- **Le champ « Ouvrir le fil d’une ville »** ouvre directement le fil d’une commune ; si rien n’y est recensé ce jour-là, le fil propose les dates les plus proches.
+- **Les pastilles de catégorie** servent de légende et de filtres ; **« Depuis le 31 août »**, à côté de la frise, cumule toute la période. L’adresse de la page garde le jour et la ville ouverte (`#2026-11-21/Lyon%7C69`), pour partager un fil.
 
 ## Structure du dépôt
 
