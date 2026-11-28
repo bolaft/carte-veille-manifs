@@ -614,5 +614,45 @@
   "dept": "69",
   "manual": true,
   "src": "nominatim"
+ },
+ "Dinan|22": {
+  "lat": 48.454,
+  "lon": -2.0477,
+  "nom": "Dinan",
+  "dept": "22",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Dole|39": {
+  "lat": 47.0921,
+  "lon": 5.4925,
+  "nom": "Dole",
+  "dept": "39",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Hyères|83": {
+  "lat": 43.1203,
+  "lon": 6.1302,
+  "nom": "Hyères",
+  "dept": "83",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Saint-Martin-d'Hères|38": {
+  "lat": 45.1837,
+  "lon": 5.7545,
+  "nom": "Saint-Martin-d'Hères",
+  "dept": "38",
+  "manual": true,
+  "src": "nominatim"
+ },
+ "Villepinte|93": {
+  "lat": 48.955,
+  "lon": 2.5412,
+  "nom": "Villepinte",
+  "dept": "93",
+  "manual": true,
+  "src": "manual (centre-ville)"
  }
 }

@@ -243,96 +243,6 @@
  {
   "kind": "event",
   "date": "2026-11-26",
-  "city": "Metz",
-  "media": [
-   {
-    "type": "dailymotion",
-    "id": "xc04uvq",
-    "url": "https://www.dailymotion.com/video/xc04uvq",
-    "title": "À Metz, une centaine de policiers mobilisés pour réclamer une meilleure reconnaissance",
-    "outlet": "Moselle TV",
-    "caption": "Moselle TV : une centaine de policiers devant l'hôtel de police de Metz le jeudi 26 novembre, comme partout en France, pour de meilleures conditions de travail et la revalorisation de la prime de risque."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
-  "city": "Dijon",
-  "media": [
-   {
-    "type": "youtube",
-    "id": "4oTy8R0bGrc",
-    "url": "https://www.youtube.com/watch?v=4oTy8R0bGrc",
-    "title": "\"On en a marre\" : à Dijon, les policiers manifestent pour réclamer des augmentations",
-    "outlet": "France 3 Bourgogne-Franche-Comté",
-    "caption": "France 3 Bourgogne : des policiers rassemblés devant le commissariat de Dijon le 26 novembre pour réclamer une hausse de la prime de risque et une révision des petits salaires, certains fonctionnaires étant payés au SMIC."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
-  "city": "Angers",
-  "media": [
-   {
-    "type": "youtube",
-    "id": "3dlIV7B8k3E",
-    "url": "https://www.youtube.com/watch?v=3dlIV7B8k3E",
-    "title": "DES POLICIERS ÉPUISÉS ET EN COLÈRE",
-    "outlet": "Angers Télé",
-    "caption": "Angers Télé : une soixantaine de policiers « sur-mobilisés » rassemblés à midi devant le commissariat d'Angers le 26 novembre, comme à Cholet et Saumur, à l'appel de l'intersyndicale policière."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
-  "city": "Perpignan",
-  "media": [
-   {
-    "type": "youtube",
-    "id": "KgKq6mTzKqI",
-    "url": "https://www.youtube.com/watch?v=KgKq6mTzKqI",
-    "title": "Perpignan : Les policiers mobilisés devant le commissariat pour dénoncer leurs conditions de travail",
-    "outlet": "L'Indépendant",
-    "caption": "L'Indépendant : les policiers du commissariat de Perpignan rassemblés devant leurs locaux le 26 novembre pour plus de « reconnaissance » et de meilleures conditions de travail, dans un contexte de fortes mobilisations des forces de l'ordre."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
-  "city": "Le Mans",
-  "media": [
-   {
-    "type": "youtube",
-    "id": "itmA4fva0h4",
-    "url": "https://www.youtube.com/watch?v=itmA4fva0h4",
-    "title": "Cette fois c’est la police qui manifeste",
-    "outlet": "LMtv Sarthe",
-    "caption": "LMtv Sarthe : les policiers du Mans mobilisés en intersyndicale le 26 novembre pour une prime de risque portée à 35 %, inchangée depuis 2019, et contre des plannings surchargés par les manifestations."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
-  "city": "Orléans",
-  "media": [
-   {
-    "type": "youtube",
-    "id": "xnMPqK3OJL0",
-    "url": "https://www.youtube.com/watch?v=xnMPqK3OJL0",
-    "title": "Ils réclament une hausse de leur prime de risque",
-    "outlet": "La République du Centre",
-    "caption": "La République du Centre : une trentaine de policiers en colère manifestent le 26 novembre à midi à Orléans pour une hausse de 35 % de leur prime de risque."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-26",
   "city": "Tours",
   "media": [
    {
@@ -387,29 +297,6 @@
     "title": "La mère d'un lycéen blessé par un tir de mortier d’artifice témoigne",
     "outlet": "BFMTV",
     "caption": "BFMTV (1 min 14) : deux lycéens ont été blessés le 26 novembre par des tirs de mortiers d'artifice dans le hall du lycée Léon-Blum de Créteil, scène de chaos également rapportée à Villepinte où la mère d'un élève touché témoigne."
-   }
-  ]
- },
- {
-  "kind": "event",
-  "date": "2026-11-27",
-  "city": "Toulouse",
-  "media": [
-   {
-    "type": "dailymotion",
-    "id": "xc0h56y",
-    "url": "https://www.dailymotion.com/video/xc0h56y",
-    "title": "\"Trop, c'est trop\": le maire de Toulouse, Jean-Luc Moudenc, menace de revoir les financements de l'université Jean-Jaurès face aux dégradations causées par l'occupation des bâtiments",
-    "outlet": "BFMTV",
-    "caption": "BFMTV (27 novembre, 2 min 55) : Jean-Luc Moudenc, maire de Toulouse, chiffre à près de 500 000 euros les dégradations liées à l'occupation de l'université Jean-Jaurès, fermée administrativement jusqu'au 29 novembre, et menace d'en revoir les financements."
-   },
-   {
-    "type": "youtube",
-    "id": "KkYgzz29enE",
-    "url": "https://www.youtube.com/watch?v=KkYgzz29enE",
-    "title": "Noa Gottling : «Depuis deux mois, le campus est complètement bloqué»",
-    "outlet": "CNEWS",
-    "caption": "CNEWS (28 novembre) : Noa Gottling, responsable de l'UNI Toulouse, déplore un campus du Mirail « complètement bloqué » depuis deux mois."
    }
   ]
  },

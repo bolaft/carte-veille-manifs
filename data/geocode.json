@@ -1886,5 +1886,38 @@
 "Blagnac|31": null,
 "Saint-Philbert-de-Grand-Lieu|44": null,
 "Breil-sur-Roya|06": null,
-"Bron|69": null
+"Bron|69": null,
+"Villepinte|93": null,
+"Hyères|83": null,
+"Yffiniac|22": {
+"lat": 48.4692,
+"lon": -2.6862,
+"nom": "Yffiniac",
+"dept": "22",
+"pop": 5074
+},
+"Dinan|22": null,
+"Biarritz|64": {
+"lat": 43.4709,
+"lon": -1.5557,
+"nom": "Biarritz",
+"dept": "64",
+"pop": 26206
+},
+"Dole|39": null,
+"Arles|13": {
+"lat": 43.5441,
+"lon": 4.6513,
+"nom": "Arles",
+"dept": "13",
+"pop": 51811
+},
+"Talence|33": {
+"lat": 44.8061,
+"lon": -0.5918,
+"nom": "Talence",
+"dept": "33",
+"pop": 46338
+},
+"Saint-Martin-d'Hères|38": null
 }

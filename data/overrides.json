@@ -1446,5 +1446,87 @@
   },
   "drop": true,
   "note": "reprise des chiffres de l’audition du 17 novembre (gardes à vue), déjà sur carte"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-26",
+   "city": "Aix-en-Provence",
+   "title_prefix": "Aix-en-Provence : deux jeunes de 17 ans déférés"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-26",
+   "city": "Avignon",
+   "title_prefix": "Avignon : rassemblements interdits"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-26",
+   "city": "Toulouse",
+   "title_prefix": "Toulouse : l'université Jean-Jaurès toujours fermée"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-27",
+   "city": "Toulouse",
+   "title_prefix": "Toulouse : l'université Jean-Jaurès évalue"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-27",
+   "city": "Grenoble",
+   "title_prefix": "Grenoble : rassemblements interdits"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "event",
+  "match": {
+   "date": "2026-11-27",
+   "city": "Nantes",
+   "title_prefix": "Nantes : quatre syndicats déposent 23 plaintes"
+  },
+  "drop": true,
+  "note": "mesure administrative ou judiciaire, pas une action collective"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-28",
+   "city": "Lyon",
+   "title_prefix": "Lyon, 28 novembre : la préfecture du Rhône interdit"
+  },
+  "drop": true,
+  "note": "doublon de la carte « Lyon, septième samedi d’interdiction »"
+ },
+ {
+  "kind": "incident",
+  "match": {
+   "date": "2026-11-27",
+   "city": "Bobigny",
+   "title_prefix": "Bobigny : une cinquantaine de lycéens"
+  },
+  "set": {
+   "category": "garde-à-vue"
+  },
+  "note": "rassemblement contre la garde à vue de neuf heures d’un lycéen de 17 ans"
  }
 ]

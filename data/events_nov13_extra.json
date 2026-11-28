@@ -216,5 +216,81 @@
     "date": "2026-11-17"
    }
   ]
+ },
+ {
+  "date": "2026-11-26",
+  "city": "Tours",
+  "dept": "37",
+  "type": "blocage",
+  "title": "Journée de mobilisation du 26 novembre à Tours : lycées et facultés bloqués, plusieurs centaines d'étudiants mobilisés",
+  "summary": "Lors de la journée de grève de l'enseignement supérieur du 26 novembre, plusieurs lycées et facultés de Tours sont bloqués et plusieurs centaines d'étudiants se mobilisent, selon Val de Loire TV.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Val de Loire TV",
+    "title": "Lycées et facultés bloqués / le point sur les mobilisations à Tours",
+    "url": "https://www.youtube.com/watch?v=xFtT9Ggmtvo",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "city": "Lille",
+  "dept": "59",
+  "type": "autre",
+  "title": "Université de Lille : plusieurs campus fermés administrativement « jusqu'à nouvel ordre », près de 50 000 étudiants privés de cours",
+  "summary": "Le 26 novembre, plusieurs campus de l'université de Lille restent fermés administrativement jusqu'à nouvel ordre pour prévenir les blocages ; près de 50 000 étudiants sont privés de cours en présentiel, selon BFMTV.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "BFMTV",
+    "title": "Mobilisation étudiante : le ras-le-bol d'étudiants privés de cours à l'université de Lille",
+    "url": "https://www.dailymotion.com/video/xc001ky",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "city": "Talence",
+  "dept": "33",
+  "type": "autre",
+  "title": "Tirs de mortiers d'artifice à l'intérieur d'un lycée de Talence",
+  "summary": "Le vendredi 27 novembre, des tirs de mortiers d'artifice éclatent à l'intérieur des locaux d'un lycée de Talence, près de Bordeaux, selon les images de Sud Ouest.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "Sud Ouest",
+    "title": "Des tirs de mortier au sein d'un lycée de Talence",
+    "url": "https://www.youtube.com/watch?v=xDrJBCx2dZo",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "city": "Reims",
+  "dept": "51",
+  "type": "rassemblement",
+  "title": "Action symbolique d'étudiants contre Parcoursup sur un campus de Reims",
+  "summary": "Le 27 novembre, dans le sillage des mobilisations de l'enseignement supérieur, des étudiants mènent une action symbolique contre Parcoursup sur un campus de Reims, selon France 3 Grand Est.",
+  "participants_official": null,
+  "participants_organizers": null,
+  "arrests": null,
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Des étudiants rappellent leur opposition à Parcoursup",
+    "url": "https://www.youtube.com/watch?v=WSnkrwJ1Vg8",
+    "date": "2026-11-27"
+   }
+  ]
  }
 ]

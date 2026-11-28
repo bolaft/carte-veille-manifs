@@ -28,6 +28,7 @@ KEYDAYS = {
     '2026-10-24': 'Acte II « vie chère »', '2026-10-31': 'Acte III « vie chère »', '2026-11-03': 'Journée noire des lycées',
     '2026-11-05': 'Grève interprofessionnelle', '2026-11-07': 'Acte IV « vie chère »', '2026-11-10': 'Grève de l’éducation et de la jeunesse',
     '2026-11-14': 'Acte V « vie chère »', '2026-11-17': 'Grève de la fonction publique', '2026-11-20': 'Vote de la loi « présomption de légitime défense »', '2026-11-21': 'Acte VI « vie chère »',
+    '2026-11-26': 'Grève de l’enseignement supérieur', '2026-11-28': 'Acte VII et marches NousToutes',
 }
 TYPE_ALIASES = {'manif': 'manifestation', 'manifestation': 'manifestation', 'rassemblement': 'rassemblement', 'grève': 'grève', 'greve': 'grève',
                 'blocage': 'blocage', 'blocus': 'blocage', 'occupation': 'occupation', 'émeute': 'émeute', 'emeute': 'émeute', 'pillage': 'émeute', 'autre': 'autre'}
