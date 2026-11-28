@@ -1,0 +1,737 @@
+[
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Paris",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "185uTi5k6Ao",
+    "url": "https://www.youtube.com/watch?v=185uTi5k6Ao",
+    "title": "“Faire cours avec des gants sous 4°C, ce n’est pas possible“",
+    "outlet": "HugoDécrypte",
+    "caption": "Reportage d'HugoDécrypte (1 min 06) sur la manifestation étudiante et lycéenne du jeudi 26 novembre à Paris, partie de la place de la Bastille à 14 h vers le Panthéon à l'appel du collectif Interfac, où des manifestants décrivent des amphis non chauffés et le manque de moyens des universités."
+   },
+   {
+    "type": "youtube",
+    "id": "RhELFY5W5Dk",
+    "url": "https://www.youtube.com/watch?v=RhELFY5W5Dk",
+    "title": "Manifestation des lycéens pour de meilleures conditions d'étude",
+    "outlet": "CLPRESS / Agence de presse",
+    "caption": "Images brutes CLPRESS (19 min, sans commentaire, mises en ligne le 27 novembre) du cortège lycéen et étudiant parisien réclamant de meilleures conditions d'étude, lors de la journée de mobilisation de l'intersyndicale de l'enseignement supérieur du 26 novembre."
+   },
+   {
+    "type": "youtube",
+    "id": "dLpFqf-pD4s",
+    "url": "https://www.youtube.com/watch?v=dLpFqf-pD4s",
+    "title": "[26 NOV][PARIS] Sapin en feu au Pantheon, intervention des forces de l’ordre",
+    "outlet": "TV YÉ (vidéaste indépendant)",
+    "caption": "Extrait du direct du vidéaste indépendant TV YÉ : un sapin de Noël s'embrase place du Panthéon en fin de manifestation le 26 novembre vers 16 h 30, et les forces de l'ordre interviennent pour disperser les derniers manifestants ; la préfecture de police n'a signalé aucune interpellation."
+   },
+   {
+    "type": "youtube",
+    "id": "ilzUV83ZkUU",
+    "url": "https://www.youtube.com/watch?v=ilzUV83ZkUU",
+    "title": "Lycéens : rassemblement contre la répression du mouvement et les milliers d'interpellations d'élèves",
+    "outlet": "CLPRESS / Agence de presse",
+    "caption": "CLPRESS (16 min, sans commentaire) : rassemblement de lycéens, personnels de l'Éducation nationale et étudiants à 10 h devant le rectorat de Paris, boulevard d'Indochine (19e), le 26 novembre, à l'appel de SUD éducation Paris contre la répression du mouvement lycéen et les milliers d'interpellations d'élèves."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "France",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "uN-dMJeOF3g",
+    "url": "https://www.youtube.com/watch?v=uN-dMJeOF3g",
+    "title": "Le gouvernement français pris en étau entre policiers épuisés et étudiants en colère",
+    "outlet": "Euronews",
+    "caption": "Reportage d'Euronews (2 min 46) sur la journée du 26 novembre : d'un côté les policiers rassemblés devant les commissariats pour réclamer une hausse de leur prime de risque, de l'autre les étudiants et syndicats de l'enseignement supérieur qui dénoncent une stratégie de répression du mouvement."
+   },
+   {
+    "type": "youtube",
+    "id": "s5Q_1aJKd8U",
+    "url": "https://www.youtube.com/watch?v=s5Q_1aJKd8U",
+    "title": "\"J'appelle à faire cesser ces blocages maintenant, immédiatement\" (Philippe Baptiste)",
+    "outlet": "franceinfo",
+    "caption": "Interview de Philippe Baptiste, ministre de l'Enseignement supérieur, sur franceinfo le 26 novembre, jour de la mobilisation : environ 20 % d'universités fermées administrativement, refus d'annuler les partiels et appel à faire cesser « immédiatement » les blocages."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc03ami",
+    "url": "https://www.dailymotion.com/video/xc03ami",
+    "title": "Colère étudiante: 20 à 25% des établissements du supérieur sont toujours perturbés",
+    "outlet": "BFMTV",
+    "caption": "Sujet BFMTV du 26 novembre : selon le ministère, 20 à 25 % des établissements d'enseignement supérieur restent perturbés depuis une dizaine de jours par la mobilisation étudiante, le jour de la journée d'action de l'intersyndicale ESR."
+   },
+   {
+    "type": "youtube",
+    "id": "Q9xZS0SRUZM",
+    "url": "https://www.youtube.com/watch?v=Q9xZS0SRUZM",
+    "title": "Prime de risque : les policiers manifestent à minuit devant les commissariats de France",
+    "outlet": "CLPRESS / Agence de presse",
+    "caption": "CLPRESS : dans la nuit du 25 au 26 novembre, des policiers de nuit se rassemblent à minuit devant des commissariats et hôtels de police pour réclamer la revalorisation de leur prime de risque, prélude aux rassemblements de midi du 26 novembre."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-26",
+  "city": "Nice",
+  "title_prefix": "Procès des dix militants présumés d'ultradroite",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "hRA15PqrH7A",
+    "url": "https://www.youtube.com/watch?v=hRA15PqrH7A",
+    "title": "Ouverture du procès de l'ultradroite suite aux violences lors de la manifestation du 24 octobre 2026",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur (ICI Côte d'Azur)",
+    "caption": "France 3 Côte d'Azur (1 min 05) : ouverture, le 26 novembre au tribunal correctionnel de Nice, du procès des dix hommes de 18 à 32 ans soupçonnés d'appartenir à la mouvance d'ultradroite et jugés pour association de malfaiteurs en vue de violences après l'attaque du cortège du 24 octobre."
+   },
+   {
+    "type": "youtube",
+    "id": "HmwH_weYSYY",
+    "url": "https://www.youtube.com/watch?v=HmwH_weYSYY",
+    "title": "L'ultradroite en procès après des violences en manifestation",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur (ICI Côte d'Azur)",
+    "caption": "France 3 Côte d'Azur (1 min 25) : compte rendu de l'audience du 26 novembre dans la salle des assises de Nice, où le procureur Damien Martinelli a requis de 12 à 18 mois de prison en grande partie avec sursis tandis que la défense plaidait la relaxe ; jugement le 8 janvier 2027."
+   },
+   {
+    "type": "youtube",
+    "id": "PFEU2IQia-s",
+    "url": "https://www.youtube.com/watch?v=PFEU2IQia-s",
+    "title": "Les néonazis qui ont attaqué les manifestants à nice face à la justice",
+    "outlet": "L'Humanité",
+    "caption": "L'Humanité (2 min 57) revient, à l'ouverture du procès du 26 novembre, sur l'attaque du cortège niçois du 24 octobre par une centaine d'hommes en noir défilant derrière la banderole « Touche pas à ma ville »."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Nice",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "Pnq8ZoexwAc",
+    "url": "https://www.youtube.com/watch?v=Pnq8ZoexwAc",
+    "title": "Après l'exposition d'engins artisanaux, un lycée de Nice rouvre sous haute surveillance",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur (ICI Côte d'Azur)",
+    "caption": "France 3 Côte d'Azur (1 min 48) : le lycée Guillaume-Apollinaire de Nice rouvre le 27 novembre sous haute surveillance, au lendemain de l'explosion de deux engins artisanaux (bouteilles contenant un liquide chimique) qui a fait quatre blessés légers, dont deux policiers, et entraîné le droit de retrait des enseignants."
+   },
+   {
+    "type": "youtube",
+    "id": "bOD9VvSkHxE",
+    "url": "https://www.youtube.com/watch?v=bOD9VvSkHxE",
+    "title": "À Nice, retour en classe après des explosions",
+    "outlet": "France 3 Provence-Alpes-Côte d'Azur (ICI Côte d'Azur)",
+    "caption": "France 3 Côte d'Azur (1 min 47) : retour en classe le 27 novembre au lycée Apollinaire de Nice, contrôle des sacs à l'entrée et témoignages d'élèves et d'enseignants après les explosions du 26 novembre."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Nantes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "X3aab1CalK0",
+    "url": "https://www.youtube.com/watch?v=X3aab1CalK0",
+    "title": "UNE BOMBE LACRYMO LANCÉE DANS LE LYCÉE MANDELA",
+    "outlet": "Télénantes",
+    "caption": "Télénantes : le 26 novembre au matin, après un blocus et deux interventions de la police, une bombe lacrymogène est lancée dans le hall du lycée Nelson-Mandela de Nantes, qui ferme pour la journée ; plusieurs établissements de la métropole, dont le lycée Jean-Perrin de Rezé, étaient bloqués à l'appel de la coordination interlycéenne."
+   },
+   {
+    "type": "youtube",
+    "id": "fXHvPeRymto",
+    "url": "https://www.youtube.com/watch?v=fXHvPeRymto",
+    "title": "BOMBE LACRYMOGÈNE LANCÉE À L'INTÉRIEUR DU LYCÉE MANDELA CE JEUDI MATIN, LES COURS SUSPENDUS",
+    "outlet": "Télénantes",
+    "caption": "Sujet complet de Télénantes (mis en ligne le 27 novembre) sur la suspension des cours au lycée Mandela après le jet d'une bombe lacrymogène dans le hall le 26 novembre, deuxième fermeture de l'établissement en dix jours."
+   },
+   {
+    "type": "youtube",
+    "id": "73E0q_4K29E",
+    "url": "https://www.youtube.com/watch?v=73E0q_4K29E",
+    "title": "DES POLICIERS EN COLÈRE FACE À LEURS CONDITIONS DE TRAVAIL",
+    "outlet": "Télénantes",
+    "caption": "Télénantes : rassemblement intersyndical de policiers à Nantes le 26 novembre pour une hausse de la prime de risque et de meilleures conditions de travail, le même jour que le rassemblement d'une centaine de lycéens au miroir d'eau."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Marseille",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "uI33DHCP1kM",
+    "url": "https://www.youtube.com/watch?v=uI33DHCP1kM",
+    "title": "Manifestation des forces de l'ordre à Marseille",
+    "outlet": "La Provence",
+    "caption": "La Provence (1 min 16) : une centaine de policiers rassemblés le 26 novembre à Marseille, à l'appel de plusieurs syndicats, pour dénoncer « la dégradation de leurs conditions de travail » et réclamer la revalorisation de leur prime de risque."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc0eg4e",
+    "url": "https://www.dailymotion.com/video/xc0eg4e",
+    "title": "Marseille : après les manifestations, les commerçants expriment leur ras-le-bol",
+    "outlet": "CNEWS",
+    "caption": "CNEWS (mis en ligne le 27 novembre) : des dizaines de commerçants et entrepreneurs de l'hypercentre de Marseille se rassemblent, le 26 novembre devant la CCI selon l'agenda du jour, pour refuser de « voir mourir leurs activités » et annoncer un recours contre l'État après les dégradations des samedis de manifestation."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Lyon",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc0exwa",
+    "url": "https://www.dailymotion.com/video/xc0exwa",
+    "title": "A Lyon, les policiers dénoncent un manque de moyens",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon : rassemblement intersyndical de policiers le 26 novembre à la mi-journée devant l'hôtel de police de Lyon, rue Marius-Berliet, contre le manque d'effectifs et la dégradation des conditions de travail."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc01c4m",
+    "url": "https://www.dailymotion.com/video/xc01c4m",
+    "title": "Rhône : de nouvelles mesures dans les lycées pour le retour au calme",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (26 novembre) : les lycées jugés sensibles du Rhône font l'objet d'un arrêté préfectoral interdisant les rassemblements à leurs abords, après les tirs de mortiers de la semaine."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-26",
+  "city": "Lyon",
+  "title_prefix": "Rhône, 26 novembre : un arrêté du 25 novembre",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc01c4m",
+    "url": "https://www.dailymotion.com/video/xc01c4m",
+    "title": "Rhône : de nouvelles mesures dans les lycées pour le retour au calme",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (26 novembre) : l'arrêté préfectoral du 25 novembre interdisant cortèges et rassemblements autour de dix lycées jugés sensibles de Lyon, Bron et Villeurbanne, présenté comme une mesure « pour le retour au calme »."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Grenoble",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "1JX-KaMNEfA",
+    "url": "https://www.youtube.com/watch?v=1JX-KaMNEfA",
+    "title": "À Grenoble, près de 70 policiers mobilisés pour obtenir de meilleures conditions de travail",
+    "outlet": "France 3 Auvergne-Rhône-Alpes (ICI Isère)",
+    "caption": "France 3 Alpes : près de 70 policiers rassemblés le 26 novembre au matin devant l'hôtel de police de Grenoble pour réclamer des moyens et de meilleures conditions de travail, après des semaines de mobilisation sur les manifestations et les blocus de lycées levés à l'aube ce même jour."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Metz",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc04uvq",
+    "url": "https://www.dailymotion.com/video/xc04uvq",
+    "title": "À Metz, une centaine de policiers mobilisés pour réclamer une meilleure reconnaissance",
+    "outlet": "Moselle TV",
+    "caption": "Moselle TV : une centaine de policiers devant l'hôtel de police de Metz le jeudi 26 novembre, comme partout en France, pour de meilleures conditions de travail et la revalorisation de la prime de risque."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Dijon",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "4oTy8R0bGrc",
+    "url": "https://www.youtube.com/watch?v=4oTy8R0bGrc",
+    "title": "\"On en a marre\" : à Dijon, les policiers manifestent pour réclamer des augmentations",
+    "outlet": "France 3 Bourgogne-Franche-Comté",
+    "caption": "France 3 Bourgogne : des policiers rassemblés devant le commissariat de Dijon le 26 novembre pour réclamer une hausse de la prime de risque et une révision des petits salaires, certains fonctionnaires étant payés au SMIC."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Angers",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "3dlIV7B8k3E",
+    "url": "https://www.youtube.com/watch?v=3dlIV7B8k3E",
+    "title": "DES POLICIERS ÉPUISÉS ET EN COLÈRE",
+    "outlet": "Angers Télé",
+    "caption": "Angers Télé : une soixantaine de policiers « sur-mobilisés » rassemblés à midi devant le commissariat d'Angers le 26 novembre, comme à Cholet et Saumur, à l'appel de l'intersyndicale policière."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Perpignan",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "KgKq6mTzKqI",
+    "url": "https://www.youtube.com/watch?v=KgKq6mTzKqI",
+    "title": "Perpignan : Les policiers mobilisés devant le commissariat pour dénoncer leurs conditions de travail",
+    "outlet": "L'Indépendant",
+    "caption": "L'Indépendant : les policiers du commissariat de Perpignan rassemblés devant leurs locaux le 26 novembre pour plus de « reconnaissance » et de meilleures conditions de travail, dans un contexte de fortes mobilisations des forces de l'ordre."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Le Mans",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "itmA4fva0h4",
+    "url": "https://www.youtube.com/watch?v=itmA4fva0h4",
+    "title": "Cette fois c’est la police qui manifeste",
+    "outlet": "LMtv Sarthe",
+    "caption": "LMtv Sarthe : les policiers du Mans mobilisés en intersyndicale le 26 novembre pour une prime de risque portée à 35 %, inchangée depuis 2019, et contre des plannings surchargés par les manifestations."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Orléans",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "xnMPqK3OJL0",
+    "url": "https://www.youtube.com/watch?v=xnMPqK3OJL0",
+    "title": "Ils réclament une hausse de leur prime de risque",
+    "outlet": "La République du Centre",
+    "caption": "La République du Centre : une trentaine de policiers en colère manifestent le 26 novembre à midi à Orléans pour une hausse de 35 % de leur prime de risque."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Tours",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "xFtT9Ggmtvo",
+    "url": "https://www.youtube.com/watch?v=xFtT9Ggmtvo",
+    "title": "Lycées et facultés bloqués / le point sur les mobilisations à Tours",
+    "outlet": "Val de Loire TV",
+    "caption": "Val de Loire TV (2 min 33) fait le point sur les lycées et facultés bloqués à Tours lors de la journée de mobilisation du 26 novembre, où plusieurs centaines d'étudiants et de personnels de l'université se sont rassemblés place de la Liberté à 14 h."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Lille",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc001ky",
+    "url": "https://www.dailymotion.com/video/xc001ky",
+    "title": "Mobilisation étudiante: le ras-le-bol d'étudiants privés de cours à l'université de Lille",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (26 novembre) : plusieurs campus de l'université de Lille restent fermés administrativement jusqu'à nouvel ordre pour éviter les blocages, et près de 50 000 étudiants suivent les cours à distance."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Villepinte",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "lDeVjOMQAqk",
+    "url": "https://www.youtube.com/watch?v=lDeVjOMQAqk",
+    "title": "La mère d'un lycéen blessé par un tir de mortier d’artifice témoigne",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (1 min 14) : la mère d'un lycéen de Villepinte brûlé au pied par un tir de mortier d'artifice dans son lycée témoigne, alors que les tirs se multiplient aux abords et à l'intérieur des établissements."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-26",
+  "city": "Créteil",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "lDeVjOMQAqk",
+    "url": "https://www.youtube.com/watch?v=lDeVjOMQAqk",
+    "title": "La mère d'un lycéen blessé par un tir de mortier d’artifice témoigne",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (1 min 14) : deux lycéens ont été blessés le 26 novembre par des tirs de mortiers d'artifice dans le hall du lycée Léon-Blum de Créteil, scène de chaos également rapportée à Villepinte où la mère d'un élève touché témoigne."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-27",
+  "city": "Toulouse",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc0h56y",
+    "url": "https://www.dailymotion.com/video/xc0h56y",
+    "title": "\"Trop, c'est trop\": le maire de Toulouse, Jean-Luc Moudenc, menace de revoir les financements de l'université Jean-Jaurès face aux dégradations causées par l'occupation des bâtiments",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (27 novembre, 2 min 55) : Jean-Luc Moudenc, maire de Toulouse, chiffre à près de 500 000 euros les dégradations liées à l'occupation de l'université Jean-Jaurès, fermée administrativement jusqu'au 29 novembre, et menace d'en revoir les financements."
+   },
+   {
+    "type": "youtube",
+    "id": "KkYgzz29enE",
+    "url": "https://www.youtube.com/watch?v=KkYgzz29enE",
+    "title": "Noa Gottling : «Depuis deux mois, le campus est complètement bloqué»",
+    "outlet": "CNEWS",
+    "caption": "CNEWS (28 novembre) : Noa Gottling, responsable de l'UNI Toulouse, déplore un campus du Mirail « complètement bloqué » depuis deux mois."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-27",
+  "city": "Lyon",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "TOHl0UrJZ8A",
+    "url": "https://www.youtube.com/watch?v=TOHl0UrJZ8A",
+    "title": "L'université Lyon 2 rouvre ses portes après deux mois de blocus",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (2 min 10) : l'université Lumière Lyon 2 rouvre ses portes le 27 novembre après deux mois de blocus, avec une reprise partielle des cours en présentiel."
+   },
+   {
+    "type": "youtube",
+    "id": "P11gKHRAmgQ",
+    "url": "https://www.youtube.com/watch?v=P11gKHRAmgQ",
+    "title": "Lyon 2 : les cours reprennent partiellement",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (44 s) : reprise partielle des cours à Lyon 2 après la levée du blocus, les campus de Lyon 1 restant perturbés."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-27",
+  "city": "Talence",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "xDrJBCx2dZo",
+    "url": "https://www.youtube.com/watch?v=xDrJBCx2dZo",
+    "title": "Gironde | Des tirs de mortier au sein d'un lycée de Talence #Gironde #FaitsDivers",
+    "outlet": "Sud Ouest",
+    "caption": "Sud Ouest : retour en images sur les tirs de mortiers d'artifice qui ont éclaté le vendredi 27 novembre à l'intérieur des locaux d'un lycée de Talence, près de Bordeaux."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-27",
+  "city": "Reims",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "WSnkrwJ1Vg8",
+    "url": "https://www.youtube.com/watch?v=WSnkrwJ1Vg8",
+    "title": "Des étudiants rappellent leur opposition à Parcoursup",
+    "outlet": "France 3 Grand Est",
+    "caption": "France 3 Grand Est : le 27 novembre, dans le sillage des mobilisations, des étudiants mènent une action symbolique contre Parcoursup sur un campus de Reims."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-27",
+  "city": "Nantes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "01MaDwZNu1w",
+    "url": "https://www.youtube.com/watch?v=01MaDwZNu1w",
+    "title": "BLOCUS : NANTES UNIVERSITÉ LANCE UNE CONSULTATION",
+    "outlet": "Télénantes",
+    "caption": "Télénantes : face aux blocus des campus depuis début octobre, Nantes Université lance du 27 au 30 novembre une consultation en ligne des étudiants du Tertre et de la Lombarderie, organisée par un opérateur indépendant."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-27",
+  "city": "Nantes",
+  "title_prefix": "Nantes : CGT, FO, FSU et Solidaires annoncent 23 plaintes",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "Lc-0C3Ljjkc",
+    "url": "https://www.youtube.com/watch?v=Lc-0C3Ljjkc",
+    "title": "NANTES : 21 PLAINTES POUR VIOLENCES POLICIÈRES",
+    "outlet": "Télénantes",
+    "caption": "Télénantes (1 min 27) : les syndicats nantais annoncent le dépôt d'une vingtaine de plaintes (21 selon Télénantes, 23 selon la presse écrite) pour des violences attribuées aux forces de l'ordre lors des manifestations de novembre."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-27",
+  "city": "France",
+  "title_prefix": "La DGPN étend « jusqu'à nouvel ordre »",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "J7sVxfqQfGY",
+    "url": "https://www.youtube.com/watch?v=J7sVxfqQfGY",
+    "title": "INFO E1 - Manifestations : La suspension des grenades assourdissantes étendue \"jusqu'à nouvel ordre\"",
+    "outlet": "Europe 1",
+    "caption": "Europe 1 (1 min 30) révèle le 27 novembre que la suspension des grenades assourdissantes, décidée début octobre pour les seules manifestations lycéennes après la main arrachée d'un lycéen à Lens, est étendue « jusqu'à nouvel ordre » et à « toutes les situations opérationnelles »."
+   },
+   {
+    "type": "youtube",
+    "id": "qDu9cLtH9Ws",
+    "url": "https://www.youtube.com/watch?v=qDu9cLtH9Ws",
+    "title": "La suspension de l'usage des grenades assourdissantes prolongée",
+    "outlet": "franceinfo",
+    "caption": "franceinfo (38 s) : le télégramme du directeur général de la police nationale Louis Laugier du 27 novembre prolonge et étend la suspension des grenades assourdissantes de type ASSD, une décision jugée « affligeante » par le syndicat Alternative Police."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc0oipa",
+    "url": "https://www.dailymotion.com/video/xc0oipa",
+    "title": "Suspension des cartouches assourdissantes: un photojournaliste blessé témoigne: \"J’ai immédiatement eu deux douleurs dans la jambe gauche\"",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (28 novembre) : à la veille d'une nouvelle mobilisation, un photojournaliste blessé à la jambe par une munition assourdissante témoigne, alors que le ministère de l'Intérieur confirme l'extension de la suspension à l'ensemble des interventions."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-28",
+  "city": "France",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "sLSyIKJchrI",
+    "url": "https://www.youtube.com/watch?v=sLSyIKJchrI",
+    "title": "Violence faites aux femmes : Nouveau samedi de mobilisation",
+    "outlet": "franceinfo",
+    "caption": "franceinfo (1 min 49, publié le 28 novembre au matin) : nouveau samedi de mobilisation à Paris et dans plusieurs villes contre les violences sexistes et sexuelles, les manifestantes réclamant des moyens et l'adoption d'une loi intégrale, avec les gilets jaunes annoncés dans les cortèges."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-28",
+  "city": "Lyon",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "nUb4hUUHm7U",
+    "url": "https://www.youtube.com/watch?v=nUb4hUUHm7U",
+    "title": "Manifestation du 28 novembre à Lyon : les détails sur la mobilisation",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (1 min 05) : la manifestation du Collectif droits des femmes du samedi 28 novembre, déclarée et autorisée au départ de Bellecour à 15 h, seule exception à l'interdiction préfectorale des cortèges de 12 h à 22 h sur la Presqu'île."
+   },
+   {
+    "type": "youtube",
+    "id": "a8sZBhjCYsY",
+    "url": "https://www.youtube.com/watch?v=a8sZBhjCYsY",
+    "title": "Manifestation samedi à Lyon contre les violences de genre",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (25 s) : annonce de la manifestation lyonnaise contre les violences sexistes et sexuelles du samedi 28 novembre, prolongement de la journée internationale du 25 novembre."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-28",
+  "city": "Lyon",
+  "title_prefix": "Lyon, septième samedi d'interdiction",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "nUb4hUUHm7U",
+    "url": "https://www.youtube.com/watch?v=nUb4hUUHm7U",
+    "title": "Manifestation du 28 novembre à Lyon : les détails sur la mobilisation",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (1 min 05) : seule la manifestation déclarée par le Collectif droits des femmes peut se tenir le 28 novembre à Lyon, la préfecture du Rhône interdisant les autres cortèges et rassemblements revendicatifs de 12 h à 22 h."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-28",
+  "city": "Lyon",
+  "title_prefix": "Lyon, 28 novembre : la préfecture du Rhône interdit",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "nUb4hUUHm7U",
+    "url": "https://www.youtube.com/watch?v=nUb4hUUHm7U",
+    "title": "Manifestation du 28 novembre à Lyon : les détails sur la mobilisation",
+    "outlet": "BFM Lyon",
+    "caption": "BFM Lyon (1 min 05) : seule la manifestation déclarée par le Collectif droits des femmes peut se tenir le 28 novembre à Lyon, la préfecture du Rhône interdisant les autres cortèges et rassemblements revendicatifs de 12 h à 22 h."
+   }
+  ]
+ },
+ {
+  "kind": "event",
+  "date": "2026-11-28",
+  "city": "Biarritz",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc0pck2",
+    "url": "https://www.dailymotion.com/video/xc0pck2",
+    "title": "Biarritz: importante mobilisation attendue ce samedi contre le banquet du Canon français à la Halle d'Iraty",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (28 novembre au matin) : forte mobilisation attendue devant la Halle d'Iraty à Biarritz, où le Canon français organise pour la première fois un banquet de 2 000 convives que de nombreux manifestants veulent perturber après plusieurs rassemblements d'opposition ces dernières semaines."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-25",
+  "city": "Paris",
+  "title_prefix": "« Unis contre la répression »",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "PAhUEjAgdK4",
+    "url": "https://www.youtube.com/watch?v=PAhUEjAgdK4",
+    "title": "Témoignage : fouilles à nu à 17 ans, le traumatisme d'un lycéen 🚔",
+    "outlet": "France 3 Paris Île-de-France",
+    "caption": "France 3 Paris Île-de-France (26 novembre) : témoignage d'un lycéen de 17 ans fouillé à nu en garde à vue, alors que le collectif de parents « Unis contre la répression » recense une centaine de faits (insultes sexistes, protections hygiéniques confisquées, coups) et saisit le Défenseur des droits."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-24",
+  "city": "Paris",
+  "title_prefix": "Commission d'enquête : le préfet de police Patrice Faure",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "KF5MlWUVmWc",
+    "url": "https://www.youtube.com/watch?v=KF5MlWUVmWc",
+    "title": "Violences du 17 octobre : le préfet de police de Paris,Patrice Faure, auditionné à l’Assemblée",
+    "outlet": "LCP - Assemblée nationale",
+    "caption": "LCP : audition du 24 novembre du préfet de police de Paris Patrice Faure et du directeur de l'ordre public Antoine Salmon par la commission d'enquête de l'Assemblée nationale sur les violences du 17 octobre, où le préfet affirme sous serment qu'« aucune grenade de police ne fait ce type de blessures »."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-25",
+  "city": "Marseille",
+  "title_prefix": "Commission d'enquête : Benoît Payan",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "SDWdZw4egn4",
+    "url": "https://www.youtube.com/watch?v=SDWdZw4egn4",
+    "title": "Violences du 17 octobre à Marseille : des casseurs interpellés puis relâchés ?",
+    "outlet": "LCP - Assemblée nationale",
+    "caption": "LCP : extrait de l'audition de Benoît Payan, maire de Marseille, devant la commission d'enquête, où il affirme, caméras de vidéosurveillance à l'appui, que des jeunes interpellés par la police municipale après s'être introduits dans des commerces le 17 octobre ont été relâchés sur instruction."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc08b6m",
+    "url": "https://www.dailymotion.com/video/xc08b6m",
+    "title": "Violences du 17 octobre à Marseille: \"Ces vidéos, comme la loi m'oblige à les détruire au bout de 30 jours, j'ai pris la décision d'écrire au procureur de la République pour qu'elles puissent être consignées\", indique Benoît Payan, maire DVG de Marseille",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (26 novembre) : Benoît Payan annonce avoir écrit au procureur de la République pour faire consigner les images de vidéosurveillance du 17 octobre montrant des pilleurs interpellés puis relâchés, avant leur destruction légale au bout de trente jours."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc0878q",
+    "url": "https://www.dailymotion.com/video/xc0878q",
+    "title": "Violences du 17 octobre: \"Je ne peux pas croire qu'il y ait eu le moindre ordre demandant à la police nationale ou aux gendarmes de ne pas intervenir\", explique Benoît Payan, maire de Marseille",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (26 novembre, 2 min 52) : interview de Benoît Payan au lendemain de son audition, qui décrit une police « désorganisée » le 17 octobre à Marseille et « très peu » d'interpellations au regard des dégradations."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-25",
+  "city": "France",
+  "title_prefix": "Édouard Geffray devant le Sénat",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xc02jna",
+    "url": "https://www.dailymotion.com/video/xc02jna",
+    "title": "Colère lycéenne: plus de 400 élèves exclus définitivement de leurs établissements",
+    "outlet": "BFMTV",
+    "caption": "BFMTV (26 novembre) : plus de 400 élèves exclus définitivement de leur établissement sur 3 000 procédures disciplinaires engagées entre septembre et le 1er novembre, selon Édouard Geffray devant le Sénat le 25 novembre."
+   },
+   {
+    "type": "dailymotion",
+    "id": "xc00wcu",
+    "url": "https://www.dailymotion.com/video/xc00wcu",
+    "title": "Mouvement lycéen : 3.000 conseils de discipline en deux mois",
+    "outlet": "RTL",
+    "caption": "RTL (2 min 49) : reportage sur les 3 000 conseils de discipline recensés par le ministère en septembre et octobre, avec le témoignage d'une proviseure dont quatre élèves ont été exclus définitivement après des dégradations et des tirs de mortiers."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-06",
+  "city": "Toulouse",
+  "title_prefix": "Lycée Bellevue à Toulouse : Stéphane Massot",
+  "media": [
+   {
+    "type": "youtube",
+    "id": "QhsgK313a2g",
+    "url": "https://www.youtube.com/watch?v=QhsgK313a2g",
+    "title": "Un prof de maths dénonce des v*olences policières",
+    "outlet": "La Dépêche du Midi",
+    "caption": "La Dépêche du Midi (27 novembre) : Stéphane Massot, professeur de mathématiques à Toulouse, raconte le coup de matraque reçu le 6 novembre en tentant de protéger ses élèves devant le lycée, sa saisine de l'IGPN et le travail de documentation des interventions policières qu'il mène avec d'autres enseignants."
+   }
+  ]
+ },
+ {
+  "kind": "incident",
+  "date": "2026-11-25",
+  "city": "Nice",
+  "title_prefix": "",
+  "media": [
+   {
+    "type": "dailymotion",
+    "id": "xbzxsz2",
+    "url": "https://www.dailymotion.com/video/xbzxsz2",
+    "title": "Une marche contre les violences faites aux femmes perturbée par l'extrême droite à Nice",
+    "outlet": "Nice-Matin",
+    "caption": "Nice-Matin (48 s) : la marche niçoise du 25 novembre contre les violences faites aux femmes perturbée par des militants d'extrême droite, trois jours avant le retour en justice des dix hommes de l'ultradroite jugés le 26."
+   }
+  ]
+ }
+]
