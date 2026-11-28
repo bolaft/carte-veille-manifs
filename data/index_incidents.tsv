@@ -212,6 +212,7 @@ date	city	dept	category	title
 2026-10-17	Paris	75	coups	Un homme plaqué contre une devanture et frappé à coups de matraque, la tête projetée sur l'asphalte (23 h 14)
 2026-10-17	Paris	75	propagande	Le « couple d'octogénaires dépouillés et dénudés » : une information de source policière lancée sur BFMTV, illustrée par une image générée par IA vue 6 à 10 millions de f
 2026-10-17	Paris	75	propagande	Image aérienne de « Paris en feu » générée par IA (plus de 500 000 likes sur Instagram, hashtags #civilwar et #ww3)
+2026-10-17	Paris	75	autre	Un adolescent de 15 ans blessé par une balle de plomb place de la Nation avant l'arrivée du cortège du 17 octobre : enquête pour tentative de meurtre révélée le 24 novemb
 2026-10-17	Perpignan	66	coups	Un policier donne un coup de pied dans la tête d'un manifestant tombé au sol lors d'une charge
 2026-10-17	Rouen	76	extrême-droite	« Marche des Normands » identitaire : contre-manifestants antifascistes roués de coups, un prestataire du RN identifié sur les images
 2026-10-17	Saint-Étienne	42	grenade	Un adolescent de 17 ans a la main droite arrachée par une grenade ; IGPN et IGGN co-saisies, plainte contre Laurent Nuñez devant la CJR
@@ -405,6 +406,7 @@ date	city	dept	category	title
 2026-11-04	Toulouse	31	répression	Toulouse : le cortège intersyndical du 5 novembre interdit en centre-ville, le tribunal administratif donne raison au préfet
 2026-11-05	Annecy	74	répression	Haute-Savoie : le tribunal administratif de Grenoble juge disproportionné l'arrêté autorisant la surveillance par drones de huit communes
 2026-11-05	Belfort	90	répression	Belfort : rassemblements interdits en centre-ville le 5 novembre et port d'équipements de protection interdit dans tout le Territoire de Belfort
+2026-11-05	Lyon	69	garde-à-vue	Lyon : Chloé, 28 ans, manifestante en fauteuil roulant frappée et projetée au sol par un CRS le 5 novembre, placée en garde à vue après la manifestation du 17 novembre po
 2026-11-05	Lyon	69	entrave-presse	Un photographe de l'AFP, brassard presse au bras, a le péroné fracturé lors d'une charge contre la tête du cortège
 2026-11-05	Lyon	69	nasse-dispersion	Jeunes manifestants pris en étau et frappés lors des charges avenue Berthelot et place Jean-Macé (grève du 5 novembre)
 2026-11-05	Nancy	54	répression	Nancy : l'arrêté interdisant casques, lunettes et masques à gaz le 7 novembre visait expressément les street medics ; le tribunal administratif le suspend pour eux seuls 
@@ -449,6 +451,7 @@ date	city	dept	category	title
 2026-11-07	Paris	75	répression	Deux porte-parole des Gilets jaunes, Azelma Sigaux et Benjamin Ball, interpellés avant le sit-in interdit de la Concorde et placés en garde à vue
 2026-11-07	Rennes	35	nasse-dispersion	Manifestation non déclarée de 5 500 personnes bloquée sur l'esplanade Charles-de-Gaulle, accès au centre barrés, gaz lacrymogènes vers la gare
 2026-11-07	Strasbourg	67	coups	Emmanuelle, jetée au sol et frappée lors de la dispersion de la manifestation du 7 novembre : 31 jours d'ITT
+2026-11-07	Strasbourg	67	gaz	Une grenade lacrymogène jetée par des policiers sur la terrasse d'un café place d'Austerlitz : enquête IGPN
 2026-11-07	Toulouse	31	nasse-dispersion	Cortège non autorisé coupé en deux et encerclé par les cars de CRS, charge boulevard Bonrepos, gaz et canons à eau ; la FSU dénonce des violences contre le service d'ordr
 2026-11-07	Tours	37	extrême-droite	Marche aux flambeaux de Des Tours et des Lys annulée après le rejet de son référé : rassemblement spontané d'une cinquantaine d'identitaires, cathédrale encerclée par la 
 2026-11-08	Bordeaux	33	propagande	Manon Aubry affirme que la gendarmerie a utilisé des « canons à son » contre les manifestants à Bordeaux : il s'agit de l'avertisseur sonore des blindés Centaure, dont le
@@ -464,6 +467,7 @@ date	city	dept	category	title
 2026-11-09	Nantes	44	répression	Nantes, 10 novembre : rassemblements non déclarés interdits dans l'hypercentre de 10 h à 22 h, équipements de protection prohibés de 10 h à 20 h, armes par destination et
 2026-11-09	Nantes	44	répression	Nantes : en comparution immédiate, « des mesures de sûreté et des peines particulièrement lourdes » requises contre des manifestants sans casier, interdictions de manifes
 2026-11-09	Paris	75	répression	10 novembre à Paris : parcours de la FSU refusé et remplacé par Panthéon–place d'Italie, départ de Bastille interdit aux étudiants, rassemblement statique imposé devant l
+2026-11-09	Paris	75	coups	Lycée Balzac : quatre adolescents blessés « sous les insultes » le 9 novembre, gazages à bout portant et matraquages au sol dénoncés par élèves et professeurs, deux élève
 2026-11-09	Poitiers	86	répression	Poitiers : après les débordements du 7 novembre, un manifestant interpellé pour violences présenté au parquet le 9 novembre en vue d'une comparution immédiate
 2026-11-09	Strasbourg	67	répression	Seize arrêtés et 23 jours de drones depuis le 29 septembre : nouvelle autorisation de survol des abords des lycées de Strasbourg, Schiltigheim et Bischheim les 9 et 10 no
 2026-11-09	Strasbourg	67	répression	L'Observatoire strasbourgeois des libertés publiques (LDH-SAF) conteste l'interpellation en bloc de 62 personnes le 5 novembre et demande au parquet et à la préfecture le
@@ -476,8 +480,11 @@ date	city	dept	category	title
 2026-11-10	France		répression	Amnesty International France déclare « l'état d'alerte » sur l'État de droit : interdictions de manifester, couvre-feux, MICAS, drones et armes mutilantes parmi « sept si
 2026-11-10	France		autre	RSF recense 71 journalistes entravés depuis le début du mouvement, dont 44 violences physiques, et s'inquiète « que ceux qui ont le monopole de la force en fassent usage 
 2026-11-10	France		autre	France Universités : « Menaces et insultes à l'encontre des présidentes et présidents d'université : cela suffit ! »
+2026-11-10	Hérouville-Saint-Clair	14	garde-à-vue	Une lycéenne d'Hérouville placée 24 heures en garde à vue pour outrage à cause du slogan « ACAB » brodé sur son jean
 2026-11-10	Paris	75	entrave-presse	Sept journalistes puis quatre syndicats (SNJ, SNJ-CGT, CFDT-Journalistes, SGJ-FO) portent plainte contre X pour violences et entraves des forces de l'ordre ; Nuñez reçoit
+2026-11-10	Paris	75	garde-à-vue	Lycée Jacques-Decour : un élève giflé, plaqué au sol et placé en garde à vue le 10 novembre
 2026-11-10	Strasbourg	67	répression	Strasbourg : un Allemand et un Italien interpellés le 7 novembre avec un marteau condamnés à six mois et un an de prison avec sursis et à cinq ans d'interdiction du terri
+2026-11-12	Besançon	25	répression	Frédéric Vuillaume, secrétaire général de FO dans le Doubs, convoqué pour « organisation de manifestation sans déclaration » pour avoir relayé des appels sur les réseaux 
 2026-11-12	France		autre	« Rappelez à l'ordre vos forces de l'ordre » : l'intersyndicale des journalistes et RSF reçues par Laurent Nuñez, qui promet un rappel du schéma national du maintien de l
 2026-11-12	Rouen	76	répression	Rouen, 14 novembre : la manifestation des identitaires « Les Normaux » contre le « racisme anti-blancs » interdite par le préfet de Seine-Maritime, tout rassemblement non
 2026-11-12	Strasbourg	67	interpellation	Lisa, militante du Poing levé qui filmait les blocus, « ciblée » et interpellée par des policiers en civil sur le campus après le blocus du lycée Marie-Curie ; neuf inter
@@ -494,4 +501,128 @@ date	city	dept	category	title
 2026-11-13	Lyon	69	répression	Lyon, 14 novembre : cinquième samedi consécutif d'interdiction des rassemblements revendicatifs dans le centre de 10 h à 20 h, contrôles et fouilles sur réquisitions du p
 2026-11-13	Marseille	13	répression	Bouches-du-Rhône, 14 novembre : « aucune manifestation autorisée » faute de déclaration, centres de Marseille, Aix, Salon, Miramas, Aubagne, Arles et zone de Plan de Camp
 2026-11-13	Nantes	44	répression	Loire-Atlantique, 14 novembre : accès au centre-ville interdit aux manifestants à Nantes, Saint-Nazaire et La Baule, couvre-feu des mineurs à Nantes, armes par destinatio
+2026-11-13	Paris	75	coups	Lycée Lavoisier : un élève reçoit des coups de matraque lors du blocus du 13 novembre, une enquête de l'IGPN est en cours
+2026-11-13	Paris	75	coups	Lycée Claude-Monet : une vingtaine de CRS chargent les élèves à coups de matraque, LBD braqués sur des lycéens, amendes de 400 euros brandies et deux collégiens de cinqui
+2026-11-13	Strasbourg	67	répression	Cinq policiers en tenue de maintien de l'ordre entrent dans un bar pour saisir les pancartes de lycéens des Pontonniers (« Pontonniers anti-fachos ») et relever l'identit
 2026-11-13	Toulon	83	répression	Toulon, 14 novembre : centre-ville interdit par la préfecture du Var, un seul rassemblement autorisé de la place Gabriel-Péri au quai Cronstadt
+2026-11-14	Besançon	25	répression	Besançon, 14 novembre : centre-ville interdit aux manifestations pour le cinquième samedi, contrôles d'identité à l'entrée du parc Micaud, gendarmes mobiles verrouillant 
+2026-11-14	Besançon	25	interpellation	Besançon : six interpellations au pont de Bregille, trois personnes relâchées « faute d'éléments caractérisés », deux étudiants sans casier convoqués sur reconnaissance d
+2026-11-14	Bordeaux	33	gaz	Bordeaux : gaz lacrymogène dans la rue Sainte-Catherine, grenades qui explosent avant de toucher le sol filmées, 32 interpellations et 14 gardes à vue dont trois mineurs
+2026-11-14	Caen	14	interpellation	Jessye T., 41 ans, plaquée au sol et interpellée violemment lors d'une charge rue du Gaillon, filmée par Ouest-France : 42 heures de garde à vue et convocation pour viole
+2026-11-14	Clermont-Ferrand	63	gaz	Clermont-Ferrand : 350 manifestants d'un cortège interdit repoussés aux grenades lacrymogènes place Gaillard puis cours Sablon, le centre-ville quadrillé par les gendarme
+2026-11-14	Dijon	21	répression	Dijon, 14 novembre : l'arrêté n° 1811 interdit tout rassemblement dans le centre de 8 h à minuit sous peine de six mois de prison pour les organisateurs, la police gaze l
+2026-11-14	Dijon	21	gaz	Dijon : un rassemblement non déclaré dispersé aux grenades lacrymogènes une demi-heure après son début place de la République, nouveaux tirs rond-point de la Nation puis 
+2026-11-14	France		répression	Acte V du 14 novembre : 404 interpellations (dont 134 à Paris) et une dizaine de centres-villes interdits, Nantes, Montpellier, Rouen, Marseille, Besançon, Strasbourg et 
+2026-11-14	France		propagande	« 41 », « 49 » ou « 81 » lycées bloqués : les chiffres du ministère de l'Éducation nationale et de Laurent Nuñez minorent le mouvement en ne comptant que les blocages tot
+2026-11-14	France		autre	SNJ et SNJ-CGT à Laurent Nuñez avant l'acte V : « Au-delà des promesses, il faut des actes » sur la formation des unités au SNMO, l'exception aux interdictions d'équipeme
+2026-11-14	Grenoble	38	propagande	Un « élu LFI » aurait agressé un proviseur à Grenoble, selon une source gouvernementale relayée par plusieurs médias nationaux : dès le lendemain, Laurent Nuñez admet sur
+2026-11-14	Grenoble	38	garde-à-vue	Grenoble : Lokman, 17 ans, figure lycéenne de Mounier déjà relâché après 36 heures de garde à vue le 4 novembre, de nouveau placé en garde à vue
+2026-11-14	Le Mans	72	répression	Le Mans, 14 novembre : un arrêté préfectoral « express » interdit un secteur du centre-ville alors que le cortège s'en approche, confusion dans une mobilisation d'environ
+2026-11-14	Lille	59	gaz	Lille : canon à eau boulevard Montebello et dispersion au gaz lacrymogène place Sébastopol en fin de rassemblement, 11 interpellations
+2026-11-14	Lyon	69	nasse-dispersion	Lyon : les CRS gazent les manifestants qui arrivent place Jean-Macé et la préfecture déclare la fin « anticipée » de la manifestation alors que la moitié du cortège n'est
+2026-11-14	Marseille	13	répression	Marseille, 14 novembre : 3 500 personnes défilent malgré l'interdiction préfectorale de tout rassemblement non déclaré, gaz lacrymogène à Belsunce et Saint-Charles, 12 in
+2026-11-14	Montpellier	34	répression	Montpellier, 14 novembre : « rassemblements revendicatifs » interdits dans l'Écusson de 12 h à 23 h et équipements de protection prohibés de 6 h à minuit, 14 interpellati
+2026-11-14	Nancy	54	répression	Nancy, 14 novembre : rassemblements non déclarés et équipements de protection interdits, trois drones policiers autorisés toute la journée et périmètre du centre (Stanisl
+2026-11-14	Nancy	54	nasse-dispersion	Nancy : canon à eau « à plusieurs reprises », charge et gaz lacrymogènes au verrou de la rue Saint-Jean, nouveaux tirs quartier gare ; deux interpellations et « aucun ble
+2026-11-14	Nantes	44	répression	Nantes, 14 novembre : 54 interpellations pour avoir tenté de rejoindre l'hypercentre interdit, « près de la moitié » des arrestations nationales en milieu d'après-midi, c
+2026-11-14	Nantes	44	autre	Un major exige des observateurs de l'Observatoire nantais des libertés des justificatifs d'appartenance et saisit un casque et des lunettes de la LDH
+2026-11-14	Paris	75	répression	14 novembre à Paris : 134 interpellations et 79 gardes à vue selon le parquet (126 interpellations et 108 gardes à vue selon la préfecture de police), 43 mineurs arrêtés 
+2026-11-14	Paris	75	nasse-dispersion	Dispersion houleuse place de la Nation : grenades lacrymogènes et mouvements de panique, charges, coups de matraque rapportés rue de Charenton, une grenade de désencercle
+2026-11-14	Poitiers	86	répression	Poitiers : 27 interpellations pour une soixantaine de manifestants, dont 24 pour non-respect des arrêtés préfectoraux, casques, lunettes et talkie-walkie saisis lors des 
+2026-11-14	Rouen	76	répression	Rouen, 14 novembre : le centre-ville interdit est tenu par des cordons de CRS rue Jean-Lecanuet, gaz lacrymogène à répétition et 13 interpellations, le parcours déclaré j
+2026-11-14	Strasbourg	67	répression	Strasbourg, 14 novembre : un arrêté cantonne la manifestation à une zone De Lattre–République et interdit l'ellipse insulaire, le cortège non déclaré de 2 000 personnes e
+2026-11-14	Strasbourg	67	coups	Strasbourg : un homme frappé au torse et à la tête par un policier avant d'être menotté au sol, la vidéo d'un riverain réfugié loin des gaz fait polémique ; la hiérarchie
+2026-11-14	Toulouse	31	nasse-dispersion	Toulouse : plusieurs milliers de personnes repoussées au gaz lacrymogène de Jean-Jaurès vers Jolimont, ponts Matabiau et de Constantine fermés, 22 interpellations et 20 g
+2026-11-14	Tours	37	nasse-dispersion	Tours : un cortège non déclaré de plusieurs centaines de personnes repoussé deux fois des accès à l'A10 puis du périmètre interdit, heurts avec les CRS vers 17 h
+2026-11-15	Lyon	69	autre	Le SNJ « condamne avec la plus grande fermeté » l'agression d'une équipe de BFM-TV à Lyon par des « pseudo-manifestants en surnombre, habillés en black bloc », l'un des j
+2026-11-15	Paris	75	répression	Arrêté de la préfecture de police interdisant tout rassemblement non déclaré à moins de 100 m de dix lycées et de cinq sites universitaires parisiens (et d'établissements
+2026-11-16	Angers	49	répression	Angers : six jeunes « inconnus de la justice », interpellés en marge de la manifestation interdite du 14 novembre, jugés en comparution immédiate dès le lundi 16 novembre
+2026-11-16	Bordeaux	33	répression	Gironde : regroupements interdits à 200 mètres de dix lycées de l'agglomération bordelaise et du lycée Max-Linder de Libourne
+2026-11-16	France		autre	RSF recense 74 journalistes entravés (54 par les forces de l'ordre) et 47 agressés (31 par les forces de l'ordre) depuis le 29 septembre, relève 46 arrêtés d'interdiction
+2026-11-16	Le Blanc-Mesnil	93	coups	Le Blanc-Mesnil : un lycéen au sol maîtrisé par plusieurs policiers subit clé de bras, « étranglements répétés » et coups (vidéo authentifiée), une élue LFI a le nez frac
+2026-11-16	Lyon	69	répression	Lyon, 17 novembre : l'arrêté du 15 novembre interdisant à l'intersyndicale d'atteindre la Presqu'île et Bellecour est annulé en référé par le tribunal administratif le 16
+2026-11-16	Marseille	13	répression	Lycée Montgrand à Marseille : des CRS font entrer dans l'établissement et parquent 300 élèves dans la cour à la demande du proviseur, dix lycéens convoqués, exclusions de
+2026-11-16	Nantes	44	autre	Visite d'Édouard Geffray au lycée Nelson-Mandela : les CRS interviennent dans les couloirs contre des élèves qui déploient une banderole, bousculades dénoncées par enseig
+2026-11-16	Paris	75	autre	Commission d'enquête sur le 17 octobre : le maire de Paris Emmanuel Grégoire décrit un est parisien « défavorisé » et des pillages « systématiques » sans intervention pol
+2026-11-17	Aubervilliers	93	répression	Seine-Saint-Denis : arrêtés journaliers interdisant les attroupements de plus de vingt personnes devant quinze lycées de dix communes
+2026-11-17	Avignon	84	garde-à-vue	Avignon : une fille et un garçon placés en garde à vue pour « outrage au drapeau tricolore » à cause d'un drapeau orné d'un A anarchiste, une cinquantaine de personnes de
+2026-11-17	Besançon	25	garde-à-vue	Besançon : 205 interpellations depuis le 29 septembre selon la préfecture ; lycéens et étudiants racontent des gardes à vue de 11 à 20 heures, « si on n'était pas là, vou
+2026-11-17	France		répression	Darmanin devant la commission d'enquête : 7 184 gardes à vue depuis le 17 octobre dont 2 661 mineurs, 3 053 poursuites, 2 301 défèrements, 466 peines d'emprisonnement don
+2026-11-17	France		répression	Le Syndicat des avocats de France appelle les avocats à manifester en robe le 17 novembre et dénonce « les violences policières et les atteintes aux libertés de réunion e
+2026-11-17	Le Mans	72	répression	Le Mans, 17 novembre : la manifestation intersyndicale autorisée par dérogation, mais un arrêté d'interdiction de manifester reste en vigueur dans le centre-ville et à pr
+2026-11-17	Metz	57	interpellation	Metz : l'interpellation d'un syndicaliste en fin de manifestation tend la dispersion, un responsable de la CGT tente d'obtenir des policiers les motifs de l'arrestation
+2026-11-17	Nantes	44	grenade	Steven Jego, 29 ans, mâchoire fracturée, menton déchiré et main ouverte sur six centimètres par des éclats de grenade devant le CHU ; un jeune homme de 22 ans touché à la
+2026-11-17	Nantes	44	gaz	Camions syndicaux « sciemment visés », responsables « jetés au sol, matraqués, gazés y compris à bout portant » dont le secrétaire général de FO 44, BAC contre une déléga
+2026-11-17	Nantes	44	autre	Une commissaire arrache les masques de deux observateurs de l'Observatoire nantais des libertés exposés aux gaz lacrymogènes près de l'Hôtel-Dieu
+2026-11-17	Paris	75	répression	Le tribunal administratif de Paris suspend l'arrêté n° 2026-01603 qui interdisait du 16 au 20 novembre tout cortège ou rassemblement non déclaré à moins de 100 mètres de 
+2026-11-17	Paris	75	gaz	« Lacrymos de sang » : 10 000 témoignages de troubles gynécologiques après exposition aux gaz lacrymogènes présentés à l'Assemblée nationale, demande de suspension de leu
+2026-11-17	Rennes	35	répression	Rennes : saisie par des parents, la justice administrative ordonne à l'État de rétablir « sans délai » les cours dans deux lycées bloqués, une dizaine de policiers ouvren
+2026-11-17	Saint-Philbert-de-Grand-Lieu	44	répression	Dix lycéens mineurs de Bouaye auditionnés toute la journée par la gendarmerie pour « vol aggravé » de haies d'athlétisme ayant servi au blocus du 14 octobre, les parents 
+2026-11-17	Strasbourg	67	répression	Strasbourg, 17 novembre : après avoir refusé le parcours intersyndical par le centre, la préfecture interdit tout cortège ou rassemblement non déclaré sur l'ensemble du b
+2026-11-17	Strasbourg	67	répression	Université de Strasbourg : l'arrêté de la présidente interdisant les blocages et prévoyant l'intervention des forces de l'ordre entre en vigueur le 16 novembre, au moins 
+2026-11-17	Strasbourg	67	autre	Le mannequin géant à l'effigie de Laurent Nuñez des étudiants de la HEAR saisi par la police dès sa sortie de l'école, la préfecture saisit le parquet pour « injure publi
+2026-11-17	Toulouse	31	nasse-dispersion	Toulouse : charge de CRS rue Étienne-Billières pour repousser vers Saint-Cyprien les manifestants sortis du tracé, après la levée des blocus de lycées par la police dénon
+2026-11-18	France		répression	Geffray annonce sur RMC « une quinzaine » de procédures disciplinaires contre des agents de l'Éducation nationale ayant « complètement erré » sur la neutralité, tandis qu
+2026-11-18	France		propagande	« Au moins 40 membres du personnel de l'Éducation nationale » complices des violences lycéennes, selon Lecornu, Nuñez et Geffray : interrogés par franceinfo, plus de 90 p
+2026-11-18	France		autre	Le Défenseur des droits François-Noël Buffet annonce 106 saisines liées au maintien de l'ordre depuis septembre, dont 39 pour usage d'armes et 67 pour violences, et estim
+2026-11-18	France		autre	CGT, CFDT, Solidaires, Unef, LDH, SAF, FSU, Syndicat de la magistrature et Kimbé Rèd FWI : « Le Sénat doit rejeter la loi qui établit une présomption de légalité des tirs
+2026-11-18	France		répression	3 000 conseils de discipline « à l'occasion du mouvement lycéen » entre septembre et le 1er novembre selon Édouard Geffray, après le télégramme du 13 novembre demandant a
+2026-11-18	Limoges	87	répression	Incendie de la mairie de Limoges : un suspect a passé quatorze jours en détention provisoire parce que la police n'avait pas vérifié son alibi, selon son avocat
+2026-11-18	Montpellier	34	garde-à-vue	Procès de Lino, 18 ans : « moqueries et humiliations » pendant 48 heures de garde à vue après la manifestation lycéenne du 13 octobre, maillot « Mélenchon 2027 » promis à
+2026-11-19	France		répression	« Présomption de légitime défense » : le Sénat rejette le 19 novembre les trois motions de la gauche (95, 96 et 98 voix contre 246, 242 et 226), balaie les amendements de
+2026-11-19	Grenoble	38	répression	Grenoble : une professeure de SES du lycée Louise-Michel convoquée au rectorat le 26 novembre après un devoir demandant de montrer que « la participation à une mobilisati
+2026-11-19	Rouen	76	propagande	Policiers blessés : douze avocats signalent au procureur général près la Cour de cassation une « diffusion de fausses nouvelles » de Laurent Nuñez ; 18 blessés dont 3 gra
+2026-11-19	Strasbourg	67	répression	Strasbourg : toute manifestation interdite sur la Grande Île pendant le marché de Noël
+2026-11-19	Strasbourg	67	garde-à-vue	Martha, enseignante de 28 ans interpellée le 17 novembre lors d'un blocus universitaire : plus de 24 heures de garde à vue, une nuit en détention provisoire, procès renvo
+2026-11-20	Carhaix-Plouguer	29	répression	Après les 4 500 élèves brestois, le procureur de Brest fait saisir par les gendarmes le trombinoscope du lycée Diwan de Carhaix pour une enquête sur une tentative de bloc
+2026-11-20	France		répression	« Présomption de légitime défense » des policiers et gendarmes : le Sénat adopte le texte conforme par 205 voix contre 110 (scrutin n° 145), la loi est définitivement ado
+2026-11-20	France		propagande	« Le Parlement vote la présomption de légitime défense des policiers » : un intitulé trompeur conservé jusqu'au vote final, alors que le texte ne touche pas à la légitime
+2026-11-20	Marseille	13	répression	Bouches-du-Rhône, du vendredi 20 novembre 19 h au lundi 23 novembre 5 h : manifestations non déclarées interdites dans les centres et zones commerciales de huit communes,
+2026-11-20	Montpellier	34	répression	Montpellier : au lendemain de l'évacuation policière du lycée Jean-Monnet et de la garde à vue d'un lycéen mineur, la préfète de l'Hérault interdit tout rassemblement aux
+2026-11-20	Paris	75	autre	Journée des droits de l'enfant : des collectifs de parents dénoncent devant l'Hôtel de Ville la répression des lycéens parisiens (Charlemagne, Lavoisier, Victor-Duruy, De
+2026-11-20	Rouen	76	autre	Huit plaintes de jeunes contre des policiers ou gendarmes enregistrées par le parquet de Rouen depuis fin septembre : Aliénor, 16 ans, a porté plainte pour agression sexu
+2026-11-20	Saint-Denis	93	répression	Seine-Saint-Denis : arrêté préfectoral interdisant les attroupements de plus de vingt personnes devant une trentaine d'établissements du 23 au 27 novembre
+2026-11-21	Besançon	25	répression	Besançon, 21 novembre : regroupements, cortèges et rassemblements interdits dans le centre-ville de 9 h à 22 h par l'arrêté n° 25-2026-11-19-00001 du préfet du Doubs, l'i
+2026-11-21	Bordeaux	33	répression	Bordeaux, 21 novembre : manifestations et rassemblements interdits dans un périmètre du centre-ville du samedi 8 h au dimanche 8 h ; 4 500 manifestants, « un millier d'in
+2026-11-21	Caen	14	répression	Caen, 21 novembre : le préfet David Clavière interdit « de nouveau » aux manifestants, par un arrêté publié le vendredi soir, un secteur du centre allant de la rue Caponi
+2026-11-21	Dijon	21	répression	Dijon, sixième samedi : tout rassemblement, manifestation, cortège ou attroupement interdit de 8 h à minuit dans un périmètre du centre étendu jusqu'à la gare, artifices 
+2026-11-21	France		répression	Acte VI du 21 novembre : 70 000 policiers et gendarmes, télégramme de Nuñez aux préfets (« ne tolérer aucun débordement »), centres-villes interdits dans une vingtaine de
+2026-11-21	France		autre	L'AFP recense au moins 31 manifestants gravement blessés depuis le 17 octobre, dont 16 mutilés, en l'absence de tout bilan officiel ; plus de 140 enquêtes IGPN ouvertes d
+2026-11-21	Lille	59	répression	Lille, 21 novembre : parcours officialisé par la préfecture du Nord deux heures avant le départ et centre-ville interdit, gants, masques à gaz, masques filtrants et masqu
+2026-11-21	Lyon	69	répression	Lyon, sixième samedi d'interdiction : cortèges et rassemblements revendicatifs interdits de 12 h à 22 h de la Confluence au 6e arrondissement, artifices, jerricans, armes
+2026-11-21	Lyon	69	grenade	Acte VI, centre-ville interdit de 12 h à 22 h : une grenade lacrymogène lancée directement dans un groupe touche un homme à l'épaule cours Gambetta, cortèges « sauvages »
+2026-11-21	Nancy	54	répression	Nancy : trois arrêtés du 20 novembre interdisent la manifestation de Solidaires 54 (déclarée hors délai), tout rassemblement dans le centre de 7 h à 23 h et autorisent tr
+2026-11-21	Nancy	54	répression	Acte VI malgré l'interdiction de « tout rassemblement » validée par le tribunal administratif : 1 300 manifestants, gaz lacrymogènes, 38 amendes pour participation à une 
+2026-11-21	Nantes	44	répression	Loire-Atlantique, 21 novembre : rassemblements non déclarés interdits dans des secteurs de Nantes de 10 h à 23 h 59, équipements « destinés à faire échec au maintien de l
+2026-11-21	Nantes	44	grenade	Acte VI aux Nefs et à Beaulieu : un manifestant touché à la jambe par une grenade, une grenade assourdissante tirée peu après, interpellation par la BAC au cœur du cortèg
+2026-11-21	Nice	06	répression	Nice, 21 novembre : tous regroupements, cortèges et manifestations revendicatives interdits de 8 h à 19 h dans le centre (gare, Jean-Médecin, Carré d'Or, Masséna), armes 
+2026-11-21	Nice	06	gaz	Acte VI à Nice : gaz lacrymogènes pour disperser un cortège de 550 personnes jusque-là calme sur la promenade des Anglais, centre-ville interdit de 8 h à 19 h
+2026-11-21	Paris	75	répression	21 novembre à Paris : la préfecture de police refuse le parcours Bastille–Concorde demandé par les Gilets jaunes et ne valide que République–Nation par le boulevard Volta
+2026-11-21	Paris	75	garde-à-vue	Le parquet de Paris ouvre une enquête visant deux policiers pour violences et agression sexuelle sur deux jeunes manifestants interpellés le 31 octobre : testicules serré
+2026-11-21	Paris	75	nasse-dispersion	Acte VI, place de la Nation : charges à la matraque et gaz lacrymogènes en fin de cortège, groupes masqués dispersés dans la capitale ; 21 500 manifestants selon la préfe
+2026-11-21	Paris	75	extrême-droite	Mediapart publie les messages internes du GUD : deux ans après sa dissolution, les mêmes militants continuent les violences et planifient leurs actions sur Telegram
+2026-11-21	Perpignan	66	répression	Perpignan, 21 novembre : une partie du centre-ville interdite au cortège de l'acte VI jusqu'à 18 h, transport d'artifices et de carburant en bidon suspendu une semaine da
+2026-11-21	Rennes	35	répression	Rennes, 21 novembre : la préfète interdit par un arrêté publié le vendredi soir toute manifestation dans l'hypercentre, faute de déclaration et d'« organisateur identifié
+2026-11-21	Rennes	35	nasse-dispersion	Acte VI, hypercentre interdit : canon à eau près du marché de Noël et charges successives pour chasser 3 200 à 4 000 manifestants du mail François-Mitterrand
+2026-11-21	Rouen	76	répression	Rouen, 21 novembre : un arrêté du 19 novembre interdit de manifester dans une large partie du centre ; moins de 500 personnes en rassemblements non déclarés contenues au 
+2026-11-21	Saint-Étienne	42	répression	Loire, 21 novembre : rassemblements revendicatifs non déclarés de plus de cinq personnes interdits de 9 h à 18 h dans l'hypercentre de Saint-Étienne, et nouvel arrêté enc
+2026-11-21	Toulon	83	répression	Toulon, 21 novembre : manifestations revendicatives, cortèges et rassemblements interdits dans un périmètre du centre-ville de 11 h à 20 h, drones de la police nationale 
+2026-11-21	Toulouse	31	répression	Toulouse, 21 novembre : rassemblements non déclarés interdits dans le centre du samedi 7 h au dimanche 3 h, pétards, fumigènes, carburant et « équipements de dissimulatio
+2026-11-21	Toulouse	31	lbd	Acte VI : une femme de 30 ans touchée à la tête par un tir de LBD près de la Médiathèque, matériel des street medics et masques confisqués, place du Capitole vidée aux ga
+2026-11-21	Valence	26	répression	Valence, 21 novembre : les manifestations « une nouvelle fois » interdites de 8 h à 20 h dans le centre piéton, le Champ-de-Mars et les boulevards par la préfecture de la
+2026-11-22	Nantes	44	répression	Nantes : après les 17 interpellations du 21 novembre, le parquet notifie à 14 personnes une interdiction de paraître en centre-ville pendant six mois et fait juger rapide
+2026-11-23	Angers	49	répression	Angers : trois jeunes interpellés lors du rassemblement interdit du 21 novembre jugés pour des faits allant de la participation à une manifestation interdite à des violen
+2026-11-23	Bobigny	93	répression	Rassemblements interdits toute la semaine aux abords de 40 établissements d'Île-de-France : 28 lycées, un collège et le campus de Villetaneuse en Seine-Saint-Denis (plus 
+2026-11-23	Breil-sur-Roya	06	répression	Cédric Herrou interpellé à son domicile par une dizaine de gendarmes, perquisitionné et placé en garde à vue à Menton pour « provocation publique et directe » à cause d'u
+2026-11-23	France		répression	Loi « présomption de légitime défense » : les députés socialistes saisissent le Conseil constitutionnel (droit à la sûreté, égalité devant la justice, dignité), la promul
+2026-11-23	France		propagande	Gérald Darmanin affirme sur X que le rejet du référé du Syndicat de la magistrature prouve qu'il a agi « à bon droit, et conformément à la Constitution » : le Conseil d'É
+2026-11-23	France		répression	Commission d'enquête : les procureurs de Paris, Marseille et Bobigny décrivent la réponse pénale au mouvement, les circulaires Darmanin « sans modification de la politiqu
+2026-11-23	France		autre	Human Rights Watch : la loi votée le 20 novembre « risque d'aggraver l'impunité policière en France », « un État ne peut déléguer son obligation légale d'enquêter aux per
+2026-11-23	Montpellier	34	répression	Réouverture de l'université Paul-Valéry sous protection de la DIPN et d'une compagnie de CRS après cinq jours de fermeture administrative : treize jeunes interpellés pour
+2026-11-24	France		autre	Amnesty International France : la loi « présomption de légitime défense » adoptée par le Sénat « pourrait être interprétée comme un « permis de tuer » » et « banalise dan
+2026-11-24	Nantes	44	coups	Camille, 31 ans, matraquée à l'arrière du crâne lors d'une charge de CRS place du Cirque le 14 novembre (trois points de suture, dix jours d'ITT), dépose plainte ; le par
+2026-11-24	Poitiers	86	coups	Maxime, 27 ans, condamné en comparution immédiate après le 24 octobre, porte plainte auprès de l'IGPN et de la procureure contre trois policiers de la BAC : une dizaine d
+2026-11-24	Rennes	35	répression	Rennes : deux conseils de discipline au lycée Descartes se concluent par des mesures de responsabilisation, sans exclusion
+2026-11-24	Rennes	35	répression	Mouvement lycéen : la police nationale autorisée à faire voler deux drones équipés de caméras pendant sept jours, du 24 au 30 novembre, dans le ciel rennais ; un référé d
+2026-11-24	Strasbourg	67	répression	Strasbourg : l'Observatoire des libertés publiques dénonce les atteintes répétées à la liberté de manifester depuis le début du mouvement
+2026-11-25	Paris	75	autre	« Unis contre la répression » : plus de 70 parents de 30 lycées de Paris et de Seine-Saint-Denis recensent plus de 100 cas de violences policières physiques et verbales c
