@@ -1,0 +1,743 @@
+[
+ {
+  "date": "2026-11-25",
+  "metric": "autre",
+  "value": 400,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (commission de la culture et de l'éducation du Sénat, 25 novembre)",
+  "quote": "Sur environ 3 000 procédures disciplinaires engagées entre septembre et le 1er novembre, « un peu plus de 400 ont donné lieu à des exclusions définitives », les élèves étant rescolarisés dans un autre établissement ; « Lorsqu'il y a des violences, il y a des sanctions ».",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus",
+    "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-ministre-de-l-education-nationale-annonce-400-eleves-exclus-de-leur-lycee-apres-les-blocus_8301252.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "CNews",
+    "title": "Blocus des lycées : plus de 400 élèves exclus définitivement de leur établissement",
+    "url": "https://www.cnews.fr/france/2026-11-25/blocus-des-lycees-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "autre",
+  "value": 3000,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (commission de la culture et de l'éducation du Sénat, 25 novembre)",
+  "quote": "« Environ 3 000 » procédures disciplinaires engagées entre septembre et le 1er novembre pour des violences liées à la mobilisation lycéenne, dont un peu plus de 400 exclusions définitives.",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus",
+    "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-ministre-de-l-education-nationale-annonce-400-eleves-exclus-de-leur-lycee-apres-les-blocus_8301252.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "« Je suis prof depuis plus de 20 ans, on n'a jamais vu ça » : les convocations par le DASEN des élèves mobilisés inquiètent parents et enseignants",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/je-suis-prof-depuis-plus-de-20-ans-on-n-a-jamais-vu-ca-les-convocations-des-eleves-mobilises-par-le-dasen-inquietent-parents-et-enseignants-3456545.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "blesses_eleves",
+  "value": 500,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (commission de la culture et de l'éducation du Sénat, 25 novembre)",
+  "quote": "« Près de 500 » élèves blessés depuis le début du mouvement à la mi-septembre, dont 98 la semaine précédente ; « C'est dire la gravité des événements auxquels nous sommes confrontés ».",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus",
+    "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-ministre-de-l-education-nationale-annonce-400-eleves-exclus-de-leur-lycee-apres-les-blocus_8301252.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "blesses_personnels",
+  "value": 290,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (commission de la culture et de l'éducation du Sénat, 25 novembre)",
+  "quote": "« Près de 290 » personnels de l'Éducation nationale blessés depuis le début du mouvement (280 annoncés le 23 novembre).",
+  "sources": [
+   {
+    "outlet": "franceinfo (AFP)",
+    "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
+    "date": "2026-11-25"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "Le ministre de l'Éducation nationale annonce 400 élèves exclus de leur lycée après les blocus",
+    "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-ministre-de-l-education-nationale-annonce-400-eleves-exclus-de-leur-lycee-apres-les-blocus_8301252.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "metric": "autre",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Édouard Geffray, ministre de l'Éducation nationale (cité par l'AFP le 26 novembre)",
+  "quote": "Le nombre de lycées bloqués n'a « jamais été aussi peu élevé » depuis le début du mouvement : « entre 15 et 20 » lycées concernés la semaine du 16 novembre, contre plus de 1 000 lycées perturbés au pic de début-mi-octobre selon le gouvernement.",
+  "sources": [
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages",
+    "url": "https://www.boursorama.com/actualite-economique/actualites-amp/mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-7cc156a18f00c8e5ab32944810ad72a4",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Quartz (AFP)",
+    "title": "Les organisations étudiantes maintiennent la mobilisation du 26 novembre",
+    "url": "https://fr.qz.com/organisations-etudiantes-maintiennent-mobilisation-26-novembre-recul-blocages-112626",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "autre",
+  "value": 16,
+  "scope": "jour",
+  "city": "",
+  "authority": "Ministère de l'Enseignement supérieur et de la Recherche (via AFP)",
+  "quote": "16 % des établissements d'enseignement supérieur perturbés ce jeudi 26 novembre, contre un niveau stable de 20 à 25 % sur les dix jours précédents et jusqu'à 40 % des établissements publics au pic de début-mi-octobre.",
+  "sources": [
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages",
+    "url": "https://www.boursorama.com/actualite-economique/actualites-amp/mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-7cc156a18f00c8e5ab32944810ad72a4",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Quartz (AFP)",
+    "title": "Les organisations étudiantes maintiennent la mobilisation du 26 novembre",
+    "url": "https://fr.qz.com/organisations-etudiantes-maintiennent-mobilisation-26-novembre-recul-blocages-112626",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Quelques milliers d'étudiants ont manifesté ce jeudi en France, de nouvelles mobilisations annoncées pour samedi",
+    "url": "https://www.ouest-france.fr/education/etudiant/quelques-milliers-detudiants-ont-manifeste-ce-jeudi-en-france-de-nouvelles-mobilisations-annoncees-pour-samedi-cd318362-e9c0-11f1-86c1-70195b4d2e52",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "autre",
+  "value": 25,
+  "scope": "cumul",
+  "city": "",
+  "authority": "Ministère de l'Enseignement supérieur et de la Recherche",
+  "quote": "« 20 à 25 % » des établissements d'enseignement supérieur perturbés (blocages ou perturbations) au cours des dix derniers jours.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages",
+    "url": "https://www.boursorama.com/actualite-economique/actualites-amp/mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-7cc156a18f00c8e5ab32944810ad72a4",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "« Ça gâche la vie de nos enfants » : face aux lycées et aux universités bloqués, le ras-le-bol des parents",
+    "url": "https://www.leprogres.fr/education/2026/11/27/ca-gache-la-vie-de-nos-enfants-face-aux-lycees-et-aux-universites-bloques-le-ras-le-bol-des-parents",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "autre",
+  "value": 20,
+  "scope": "jour",
+  "city": "",
+  "authority": "Philippe Baptiste, ministre de l'Enseignement supérieur (franceinfo)",
+  "quote": "« On devait être à peu près à 40 % » d'universités fermées administrativement avant la Toussaint, « on est à peu près aujourd'hui à 20 % » ; « J'appelle à faire cesser ces blocages maintenant, immédiatement » ; le mouvement est « plutôt sur une forme de décroissance ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "« On est à peu près aujourd'hui à 20 % de fermetures administratives d'universités », affirme le ministre de l'Enseignement supérieur",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-est-a-peu-pres-aujourd-hui-a-20-de-fermetures-administratives-d-universites-affirme-le-ministre-de-l-enseignement-superieur_8301297.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Boursorama (AFP)",
+    "title": "Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages",
+    "url": "https://www.boursorama.com/actualite-economique/actualites-amp/mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-7cc156a18f00c8e5ab32944810ad72a4",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "deces",
+  "value": 1,
+  "scope": "ville",
+  "city": "Ouangani",
+  "authority": "Parquet de Mamoudzou",
+  "quote": "Décès dans la matinée du 26 novembre du lycéen (16 ans selon le parquet, 17 selon Mayotte La 1ère) blessé le 25 lors d'affrontements entre deux groupes d'une quarantaine de jeunes de Barakani et Ouangani dans l'enceinte du lycée Gustave-Eiffel de Kahani ; enquête « pour meurtre et violences volontaires aggravées » confiée à la brigade de recherches de Mamoudzou, un second mineur légèrement blessé.",
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Une enquête pour meurtre ouverte après le décès d'un jeune lycéen à Kahani",
+    "url": "https://la1ere.franceinfo.fr/mayotte/une-enquete-pour-meurtre-ouverte-apres-le-deces-d-un-jeune-lyceen-a-kahani-1762046.html",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Le parquet confirme le décès du jeune blessé à Kahani",
+    "url": "https://la1ere.franceinfo.fr/mayotte/le-parquet-confirme-le-deces-du-jeune-blesse-a-kahani-1761803.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois morts en six jours : Mayotte dans une spirale de violence",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-morts-en-six-jours-mayotte-dans-une-spirale-de-violence-1761845.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "deces",
+  "value": 3,
+  "scope": "cumul",
+  "city": "Mayotte",
+  "authority": "Mayotte La 1ère (décès confirmés par le parquet de Mamoudzou)",
+  "quote": "« Trois morts en six jours » : trois adolescents de 17 ans tués lors d'affrontements entre bandes à Dembéni (20 novembre), Passamainty (21-22 novembre) et au lycée de Kahani (25-26 novembre).",
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Trois morts en six jours : Mayotte dans une spirale de violence",
+    "url": "https://la1ere.franceinfo.fr/mayotte/trois-morts-en-six-jours-mayotte-dans-une-spirale-de-violence-1761845.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "blesses_eleves",
+  "value": 2,
+  "scope": "ville",
+  "city": "Créteil",
+  "authority": "Rectorat de Créteil (via Le Parisien)",
+  "quote": "Deux élèves du lycée Léon-Blum blessés par l'explosion d'un mortier d'artifice dans le hall, malgré les fouilles menées par les forces de l'ordre à l'entrée ; cours suspendus et cellule psychologique.",
+  "sources": [
+   {
+    "outlet": "Le Parisien",
+    "title": "Créteil : deux élèves blessés après des tirs de mortiers d'artifice au lycée Léon Blum",
+    "url": "https://www.leparisien.fr/val-de-marne-94/creteil-deux-eleves-blesses-apres-des-tirs-de-mortiers-dartifice-au-lycee-leon-blum-26-11-2026-FEZYSENCYBCFLGJQ44D3FK2PME.php",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "blesses_eleves",
+  "value": 2,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Préfecture des Alpes-Maritimes / franceinfo",
+  "quote": "Deux élèves et deux policiers primo-intervenants « légèrement blessés » par l'explosion de deux engins artisanaux au lycée Guillaume-Apollinaire ; un troisième engin découvert ; le préfet condamne des « agissements irresponsables ».",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Les professeurs du lycée Apollinaire de Nice exercent leur droit de retrait après l'explosion de deux engins artisanaux",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-professeurs-du-lycee-apollinaire-de-nice-exercent-leur-droit-de-retrait-apres-l-explosion-de-deux-engins-artisanaux_8301942.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "blesses_forces_ordre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Préfecture des Alpes-Maritimes / franceinfo",
+  "quote": "Deux policiers primo-intervenants légèrement blessés lors de l'explosion d'engins artisanaux au lycée Apollinaire de Nice.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Les professeurs du lycée Apollinaire de Nice exercent leur droit de retrait après l'explosion de deux engins artisanaux",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-professeurs-du-lycee-apollinaire-de-nice-exercent-leur-droit-de-retrait-apres-l-explosion-de-deux-engins-artisanaux_8301942.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "deferrements",
+  "value": 2,
+  "scope": "ville",
+  "city": "Aix-en-Provence",
+  "authority": "Parquet d'Aix-en-Provence",
+  "quote": "Deux jeunes de 17 ans déférés jeudi matin pour l'incendie du lycée Émile-Zola (nuit du 9 au 10 novembre) ; contrôle judiciaire requis avant un procès devant le tribunal pour enfants pour « incendie volontaire par moyen dangereux de nature à créer un danger pour les personnes », « mise en danger de la vie d'autrui » et « association de malfaiteurs » ; dégâts estimés à environ 500 000 euros.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/incendie-d-un-lycee-a-aix-en-provence-les-deux-suspects-de-17-ans-deferes-jeudi_8301045.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "poursuites",
+  "value": 10,
+  "scope": "ville",
+  "city": "Nice",
+  "authority": "Parquet de Nice (réquisitions à l'audience du 26 novembre)",
+  "quote": "Dix hommes de 18 à 32 ans jugés pour « association de malfaiteurs en vue de commettre des violences volontaires aggravées » et transport d'armes de catégorie D après la manifestation du 24 octobre ; le procureur Damien Martinelli requiert des peines de douze à dix-huit mois de prison avec sursis et 5 000 euros d'amende ; délibéré le 8 janvier 2027 (onze interpellés au total, dont un mineur renvoyé devant le juge des enfants).",
+  "sources": [
+   {
+    "outlet": "France 3 Côte d'Azur",
+    "title": "Susceptibles d'appartenir à la mouvance d'ultradroite, 10 hommes comparaissent devant la justice après les violences du 24 octobre",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/susceptibles-d-appartenir-a-la-mouvance-d-ultradroite-10-hommes-comparaissent-devant-la-justice-apres-les-violences-du-24-octobre-3456251.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Ouest-France",
+    "title": "Violences en marge d'un défilé de l'ultra droite à Nice : jusqu'à dix-huit mois de prison requis contre les dix hommes jugés",
+    "url": "https://www.ouest-france.fr/provence-alpes-cote-dazur/nice-06000/jusqua-dix-huit-mois-de-prison-requis-contre-les-dix-hommes-soupconnes-de-violences-en-marge-dun-defile-de-lultra-droite-a-nice-503c6e7a-ea7a-11f1-bb2d-c71dc7920c2a",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Le Club des Juristes",
+    "title": "Nice : un procès contre un groupe « anti-casseurs »",
+    "url": "https://www.leclubdesjuristes.com/en-bref/nice-un-proces-contre-un-groupe-anti-casseurs-18708/",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "metric": "enquetes_igpn_iggn",
+  "value": 1,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "IGPN (via franceinfo)",
+  "quote": "Ouverture d'une enquête de l'IGPN après la plainte de Tedy Durand, 20 ans, grièvement blessé par une grenade lors de la manifestation du 24 octobre à Toulouse et privé de l'usage de la main droite après deux opérations.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages ; la manifestation parisienne s'est terminée dans le calme",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
+    "date": "2026-11-26"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "interpellations",
+  "value": 196,
+  "scope": "cumul",
+  "city": "Vaucluse",
+  "authority": "Préfecture de Vaucluse (Thibault de Cacqueray, directeur de cabinet)",
+  "quote": "« Depuis le 1er octobre, les mobilisations ont entraîné 196 interpellations et 31 blessés parmi les forces de l'ordre en Vaucluse » ; « 42 journées de mobilisation des forces de sécurité intérieure » depuis le 1er octobre 2026.",
+  "sources": [
+   {
+    "outlet": "mesinfos / Vaucluse Hebdo",
+    "title": "Manifestation en Vaucluse : 196 interpellations et 31 blessés parmi les forces de sécurité",
+    "url": "https://mesinfos.fr/provence-alpes-cote-d-azur/manifestation-en-vaucluse-196-interpellations-et-31-blesses-parmi-les-forces-de-securite-343988.html",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "blesses_forces_ordre",
+  "value": 31,
+  "scope": "cumul",
+  "city": "Vaucluse",
+  "authority": "Préfecture de Vaucluse (Thibault de Cacqueray, directeur de cabinet)",
+  "quote": "31 blessés parmi les forces de l'ordre en Vaucluse depuis le 1er octobre 2026, pour 196 interpellations et 42 journées de mobilisation des forces de sécurité intérieure.",
+  "sources": [
+   {
+    "outlet": "mesinfos / Vaucluse Hebdo",
+    "title": "Manifestation en Vaucluse : 196 interpellations et 31 blessés parmi les forces de sécurité",
+    "url": "https://mesinfos.fr/provence-alpes-cote-d-azur/manifestation-en-vaucluse-196-interpellations-et-31-blesses-parmi-les-forces-de-securite-343988.html",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "metric": "interdictions_de_manifester",
+  "value": 2,
+  "scope": "ville",
+  "city": "Avignon",
+  "authority": "Préfecture de Vaucluse (arrêté du 25 novembre)",
+  "quote": "Interdiction de « tout regroupement, rassemblement ou cortège sur la voie publique » autour du campus Hannah-Arendt d'Avignon Université les jeudi 26 et vendredi 27 novembre (deux journées).",
+  "sources": [
+   {
+    "outlet": "mesinfos / Vaucluse Hebdo",
+    "title": "Avignon : la préfecture interdit les rassemblements autour de l'université pendant deux jours",
+    "url": "https://mesinfos.fr/84000-avignon/avignon-la-prefecture-interdit-les-rassemblements-autour-de-l-universite-pendant-deux-jours-343989.html",
+    "date": "2026-11-25"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "metric": "blesses_eleves",
+  "value": 27,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Préfecture d'Ille-et-Vilaine et rectorat de Rennes (communiqué du 27 novembre) / France 3 Bretagne",
+  "quote": "Au lycée Descartes, « 25 élèves ont été pris en charge par les secours, dont 10 orientés vers une consultation au CHU de Rennes » après des tirs de pétards et de mortiers d'artifice à l'intérieur de l'établissement ; au lycée Bréquigny, deux élèves blessés dont un pris en charge par les pompiers ; faits « particulièrement graves et inacceptables » ; « plusieurs interpellations » et enquête judiciaire.",
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Tirs de mortiers, intrusions et 27 élèves blessés : ce que l'on sait des violences survenues dans trois lycées de Rennes ce vendredi",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/tirs-de-mortiers-intrusions-et-27-eleves-blesses-ce-que-l-on-sait-des-violences-survenues-dans-trois-lycees-de-rennes-ce-vendredi-3457394.html",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "franceinfo",
+    "title": "25 élèves pris en charge par les secours après l'explosion de pétards dans un lycée de Rennes et plusieurs interpellations",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/25-eleves-pris-en-charge-par-les-secours-apres-l-explosion-de-petards-dans-un-lycee-de-rennes-et-plusieurs-interpellations_8303640.html",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "Préfecture d'Ille-et-Vilaine",
+    "title": "Des incidents graves dans plusieurs lycées : la préfète et la rectrice condamnent",
+    "url": "https://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/2026/Des-incidents-graves-dans-plusieurs-lycees-la-prefete-et-la-rectrice-condamnent",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "metric": "interdictions_de_manifester",
+  "value": 10,
+  "scope": "ville",
+  "city": "Grenoble",
+  "authority": "Préfecture de l'Isère (arrêté de la préfète Catherine Séguin)",
+  "quote": "Rassemblements interdits « de 06h à 18h » le vendredi 27 novembre devant les portes de dix lycées de l'agglomération grenobloise (Vaucanson, Mounier, Les Eaux-Claires, Champollion, Argouges, Stendhal, Louise-Michel, Europole, Pablo-Neruda, Marie-Curie) pour « prévenir de nouveaux troubles » après les blocages, feux de poubelles et tirs de mortiers du 26.",
+  "sources": [
+   {
+    "outlet": "ICI Isère",
+    "title": "Mouvement lycéen : les rassemblements sont interdits devant 10 lycées de l'agglomération grenobloise",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/mouvement-lyceens-les-rassemblements-sont-interdits-devant-10-lycees-de-l-agglomeration-grenobloise-8602095",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "France 3 Auvergne-Rhône-Alpes",
+    "title": "Blocage des lycées : la préfecture interdit les rassemblements autour de 10 établissements de l'agglomération de Grenoble ce vendredi",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/blocage-des-lycees-la-prefecture-interdit-les-rassemblements-autour-de-10-etablissements-de-l-agglomeration-de-grenoble-ce-vendredi-3456851.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "metric": "autre",
+  "value": 6,
+  "scope": "ville",
+  "city": "Mayotte",
+  "authority": "Rectorat de Mayotte (communiqué du 26 novembre)",
+  "quote": "Six établissements fermés le vendredi 27 novembre (collèges de Ouangani, Chiconi, Tsingoni et Sada, lycées de Sada et de Kahani), « les personnels ne pouvant se rendre sur leur lieu de travail dans de bonnes conditions » à cause des barrages ; cours des 5e et 4e suspendus au collège de Dembéni.",
+  "sources": [
+   {
+    "outlet": "Mayotte La 1ère",
+    "title": "Plusieurs établissements scolaires fermés ce vendredi en raison des tensions et des barrages",
+    "url": "https://la1ere.franceinfo.fr/mayotte/mayotte-plusieurs-etablissements-scolaires-fermes-ce-vendredi-en-raison-des-tensions-et-des-barrages-1761914.html",
+    "date": "2026-11-26"
+   },
+   {
+    "outlet": "Le Journal de Mayotte",
+    "title": "Les établissements scolaires de Mayotte rouvrent partiellement ce samedi 28 novembre",
+    "url": "https://lejournaldemayotte.yt/articles/les-etablissements-scolaires-de-mayotte-rouvrent-partiellement-ce-samedi-28-novembre",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "metric": "gardes_a_vue",
+  "value": 54,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Préfecture de la Loire-Atlantique / parquet de Nantes (rappelé par France 3 le 27 novembre)",
+  "quote": "La manifestation intersyndicale du 17 novembre à Nantes s'est terminée par 54 gardes à vue ; le 27 novembre, quatre syndicats déposent 23 plaintes individuelles contre X pour « mise en danger de la vie d'autrui, violences volontaires de personnes dépositaires de l'autorité publique » et atteinte au droit de manifester.",
+  "sources": [
+   {
+    "outlet": "France 3 Pays de la Loire",
+    "title": "« Un cap a été franchi dans la répression » : quatre syndicats portent plainte pour violences policières à Nantes",
+    "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-cap-a-ete-franchi-dans-la-repression-quatre-syndicats-portent-plainte-pour-violences-policieres-a-nantes-3457139.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "metric": "autre",
+  "value": 500000,
+  "scope": "ville",
+  "city": "Toulouse",
+  "authority": "Université Toulouse-Jean-Jaurès (présidence)",
+  "quote": "Dégâts estimés à « plus de 500 000 euros » (une centaine d'ordinateurs détruits, salles pillées) après l'occupation et le blocage du campus depuis début octobre ; réouverture administrative le 30 novembre, retour des 30 000 étudiants le 2 décembre.",
+  "sources": [
+   {
+    "outlet": "France 3 Occitanie",
+    "title": "« J'ai de la peine pour les 30 000 étudiants » : à Toulouse, l'université Jean-Jaurès fait le compte des dégâts avant sa réouverture le 30 novembre",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/j-ai-de-la-peine-pour-les-trente-mille-etudiants-de-l-universite-l-heure-est-a-l-evaluation-des-degats-a-l-universite-jean-jaures-de-toulouse-3457055.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "metric": "autre",
+  "value": 23,
+  "scope": "ville",
+  "city": "Nantes",
+  "authority": "Quatre syndicats de Loire-Atlantique (FSU, CGT, Solidaires, FO) – dépôt de plaintes",
+  "quote": "23 plaintes individuelles contre X déposées le 27 novembre pour « mise en danger de la vie d'autrui, violences volontaires de personnes dépositaires de l'autorité publique » et atteinte au droit de manifester, après la manifestation du 17 novembre (54 gardes à vue) ; chiffre syndical, non officiel.",
+  "sources": [
+   {
+    "outlet": "France 3 Pays de la Loire",
+    "title": "« Un cap a été franchi dans la répression » : quatre syndicats portent plainte pour violences policières à Nantes",
+    "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-cap-a-ete-franchi-dans-la-repression-quatre-syndicats-portent-plainte-pour-violences-policieres-a-nantes-3457139.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "autre",
+  "value": 40000,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris (prévision, via franceinfo)",
+  "quote": "« La préfecture attend environ 40 000 participants » pour les deux cortèges parisiens du 28 novembre, « soit une mobilisation plus importante que samedi dernier, compte tenu du nombre accru d'actions revendicatives prévues » (21 500 comptés le 21 novembre ; 17 000 aux marches de 2025).",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-nouvelle-journee-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes_8304345.html",
+    "date": "2026-11-28"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s'attendre ce samedi ?",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-28-novembre-a-paris-contre-les-violences-faites-aux-femmes-parcours-securite-a-quoi-s-attendre-ce-samedi-3457244.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "interdictions_de_manifester",
+  "value": 3,
+  "scope": "ville",
+  "city": "Paris",
+  "authority": "Préfecture de police de Paris (via RATP)",
+  "quote": "Trois stations fermées à la demande de la préfecture de police : Châtelet (lignes 4 et 11 dès le matin, 1, 7 et 14 à partir de midi), Hôtel-de-Ville (ligne 11) et Les Halles (ligne 4 à partir de midi), pour verrouiller le carrefour de Châtelet.",
+  "sources": [
+   {
+    "outlet": "Sortiraparis",
+    "title": "Manifestation du 28 novembre à Paris contre les violences sexistes : les parcours et stations de métro fermées",
+    "url": "https://www.sortiraparis.com/actualites/a-paris/articles/359003-manifestation-du-28-novembre-a-paris-contre-les-violences-sexistes-les-parcours",
+    "date": "2026-11-28"
+   },
+   {
+    "outlet": "France 3 Paris Île-de-France",
+    "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s'attendre ce samedi ?",
+    "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/manifestation-du-28-novembre-a-paris-contre-les-violences-faites-aux-femmes-parcours-securite-a-quoi-s-attendre-ce-samedi-3457244.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "autre",
+  "value": 10,
+  "scope": "ville",
+  "city": "Lyon",
+  "authority": "Préfecture du Rhône (arrêté du préfet Étienne Guyot)",
+  "quote": "Manifestations et rassemblements revendicatifs interdits de 12 h à 22 h (dix heures) sur une grande partie de la Presqu'île, place des Terreaux, dans les 3e et 6e arrondissements ; seul le cortège déclaré du Collectif Droits des Femmes du Rhône bénéficie d'une dérogation de 14 h 30 à 16 h 30 ; « plusieurs centaines » de policiers et gendarmes, blindés Centaure, drones et hélicoptère déployés.",
+  "sources": [
+   {
+    "outlet": "Lyon Mag",
+    "title": "Lyon : manifestations interdites ce samedi, blindés, drones et hélicoptères mobilisés pour éviter de nouvelles violences",
+    "url": "https://www.lyonmag.com/article/155175/lyon-manifestations-interdites-ce-samedi-blindes-drones-et-helicopteres-mobilises-pour-eviter-de-nouvelles-violences",
+    "date": "2026-11-28"
+   },
+   {
+    "outlet": "Le Progrès",
+    "title": "Une manifestation déclarée ce samedi, la préfecture prend un arrêté d'interdiction pour d'autres cortèges",
+    "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/11/27/une-manifestation-declaree-ce-samedi-la-prefecture-prend-un-arrete-d-interdiction-pour-d-autres-corteges",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "interdictions_de_manifester",
+  "value": 8,
+  "scope": "ville",
+  "city": "Marseille",
+  "authority": "Préfecture de police des Bouches-du-Rhône",
+  "quote": "Interdiction de toutes les manifestations non déclarées dans huit communes des Bouches-du-Rhône, dont Marseille et Aix-en-Provence, du vendredi 27 novembre 18 h au lundi 30 novembre 5 h ; aucune manifestation déclarée pour l'acte VII.",
+  "sources": [
+   {
+    "outlet": "La Provence",
+    "title": "Mobilisation du 28 novembre : la préfecture des Bouches-du-Rhône interdit toutes les manifestations non déclarées",
+    "url": "https://www.laprovence.com/article/societe/9456922420217314/mobilisation-du-28-novembre-la-prefecture-des-bouches-du-rhone-interdit-toutes-les-manifestations-non-declarees",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "Ma vigilance",
+    "title": "Samedi 28 novembre 2026 : ce qui est annoncé",
+    "url": "https://mavigilance.fr/jour/2026-11-28",
+    "date": "2026-11-28"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "interdictions_de_manifester",
+  "value": 5,
+  "scope": "ville",
+  "city": "Poitiers",
+  "authority": "Préfecture de la Vienne",
+  "quote": "Cinquième interdiction consécutive des cortèges dans le centre-ville de Poitiers : une trentaine de rues, places et squares interdits aux manifestants de 14 h à 23 h 59, l'appel des Gilets jaunes n'ayant « fait l'objet d'aucune déclaration ».",
+  "sources": [
+   {
+    "outlet": "ICI Poitou",
+    "title": "Les manifestations de nouveau interdites à Poitiers pour l'acte VII de la mobilisation contre la vie chère",
+    "url": "https://www.ici.fr/nouvelle-aquitaine/vienne-86/poitiers/les-manifestations-de-nouveau-interdites-a-poitiers-pour-l-acte-vii-de-la-mobilisation-contre-la-vie-chere-5001626",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "autre",
+  "value": 3,
+  "scope": "ville",
+  "city": "Nancy",
+  "authority": "Préfecture de Meurthe-et-Moselle",
+  "quote": "Jusqu'à trois caméras aéroportées (drones) autorisées de 7 h à 23 h au-dessus du centre-ville ; cortège CGT-Solidaires 54 autorisé de 14 h à 17 h, tout autre rassemblement interdit de 7 h à 23 h (jusqu'à six mois d'emprisonnement et 7 500 € d'amende pour les organisateurs, 135 € pour les participants).",
+  "sources": [
+   {
+    "outlet": "France 3 Grand Est",
+    "title": "Manifestations du 28 novembre : des drones à Nancy, pas de parcours autorisé à Metz",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/manifestations-du-28-novembre-des-drones-a-nancy-pas-de-parcours-autorise-a-metz-3457400.html",
+    "date": "2026-11-27"
+   },
+   {
+    "outlet": "ICI Lorraine",
+    "title": "Carte : jeunes et syndicats défilent à nouveau, quel parcours pour ce samedi 28 novembre ?",
+    "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/nancy/carte-jeunes-et-syndicats-defilent-a-nouveau-quel-parcours-pour-ce-samedi-28-novembre-9614400",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "autre",
+  "value": 2,
+  "scope": "ville",
+  "city": "Rennes",
+  "authority": "Préfecture d'Ille-et-Vilaine (arrêté du 23 novembre) / tribunal administratif de Rennes",
+  "quote": "Deux caméras aéroportées autorisées à survoler Rennes et Cesson-Sévigné de 6 h à 23 h 59 chaque jour jusqu'au lundi 30 novembre pour « prévenir les troubles à l'ordre public » ; le juge des référés rejette la demande de suspension du Front Administratif et de Vigie Liberté, qui attaquent neuf arrêtés pris du 9 octobre au 23 novembre.",
+  "sources": [
+   {
+    "outlet": "France 3 Bretagne",
+    "title": "Surveillance par drones des manifestations : les associations repartent à l'offensive contre la préfecture",
+    "url": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/surveillance-par-drones-des-manifestations-les-associations-repartent-a-l-offensive-contre-la-prefecture-3457070.html",
+    "date": "2026-11-27"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "metric": "autre",
+  "value": 30,
+  "scope": "jour",
+  "city": "",
+  "authority": "franceinfo (recensement des appels, 28 novembre 9 h 54)",
+  "quote": "Manifestations « prévues dans plus d'une trentaine de villes, dont Paris, Lille, Lyon et Marseille », à l'appel d'associations féministes, de syndicats, de jeunes et de gilets jaunes, pour le septième samedi consécutif de mobilisation ; chiffre journalistique, non officiel.",
+  "sources": [
+   {
+    "outlet": "franceinfo",
+    "title": "DIRECT. Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes",
+    "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-nouvelle-journee-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes_8304345.html",
+    "date": "2026-11-28"
+   },
+   {
+    "outlet": "MétéoManif",
+    "title": "Samedi 28 novembre : marches contre les violences sexistes et sexuelles, à quoi s'attendre",
+    "url": "https://meteomanif.fr/dossier/marches-violences-sexistes-28-novembre-2026",
+    "date": "2026-11-27"
+   }
+  ]
+ }
+]
