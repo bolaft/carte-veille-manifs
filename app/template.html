@@ -89,6 +89,8 @@ button { font: inherit; color: inherit; }
 .border { fill: none; stroke: var(--land-line); stroke-width: 0.9; }
 .inset-frame { fill: var(--bg-2); stroke: var(--inset-frame); stroke-width: 0.8; }
 .inset-label { font-family: var(--font-body); font-size: 10px; fill: var(--fg-2); letter-spacing: 0.06em; text-transform: uppercase; }
+.root { transform-origin: 0 0; }
+@media (prefers-reduced-motion: no-preference) { .root { transition: transform .35s ease; } }
 .city-label { font-family: var(--font-body); font-size: 10px; fill: var(--fg-2); pointer-events: none; opacity: 0.8; }
 circle.ev { stroke: var(--bg-2); stroke-width: 0.8; cursor: pointer; transition: opacity .25s; }
 path.inc { stroke: var(--bg-2); stroke-width: 0.9; cursor: pointer; transition: opacity .25s; }
@@ -118,7 +120,6 @@ circle.dot { fill: #fff; stroke: none; pointer-events: none; }
 /* Feed: a floating column of posts for one city, on the side of the map away from that city */
 .feed { position: absolute; top: 12px; bottom: 12px; right: 12px; width: min(470px, calc(100% - 24px)); display: none; flex-direction: column; background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow-lg); z-index: 6; overflow: hidden; }
 .feed.open { display: flex; }
-.feed.left { right: auto; left: 12px; }
 .feed-head { display: flex; gap: 8px; align-items: flex-start; padding: 10px 10px 9px 14px; border-bottom: 1px solid var(--line); }
 .feed-head .ttl { flex: 1 1 auto; min-width: 0; }
 .feed-head h2 { font-family: var(--font-display); font-weight: 800; font-size: 21px; line-height: 1.1; margin: 0; overflow-wrap: anywhere; }
@@ -204,7 +205,6 @@ dialog.about form button { border: 1px solid var(--line); background: var(--bg-3
   .hint { position: static; display: inline-block; margin: 8px 12px 0; border-radius: 6px; box-shadow: none; }
   .hint.gone { display: none; }
   .feed { position: fixed; left: 0; right: 0; top: 12vh; bottom: 0; width: auto; border-radius: 14px 14px 0 0; z-index: 30; }
-  .feed.left { left: 0; right: 0; }
   .daybox { text-align: left; }
   .daysum { justify-content: flex-start; }
   .search { flex: 1 1 100%; }
@@ -347,7 +347,8 @@ const DATA = __DATA__;
   // ---------- Map ----------
   let W = 1000, H = 700;
   const svg = d3.select('#map').attr('viewBox', `0 0 ${W} ${H}`);
-  const gLand = svg.append('g'), gInsets = svg.append('g'), gLabels = svg.append('g'), gEv = svg.append('g'), gInc = svg.append('g'), gDot = svg.append('g'), gBadge = svg.append('g'), gSel = svg.append('g');
+  const gRoot = svg.append('g').attr('class', 'root');  // moved aside as a whole while the feed is open
+  const gLand = gRoot.append('g'), gInsets = gRoot.append('g'), gLabels = gRoot.append('g'), gEv = gRoot.append('g'), gInc = gRoot.append('g'), gDot = gRoot.append('g'), gBadge = gRoot.append('g'), gSel = gRoot.append('g');
   const metroFC = topojson.feature(TOPO, TOPO.objects.metro);
   const dromFC = topojson.feature(TOPO, TOPO.objects.drom);
   const comFC = topojson.feature(TOPO, TOPO.objects.com);
@@ -375,9 +376,13 @@ const DATA = __DATA__;
       H = 700; W = ch > 200 ? Math.max(1000, Math.round(H * cw / ch)) : 1000; gap = 6;
       const cCols = nIn > 4 ? 2 : 1, cRows = Math.max(1, Math.ceil(nIn / cCols));
       const cBox = Math.min(140, Math.floor((H - 16 - (cRows - 1) * gap) / cRows)), cW = cCols * cBox + (cCols - 1) * gap;
-      if (W - cW - 40 >= 640) {  // overseas insets in a column on the right, the Hexagone at full height
-        cols = cCols; box = cBox; x0 = W - 10 - cW; y0 = H - 8 - (cRows * cBox + (cRows - 1) * gap);
-        topBox = [[10, 10], [x0 - 18, H - 10]];
+      if (W - cW - 40 >= 640) {  // Hexagone at full height with the overseas insets in a column beside it, the pair centred
+        cols = cCols; box = cBox;
+        const probe = d3.geoConicConformal().parallels([44, 49]).rotate([-3, 0]).fitExtent([[10, 10], [W - 10 - cW - 24, H - 10]], metroFC);
+        const mb = d3.geoPath(probe).bounds(metroFC), mw = mb[1][0] - mb[0][0];
+        const sx = Math.max(10, (W - (mw + 24 + cW)) / 2);
+        topBox = [[sx, 10], [sx + mw, H - 10]];
+        x0 = sx + mw + 24; y0 = H - 8 - (cRows * cBox + (cRows - 1) * gap);
       } else {  // narrower area: insets in a row along the bottom
         cols = Math.max(nIn, 1); box = Math.min(104, Math.floor((W - 16 - (cols - 1) * gap) / cols));
         x0 = W - 8 - (cols * box + (cols - 1) * gap); y0 = H - 8 - box;
@@ -654,23 +659,36 @@ const DATA = __DATA__;
     }
     f.appendChild(w); f.classList.add('playing');
   }
-  function placeFeed() {
-    // the feed floats on the half of the map away from the selected place
-    let left = false;
-    const xy = state.feed && cityXY(state.feed), m = svg.node().getScreenCTM();
-    if (xy && m) { const r = $('#mapwrap').getBoundingClientRect(); left = (m.a * xy.x + m.e - r.left) > r.width / 2; }
-    $('#feed').classList.toggle('left', left);
+  function fitForFeed() {
+    // the feed stays docked on the right; while it is open the drawing slides (and shrinks if needed) into the free space on its left
+    let t = '';
+    const wrap = $('#mapwrap'), cw = wrap.clientWidth, ch = wrap.clientHeight, f = $('#feed');
+    if (state.feed && state.k === 1 && getComputedStyle(f).position === 'absolute') {
+      const avail = cw - (f.offsetWidth + 24);
+      const a = gLand.node().getBBox(), b = gInsets.node().getBBox();
+      const bx = Math.min(a.x, b.width ? b.x : a.x), by = Math.min(a.y, b.height ? b.y : a.y);
+      const bw = Math.max(a.x + a.width, b.x + b.width) - bx, bh = Math.max(a.y + a.height, b.y + b.height) - by;
+      if (avail >= 360 && bw > 0) {
+        const k = Math.min(cw / W, ch / H), ox = (cw - W * k) / 2;  // viewBox scale and horizontal letterbox, in px
+        const left = (12 - ox) / k, right = (avail - ox) / k;      // free band, in map units
+        const sc = Math.min(1, (right - left) / bw);
+        const tx = left + ((right - left) - bw * sc) / 2 - bx * sc;
+        const ty = sc < 1 ? (H - bh * sc) / 2 - by * sc : 0;
+        t = `translate(${tx.toFixed(1)}px, ${ty.toFixed(1)}px) scale(${sc.toFixed(4)})`;
+      }
+    }
+    gRoot.style('transform', t || null);
   }
   function openFeed(ck) {
     if (!ck) return;
     state.feed = ck; hideTip(); hideHint();
-    placeFeed(); renderFeed(); renderSel(); setHash();
+    renderFeed(); renderSel(); fitForFeed(); setHash();
   }
   function closeFeed() {
     if (!state.feed) return;
     state.feed = null; stopAll(); if (io) io.disconnect(); if (sio) sio.disconnect();
     const f = $('#feed'); f.classList.remove('open'); f.setAttribute('aria-hidden', 'true');
-    renderSel(); setHash();
+    renderSel(); fitForFeed(); setHash();
   }
   function stepFeed(d) { const o = cityOrder(); if (!o.length) return; const i = o.indexOf(state.feed); openFeed(o[i < 0 ? (d > 0 ? 0 : o.length - 1) : (i + d + o.length) % o.length]); }
   $('#feed-prev').onclick = () => stepFeed(-1);
@@ -790,7 +808,7 @@ const DATA = __DATA__;
     else if (e.key === 'ArrowRight') setDay(state.di + 1);
     else if (e.key === ' ' && !e.target.closest('.frame, button, a')) { e.preventDefault(); play(!state.playing); }
   });
-  let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => { layoutMap(); groupCities(); renderMap(); renderSel(); if (state.feed) placeFeed(); }, 150); });
+  let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => { layoutMap(); groupCities(); renderMap(); renderSel(); fitForFeed(); }, 150); });
   window.addEventListener('hashchange', () => {
     const h = readHash(); if (!h || !dayIdx.has(h.d)) return;
     state.di = dayIdx.get(h.d); render();
